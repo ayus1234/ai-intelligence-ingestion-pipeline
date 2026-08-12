@@ -146,16 +146,26 @@ class ProductPipeline:
     def _build_record(self, candidate: ProductCandidate) -> tuple[ProductRecord, bool]:
         resolution = self.resolver.resolve(candidate.raw_startup_name, entity_type="startup")
         is_confident = resolution.is_resolved and resolution.confidence >= 0.8
-        canonical_vendor = resolution.canonical_name if is_confident else candidate.raw_startup_name
-        method = resolution.method if is_confident else "raw_vendor_preserved"
-        confidence = resolution.confidence if is_confident else 1.0
+
+        if is_confident:
+            canonical_vendor = resolution.canonical_name or candidate.raw_startup_name
+            canonical_id = resolution.canonical_id
+            method = resolution.method
+            confidence = resolution.confidence
+            tier = resolution.resolution_tier
+        else:
+            canonical_vendor = ""  # Leave blank for unresolved entities to prevent false mapping
+            canonical_id = ""
+            method = "unresolved"
+            confidence = 0.0
+            tier = "UNRESOLVED"
 
         record = ProductRecord(
             source=SourceRef(name=candidate.source_name, url=candidate.source_url),
             collectedAt=candidate.source_collected_at or datetime.now(timezone.utc),
             content={
                 "productName": candidate.product_name,
-                "startupName": canonical_vendor or candidate.raw_startup_name,
+                "startupName": canonical_vendor,
                 "rawStartupName": candidate.raw_startup_name,
                 "pricingModel": candidate.pricing_model,
                 "category": candidate.category,
@@ -165,11 +175,11 @@ class ProductPipeline:
         mapping = EntityMappingLog(
             raw_name=candidate.raw_startup_name,
             canonical_name=canonical_vendor,
-            canonical_id=resolution.canonical_id,
+            canonical_id=canonical_id,
             entity_type="startup",
             confidence=confidence,
             method=method,
-            resolution_tier=resolution.resolution_tier,
+            resolution_tier=tier,
             signals_evaluated=resolution.signals_evaluated,
             source_url=candidate.source_url,
         )
