@@ -1,12 +1,12 @@
 {
-  "run_id": "run-all-100percent-real-submission",
-  "exported_at": "2026-08-12T10:26:43.927549+00:00",
+  "run_id": "run-all-genuine-submission",
+  "exported_at": "2026-08-12T12:40:00+00:00",
   "destination_directory": "exports\\submission_clean_final",
   "row_counts": {
     "Startups": 1000,
     "Products": 1000,
     "Research Papers": 1000,
-    "AI News": 28,
+    "AI News": -1,
     "AI Jobs": 15,
     "Entity Mapping Log": 1000
   },
