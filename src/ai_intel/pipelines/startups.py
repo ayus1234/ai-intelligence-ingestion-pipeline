@@ -9,7 +9,7 @@ from uuid import uuid4
 from ai_intel.config import Settings
 from ai_intel.crawlers.startups import WellfoundStartupEnricher, YCombinatorCrawler
 from ai_intel.logging import get_logger
-from ai_intel.resolution import EntityResolver, normalize_entity_name
+from ai_intel.resolution import EntityResolver, clean_canonical_name, normalize_entity_name
 from ai_intel.schemas import EntityMappingLog, StartupCandidate, StartupEnrichment, StartupIngestionResult, StartupRecord
 from ai_intel.schemas.base import SourceRef
 from ai_intel.storage.base import StorageRepository
@@ -142,7 +142,7 @@ class StartupPipeline:
         }
         resolution = self.resolver.resolve(candidate.raw_name, entity_type="startup", context=context)
         is_unresolved = not resolution.is_resolved
-        canonical_name = resolution.canonical_name or candidate.raw_name
+        canonical_name = resolution.canonical_name or clean_canonical_name(candidate.raw_name)
         method = resolution.method if resolution.is_resolved else "source_authoritative"
         confidence = resolution.confidence if resolution.is_resolved else 1.0
         employee_count = candidate.employee_count
