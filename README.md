@@ -57,7 +57,7 @@ A production-grade, asynchronous data intelligence platform built to acquire, va
 ## 2. Supported Data Verticals
 
 - **Research Papers**: arXiv metadata + Papers With Code repository links + GitHub star tracking in dedicated `github_repo_metrics` table with independent refresh cycles.
-- **Startups**: YC-first strategy for exact `employee_count` extraction, preserving raw ranges (`11-50`) or exact single counts (`2`) and enriching via Wellfound without integer fabrication.
+- **Startups**: YC-first strategy for exact `employee_count` extraction, preserving source-derived text ranges (`11-50`) or exact single counts (`2`) and enriching via Wellfound without integer fabrication.
 - **Products**: Product Hunt, Futurepedia, AI Valley, Aixploria, TopAI.tools. Preserves `raw_startup_name` while resolving `startup_name` only when entity resolution confidence >= 0.8.
 - **AI News**: 2-layer verification architecture (Layer 1 fast feed discovery + Layer 2 full HTML article parsing) with a 7-tier date extraction priority engine and 24-hour cutoff filtering.
 - **AI Jobs**: Aggregates AIJobs, Wellfound, MachineLearningJobs, Jobicy, RemoteOK with a 4-level natural key hierarchy (`job:company:<domain>:role:<norm_role>`) and dual timestamping (`posted_date` vs `first_seen_at`).
