@@ -41,8 +41,48 @@ LlamaIndex Inc.,LlamaIndex,ent_startup_llamaindex,startup,alias,0.98,signal:alia
 CrewAI Inc.,CrewAI,ent_startup_crewai,startup,alias,0.98,signal:alias_graph(CrewAI Inc.),exact_alias_graph
 Ollama Inc.,Ollama,ent_startup_ollama,startup,alias,0.98,signal:alias_graph(Ollama Inc.),exact_alias_graph
 "Hugging Face, Inc.",Hugging Face,ent_startup_hugging_face,startup,alias,0.98,"signal:alias_graph(Hugging Face, Inc.)",exact_alias_graph
-Niche Studio 101,,,startup,UNRESOLVED,0.0,signal:unresolved,unresolved
-Niche Studio 102,,,startup,UNRESOLVED,0.0,signal:unresolved,unresolved
+Cohere Inc.,Cohere,ent_startup_cohere,startup,alias,0.98,signal:exact_normalized(cohere),exact_normalized
+"Weights & Biases, Inc.",Weights & Biases,ent_startup_weights_biases,startup,alias,0.98,signal:exact_normalized(weightsandbiases),exact_normalized
+"Databricks, Inc.",Databricks,ent_startup_databricks,startup,alias,0.98,signal:exact_normalized(databricks),exact_normalized
+NVIDIA Corporation,NVIDIA,ent_startup_nvidia,startup,alias,0.98,signal:exact_normalized(nvidia),exact_normalized
+Palantir Technologies Inc.,Palantir,ent_startup_palantir,startup,alias,0.98,signal:alias_graph(Palantir Technologies Inc.),exact_alias_graph
+"DataRobot, Inc.",DataRobot,ent_startup_datarobot,startup,alias,0.98,signal:exact_normalized(datarobot),exact_normalized
+"LangChain, Inc.",LangChain,ent_startup_langchain,startup,alias,0.98,"signal:alias_graph(LangChain, Inc.)",exact_alias_graph
+Langfuse GmbH,Langfuse,ent_startup_langfuse,startup,alias,0.98,signal:alias_graph(Langfuse GmbH),exact_alias_graph
+PromptLayer Inc.,PromptLayer,ent_startup_promptlayer,startup,alias,0.98,signal:alias_graph(PromptLayer Inc.),exact_alias_graph
+Portkey AI Inc.,Portkey,ent_startup_portkey,startup,alias,0.98,signal:alias_graph(Portkey AI Inc.),exact_alias_graph
+Unsloth AI Inc.,Unsloth AI,ent_startup_unsloth,startup,alias,0.98,signal:alias_graph(Unsloth AI Inc.),exact_alias_graph
+Significant Gravitas Ltd.,Significant Gravitas,ent_startup_significant_gravitas,startup,alias,0.98,signal:alias_graph(Significant Gravitas Ltd.),exact_alias_graph
+Baidu Inc.,Baidu,ent_startup_baidu,startup,alias,0.98,signal:alias_graph(Baidu Inc.),exact_alias_graph
+Tencent Holdings Ltd.,Tencent,ent_startup_tencent,startup,alias,0.98,signal:alias_graph(Tencent Holdings Ltd.),exact_alias_graph
+ByteDance Ltd.,ByteDance,ent_startup_bytedance,startup,alias,0.98,signal:alias_graph(ByteDance Ltd.),exact_alias_graph
+Make Inc.,Make,ent_startup_make,startup,alias,0.98,signal:alias_graph(Make Inc.),exact_alias_graph
+Zapier Inc.,Zapier,ent_startup_zapier,startup,alias,0.98,signal:alias_graph(Zapier Inc.),exact_alias_graph
+Krea AI Inc.,Krea,ent_startup_krea,startup,alias,0.98,signal:alias_graph(Krea AI Inc.),exact_alias_graph
+Photoroom SAS,Photoroom,ent_startup_photoroom,startup,alias,0.98,signal:alias_graph(Photoroom SAS),exact_alias_graph
+Topaz Labs LLC,Topaz Labs,ent_startup_topaz,startup,alias,0.98,signal:alias_graph(Topaz Labs LLC),exact_alias_graph
+InVideo Inc.,InVideo,ent_startup_invideo,startup,alias,0.98,signal:alias_graph(InVideo Inc.),exact_alias_graph
+OpusPro Inc.,OpusPro,ent_startup_opuspro,startup,alias,0.98,signal:alias_graph(OpusPro Inc.),exact_alias_graph
+Captions AI Inc.,Captions Inc.,ent_startup_captions,startup,alias,0.98,signal:alias_graph(Captions AI Inc.),exact_alias_graph
+Play.ht Inc.,Play.ht,ent_startup_play_ht,startup,alias,0.98,signal:alias_graph(Play.ht Inc.),exact_alias_graph
+Murf AI Inc.,Murf,ent_startup_murf,startup,alias,0.98,signal:alias_graph(Murf AI Inc.),exact_alias_graph
+Otter.ai Inc.,Otter.ai,ent_startup_otter,startup,alias,0.98,signal:alias_graph(Otter.ai Inc.),exact_alias_graph
+Fireflies.ai Corp.,Fireflies,ent_startup_fireflies,startup,alias,0.98,signal:alias_graph(Fireflies.ai Corp.),exact_alias_graph
+Superhuman Corp.,Superhuman,ent_startup_superhuman,startup,alias,0.98,signal:alias_graph(Superhuman Corp.),exact_alias_graph
+Raycast Technologies Ltd.,Raycast,ent_startup_raycast,startup,alias,0.98,signal:alias_graph(Raycast Technologies Ltd.),exact_alias_graph
+"SuSea, Inc. (You.com)",You.com,ent_startup_you_com,startup,alias,0.98,"signal:alias_graph(SuSea, Inc. (You.com))",exact_alias_graph
+Phind Inc.,Phind,ent_startup_phind,startup,alias,0.98,signal:alias_graph(Phind Inc.),exact_alias_graph
+"Quora, Inc.",Quora,ent_startup_quora,startup,alias,0.98,"signal:alias_graph(Quora, Inc.)",exact_alias_graph
+Character Technologies Inc.,Character.AI,ent_startup_character,startup,alias,0.98,signal:alias_graph(Character Technologies Inc.),exact_alias_graph
+"Luka, Inc.",Luka Inc.,ent_startup_luka,startup,alias,0.98,"signal:alias_graph(Luka, Inc.)",exact_alias_graph
+Cerebras Systems Inc.,Cerebras,ent_startup_cerebras,startup,alias,0.98,signal:alias_graph(Cerebras Systems Inc.),exact_alias_graph
+"Groq, Inc.",Groq,ent_startup_groq,startup,alias,0.98,signal:exact_normalized(groq),exact_normalized
+"Together AI, Inc.",Together AI,ent_startup_together,startup,alias,0.98,signal:exact_normalized(togetherai),exact_normalized
+Replicate Inc.,Replicate,ent_startup_replicate,startup,alias,0.98,signal:exact_normalized(replicate),exact_normalized
+RunPod Inc.,RunPod,ent_startup_runpod,startup,alias,0.98,signal:alias_graph(RunPod Inc.),exact_alias_graph
+"Scale AI, Inc.",Scale AI,ent_startup_scale,startup,alias,0.98,signal:exact_normalized(scaleai),exact_normalized
+"Labelbox, Inc.",Labelbox,ent_startup_labelbox,startup,alias,0.98,"signal:alias_graph(Labelbox, Inc.)",exact_alias_graph
+"Roboflow, Inc.",Roboflow,ent_startup_roboflow,startup,alias,0.98,"signal:alias_graph(Roboflow, Inc.)",exact_alias_graph
 OpenAI Inc.,OpenAI,ent_startup_openai,startup,alias,0.98,signal:alias_graph(OpenAI Inc.),exact_alias_graph
 Anthropic PBC,Anthropic,ent_startup_anthropic,startup,alias,0.98,signal:alias_graph(Anthropic PBC),exact_alias_graph
 Midjourney Inc.,Midjourney,ent_startup_midjourney,startup,alias,0.98,signal:alias_graph(Midjourney Inc.),exact_alias_graph
@@ -85,8 +125,48 @@ LlamaIndex Inc.,LlamaIndex,ent_startup_llamaindex,startup,alias,0.98,signal:alia
 CrewAI Inc.,CrewAI,ent_startup_crewai,startup,alias,0.98,signal:alias_graph(CrewAI Inc.),exact_alias_graph
 Ollama Inc.,Ollama,ent_startup_ollama,startup,alias,0.98,signal:alias_graph(Ollama Inc.),exact_alias_graph
 "Hugging Face, Inc.",Hugging Face,ent_startup_hugging_face,startup,alias,0.98,"signal:alias_graph(Hugging Face, Inc.)",exact_alias_graph
-Niche Studio 101,,,startup,UNRESOLVED,0.0,signal:unresolved,unresolved
-Niche Studio 102,,,startup,UNRESOLVED,0.0,signal:unresolved,unresolved
+Cohere Inc.,Cohere,ent_startup_cohere,startup,alias,0.98,signal:exact_normalized(cohere),exact_normalized
+"Weights & Biases, Inc.",Weights & Biases,ent_startup_weights_biases,startup,alias,0.98,signal:exact_normalized(weightsandbiases),exact_normalized
+"Databricks, Inc.",Databricks,ent_startup_databricks,startup,alias,0.98,signal:exact_normalized(databricks),exact_normalized
+NVIDIA Corporation,NVIDIA,ent_startup_nvidia,startup,alias,0.98,signal:exact_normalized(nvidia),exact_normalized
+Palantir Technologies Inc.,Palantir,ent_startup_palantir,startup,alias,0.98,signal:alias_graph(Palantir Technologies Inc.),exact_alias_graph
+"DataRobot, Inc.",DataRobot,ent_startup_datarobot,startup,alias,0.98,signal:exact_normalized(datarobot),exact_normalized
+"LangChain, Inc.",LangChain,ent_startup_langchain,startup,alias,0.98,"signal:alias_graph(LangChain, Inc.)",exact_alias_graph
+Langfuse GmbH,Langfuse,ent_startup_langfuse,startup,alias,0.98,signal:alias_graph(Langfuse GmbH),exact_alias_graph
+PromptLayer Inc.,PromptLayer,ent_startup_promptlayer,startup,alias,0.98,signal:alias_graph(PromptLayer Inc.),exact_alias_graph
+Portkey AI Inc.,Portkey,ent_startup_portkey,startup,alias,0.98,signal:alias_graph(Portkey AI Inc.),exact_alias_graph
+Unsloth AI Inc.,Unsloth AI,ent_startup_unsloth,startup,alias,0.98,signal:alias_graph(Unsloth AI Inc.),exact_alias_graph
+Significant Gravitas Ltd.,Significant Gravitas,ent_startup_significant_gravitas,startup,alias,0.98,signal:alias_graph(Significant Gravitas Ltd.),exact_alias_graph
+Baidu Inc.,Baidu,ent_startup_baidu,startup,alias,0.98,signal:alias_graph(Baidu Inc.),exact_alias_graph
+Tencent Holdings Ltd.,Tencent,ent_startup_tencent,startup,alias,0.98,signal:alias_graph(Tencent Holdings Ltd.),exact_alias_graph
+ByteDance Ltd.,ByteDance,ent_startup_bytedance,startup,alias,0.98,signal:alias_graph(ByteDance Ltd.),exact_alias_graph
+Make Inc.,Make,ent_startup_make,startup,alias,0.98,signal:alias_graph(Make Inc.),exact_alias_graph
+Zapier Inc.,Zapier,ent_startup_zapier,startup,alias,0.98,signal:alias_graph(Zapier Inc.),exact_alias_graph
+Krea AI Inc.,Krea,ent_startup_krea,startup,alias,0.98,signal:alias_graph(Krea AI Inc.),exact_alias_graph
+Photoroom SAS,Photoroom,ent_startup_photoroom,startup,alias,0.98,signal:alias_graph(Photoroom SAS),exact_alias_graph
+Topaz Labs LLC,Topaz Labs,ent_startup_topaz,startup,alias,0.98,signal:alias_graph(Topaz Labs LLC),exact_alias_graph
+InVideo Inc.,InVideo,ent_startup_invideo,startup,alias,0.98,signal:alias_graph(InVideo Inc.),exact_alias_graph
+OpusPro Inc.,OpusPro,ent_startup_opuspro,startup,alias,0.98,signal:alias_graph(OpusPro Inc.),exact_alias_graph
+Captions AI Inc.,Captions Inc.,ent_startup_captions,startup,alias,0.98,signal:alias_graph(Captions AI Inc.),exact_alias_graph
+Play.ht Inc.,Play.ht,ent_startup_play_ht,startup,alias,0.98,signal:alias_graph(Play.ht Inc.),exact_alias_graph
+Murf AI Inc.,Murf,ent_startup_murf,startup,alias,0.98,signal:alias_graph(Murf AI Inc.),exact_alias_graph
+Otter.ai Inc.,Otter.ai,ent_startup_otter,startup,alias,0.98,signal:alias_graph(Otter.ai Inc.),exact_alias_graph
+Fireflies.ai Corp.,Fireflies,ent_startup_fireflies,startup,alias,0.98,signal:alias_graph(Fireflies.ai Corp.),exact_alias_graph
+Superhuman Corp.,Superhuman,ent_startup_superhuman,startup,alias,0.98,signal:alias_graph(Superhuman Corp.),exact_alias_graph
+Raycast Technologies Ltd.,Raycast,ent_startup_raycast,startup,alias,0.98,signal:alias_graph(Raycast Technologies Ltd.),exact_alias_graph
+"SuSea, Inc. (You.com)",You.com,ent_startup_you_com,startup,alias,0.98,"signal:alias_graph(SuSea, Inc. (You.com))",exact_alias_graph
+Phind Inc.,Phind,ent_startup_phind,startup,alias,0.98,signal:alias_graph(Phind Inc.),exact_alias_graph
+"Quora, Inc.",Quora,ent_startup_quora,startup,alias,0.98,"signal:alias_graph(Quora, Inc.)",exact_alias_graph
+Character Technologies Inc.,Character.AI,ent_startup_character,startup,alias,0.98,signal:alias_graph(Character Technologies Inc.),exact_alias_graph
+"Luka, Inc.",Luka Inc.,ent_startup_luka,startup,alias,0.98,"signal:alias_graph(Luka, Inc.)",exact_alias_graph
+Cerebras Systems Inc.,Cerebras,ent_startup_cerebras,startup,alias,0.98,signal:alias_graph(Cerebras Systems Inc.),exact_alias_graph
+"Groq, Inc.",Groq,ent_startup_groq,startup,alias,0.98,signal:exact_normalized(groq),exact_normalized
+"Together AI, Inc.",Together AI,ent_startup_together,startup,alias,0.98,signal:exact_normalized(togetherai),exact_normalized
+Replicate Inc.,Replicate,ent_startup_replicate,startup,alias,0.98,signal:exact_normalized(replicate),exact_normalized
+RunPod Inc.,RunPod,ent_startup_runpod,startup,alias,0.98,signal:alias_graph(RunPod Inc.),exact_alias_graph
+"Scale AI, Inc.",Scale AI,ent_startup_scale,startup,alias,0.98,signal:exact_normalized(scaleai),exact_normalized
+"Labelbox, Inc.",Labelbox,ent_startup_labelbox,startup,alias,0.98,"signal:alias_graph(Labelbox, Inc.)",exact_alias_graph
+"Roboflow, Inc.",Roboflow,ent_startup_roboflow,startup,alias,0.98,"signal:alias_graph(Roboflow, Inc.)",exact_alias_graph
 OpenAI Inc.,OpenAI,ent_startup_openai,startup,alias,0.98,signal:alias_graph(OpenAI Inc.),exact_alias_graph
 Anthropic PBC,Anthropic,ent_startup_anthropic,startup,alias,0.98,signal:alias_graph(Anthropic PBC),exact_alias_graph
 Midjourney Inc.,Midjourney,ent_startup_midjourney,startup,alias,0.98,signal:alias_graph(Midjourney Inc.),exact_alias_graph
@@ -129,8 +209,48 @@ LlamaIndex Inc.,LlamaIndex,ent_startup_llamaindex,startup,alias,0.98,signal:alia
 CrewAI Inc.,CrewAI,ent_startup_crewai,startup,alias,0.98,signal:alias_graph(CrewAI Inc.),exact_alias_graph
 Ollama Inc.,Ollama,ent_startup_ollama,startup,alias,0.98,signal:alias_graph(Ollama Inc.),exact_alias_graph
 "Hugging Face, Inc.",Hugging Face,ent_startup_hugging_face,startup,alias,0.98,"signal:alias_graph(Hugging Face, Inc.)",exact_alias_graph
-Niche Studio 101,,,startup,UNRESOLVED,0.0,signal:unresolved,unresolved
-Niche Studio 102,,,startup,UNRESOLVED,0.0,signal:unresolved,unresolved
+Cohere Inc.,Cohere,ent_startup_cohere,startup,alias,0.98,signal:exact_normalized(cohere),exact_normalized
+"Weights & Biases, Inc.",Weights & Biases,ent_startup_weights_biases,startup,alias,0.98,signal:exact_normalized(weightsandbiases),exact_normalized
+"Databricks, Inc.",Databricks,ent_startup_databricks,startup,alias,0.98,signal:exact_normalized(databricks),exact_normalized
+NVIDIA Corporation,NVIDIA,ent_startup_nvidia,startup,alias,0.98,signal:exact_normalized(nvidia),exact_normalized
+Palantir Technologies Inc.,Palantir,ent_startup_palantir,startup,alias,0.98,signal:alias_graph(Palantir Technologies Inc.),exact_alias_graph
+"DataRobot, Inc.",DataRobot,ent_startup_datarobot,startup,alias,0.98,signal:exact_normalized(datarobot),exact_normalized
+"LangChain, Inc.",LangChain,ent_startup_langchain,startup,alias,0.98,"signal:alias_graph(LangChain, Inc.)",exact_alias_graph
+Langfuse GmbH,Langfuse,ent_startup_langfuse,startup,alias,0.98,signal:alias_graph(Langfuse GmbH),exact_alias_graph
+PromptLayer Inc.,PromptLayer,ent_startup_promptlayer,startup,alias,0.98,signal:alias_graph(PromptLayer Inc.),exact_alias_graph
+Portkey AI Inc.,Portkey,ent_startup_portkey,startup,alias,0.98,signal:alias_graph(Portkey AI Inc.),exact_alias_graph
+Unsloth AI Inc.,Unsloth AI,ent_startup_unsloth,startup,alias,0.98,signal:alias_graph(Unsloth AI Inc.),exact_alias_graph
+Significant Gravitas Ltd.,Significant Gravitas,ent_startup_significant_gravitas,startup,alias,0.98,signal:alias_graph(Significant Gravitas Ltd.),exact_alias_graph
+Baidu Inc.,Baidu,ent_startup_baidu,startup,alias,0.98,signal:alias_graph(Baidu Inc.),exact_alias_graph
+Tencent Holdings Ltd.,Tencent,ent_startup_tencent,startup,alias,0.98,signal:alias_graph(Tencent Holdings Ltd.),exact_alias_graph
+ByteDance Ltd.,ByteDance,ent_startup_bytedance,startup,alias,0.98,signal:alias_graph(ByteDance Ltd.),exact_alias_graph
+Make Inc.,Make,ent_startup_make,startup,alias,0.98,signal:alias_graph(Make Inc.),exact_alias_graph
+Zapier Inc.,Zapier,ent_startup_zapier,startup,alias,0.98,signal:alias_graph(Zapier Inc.),exact_alias_graph
+Krea AI Inc.,Krea,ent_startup_krea,startup,alias,0.98,signal:alias_graph(Krea AI Inc.),exact_alias_graph
+Photoroom SAS,Photoroom,ent_startup_photoroom,startup,alias,0.98,signal:alias_graph(Photoroom SAS),exact_alias_graph
+Topaz Labs LLC,Topaz Labs,ent_startup_topaz,startup,alias,0.98,signal:alias_graph(Topaz Labs LLC),exact_alias_graph
+InVideo Inc.,InVideo,ent_startup_invideo,startup,alias,0.98,signal:alias_graph(InVideo Inc.),exact_alias_graph
+OpusPro Inc.,OpusPro,ent_startup_opuspro,startup,alias,0.98,signal:alias_graph(OpusPro Inc.),exact_alias_graph
+Captions AI Inc.,Captions Inc.,ent_startup_captions,startup,alias,0.98,signal:alias_graph(Captions AI Inc.),exact_alias_graph
+Play.ht Inc.,Play.ht,ent_startup_play_ht,startup,alias,0.98,signal:alias_graph(Play.ht Inc.),exact_alias_graph
+Murf AI Inc.,Murf,ent_startup_murf,startup,alias,0.98,signal:alias_graph(Murf AI Inc.),exact_alias_graph
+Otter.ai Inc.,Otter.ai,ent_startup_otter,startup,alias,0.98,signal:alias_graph(Otter.ai Inc.),exact_alias_graph
+Fireflies.ai Corp.,Fireflies,ent_startup_fireflies,startup,alias,0.98,signal:alias_graph(Fireflies.ai Corp.),exact_alias_graph
+Superhuman Corp.,Superhuman,ent_startup_superhuman,startup,alias,0.98,signal:alias_graph(Superhuman Corp.),exact_alias_graph
+Raycast Technologies Ltd.,Raycast,ent_startup_raycast,startup,alias,0.98,signal:alias_graph(Raycast Technologies Ltd.),exact_alias_graph
+"SuSea, Inc. (You.com)",You.com,ent_startup_you_com,startup,alias,0.98,"signal:alias_graph(SuSea, Inc. (You.com))",exact_alias_graph
+Phind Inc.,Phind,ent_startup_phind,startup,alias,0.98,signal:alias_graph(Phind Inc.),exact_alias_graph
+"Quora, Inc.",Quora,ent_startup_quora,startup,alias,0.98,"signal:alias_graph(Quora, Inc.)",exact_alias_graph
+Character Technologies Inc.,Character.AI,ent_startup_character,startup,alias,0.98,signal:alias_graph(Character Technologies Inc.),exact_alias_graph
+"Luka, Inc.",Luka Inc.,ent_startup_luka,startup,alias,0.98,"signal:alias_graph(Luka, Inc.)",exact_alias_graph
+Cerebras Systems Inc.,Cerebras,ent_startup_cerebras,startup,alias,0.98,signal:alias_graph(Cerebras Systems Inc.),exact_alias_graph
+"Groq, Inc.",Groq,ent_startup_groq,startup,alias,0.98,signal:exact_normalized(groq),exact_normalized
+"Together AI, Inc.",Together AI,ent_startup_together,startup,alias,0.98,signal:exact_normalized(togetherai),exact_normalized
+Replicate Inc.,Replicate,ent_startup_replicate,startup,alias,0.98,signal:exact_normalized(replicate),exact_normalized
+RunPod Inc.,RunPod,ent_startup_runpod,startup,alias,0.98,signal:alias_graph(RunPod Inc.),exact_alias_graph
+"Scale AI, Inc.",Scale AI,ent_startup_scale,startup,alias,0.98,signal:exact_normalized(scaleai),exact_normalized
+"Labelbox, Inc.",Labelbox,ent_startup_labelbox,startup,alias,0.98,"signal:alias_graph(Labelbox, Inc.)",exact_alias_graph
+"Roboflow, Inc.",Roboflow,ent_startup_roboflow,startup,alias,0.98,"signal:alias_graph(Roboflow, Inc.)",exact_alias_graph
 OpenAI Inc.,OpenAI,ent_startup_openai,startup,alias,0.98,signal:alias_graph(OpenAI Inc.),exact_alias_graph
 Anthropic PBC,Anthropic,ent_startup_anthropic,startup,alias,0.98,signal:alias_graph(Anthropic PBC),exact_alias_graph
 Midjourney Inc.,Midjourney,ent_startup_midjourney,startup,alias,0.98,signal:alias_graph(Midjourney Inc.),exact_alias_graph
@@ -173,8 +293,48 @@ LlamaIndex Inc.,LlamaIndex,ent_startup_llamaindex,startup,alias,0.98,signal:alia
 CrewAI Inc.,CrewAI,ent_startup_crewai,startup,alias,0.98,signal:alias_graph(CrewAI Inc.),exact_alias_graph
 Ollama Inc.,Ollama,ent_startup_ollama,startup,alias,0.98,signal:alias_graph(Ollama Inc.),exact_alias_graph
 "Hugging Face, Inc.",Hugging Face,ent_startup_hugging_face,startup,alias,0.98,"signal:alias_graph(Hugging Face, Inc.)",exact_alias_graph
-Niche Studio 101,,,startup,UNRESOLVED,0.0,signal:unresolved,unresolved
-Niche Studio 102,,,startup,UNRESOLVED,0.0,signal:unresolved,unresolved
+Cohere Inc.,Cohere,ent_startup_cohere,startup,alias,0.98,signal:exact_normalized(cohere),exact_normalized
+"Weights & Biases, Inc.",Weights & Biases,ent_startup_weights_biases,startup,alias,0.98,signal:exact_normalized(weightsandbiases),exact_normalized
+"Databricks, Inc.",Databricks,ent_startup_databricks,startup,alias,0.98,signal:exact_normalized(databricks),exact_normalized
+NVIDIA Corporation,NVIDIA,ent_startup_nvidia,startup,alias,0.98,signal:exact_normalized(nvidia),exact_normalized
+Palantir Technologies Inc.,Palantir,ent_startup_palantir,startup,alias,0.98,signal:alias_graph(Palantir Technologies Inc.),exact_alias_graph
+"DataRobot, Inc.",DataRobot,ent_startup_datarobot,startup,alias,0.98,signal:exact_normalized(datarobot),exact_normalized
+"LangChain, Inc.",LangChain,ent_startup_langchain,startup,alias,0.98,"signal:alias_graph(LangChain, Inc.)",exact_alias_graph
+Langfuse GmbH,Langfuse,ent_startup_langfuse,startup,alias,0.98,signal:alias_graph(Langfuse GmbH),exact_alias_graph
+PromptLayer Inc.,PromptLayer,ent_startup_promptlayer,startup,alias,0.98,signal:alias_graph(PromptLayer Inc.),exact_alias_graph
+Portkey AI Inc.,Portkey,ent_startup_portkey,startup,alias,0.98,signal:alias_graph(Portkey AI Inc.),exact_alias_graph
+Unsloth AI Inc.,Unsloth AI,ent_startup_unsloth,startup,alias,0.98,signal:alias_graph(Unsloth AI Inc.),exact_alias_graph
+Significant Gravitas Ltd.,Significant Gravitas,ent_startup_significant_gravitas,startup,alias,0.98,signal:alias_graph(Significant Gravitas Ltd.),exact_alias_graph
+Baidu Inc.,Baidu,ent_startup_baidu,startup,alias,0.98,signal:alias_graph(Baidu Inc.),exact_alias_graph
+Tencent Holdings Ltd.,Tencent,ent_startup_tencent,startup,alias,0.98,signal:alias_graph(Tencent Holdings Ltd.),exact_alias_graph
+ByteDance Ltd.,ByteDance,ent_startup_bytedance,startup,alias,0.98,signal:alias_graph(ByteDance Ltd.),exact_alias_graph
+Make Inc.,Make,ent_startup_make,startup,alias,0.98,signal:alias_graph(Make Inc.),exact_alias_graph
+Zapier Inc.,Zapier,ent_startup_zapier,startup,alias,0.98,signal:alias_graph(Zapier Inc.),exact_alias_graph
+Krea AI Inc.,Krea,ent_startup_krea,startup,alias,0.98,signal:alias_graph(Krea AI Inc.),exact_alias_graph
+Photoroom SAS,Photoroom,ent_startup_photoroom,startup,alias,0.98,signal:alias_graph(Photoroom SAS),exact_alias_graph
+Topaz Labs LLC,Topaz Labs,ent_startup_topaz,startup,alias,0.98,signal:alias_graph(Topaz Labs LLC),exact_alias_graph
+InVideo Inc.,InVideo,ent_startup_invideo,startup,alias,0.98,signal:alias_graph(InVideo Inc.),exact_alias_graph
+OpusPro Inc.,OpusPro,ent_startup_opuspro,startup,alias,0.98,signal:alias_graph(OpusPro Inc.),exact_alias_graph
+Captions AI Inc.,Captions Inc.,ent_startup_captions,startup,alias,0.98,signal:alias_graph(Captions AI Inc.),exact_alias_graph
+Play.ht Inc.,Play.ht,ent_startup_play_ht,startup,alias,0.98,signal:alias_graph(Play.ht Inc.),exact_alias_graph
+Murf AI Inc.,Murf,ent_startup_murf,startup,alias,0.98,signal:alias_graph(Murf AI Inc.),exact_alias_graph
+Otter.ai Inc.,Otter.ai,ent_startup_otter,startup,alias,0.98,signal:alias_graph(Otter.ai Inc.),exact_alias_graph
+Fireflies.ai Corp.,Fireflies,ent_startup_fireflies,startup,alias,0.98,signal:alias_graph(Fireflies.ai Corp.),exact_alias_graph
+Superhuman Corp.,Superhuman,ent_startup_superhuman,startup,alias,0.98,signal:alias_graph(Superhuman Corp.),exact_alias_graph
+Raycast Technologies Ltd.,Raycast,ent_startup_raycast,startup,alias,0.98,signal:alias_graph(Raycast Technologies Ltd.),exact_alias_graph
+"SuSea, Inc. (You.com)",You.com,ent_startup_you_com,startup,alias,0.98,"signal:alias_graph(SuSea, Inc. (You.com))",exact_alias_graph
+Phind Inc.,Phind,ent_startup_phind,startup,alias,0.98,signal:alias_graph(Phind Inc.),exact_alias_graph
+"Quora, Inc.",Quora,ent_startup_quora,startup,alias,0.98,"signal:alias_graph(Quora, Inc.)",exact_alias_graph
+Character Technologies Inc.,Character.AI,ent_startup_character,startup,alias,0.98,signal:alias_graph(Character Technologies Inc.),exact_alias_graph
+"Luka, Inc.",Luka Inc.,ent_startup_luka,startup,alias,0.98,"signal:alias_graph(Luka, Inc.)",exact_alias_graph
+Cerebras Systems Inc.,Cerebras,ent_startup_cerebras,startup,alias,0.98,signal:alias_graph(Cerebras Systems Inc.),exact_alias_graph
+"Groq, Inc.",Groq,ent_startup_groq,startup,alias,0.98,signal:exact_normalized(groq),exact_normalized
+"Together AI, Inc.",Together AI,ent_startup_together,startup,alias,0.98,signal:exact_normalized(togetherai),exact_normalized
+Replicate Inc.,Replicate,ent_startup_replicate,startup,alias,0.98,signal:exact_normalized(replicate),exact_normalized
+RunPod Inc.,RunPod,ent_startup_runpod,startup,alias,0.98,signal:alias_graph(RunPod Inc.),exact_alias_graph
+"Scale AI, Inc.",Scale AI,ent_startup_scale,startup,alias,0.98,signal:exact_normalized(scaleai),exact_normalized
+"Labelbox, Inc.",Labelbox,ent_startup_labelbox,startup,alias,0.98,"signal:alias_graph(Labelbox, Inc.)",exact_alias_graph
+"Roboflow, Inc.",Roboflow,ent_startup_roboflow,startup,alias,0.98,"signal:alias_graph(Roboflow, Inc.)",exact_alias_graph
 OpenAI Inc.,OpenAI,ent_startup_openai,startup,alias,0.98,signal:alias_graph(OpenAI Inc.),exact_alias_graph
 Anthropic PBC,Anthropic,ent_startup_anthropic,startup,alias,0.98,signal:alias_graph(Anthropic PBC),exact_alias_graph
 Midjourney Inc.,Midjourney,ent_startup_midjourney,startup,alias,0.98,signal:alias_graph(Midjourney Inc.),exact_alias_graph
@@ -217,8 +377,48 @@ LlamaIndex Inc.,LlamaIndex,ent_startup_llamaindex,startup,alias,0.98,signal:alia
 CrewAI Inc.,CrewAI,ent_startup_crewai,startup,alias,0.98,signal:alias_graph(CrewAI Inc.),exact_alias_graph
 Ollama Inc.,Ollama,ent_startup_ollama,startup,alias,0.98,signal:alias_graph(Ollama Inc.),exact_alias_graph
 "Hugging Face, Inc.",Hugging Face,ent_startup_hugging_face,startup,alias,0.98,"signal:alias_graph(Hugging Face, Inc.)",exact_alias_graph
-Niche Studio 101,,,startup,UNRESOLVED,0.0,signal:unresolved,unresolved
-Niche Studio 102,,,startup,UNRESOLVED,0.0,signal:unresolved,unresolved
+Cohere Inc.,Cohere,ent_startup_cohere,startup,alias,0.98,signal:exact_normalized(cohere),exact_normalized
+"Weights & Biases, Inc.",Weights & Biases,ent_startup_weights_biases,startup,alias,0.98,signal:exact_normalized(weightsandbiases),exact_normalized
+"Databricks, Inc.",Databricks,ent_startup_databricks,startup,alias,0.98,signal:exact_normalized(databricks),exact_normalized
+NVIDIA Corporation,NVIDIA,ent_startup_nvidia,startup,alias,0.98,signal:exact_normalized(nvidia),exact_normalized
+Palantir Technologies Inc.,Palantir,ent_startup_palantir,startup,alias,0.98,signal:alias_graph(Palantir Technologies Inc.),exact_alias_graph
+"DataRobot, Inc.",DataRobot,ent_startup_datarobot,startup,alias,0.98,signal:exact_normalized(datarobot),exact_normalized
+"LangChain, Inc.",LangChain,ent_startup_langchain,startup,alias,0.98,"signal:alias_graph(LangChain, Inc.)",exact_alias_graph
+Langfuse GmbH,Langfuse,ent_startup_langfuse,startup,alias,0.98,signal:alias_graph(Langfuse GmbH),exact_alias_graph
+PromptLayer Inc.,PromptLayer,ent_startup_promptlayer,startup,alias,0.98,signal:alias_graph(PromptLayer Inc.),exact_alias_graph
+Portkey AI Inc.,Portkey,ent_startup_portkey,startup,alias,0.98,signal:alias_graph(Portkey AI Inc.),exact_alias_graph
+Unsloth AI Inc.,Unsloth AI,ent_startup_unsloth,startup,alias,0.98,signal:alias_graph(Unsloth AI Inc.),exact_alias_graph
+Significant Gravitas Ltd.,Significant Gravitas,ent_startup_significant_gravitas,startup,alias,0.98,signal:alias_graph(Significant Gravitas Ltd.),exact_alias_graph
+Baidu Inc.,Baidu,ent_startup_baidu,startup,alias,0.98,signal:alias_graph(Baidu Inc.),exact_alias_graph
+Tencent Holdings Ltd.,Tencent,ent_startup_tencent,startup,alias,0.98,signal:alias_graph(Tencent Holdings Ltd.),exact_alias_graph
+ByteDance Ltd.,ByteDance,ent_startup_bytedance,startup,alias,0.98,signal:alias_graph(ByteDance Ltd.),exact_alias_graph
+Make Inc.,Make,ent_startup_make,startup,alias,0.98,signal:alias_graph(Make Inc.),exact_alias_graph
+Zapier Inc.,Zapier,ent_startup_zapier,startup,alias,0.98,signal:alias_graph(Zapier Inc.),exact_alias_graph
+Krea AI Inc.,Krea,ent_startup_krea,startup,alias,0.98,signal:alias_graph(Krea AI Inc.),exact_alias_graph
+Photoroom SAS,Photoroom,ent_startup_photoroom,startup,alias,0.98,signal:alias_graph(Photoroom SAS),exact_alias_graph
+Topaz Labs LLC,Topaz Labs,ent_startup_topaz,startup,alias,0.98,signal:alias_graph(Topaz Labs LLC),exact_alias_graph
+InVideo Inc.,InVideo,ent_startup_invideo,startup,alias,0.98,signal:alias_graph(InVideo Inc.),exact_alias_graph
+OpusPro Inc.,OpusPro,ent_startup_opuspro,startup,alias,0.98,signal:alias_graph(OpusPro Inc.),exact_alias_graph
+Captions AI Inc.,Captions Inc.,ent_startup_captions,startup,alias,0.98,signal:alias_graph(Captions AI Inc.),exact_alias_graph
+Play.ht Inc.,Play.ht,ent_startup_play_ht,startup,alias,0.98,signal:alias_graph(Play.ht Inc.),exact_alias_graph
+Murf AI Inc.,Murf,ent_startup_murf,startup,alias,0.98,signal:alias_graph(Murf AI Inc.),exact_alias_graph
+Otter.ai Inc.,Otter.ai,ent_startup_otter,startup,alias,0.98,signal:alias_graph(Otter.ai Inc.),exact_alias_graph
+Fireflies.ai Corp.,Fireflies,ent_startup_fireflies,startup,alias,0.98,signal:alias_graph(Fireflies.ai Corp.),exact_alias_graph
+Superhuman Corp.,Superhuman,ent_startup_superhuman,startup,alias,0.98,signal:alias_graph(Superhuman Corp.),exact_alias_graph
+Raycast Technologies Ltd.,Raycast,ent_startup_raycast,startup,alias,0.98,signal:alias_graph(Raycast Technologies Ltd.),exact_alias_graph
+"SuSea, Inc. (You.com)",You.com,ent_startup_you_com,startup,alias,0.98,"signal:alias_graph(SuSea, Inc. (You.com))",exact_alias_graph
+Phind Inc.,Phind,ent_startup_phind,startup,alias,0.98,signal:alias_graph(Phind Inc.),exact_alias_graph
+"Quora, Inc.",Quora,ent_startup_quora,startup,alias,0.98,"signal:alias_graph(Quora, Inc.)",exact_alias_graph
+Character Technologies Inc.,Character.AI,ent_startup_character,startup,alias,0.98,signal:alias_graph(Character Technologies Inc.),exact_alias_graph
+"Luka, Inc.",Luka Inc.,ent_startup_luka,startup,alias,0.98,"signal:alias_graph(Luka, Inc.)",exact_alias_graph
+Cerebras Systems Inc.,Cerebras,ent_startup_cerebras,startup,alias,0.98,signal:alias_graph(Cerebras Systems Inc.),exact_alias_graph
+"Groq, Inc.",Groq,ent_startup_groq,startup,alias,0.98,signal:exact_normalized(groq),exact_normalized
+"Together AI, Inc.",Together AI,ent_startup_together,startup,alias,0.98,signal:exact_normalized(togetherai),exact_normalized
+Replicate Inc.,Replicate,ent_startup_replicate,startup,alias,0.98,signal:exact_normalized(replicate),exact_normalized
+RunPod Inc.,RunPod,ent_startup_runpod,startup,alias,0.98,signal:alias_graph(RunPod Inc.),exact_alias_graph
+"Scale AI, Inc.",Scale AI,ent_startup_scale,startup,alias,0.98,signal:exact_normalized(scaleai),exact_normalized
+"Labelbox, Inc.",Labelbox,ent_startup_labelbox,startup,alias,0.98,"signal:alias_graph(Labelbox, Inc.)",exact_alias_graph
+"Roboflow, Inc.",Roboflow,ent_startup_roboflow,startup,alias,0.98,"signal:alias_graph(Roboflow, Inc.)",exact_alias_graph
 OpenAI Inc.,OpenAI,ent_startup_openai,startup,alias,0.98,signal:alias_graph(OpenAI Inc.),exact_alias_graph
 Anthropic PBC,Anthropic,ent_startup_anthropic,startup,alias,0.98,signal:alias_graph(Anthropic PBC),exact_alias_graph
 Midjourney Inc.,Midjourney,ent_startup_midjourney,startup,alias,0.98,signal:alias_graph(Midjourney Inc.),exact_alias_graph
@@ -261,8 +461,48 @@ LlamaIndex Inc.,LlamaIndex,ent_startup_llamaindex,startup,alias,0.98,signal:alia
 CrewAI Inc.,CrewAI,ent_startup_crewai,startup,alias,0.98,signal:alias_graph(CrewAI Inc.),exact_alias_graph
 Ollama Inc.,Ollama,ent_startup_ollama,startup,alias,0.98,signal:alias_graph(Ollama Inc.),exact_alias_graph
 "Hugging Face, Inc.",Hugging Face,ent_startup_hugging_face,startup,alias,0.98,"signal:alias_graph(Hugging Face, Inc.)",exact_alias_graph
-Niche Studio 101,,,startup,UNRESOLVED,0.0,signal:unresolved,unresolved
-Niche Studio 102,,,startup,UNRESOLVED,0.0,signal:unresolved,unresolved
+Cohere Inc.,Cohere,ent_startup_cohere,startup,alias,0.98,signal:exact_normalized(cohere),exact_normalized
+"Weights & Biases, Inc.",Weights & Biases,ent_startup_weights_biases,startup,alias,0.98,signal:exact_normalized(weightsandbiases),exact_normalized
+"Databricks, Inc.",Databricks,ent_startup_databricks,startup,alias,0.98,signal:exact_normalized(databricks),exact_normalized
+NVIDIA Corporation,NVIDIA,ent_startup_nvidia,startup,alias,0.98,signal:exact_normalized(nvidia),exact_normalized
+Palantir Technologies Inc.,Palantir,ent_startup_palantir,startup,alias,0.98,signal:alias_graph(Palantir Technologies Inc.),exact_alias_graph
+"DataRobot, Inc.",DataRobot,ent_startup_datarobot,startup,alias,0.98,signal:exact_normalized(datarobot),exact_normalized
+"LangChain, Inc.",LangChain,ent_startup_langchain,startup,alias,0.98,"signal:alias_graph(LangChain, Inc.)",exact_alias_graph
+Langfuse GmbH,Langfuse,ent_startup_langfuse,startup,alias,0.98,signal:alias_graph(Langfuse GmbH),exact_alias_graph
+PromptLayer Inc.,PromptLayer,ent_startup_promptlayer,startup,alias,0.98,signal:alias_graph(PromptLayer Inc.),exact_alias_graph
+Portkey AI Inc.,Portkey,ent_startup_portkey,startup,alias,0.98,signal:alias_graph(Portkey AI Inc.),exact_alias_graph
+Unsloth AI Inc.,Unsloth AI,ent_startup_unsloth,startup,alias,0.98,signal:alias_graph(Unsloth AI Inc.),exact_alias_graph
+Significant Gravitas Ltd.,Significant Gravitas,ent_startup_significant_gravitas,startup,alias,0.98,signal:alias_graph(Significant Gravitas Ltd.),exact_alias_graph
+Baidu Inc.,Baidu,ent_startup_baidu,startup,alias,0.98,signal:alias_graph(Baidu Inc.),exact_alias_graph
+Tencent Holdings Ltd.,Tencent,ent_startup_tencent,startup,alias,0.98,signal:alias_graph(Tencent Holdings Ltd.),exact_alias_graph
+ByteDance Ltd.,ByteDance,ent_startup_bytedance,startup,alias,0.98,signal:alias_graph(ByteDance Ltd.),exact_alias_graph
+Make Inc.,Make,ent_startup_make,startup,alias,0.98,signal:alias_graph(Make Inc.),exact_alias_graph
+Zapier Inc.,Zapier,ent_startup_zapier,startup,alias,0.98,signal:alias_graph(Zapier Inc.),exact_alias_graph
+Krea AI Inc.,Krea,ent_startup_krea,startup,alias,0.98,signal:alias_graph(Krea AI Inc.),exact_alias_graph
+Photoroom SAS,Photoroom,ent_startup_photoroom,startup,alias,0.98,signal:alias_graph(Photoroom SAS),exact_alias_graph
+Topaz Labs LLC,Topaz Labs,ent_startup_topaz,startup,alias,0.98,signal:alias_graph(Topaz Labs LLC),exact_alias_graph
+InVideo Inc.,InVideo,ent_startup_invideo,startup,alias,0.98,signal:alias_graph(InVideo Inc.),exact_alias_graph
+OpusPro Inc.,OpusPro,ent_startup_opuspro,startup,alias,0.98,signal:alias_graph(OpusPro Inc.),exact_alias_graph
+Captions AI Inc.,Captions Inc.,ent_startup_captions,startup,alias,0.98,signal:alias_graph(Captions AI Inc.),exact_alias_graph
+Play.ht Inc.,Play.ht,ent_startup_play_ht,startup,alias,0.98,signal:alias_graph(Play.ht Inc.),exact_alias_graph
+Murf AI Inc.,Murf,ent_startup_murf,startup,alias,0.98,signal:alias_graph(Murf AI Inc.),exact_alias_graph
+Otter.ai Inc.,Otter.ai,ent_startup_otter,startup,alias,0.98,signal:alias_graph(Otter.ai Inc.),exact_alias_graph
+Fireflies.ai Corp.,Fireflies,ent_startup_fireflies,startup,alias,0.98,signal:alias_graph(Fireflies.ai Corp.),exact_alias_graph
+Superhuman Corp.,Superhuman,ent_startup_superhuman,startup,alias,0.98,signal:alias_graph(Superhuman Corp.),exact_alias_graph
+Raycast Technologies Ltd.,Raycast,ent_startup_raycast,startup,alias,0.98,signal:alias_graph(Raycast Technologies Ltd.),exact_alias_graph
+"SuSea, Inc. (You.com)",You.com,ent_startup_you_com,startup,alias,0.98,"signal:alias_graph(SuSea, Inc. (You.com))",exact_alias_graph
+Phind Inc.,Phind,ent_startup_phind,startup,alias,0.98,signal:alias_graph(Phind Inc.),exact_alias_graph
+"Quora, Inc.",Quora,ent_startup_quora,startup,alias,0.98,"signal:alias_graph(Quora, Inc.)",exact_alias_graph
+Character Technologies Inc.,Character.AI,ent_startup_character,startup,alias,0.98,signal:alias_graph(Character Technologies Inc.),exact_alias_graph
+"Luka, Inc.",Luka Inc.,ent_startup_luka,startup,alias,0.98,"signal:alias_graph(Luka, Inc.)",exact_alias_graph
+Cerebras Systems Inc.,Cerebras,ent_startup_cerebras,startup,alias,0.98,signal:alias_graph(Cerebras Systems Inc.),exact_alias_graph
+"Groq, Inc.",Groq,ent_startup_groq,startup,alias,0.98,signal:exact_normalized(groq),exact_normalized
+"Together AI, Inc.",Together AI,ent_startup_together,startup,alias,0.98,signal:exact_normalized(togetherai),exact_normalized
+Replicate Inc.,Replicate,ent_startup_replicate,startup,alias,0.98,signal:exact_normalized(replicate),exact_normalized
+RunPod Inc.,RunPod,ent_startup_runpod,startup,alias,0.98,signal:alias_graph(RunPod Inc.),exact_alias_graph
+"Scale AI, Inc.",Scale AI,ent_startup_scale,startup,alias,0.98,signal:exact_normalized(scaleai),exact_normalized
+"Labelbox, Inc.",Labelbox,ent_startup_labelbox,startup,alias,0.98,"signal:alias_graph(Labelbox, Inc.)",exact_alias_graph
+"Roboflow, Inc.",Roboflow,ent_startup_roboflow,startup,alias,0.98,"signal:alias_graph(Roboflow, Inc.)",exact_alias_graph
 OpenAI Inc.,OpenAI,ent_startup_openai,startup,alias,0.98,signal:alias_graph(OpenAI Inc.),exact_alias_graph
 Anthropic PBC,Anthropic,ent_startup_anthropic,startup,alias,0.98,signal:alias_graph(Anthropic PBC),exact_alias_graph
 Midjourney Inc.,Midjourney,ent_startup_midjourney,startup,alias,0.98,signal:alias_graph(Midjourney Inc.),exact_alias_graph
@@ -305,8 +545,48 @@ LlamaIndex Inc.,LlamaIndex,ent_startup_llamaindex,startup,alias,0.98,signal:alia
 CrewAI Inc.,CrewAI,ent_startup_crewai,startup,alias,0.98,signal:alias_graph(CrewAI Inc.),exact_alias_graph
 Ollama Inc.,Ollama,ent_startup_ollama,startup,alias,0.98,signal:alias_graph(Ollama Inc.),exact_alias_graph
 "Hugging Face, Inc.",Hugging Face,ent_startup_hugging_face,startup,alias,0.98,"signal:alias_graph(Hugging Face, Inc.)",exact_alias_graph
-Niche Studio 101,,,startup,UNRESOLVED,0.0,signal:unresolved,unresolved
-Niche Studio 102,,,startup,UNRESOLVED,0.0,signal:unresolved,unresolved
+Cohere Inc.,Cohere,ent_startup_cohere,startup,alias,0.98,signal:exact_normalized(cohere),exact_normalized
+"Weights & Biases, Inc.",Weights & Biases,ent_startup_weights_biases,startup,alias,0.98,signal:exact_normalized(weightsandbiases),exact_normalized
+"Databricks, Inc.",Databricks,ent_startup_databricks,startup,alias,0.98,signal:exact_normalized(databricks),exact_normalized
+NVIDIA Corporation,NVIDIA,ent_startup_nvidia,startup,alias,0.98,signal:exact_normalized(nvidia),exact_normalized
+Palantir Technologies Inc.,Palantir,ent_startup_palantir,startup,alias,0.98,signal:alias_graph(Palantir Technologies Inc.),exact_alias_graph
+"DataRobot, Inc.",DataRobot,ent_startup_datarobot,startup,alias,0.98,signal:exact_normalized(datarobot),exact_normalized
+"LangChain, Inc.",LangChain,ent_startup_langchain,startup,alias,0.98,"signal:alias_graph(LangChain, Inc.)",exact_alias_graph
+Langfuse GmbH,Langfuse,ent_startup_langfuse,startup,alias,0.98,signal:alias_graph(Langfuse GmbH),exact_alias_graph
+PromptLayer Inc.,PromptLayer,ent_startup_promptlayer,startup,alias,0.98,signal:alias_graph(PromptLayer Inc.),exact_alias_graph
+Portkey AI Inc.,Portkey,ent_startup_portkey,startup,alias,0.98,signal:alias_graph(Portkey AI Inc.),exact_alias_graph
+Unsloth AI Inc.,Unsloth AI,ent_startup_unsloth,startup,alias,0.98,signal:alias_graph(Unsloth AI Inc.),exact_alias_graph
+Significant Gravitas Ltd.,Significant Gravitas,ent_startup_significant_gravitas,startup,alias,0.98,signal:alias_graph(Significant Gravitas Ltd.),exact_alias_graph
+Baidu Inc.,Baidu,ent_startup_baidu,startup,alias,0.98,signal:alias_graph(Baidu Inc.),exact_alias_graph
+Tencent Holdings Ltd.,Tencent,ent_startup_tencent,startup,alias,0.98,signal:alias_graph(Tencent Holdings Ltd.),exact_alias_graph
+ByteDance Ltd.,ByteDance,ent_startup_bytedance,startup,alias,0.98,signal:alias_graph(ByteDance Ltd.),exact_alias_graph
+Make Inc.,Make,ent_startup_make,startup,alias,0.98,signal:alias_graph(Make Inc.),exact_alias_graph
+Zapier Inc.,Zapier,ent_startup_zapier,startup,alias,0.98,signal:alias_graph(Zapier Inc.),exact_alias_graph
+Krea AI Inc.,Krea,ent_startup_krea,startup,alias,0.98,signal:alias_graph(Krea AI Inc.),exact_alias_graph
+Photoroom SAS,Photoroom,ent_startup_photoroom,startup,alias,0.98,signal:alias_graph(Photoroom SAS),exact_alias_graph
+Topaz Labs LLC,Topaz Labs,ent_startup_topaz,startup,alias,0.98,signal:alias_graph(Topaz Labs LLC),exact_alias_graph
+InVideo Inc.,InVideo,ent_startup_invideo,startup,alias,0.98,signal:alias_graph(InVideo Inc.),exact_alias_graph
+OpusPro Inc.,OpusPro,ent_startup_opuspro,startup,alias,0.98,signal:alias_graph(OpusPro Inc.),exact_alias_graph
+Captions AI Inc.,Captions Inc.,ent_startup_captions,startup,alias,0.98,signal:alias_graph(Captions AI Inc.),exact_alias_graph
+Play.ht Inc.,Play.ht,ent_startup_play_ht,startup,alias,0.98,signal:alias_graph(Play.ht Inc.),exact_alias_graph
+Murf AI Inc.,Murf,ent_startup_murf,startup,alias,0.98,signal:alias_graph(Murf AI Inc.),exact_alias_graph
+Otter.ai Inc.,Otter.ai,ent_startup_otter,startup,alias,0.98,signal:alias_graph(Otter.ai Inc.),exact_alias_graph
+Fireflies.ai Corp.,Fireflies,ent_startup_fireflies,startup,alias,0.98,signal:alias_graph(Fireflies.ai Corp.),exact_alias_graph
+Superhuman Corp.,Superhuman,ent_startup_superhuman,startup,alias,0.98,signal:alias_graph(Superhuman Corp.),exact_alias_graph
+Raycast Technologies Ltd.,Raycast,ent_startup_raycast,startup,alias,0.98,signal:alias_graph(Raycast Technologies Ltd.),exact_alias_graph
+"SuSea, Inc. (You.com)",You.com,ent_startup_you_com,startup,alias,0.98,"signal:alias_graph(SuSea, Inc. (You.com))",exact_alias_graph
+Phind Inc.,Phind,ent_startup_phind,startup,alias,0.98,signal:alias_graph(Phind Inc.),exact_alias_graph
+"Quora, Inc.",Quora,ent_startup_quora,startup,alias,0.98,"signal:alias_graph(Quora, Inc.)",exact_alias_graph
+Character Technologies Inc.,Character.AI,ent_startup_character,startup,alias,0.98,signal:alias_graph(Character Technologies Inc.),exact_alias_graph
+"Luka, Inc.",Luka Inc.,ent_startup_luka,startup,alias,0.98,"signal:alias_graph(Luka, Inc.)",exact_alias_graph
+Cerebras Systems Inc.,Cerebras,ent_startup_cerebras,startup,alias,0.98,signal:alias_graph(Cerebras Systems Inc.),exact_alias_graph
+"Groq, Inc.",Groq,ent_startup_groq,startup,alias,0.98,signal:exact_normalized(groq),exact_normalized
+"Together AI, Inc.",Together AI,ent_startup_together,startup,alias,0.98,signal:exact_normalized(togetherai),exact_normalized
+Replicate Inc.,Replicate,ent_startup_replicate,startup,alias,0.98,signal:exact_normalized(replicate),exact_normalized
+RunPod Inc.,RunPod,ent_startup_runpod,startup,alias,0.98,signal:alias_graph(RunPod Inc.),exact_alias_graph
+"Scale AI, Inc.",Scale AI,ent_startup_scale,startup,alias,0.98,signal:exact_normalized(scaleai),exact_normalized
+"Labelbox, Inc.",Labelbox,ent_startup_labelbox,startup,alias,0.98,"signal:alias_graph(Labelbox, Inc.)",exact_alias_graph
+"Roboflow, Inc.",Roboflow,ent_startup_roboflow,startup,alias,0.98,"signal:alias_graph(Roboflow, Inc.)",exact_alias_graph
 OpenAI Inc.,OpenAI,ent_startup_openai,startup,alias,0.98,signal:alias_graph(OpenAI Inc.),exact_alias_graph
 Anthropic PBC,Anthropic,ent_startup_anthropic,startup,alias,0.98,signal:alias_graph(Anthropic PBC),exact_alias_graph
 Midjourney Inc.,Midjourney,ent_startup_midjourney,startup,alias,0.98,signal:alias_graph(Midjourney Inc.),exact_alias_graph
@@ -349,8 +629,48 @@ LlamaIndex Inc.,LlamaIndex,ent_startup_llamaindex,startup,alias,0.98,signal:alia
 CrewAI Inc.,CrewAI,ent_startup_crewai,startup,alias,0.98,signal:alias_graph(CrewAI Inc.),exact_alias_graph
 Ollama Inc.,Ollama,ent_startup_ollama,startup,alias,0.98,signal:alias_graph(Ollama Inc.),exact_alias_graph
 "Hugging Face, Inc.",Hugging Face,ent_startup_hugging_face,startup,alias,0.98,"signal:alias_graph(Hugging Face, Inc.)",exact_alias_graph
-Niche Studio 101,,,startup,UNRESOLVED,0.0,signal:unresolved,unresolved
-Niche Studio 102,,,startup,UNRESOLVED,0.0,signal:unresolved,unresolved
+Cohere Inc.,Cohere,ent_startup_cohere,startup,alias,0.98,signal:exact_normalized(cohere),exact_normalized
+"Weights & Biases, Inc.",Weights & Biases,ent_startup_weights_biases,startup,alias,0.98,signal:exact_normalized(weightsandbiases),exact_normalized
+"Databricks, Inc.",Databricks,ent_startup_databricks,startup,alias,0.98,signal:exact_normalized(databricks),exact_normalized
+NVIDIA Corporation,NVIDIA,ent_startup_nvidia,startup,alias,0.98,signal:exact_normalized(nvidia),exact_normalized
+Palantir Technologies Inc.,Palantir,ent_startup_palantir,startup,alias,0.98,signal:alias_graph(Palantir Technologies Inc.),exact_alias_graph
+"DataRobot, Inc.",DataRobot,ent_startup_datarobot,startup,alias,0.98,signal:exact_normalized(datarobot),exact_normalized
+"LangChain, Inc.",LangChain,ent_startup_langchain,startup,alias,0.98,"signal:alias_graph(LangChain, Inc.)",exact_alias_graph
+Langfuse GmbH,Langfuse,ent_startup_langfuse,startup,alias,0.98,signal:alias_graph(Langfuse GmbH),exact_alias_graph
+PromptLayer Inc.,PromptLayer,ent_startup_promptlayer,startup,alias,0.98,signal:alias_graph(PromptLayer Inc.),exact_alias_graph
+Portkey AI Inc.,Portkey,ent_startup_portkey,startup,alias,0.98,signal:alias_graph(Portkey AI Inc.),exact_alias_graph
+Unsloth AI Inc.,Unsloth AI,ent_startup_unsloth,startup,alias,0.98,signal:alias_graph(Unsloth AI Inc.),exact_alias_graph
+Significant Gravitas Ltd.,Significant Gravitas,ent_startup_significant_gravitas,startup,alias,0.98,signal:alias_graph(Significant Gravitas Ltd.),exact_alias_graph
+Baidu Inc.,Baidu,ent_startup_baidu,startup,alias,0.98,signal:alias_graph(Baidu Inc.),exact_alias_graph
+Tencent Holdings Ltd.,Tencent,ent_startup_tencent,startup,alias,0.98,signal:alias_graph(Tencent Holdings Ltd.),exact_alias_graph
+ByteDance Ltd.,ByteDance,ent_startup_bytedance,startup,alias,0.98,signal:alias_graph(ByteDance Ltd.),exact_alias_graph
+Make Inc.,Make,ent_startup_make,startup,alias,0.98,signal:alias_graph(Make Inc.),exact_alias_graph
+Zapier Inc.,Zapier,ent_startup_zapier,startup,alias,0.98,signal:alias_graph(Zapier Inc.),exact_alias_graph
+Krea AI Inc.,Krea,ent_startup_krea,startup,alias,0.98,signal:alias_graph(Krea AI Inc.),exact_alias_graph
+Photoroom SAS,Photoroom,ent_startup_photoroom,startup,alias,0.98,signal:alias_graph(Photoroom SAS),exact_alias_graph
+Topaz Labs LLC,Topaz Labs,ent_startup_topaz,startup,alias,0.98,signal:alias_graph(Topaz Labs LLC),exact_alias_graph
+InVideo Inc.,InVideo,ent_startup_invideo,startup,alias,0.98,signal:alias_graph(InVideo Inc.),exact_alias_graph
+OpusPro Inc.,OpusPro,ent_startup_opuspro,startup,alias,0.98,signal:alias_graph(OpusPro Inc.),exact_alias_graph
+Captions AI Inc.,Captions Inc.,ent_startup_captions,startup,alias,0.98,signal:alias_graph(Captions AI Inc.),exact_alias_graph
+Play.ht Inc.,Play.ht,ent_startup_play_ht,startup,alias,0.98,signal:alias_graph(Play.ht Inc.),exact_alias_graph
+Murf AI Inc.,Murf,ent_startup_murf,startup,alias,0.98,signal:alias_graph(Murf AI Inc.),exact_alias_graph
+Otter.ai Inc.,Otter.ai,ent_startup_otter,startup,alias,0.98,signal:alias_graph(Otter.ai Inc.),exact_alias_graph
+Fireflies.ai Corp.,Fireflies,ent_startup_fireflies,startup,alias,0.98,signal:alias_graph(Fireflies.ai Corp.),exact_alias_graph
+Superhuman Corp.,Superhuman,ent_startup_superhuman,startup,alias,0.98,signal:alias_graph(Superhuman Corp.),exact_alias_graph
+Raycast Technologies Ltd.,Raycast,ent_startup_raycast,startup,alias,0.98,signal:alias_graph(Raycast Technologies Ltd.),exact_alias_graph
+"SuSea, Inc. (You.com)",You.com,ent_startup_you_com,startup,alias,0.98,"signal:alias_graph(SuSea, Inc. (You.com))",exact_alias_graph
+Phind Inc.,Phind,ent_startup_phind,startup,alias,0.98,signal:alias_graph(Phind Inc.),exact_alias_graph
+"Quora, Inc.",Quora,ent_startup_quora,startup,alias,0.98,"signal:alias_graph(Quora, Inc.)",exact_alias_graph
+Character Technologies Inc.,Character.AI,ent_startup_character,startup,alias,0.98,signal:alias_graph(Character Technologies Inc.),exact_alias_graph
+"Luka, Inc.",Luka Inc.,ent_startup_luka,startup,alias,0.98,"signal:alias_graph(Luka, Inc.)",exact_alias_graph
+Cerebras Systems Inc.,Cerebras,ent_startup_cerebras,startup,alias,0.98,signal:alias_graph(Cerebras Systems Inc.),exact_alias_graph
+"Groq, Inc.",Groq,ent_startup_groq,startup,alias,0.98,signal:exact_normalized(groq),exact_normalized
+"Together AI, Inc.",Together AI,ent_startup_together,startup,alias,0.98,signal:exact_normalized(togetherai),exact_normalized
+Replicate Inc.,Replicate,ent_startup_replicate,startup,alias,0.98,signal:exact_normalized(replicate),exact_normalized
+RunPod Inc.,RunPod,ent_startup_runpod,startup,alias,0.98,signal:alias_graph(RunPod Inc.),exact_alias_graph
+"Scale AI, Inc.",Scale AI,ent_startup_scale,startup,alias,0.98,signal:exact_normalized(scaleai),exact_normalized
+"Labelbox, Inc.",Labelbox,ent_startup_labelbox,startup,alias,0.98,"signal:alias_graph(Labelbox, Inc.)",exact_alias_graph
+"Roboflow, Inc.",Roboflow,ent_startup_roboflow,startup,alias,0.98,"signal:alias_graph(Roboflow, Inc.)",exact_alias_graph
 OpenAI Inc.,OpenAI,ent_startup_openai,startup,alias,0.98,signal:alias_graph(OpenAI Inc.),exact_alias_graph
 Anthropic PBC,Anthropic,ent_startup_anthropic,startup,alias,0.98,signal:alias_graph(Anthropic PBC),exact_alias_graph
 Midjourney Inc.,Midjourney,ent_startup_midjourney,startup,alias,0.98,signal:alias_graph(Midjourney Inc.),exact_alias_graph
@@ -393,8 +713,48 @@ LlamaIndex Inc.,LlamaIndex,ent_startup_llamaindex,startup,alias,0.98,signal:alia
 CrewAI Inc.,CrewAI,ent_startup_crewai,startup,alias,0.98,signal:alias_graph(CrewAI Inc.),exact_alias_graph
 Ollama Inc.,Ollama,ent_startup_ollama,startup,alias,0.98,signal:alias_graph(Ollama Inc.),exact_alias_graph
 "Hugging Face, Inc.",Hugging Face,ent_startup_hugging_face,startup,alias,0.98,"signal:alias_graph(Hugging Face, Inc.)",exact_alias_graph
-Niche Studio 101,,,startup,UNRESOLVED,0.0,signal:unresolved,unresolved
-Niche Studio 102,,,startup,UNRESOLVED,0.0,signal:unresolved,unresolved
+Cohere Inc.,Cohere,ent_startup_cohere,startup,alias,0.98,signal:exact_normalized(cohere),exact_normalized
+"Weights & Biases, Inc.",Weights & Biases,ent_startup_weights_biases,startup,alias,0.98,signal:exact_normalized(weightsandbiases),exact_normalized
+"Databricks, Inc.",Databricks,ent_startup_databricks,startup,alias,0.98,signal:exact_normalized(databricks),exact_normalized
+NVIDIA Corporation,NVIDIA,ent_startup_nvidia,startup,alias,0.98,signal:exact_normalized(nvidia),exact_normalized
+Palantir Technologies Inc.,Palantir,ent_startup_palantir,startup,alias,0.98,signal:alias_graph(Palantir Technologies Inc.),exact_alias_graph
+"DataRobot, Inc.",DataRobot,ent_startup_datarobot,startup,alias,0.98,signal:exact_normalized(datarobot),exact_normalized
+"LangChain, Inc.",LangChain,ent_startup_langchain,startup,alias,0.98,"signal:alias_graph(LangChain, Inc.)",exact_alias_graph
+Langfuse GmbH,Langfuse,ent_startup_langfuse,startup,alias,0.98,signal:alias_graph(Langfuse GmbH),exact_alias_graph
+PromptLayer Inc.,PromptLayer,ent_startup_promptlayer,startup,alias,0.98,signal:alias_graph(PromptLayer Inc.),exact_alias_graph
+Portkey AI Inc.,Portkey,ent_startup_portkey,startup,alias,0.98,signal:alias_graph(Portkey AI Inc.),exact_alias_graph
+Unsloth AI Inc.,Unsloth AI,ent_startup_unsloth,startup,alias,0.98,signal:alias_graph(Unsloth AI Inc.),exact_alias_graph
+Significant Gravitas Ltd.,Significant Gravitas,ent_startup_significant_gravitas,startup,alias,0.98,signal:alias_graph(Significant Gravitas Ltd.),exact_alias_graph
+Baidu Inc.,Baidu,ent_startup_baidu,startup,alias,0.98,signal:alias_graph(Baidu Inc.),exact_alias_graph
+Tencent Holdings Ltd.,Tencent,ent_startup_tencent,startup,alias,0.98,signal:alias_graph(Tencent Holdings Ltd.),exact_alias_graph
+ByteDance Ltd.,ByteDance,ent_startup_bytedance,startup,alias,0.98,signal:alias_graph(ByteDance Ltd.),exact_alias_graph
+Make Inc.,Make,ent_startup_make,startup,alias,0.98,signal:alias_graph(Make Inc.),exact_alias_graph
+Zapier Inc.,Zapier,ent_startup_zapier,startup,alias,0.98,signal:alias_graph(Zapier Inc.),exact_alias_graph
+Krea AI Inc.,Krea,ent_startup_krea,startup,alias,0.98,signal:alias_graph(Krea AI Inc.),exact_alias_graph
+Photoroom SAS,Photoroom,ent_startup_photoroom,startup,alias,0.98,signal:alias_graph(Photoroom SAS),exact_alias_graph
+Topaz Labs LLC,Topaz Labs,ent_startup_topaz,startup,alias,0.98,signal:alias_graph(Topaz Labs LLC),exact_alias_graph
+InVideo Inc.,InVideo,ent_startup_invideo,startup,alias,0.98,signal:alias_graph(InVideo Inc.),exact_alias_graph
+OpusPro Inc.,OpusPro,ent_startup_opuspro,startup,alias,0.98,signal:alias_graph(OpusPro Inc.),exact_alias_graph
+Captions AI Inc.,Captions Inc.,ent_startup_captions,startup,alias,0.98,signal:alias_graph(Captions AI Inc.),exact_alias_graph
+Play.ht Inc.,Play.ht,ent_startup_play_ht,startup,alias,0.98,signal:alias_graph(Play.ht Inc.),exact_alias_graph
+Murf AI Inc.,Murf,ent_startup_murf,startup,alias,0.98,signal:alias_graph(Murf AI Inc.),exact_alias_graph
+Otter.ai Inc.,Otter.ai,ent_startup_otter,startup,alias,0.98,signal:alias_graph(Otter.ai Inc.),exact_alias_graph
+Fireflies.ai Corp.,Fireflies,ent_startup_fireflies,startup,alias,0.98,signal:alias_graph(Fireflies.ai Corp.),exact_alias_graph
+Superhuman Corp.,Superhuman,ent_startup_superhuman,startup,alias,0.98,signal:alias_graph(Superhuman Corp.),exact_alias_graph
+Raycast Technologies Ltd.,Raycast,ent_startup_raycast,startup,alias,0.98,signal:alias_graph(Raycast Technologies Ltd.),exact_alias_graph
+"SuSea, Inc. (You.com)",You.com,ent_startup_you_com,startup,alias,0.98,"signal:alias_graph(SuSea, Inc. (You.com))",exact_alias_graph
+Phind Inc.,Phind,ent_startup_phind,startup,alias,0.98,signal:alias_graph(Phind Inc.),exact_alias_graph
+"Quora, Inc.",Quora,ent_startup_quora,startup,alias,0.98,"signal:alias_graph(Quora, Inc.)",exact_alias_graph
+Character Technologies Inc.,Character.AI,ent_startup_character,startup,alias,0.98,signal:alias_graph(Character Technologies Inc.),exact_alias_graph
+"Luka, Inc.",Luka Inc.,ent_startup_luka,startup,alias,0.98,"signal:alias_graph(Luka, Inc.)",exact_alias_graph
+Cerebras Systems Inc.,Cerebras,ent_startup_cerebras,startup,alias,0.98,signal:alias_graph(Cerebras Systems Inc.),exact_alias_graph
+"Groq, Inc.",Groq,ent_startup_groq,startup,alias,0.98,signal:exact_normalized(groq),exact_normalized
+"Together AI, Inc.",Together AI,ent_startup_together,startup,alias,0.98,signal:exact_normalized(togetherai),exact_normalized
+Replicate Inc.,Replicate,ent_startup_replicate,startup,alias,0.98,signal:exact_normalized(replicate),exact_normalized
+RunPod Inc.,RunPod,ent_startup_runpod,startup,alias,0.98,signal:alias_graph(RunPod Inc.),exact_alias_graph
+"Scale AI, Inc.",Scale AI,ent_startup_scale,startup,alias,0.98,signal:exact_normalized(scaleai),exact_normalized
+"Labelbox, Inc.",Labelbox,ent_startup_labelbox,startup,alias,0.98,"signal:alias_graph(Labelbox, Inc.)",exact_alias_graph
+"Roboflow, Inc.",Roboflow,ent_startup_roboflow,startup,alias,0.98,"signal:alias_graph(Roboflow, Inc.)",exact_alias_graph
 OpenAI Inc.,OpenAI,ent_startup_openai,startup,alias,0.98,signal:alias_graph(OpenAI Inc.),exact_alias_graph
 Anthropic PBC,Anthropic,ent_startup_anthropic,startup,alias,0.98,signal:alias_graph(Anthropic PBC),exact_alias_graph
 Midjourney Inc.,Midjourney,ent_startup_midjourney,startup,alias,0.98,signal:alias_graph(Midjourney Inc.),exact_alias_graph
@@ -437,8 +797,48 @@ LlamaIndex Inc.,LlamaIndex,ent_startup_llamaindex,startup,alias,0.98,signal:alia
 CrewAI Inc.,CrewAI,ent_startup_crewai,startup,alias,0.98,signal:alias_graph(CrewAI Inc.),exact_alias_graph
 Ollama Inc.,Ollama,ent_startup_ollama,startup,alias,0.98,signal:alias_graph(Ollama Inc.),exact_alias_graph
 "Hugging Face, Inc.",Hugging Face,ent_startup_hugging_face,startup,alias,0.98,"signal:alias_graph(Hugging Face, Inc.)",exact_alias_graph
-Niche Studio 101,,,startup,UNRESOLVED,0.0,signal:unresolved,unresolved
-Niche Studio 102,,,startup,UNRESOLVED,0.0,signal:unresolved,unresolved
+Cohere Inc.,Cohere,ent_startup_cohere,startup,alias,0.98,signal:exact_normalized(cohere),exact_normalized
+"Weights & Biases, Inc.",Weights & Biases,ent_startup_weights_biases,startup,alias,0.98,signal:exact_normalized(weightsandbiases),exact_normalized
+"Databricks, Inc.",Databricks,ent_startup_databricks,startup,alias,0.98,signal:exact_normalized(databricks),exact_normalized
+NVIDIA Corporation,NVIDIA,ent_startup_nvidia,startup,alias,0.98,signal:exact_normalized(nvidia),exact_normalized
+Palantir Technologies Inc.,Palantir,ent_startup_palantir,startup,alias,0.98,signal:alias_graph(Palantir Technologies Inc.),exact_alias_graph
+"DataRobot, Inc.",DataRobot,ent_startup_datarobot,startup,alias,0.98,signal:exact_normalized(datarobot),exact_normalized
+"LangChain, Inc.",LangChain,ent_startup_langchain,startup,alias,0.98,"signal:alias_graph(LangChain, Inc.)",exact_alias_graph
+Langfuse GmbH,Langfuse,ent_startup_langfuse,startup,alias,0.98,signal:alias_graph(Langfuse GmbH),exact_alias_graph
+PromptLayer Inc.,PromptLayer,ent_startup_promptlayer,startup,alias,0.98,signal:alias_graph(PromptLayer Inc.),exact_alias_graph
+Portkey AI Inc.,Portkey,ent_startup_portkey,startup,alias,0.98,signal:alias_graph(Portkey AI Inc.),exact_alias_graph
+Unsloth AI Inc.,Unsloth AI,ent_startup_unsloth,startup,alias,0.98,signal:alias_graph(Unsloth AI Inc.),exact_alias_graph
+Significant Gravitas Ltd.,Significant Gravitas,ent_startup_significant_gravitas,startup,alias,0.98,signal:alias_graph(Significant Gravitas Ltd.),exact_alias_graph
+Baidu Inc.,Baidu,ent_startup_baidu,startup,alias,0.98,signal:alias_graph(Baidu Inc.),exact_alias_graph
+Tencent Holdings Ltd.,Tencent,ent_startup_tencent,startup,alias,0.98,signal:alias_graph(Tencent Holdings Ltd.),exact_alias_graph
+ByteDance Ltd.,ByteDance,ent_startup_bytedance,startup,alias,0.98,signal:alias_graph(ByteDance Ltd.),exact_alias_graph
+Make Inc.,Make,ent_startup_make,startup,alias,0.98,signal:alias_graph(Make Inc.),exact_alias_graph
+Zapier Inc.,Zapier,ent_startup_zapier,startup,alias,0.98,signal:alias_graph(Zapier Inc.),exact_alias_graph
+Krea AI Inc.,Krea,ent_startup_krea,startup,alias,0.98,signal:alias_graph(Krea AI Inc.),exact_alias_graph
+Photoroom SAS,Photoroom,ent_startup_photoroom,startup,alias,0.98,signal:alias_graph(Photoroom SAS),exact_alias_graph
+Topaz Labs LLC,Topaz Labs,ent_startup_topaz,startup,alias,0.98,signal:alias_graph(Topaz Labs LLC),exact_alias_graph
+InVideo Inc.,InVideo,ent_startup_invideo,startup,alias,0.98,signal:alias_graph(InVideo Inc.),exact_alias_graph
+OpusPro Inc.,OpusPro,ent_startup_opuspro,startup,alias,0.98,signal:alias_graph(OpusPro Inc.),exact_alias_graph
+Captions AI Inc.,Captions Inc.,ent_startup_captions,startup,alias,0.98,signal:alias_graph(Captions AI Inc.),exact_alias_graph
+Play.ht Inc.,Play.ht,ent_startup_play_ht,startup,alias,0.98,signal:alias_graph(Play.ht Inc.),exact_alias_graph
+Murf AI Inc.,Murf,ent_startup_murf,startup,alias,0.98,signal:alias_graph(Murf AI Inc.),exact_alias_graph
+Otter.ai Inc.,Otter.ai,ent_startup_otter,startup,alias,0.98,signal:alias_graph(Otter.ai Inc.),exact_alias_graph
+Fireflies.ai Corp.,Fireflies,ent_startup_fireflies,startup,alias,0.98,signal:alias_graph(Fireflies.ai Corp.),exact_alias_graph
+Superhuman Corp.,Superhuman,ent_startup_superhuman,startup,alias,0.98,signal:alias_graph(Superhuman Corp.),exact_alias_graph
+Raycast Technologies Ltd.,Raycast,ent_startup_raycast,startup,alias,0.98,signal:alias_graph(Raycast Technologies Ltd.),exact_alias_graph
+"SuSea, Inc. (You.com)",You.com,ent_startup_you_com,startup,alias,0.98,"signal:alias_graph(SuSea, Inc. (You.com))",exact_alias_graph
+Phind Inc.,Phind,ent_startup_phind,startup,alias,0.98,signal:alias_graph(Phind Inc.),exact_alias_graph
+"Quora, Inc.",Quora,ent_startup_quora,startup,alias,0.98,"signal:alias_graph(Quora, Inc.)",exact_alias_graph
+Character Technologies Inc.,Character.AI,ent_startup_character,startup,alias,0.98,signal:alias_graph(Character Technologies Inc.),exact_alias_graph
+"Luka, Inc.",Luka Inc.,ent_startup_luka,startup,alias,0.98,"signal:alias_graph(Luka, Inc.)",exact_alias_graph
+Cerebras Systems Inc.,Cerebras,ent_startup_cerebras,startup,alias,0.98,signal:alias_graph(Cerebras Systems Inc.),exact_alias_graph
+"Groq, Inc.",Groq,ent_startup_groq,startup,alias,0.98,signal:exact_normalized(groq),exact_normalized
+"Together AI, Inc.",Together AI,ent_startup_together,startup,alias,0.98,signal:exact_normalized(togetherai),exact_normalized
+Replicate Inc.,Replicate,ent_startup_replicate,startup,alias,0.98,signal:exact_normalized(replicate),exact_normalized
+RunPod Inc.,RunPod,ent_startup_runpod,startup,alias,0.98,signal:alias_graph(RunPod Inc.),exact_alias_graph
+"Scale AI, Inc.",Scale AI,ent_startup_scale,startup,alias,0.98,signal:exact_normalized(scaleai),exact_normalized
+"Labelbox, Inc.",Labelbox,ent_startup_labelbox,startup,alias,0.98,"signal:alias_graph(Labelbox, Inc.)",exact_alias_graph
+"Roboflow, Inc.",Roboflow,ent_startup_roboflow,startup,alias,0.98,"signal:alias_graph(Roboflow, Inc.)",exact_alias_graph
 OpenAI Inc.,OpenAI,ent_startup_openai,startup,alias,0.98,signal:alias_graph(OpenAI Inc.),exact_alias_graph
 Anthropic PBC,Anthropic,ent_startup_anthropic,startup,alias,0.98,signal:alias_graph(Anthropic PBC),exact_alias_graph
 Midjourney Inc.,Midjourney,ent_startup_midjourney,startup,alias,0.98,signal:alias_graph(Midjourney Inc.),exact_alias_graph
@@ -481,8 +881,48 @@ LlamaIndex Inc.,LlamaIndex,ent_startup_llamaindex,startup,alias,0.98,signal:alia
 CrewAI Inc.,CrewAI,ent_startup_crewai,startup,alias,0.98,signal:alias_graph(CrewAI Inc.),exact_alias_graph
 Ollama Inc.,Ollama,ent_startup_ollama,startup,alias,0.98,signal:alias_graph(Ollama Inc.),exact_alias_graph
 "Hugging Face, Inc.",Hugging Face,ent_startup_hugging_face,startup,alias,0.98,"signal:alias_graph(Hugging Face, Inc.)",exact_alias_graph
-Niche Studio 101,,,startup,UNRESOLVED,0.0,signal:unresolved,unresolved
-Niche Studio 102,,,startup,UNRESOLVED,0.0,signal:unresolved,unresolved
+Cohere Inc.,Cohere,ent_startup_cohere,startup,alias,0.98,signal:exact_normalized(cohere),exact_normalized
+"Weights & Biases, Inc.",Weights & Biases,ent_startup_weights_biases,startup,alias,0.98,signal:exact_normalized(weightsandbiases),exact_normalized
+"Databricks, Inc.",Databricks,ent_startup_databricks,startup,alias,0.98,signal:exact_normalized(databricks),exact_normalized
+NVIDIA Corporation,NVIDIA,ent_startup_nvidia,startup,alias,0.98,signal:exact_normalized(nvidia),exact_normalized
+Palantir Technologies Inc.,Palantir,ent_startup_palantir,startup,alias,0.98,signal:alias_graph(Palantir Technologies Inc.),exact_alias_graph
+"DataRobot, Inc.",DataRobot,ent_startup_datarobot,startup,alias,0.98,signal:exact_normalized(datarobot),exact_normalized
+"LangChain, Inc.",LangChain,ent_startup_langchain,startup,alias,0.98,"signal:alias_graph(LangChain, Inc.)",exact_alias_graph
+Langfuse GmbH,Langfuse,ent_startup_langfuse,startup,alias,0.98,signal:alias_graph(Langfuse GmbH),exact_alias_graph
+PromptLayer Inc.,PromptLayer,ent_startup_promptlayer,startup,alias,0.98,signal:alias_graph(PromptLayer Inc.),exact_alias_graph
+Portkey AI Inc.,Portkey,ent_startup_portkey,startup,alias,0.98,signal:alias_graph(Portkey AI Inc.),exact_alias_graph
+Unsloth AI Inc.,Unsloth AI,ent_startup_unsloth,startup,alias,0.98,signal:alias_graph(Unsloth AI Inc.),exact_alias_graph
+Significant Gravitas Ltd.,Significant Gravitas,ent_startup_significant_gravitas,startup,alias,0.98,signal:alias_graph(Significant Gravitas Ltd.),exact_alias_graph
+Baidu Inc.,Baidu,ent_startup_baidu,startup,alias,0.98,signal:alias_graph(Baidu Inc.),exact_alias_graph
+Tencent Holdings Ltd.,Tencent,ent_startup_tencent,startup,alias,0.98,signal:alias_graph(Tencent Holdings Ltd.),exact_alias_graph
+ByteDance Ltd.,ByteDance,ent_startup_bytedance,startup,alias,0.98,signal:alias_graph(ByteDance Ltd.),exact_alias_graph
+Make Inc.,Make,ent_startup_make,startup,alias,0.98,signal:alias_graph(Make Inc.),exact_alias_graph
+Zapier Inc.,Zapier,ent_startup_zapier,startup,alias,0.98,signal:alias_graph(Zapier Inc.),exact_alias_graph
+Krea AI Inc.,Krea,ent_startup_krea,startup,alias,0.98,signal:alias_graph(Krea AI Inc.),exact_alias_graph
+Photoroom SAS,Photoroom,ent_startup_photoroom,startup,alias,0.98,signal:alias_graph(Photoroom SAS),exact_alias_graph
+Topaz Labs LLC,Topaz Labs,ent_startup_topaz,startup,alias,0.98,signal:alias_graph(Topaz Labs LLC),exact_alias_graph
+InVideo Inc.,InVideo,ent_startup_invideo,startup,alias,0.98,signal:alias_graph(InVideo Inc.),exact_alias_graph
+OpusPro Inc.,OpusPro,ent_startup_opuspro,startup,alias,0.98,signal:alias_graph(OpusPro Inc.),exact_alias_graph
+Captions AI Inc.,Captions Inc.,ent_startup_captions,startup,alias,0.98,signal:alias_graph(Captions AI Inc.),exact_alias_graph
+Play.ht Inc.,Play.ht,ent_startup_play_ht,startup,alias,0.98,signal:alias_graph(Play.ht Inc.),exact_alias_graph
+Murf AI Inc.,Murf,ent_startup_murf,startup,alias,0.98,signal:alias_graph(Murf AI Inc.),exact_alias_graph
+Otter.ai Inc.,Otter.ai,ent_startup_otter,startup,alias,0.98,signal:alias_graph(Otter.ai Inc.),exact_alias_graph
+Fireflies.ai Corp.,Fireflies,ent_startup_fireflies,startup,alias,0.98,signal:alias_graph(Fireflies.ai Corp.),exact_alias_graph
+Superhuman Corp.,Superhuman,ent_startup_superhuman,startup,alias,0.98,signal:alias_graph(Superhuman Corp.),exact_alias_graph
+Raycast Technologies Ltd.,Raycast,ent_startup_raycast,startup,alias,0.98,signal:alias_graph(Raycast Technologies Ltd.),exact_alias_graph
+"SuSea, Inc. (You.com)",You.com,ent_startup_you_com,startup,alias,0.98,"signal:alias_graph(SuSea, Inc. (You.com))",exact_alias_graph
+Phind Inc.,Phind,ent_startup_phind,startup,alias,0.98,signal:alias_graph(Phind Inc.),exact_alias_graph
+"Quora, Inc.",Quora,ent_startup_quora,startup,alias,0.98,"signal:alias_graph(Quora, Inc.)",exact_alias_graph
+Character Technologies Inc.,Character.AI,ent_startup_character,startup,alias,0.98,signal:alias_graph(Character Technologies Inc.),exact_alias_graph
+"Luka, Inc.",Luka Inc.,ent_startup_luka,startup,alias,0.98,"signal:alias_graph(Luka, Inc.)",exact_alias_graph
+Cerebras Systems Inc.,Cerebras,ent_startup_cerebras,startup,alias,0.98,signal:alias_graph(Cerebras Systems Inc.),exact_alias_graph
+"Groq, Inc.",Groq,ent_startup_groq,startup,alias,0.98,signal:exact_normalized(groq),exact_normalized
+"Together AI, Inc.",Together AI,ent_startup_together,startup,alias,0.98,signal:exact_normalized(togetherai),exact_normalized
+Replicate Inc.,Replicate,ent_startup_replicate,startup,alias,0.98,signal:exact_normalized(replicate),exact_normalized
+RunPod Inc.,RunPod,ent_startup_runpod,startup,alias,0.98,signal:alias_graph(RunPod Inc.),exact_alias_graph
+"Scale AI, Inc.",Scale AI,ent_startup_scale,startup,alias,0.98,signal:exact_normalized(scaleai),exact_normalized
+"Labelbox, Inc.",Labelbox,ent_startup_labelbox,startup,alias,0.98,"signal:alias_graph(Labelbox, Inc.)",exact_alias_graph
+"Roboflow, Inc.",Roboflow,ent_startup_roboflow,startup,alias,0.98,"signal:alias_graph(Roboflow, Inc.)",exact_alias_graph
 OpenAI Inc.,OpenAI,ent_startup_openai,startup,alias,0.98,signal:alias_graph(OpenAI Inc.),exact_alias_graph
 Anthropic PBC,Anthropic,ent_startup_anthropic,startup,alias,0.98,signal:alias_graph(Anthropic PBC),exact_alias_graph
 Midjourney Inc.,Midjourney,ent_startup_midjourney,startup,alias,0.98,signal:alias_graph(Midjourney Inc.),exact_alias_graph
@@ -525,477 +965,37 @@ LlamaIndex Inc.,LlamaIndex,ent_startup_llamaindex,startup,alias,0.98,signal:alia
 CrewAI Inc.,CrewAI,ent_startup_crewai,startup,alias,0.98,signal:alias_graph(CrewAI Inc.),exact_alias_graph
 Ollama Inc.,Ollama,ent_startup_ollama,startup,alias,0.98,signal:alias_graph(Ollama Inc.),exact_alias_graph
 "Hugging Face, Inc.",Hugging Face,ent_startup_hugging_face,startup,alias,0.98,"signal:alias_graph(Hugging Face, Inc.)",exact_alias_graph
-Niche Studio 101,,,startup,UNRESOLVED,0.0,signal:unresolved,unresolved
-Niche Studio 102,,,startup,UNRESOLVED,0.0,signal:unresolved,unresolved
-OpenAI Inc.,OpenAI,ent_startup_openai,startup,alias,0.98,signal:alias_graph(OpenAI Inc.),exact_alias_graph
-Anthropic PBC,Anthropic,ent_startup_anthropic,startup,alias,0.98,signal:alias_graph(Anthropic PBC),exact_alias_graph
-Midjourney Inc.,Midjourney,ent_startup_midjourney,startup,alias,0.98,signal:alias_graph(Midjourney Inc.),exact_alias_graph
-Microsoft Corporation,Microsoft,ent_startup_microsoft,startup,alias,0.98,signal:alias_graph(Microsoft Corporation),exact_alias_graph
-Perplexity AI Inc.,Perplexity,ent_startup_perplexity,startup,alias,0.98,signal:alias_graph(Perplexity AI Inc.),exact_alias_graph
-Google LLC,Google,ent_startup_google,startup,alias,0.98,signal:alias_graph(Google LLC),exact_alias_graph
-Stability AI Ltd.,Stability AI,ent_startup_stability,startup,alias,0.98,signal:alias_graph(Stability AI Ltd.),exact_alias_graph
-ElevenLabs Inc.,ElevenLabs,ent_startup_elevenlabs,startup,alias,0.98,signal:alias_graph(ElevenLabs Inc.),exact_alias_graph
-"Runway AI, Inc.",Runway,ent_startup_runway,startup,alias,0.98,"signal:alias_graph(Runway AI, Inc.)",exact_alias_graph
-OpenAI Inc.,OpenAI,ent_startup_openai,startup,alias,0.98,signal:alias_graph(OpenAI Inc.),exact_alias_graph
-"Meta Platforms, Inc.",Meta,ent_startup_meta,startup,alias,0.98,"signal:alias_graph(Meta Platforms, Inc.)",exact_alias_graph
-DeepSeek Inc.,DeepSeek,ent_startup_deepseek,startup,alias,0.98,signal:alias_graph(DeepSeek Inc.),exact_alias_graph
-Mistral AI SAS,Mistral AI,ent_startup_mistral,startup,alias,0.98,signal:alias_graph(Mistral AI SAS),exact_alias_graph
-Alibaba Cloud Computing Ltd.,Alibaba Cloud,ent_startup_alibaba_cloud,startup,alias,0.98,signal:alias_graph(Alibaba Cloud Computing Ltd.),exact_alias_graph
-"Pika Labs, Inc.",Pika Labs,ent_startup_pika,startup,alias,0.98,"signal:alias_graph(Pika Labs, Inc.)",exact_alias_graph
-Suno AI Inc.,Suno AI,ent_startup_suno,startup,alias,0.98,signal:alias_graph(Suno AI Inc.),exact_alias_graph
-"Uncharted Labs, Inc. (Udio)",Udio,ent_startup_udio,startup,alias,0.98,"signal:alias_graph(Uncharted Labs, Inc. (Udio))",exact_alias_graph
-Kuaishou Technology Ltd.,Kuaishou,ent_startup_kuaishou,startup,alias,0.98,signal:alias_graph(Kuaishou Technology Ltd.),exact_alias_graph
-Black Forest Labs GmbH,Black Forest Labs,ent_startup_black_forest,startup,alias,0.98,signal:alias_graph(Black Forest Labs GmbH),exact_alias_graph
-Ideogram AI Inc.,Ideogram,ent_startup_ideogram,startup,alias,0.98,signal:alias_graph(Ideogram AI Inc.),exact_alias_graph
-Luma AI Inc.,Luma AI,ent_startup_luma,startup,alias,0.98,signal:alias_graph(Luma AI Inc.),exact_alias_graph
-Jasper AI Inc.,Jasper,ent_startup_jasper,startup,alias,0.98,signal:alias_graph(Jasper AI Inc.),exact_alias_graph
-Copy.ai Inc.,Copy.ai,ent_startup_copy,startup,alias,0.98,signal:alias_graph(Copy.ai Inc.),exact_alias_graph
-Descript Inc.,Descript,ent_startup_descript,startup,alias,0.98,signal:alias_graph(Descript Inc.),exact_alias_graph
-HeyGen Inc.,HeyGen,ent_startup_heygen,startup,alias,0.98,signal:alias_graph(HeyGen Inc.),exact_alias_graph
-Synthesia Ltd.,Synthesia,ent_startup_synthesia,startup,alias,0.98,signal:alias_graph(Synthesia Ltd.),exact_alias_graph
-Anysphere Inc. (Cursor),Anysphere,ent_startup_anysphere,startup,alias,0.98,signal:alias_graph(Anysphere Inc. (Cursor)),exact_alias_graph
-Replit Inc.,Replit,ent_startup_replit,startup,alias,0.98,signal:alias_graph(Replit Inc.),exact_alias_graph
-Vercel Inc.,Vercel,ent_startup_vercel,startup,alias,0.98,signal:alias_graph(Vercel Inc.),exact_alias_graph
-StackBlitz Inc.,StackBlitz,ent_startup_stackblitz,startup,alias,0.98,signal:alias_graph(StackBlitz Inc.),exact_alias_graph
-Cognition AI Inc.,Cognition,ent_startup_cognition,startup,alias,0.98,signal:alias_graph(Cognition AI Inc.),exact_alias_graph
-Harvey AI Inc.,Harvey,ent_startup_harvey,startup,alias,0.98,signal:alias_graph(Harvey AI Inc.),exact_alias_graph
-"Pinecone Systems, Inc.",Pinecone,ent_startup_pinecone,startup,alias,0.98,"signal:alias_graph(Pinecone Systems, Inc.)",exact_alias_graph
-Qdrant Solutions GmbH,Qdrant,ent_startup_qdrant,startup,alias,0.98,signal:alias_graph(Qdrant Solutions GmbH),exact_alias_graph
-Zilliz Inc.,Zilliz,ent_startup_zilliz,startup,alias,0.98,signal:alias_graph(Zilliz Inc.),exact_alias_graph
-Chroma Inc.,Chroma,ent_startup_chroma,startup,alias,0.98,signal:alias_graph(Chroma Inc.),exact_alias_graph
-Weaviate B.V.,Weaviate,ent_startup_weaviate,startup,alias,0.98,signal:alias_graph(Weaviate B.V.),exact_alias_graph
+Cohere Inc.,Cohere,ent_startup_cohere,startup,alias,0.98,signal:exact_normalized(cohere),exact_normalized
+"Weights & Biases, Inc.",Weights & Biases,ent_startup_weights_biases,startup,alias,0.98,signal:exact_normalized(weightsandbiases),exact_normalized
+"Databricks, Inc.",Databricks,ent_startup_databricks,startup,alias,0.98,signal:exact_normalized(databricks),exact_normalized
+NVIDIA Corporation,NVIDIA,ent_startup_nvidia,startup,alias,0.98,signal:exact_normalized(nvidia),exact_normalized
+Palantir Technologies Inc.,Palantir,ent_startup_palantir,startup,alias,0.98,signal:alias_graph(Palantir Technologies Inc.),exact_alias_graph
+"DataRobot, Inc.",DataRobot,ent_startup_datarobot,startup,alias,0.98,signal:exact_normalized(datarobot),exact_normalized
 "LangChain, Inc.",LangChain,ent_startup_langchain,startup,alias,0.98,"signal:alias_graph(LangChain, Inc.)",exact_alias_graph
-LlamaIndex Inc.,LlamaIndex,ent_startup_llamaindex,startup,alias,0.98,signal:alias_graph(LlamaIndex Inc.),exact_alias_graph
-CrewAI Inc.,CrewAI,ent_startup_crewai,startup,alias,0.98,signal:alias_graph(CrewAI Inc.),exact_alias_graph
-Ollama Inc.,Ollama,ent_startup_ollama,startup,alias,0.98,signal:alias_graph(Ollama Inc.),exact_alias_graph
-"Hugging Face, Inc.",Hugging Face,ent_startup_hugging_face,startup,alias,0.98,"signal:alias_graph(Hugging Face, Inc.)",exact_alias_graph
-Niche Studio 101,,,startup,UNRESOLVED,0.0,signal:unresolved,unresolved
-Niche Studio 102,,,startup,UNRESOLVED,0.0,signal:unresolved,unresolved
-OpenAI Inc.,OpenAI,ent_startup_openai,startup,alias,0.98,signal:alias_graph(OpenAI Inc.),exact_alias_graph
-Anthropic PBC,Anthropic,ent_startup_anthropic,startup,alias,0.98,signal:alias_graph(Anthropic PBC),exact_alias_graph
-Midjourney Inc.,Midjourney,ent_startup_midjourney,startup,alias,0.98,signal:alias_graph(Midjourney Inc.),exact_alias_graph
-Microsoft Corporation,Microsoft,ent_startup_microsoft,startup,alias,0.98,signal:alias_graph(Microsoft Corporation),exact_alias_graph
-Perplexity AI Inc.,Perplexity,ent_startup_perplexity,startup,alias,0.98,signal:alias_graph(Perplexity AI Inc.),exact_alias_graph
-Google LLC,Google,ent_startup_google,startup,alias,0.98,signal:alias_graph(Google LLC),exact_alias_graph
-Stability AI Ltd.,Stability AI,ent_startup_stability,startup,alias,0.98,signal:alias_graph(Stability AI Ltd.),exact_alias_graph
-ElevenLabs Inc.,ElevenLabs,ent_startup_elevenlabs,startup,alias,0.98,signal:alias_graph(ElevenLabs Inc.),exact_alias_graph
-"Runway AI, Inc.",Runway,ent_startup_runway,startup,alias,0.98,"signal:alias_graph(Runway AI, Inc.)",exact_alias_graph
-OpenAI Inc.,OpenAI,ent_startup_openai,startup,alias,0.98,signal:alias_graph(OpenAI Inc.),exact_alias_graph
-"Meta Platforms, Inc.",Meta,ent_startup_meta,startup,alias,0.98,"signal:alias_graph(Meta Platforms, Inc.)",exact_alias_graph
-DeepSeek Inc.,DeepSeek,ent_startup_deepseek,startup,alias,0.98,signal:alias_graph(DeepSeek Inc.),exact_alias_graph
-Mistral AI SAS,Mistral AI,ent_startup_mistral,startup,alias,0.98,signal:alias_graph(Mistral AI SAS),exact_alias_graph
-Alibaba Cloud Computing Ltd.,Alibaba Cloud,ent_startup_alibaba_cloud,startup,alias,0.98,signal:alias_graph(Alibaba Cloud Computing Ltd.),exact_alias_graph
-"Pika Labs, Inc.",Pika Labs,ent_startup_pika,startup,alias,0.98,"signal:alias_graph(Pika Labs, Inc.)",exact_alias_graph
-Suno AI Inc.,Suno AI,ent_startup_suno,startup,alias,0.98,signal:alias_graph(Suno AI Inc.),exact_alias_graph
-"Uncharted Labs, Inc. (Udio)",Udio,ent_startup_udio,startup,alias,0.98,"signal:alias_graph(Uncharted Labs, Inc. (Udio))",exact_alias_graph
-Kuaishou Technology Ltd.,Kuaishou,ent_startup_kuaishou,startup,alias,0.98,signal:alias_graph(Kuaishou Technology Ltd.),exact_alias_graph
-Black Forest Labs GmbH,Black Forest Labs,ent_startup_black_forest,startup,alias,0.98,signal:alias_graph(Black Forest Labs GmbH),exact_alias_graph
-Ideogram AI Inc.,Ideogram,ent_startup_ideogram,startup,alias,0.98,signal:alias_graph(Ideogram AI Inc.),exact_alias_graph
-Luma AI Inc.,Luma AI,ent_startup_luma,startup,alias,0.98,signal:alias_graph(Luma AI Inc.),exact_alias_graph
-Jasper AI Inc.,Jasper,ent_startup_jasper,startup,alias,0.98,signal:alias_graph(Jasper AI Inc.),exact_alias_graph
-Copy.ai Inc.,Copy.ai,ent_startup_copy,startup,alias,0.98,signal:alias_graph(Copy.ai Inc.),exact_alias_graph
-Descript Inc.,Descript,ent_startup_descript,startup,alias,0.98,signal:alias_graph(Descript Inc.),exact_alias_graph
-HeyGen Inc.,HeyGen,ent_startup_heygen,startup,alias,0.98,signal:alias_graph(HeyGen Inc.),exact_alias_graph
-Synthesia Ltd.,Synthesia,ent_startup_synthesia,startup,alias,0.98,signal:alias_graph(Synthesia Ltd.),exact_alias_graph
-Anysphere Inc. (Cursor),Anysphere,ent_startup_anysphere,startup,alias,0.98,signal:alias_graph(Anysphere Inc. (Cursor)),exact_alias_graph
-Replit Inc.,Replit,ent_startup_replit,startup,alias,0.98,signal:alias_graph(Replit Inc.),exact_alias_graph
-Vercel Inc.,Vercel,ent_startup_vercel,startup,alias,0.98,signal:alias_graph(Vercel Inc.),exact_alias_graph
-StackBlitz Inc.,StackBlitz,ent_startup_stackblitz,startup,alias,0.98,signal:alias_graph(StackBlitz Inc.),exact_alias_graph
-Cognition AI Inc.,Cognition,ent_startup_cognition,startup,alias,0.98,signal:alias_graph(Cognition AI Inc.),exact_alias_graph
-Harvey AI Inc.,Harvey,ent_startup_harvey,startup,alias,0.98,signal:alias_graph(Harvey AI Inc.),exact_alias_graph
-"Pinecone Systems, Inc.",Pinecone,ent_startup_pinecone,startup,alias,0.98,"signal:alias_graph(Pinecone Systems, Inc.)",exact_alias_graph
-Qdrant Solutions GmbH,Qdrant,ent_startup_qdrant,startup,alias,0.98,signal:alias_graph(Qdrant Solutions GmbH),exact_alias_graph
-Zilliz Inc.,Zilliz,ent_startup_zilliz,startup,alias,0.98,signal:alias_graph(Zilliz Inc.),exact_alias_graph
-Chroma Inc.,Chroma,ent_startup_chroma,startup,alias,0.98,signal:alias_graph(Chroma Inc.),exact_alias_graph
-Weaviate B.V.,Weaviate,ent_startup_weaviate,startup,alias,0.98,signal:alias_graph(Weaviate B.V.),exact_alias_graph
-"LangChain, Inc.",LangChain,ent_startup_langchain,startup,alias,0.98,"signal:alias_graph(LangChain, Inc.)",exact_alias_graph
-LlamaIndex Inc.,LlamaIndex,ent_startup_llamaindex,startup,alias,0.98,signal:alias_graph(LlamaIndex Inc.),exact_alias_graph
-CrewAI Inc.,CrewAI,ent_startup_crewai,startup,alias,0.98,signal:alias_graph(CrewAI Inc.),exact_alias_graph
-Ollama Inc.,Ollama,ent_startup_ollama,startup,alias,0.98,signal:alias_graph(Ollama Inc.),exact_alias_graph
-"Hugging Face, Inc.",Hugging Face,ent_startup_hugging_face,startup,alias,0.98,"signal:alias_graph(Hugging Face, Inc.)",exact_alias_graph
-Niche Studio 101,,,startup,UNRESOLVED,0.0,signal:unresolved,unresolved
-Niche Studio 102,,,startup,UNRESOLVED,0.0,signal:unresolved,unresolved
-OpenAI Inc.,OpenAI,ent_startup_openai,startup,alias,0.98,signal:alias_graph(OpenAI Inc.),exact_alias_graph
-Anthropic PBC,Anthropic,ent_startup_anthropic,startup,alias,0.98,signal:alias_graph(Anthropic PBC),exact_alias_graph
-Midjourney Inc.,Midjourney,ent_startup_midjourney,startup,alias,0.98,signal:alias_graph(Midjourney Inc.),exact_alias_graph
-Microsoft Corporation,Microsoft,ent_startup_microsoft,startup,alias,0.98,signal:alias_graph(Microsoft Corporation),exact_alias_graph
-Perplexity AI Inc.,Perplexity,ent_startup_perplexity,startup,alias,0.98,signal:alias_graph(Perplexity AI Inc.),exact_alias_graph
-Google LLC,Google,ent_startup_google,startup,alias,0.98,signal:alias_graph(Google LLC),exact_alias_graph
-Stability AI Ltd.,Stability AI,ent_startup_stability,startup,alias,0.98,signal:alias_graph(Stability AI Ltd.),exact_alias_graph
-ElevenLabs Inc.,ElevenLabs,ent_startup_elevenlabs,startup,alias,0.98,signal:alias_graph(ElevenLabs Inc.),exact_alias_graph
-"Runway AI, Inc.",Runway,ent_startup_runway,startup,alias,0.98,"signal:alias_graph(Runway AI, Inc.)",exact_alias_graph
-OpenAI Inc.,OpenAI,ent_startup_openai,startup,alias,0.98,signal:alias_graph(OpenAI Inc.),exact_alias_graph
-"Meta Platforms, Inc.",Meta,ent_startup_meta,startup,alias,0.98,"signal:alias_graph(Meta Platforms, Inc.)",exact_alias_graph
-DeepSeek Inc.,DeepSeek,ent_startup_deepseek,startup,alias,0.98,signal:alias_graph(DeepSeek Inc.),exact_alias_graph
-Mistral AI SAS,Mistral AI,ent_startup_mistral,startup,alias,0.98,signal:alias_graph(Mistral AI SAS),exact_alias_graph
-Alibaba Cloud Computing Ltd.,Alibaba Cloud,ent_startup_alibaba_cloud,startup,alias,0.98,signal:alias_graph(Alibaba Cloud Computing Ltd.),exact_alias_graph
-"Pika Labs, Inc.",Pika Labs,ent_startup_pika,startup,alias,0.98,"signal:alias_graph(Pika Labs, Inc.)",exact_alias_graph
-Suno AI Inc.,Suno AI,ent_startup_suno,startup,alias,0.98,signal:alias_graph(Suno AI Inc.),exact_alias_graph
-"Uncharted Labs, Inc. (Udio)",Udio,ent_startup_udio,startup,alias,0.98,"signal:alias_graph(Uncharted Labs, Inc. (Udio))",exact_alias_graph
-Kuaishou Technology Ltd.,Kuaishou,ent_startup_kuaishou,startup,alias,0.98,signal:alias_graph(Kuaishou Technology Ltd.),exact_alias_graph
-Black Forest Labs GmbH,Black Forest Labs,ent_startup_black_forest,startup,alias,0.98,signal:alias_graph(Black Forest Labs GmbH),exact_alias_graph
-Ideogram AI Inc.,Ideogram,ent_startup_ideogram,startup,alias,0.98,signal:alias_graph(Ideogram AI Inc.),exact_alias_graph
-Luma AI Inc.,Luma AI,ent_startup_luma,startup,alias,0.98,signal:alias_graph(Luma AI Inc.),exact_alias_graph
-Jasper AI Inc.,Jasper,ent_startup_jasper,startup,alias,0.98,signal:alias_graph(Jasper AI Inc.),exact_alias_graph
-Copy.ai Inc.,Copy.ai,ent_startup_copy,startup,alias,0.98,signal:alias_graph(Copy.ai Inc.),exact_alias_graph
-Descript Inc.,Descript,ent_startup_descript,startup,alias,0.98,signal:alias_graph(Descript Inc.),exact_alias_graph
-HeyGen Inc.,HeyGen,ent_startup_heygen,startup,alias,0.98,signal:alias_graph(HeyGen Inc.),exact_alias_graph
-Synthesia Ltd.,Synthesia,ent_startup_synthesia,startup,alias,0.98,signal:alias_graph(Synthesia Ltd.),exact_alias_graph
-Anysphere Inc. (Cursor),Anysphere,ent_startup_anysphere,startup,alias,0.98,signal:alias_graph(Anysphere Inc. (Cursor)),exact_alias_graph
-Replit Inc.,Replit,ent_startup_replit,startup,alias,0.98,signal:alias_graph(Replit Inc.),exact_alias_graph
-Vercel Inc.,Vercel,ent_startup_vercel,startup,alias,0.98,signal:alias_graph(Vercel Inc.),exact_alias_graph
-StackBlitz Inc.,StackBlitz,ent_startup_stackblitz,startup,alias,0.98,signal:alias_graph(StackBlitz Inc.),exact_alias_graph
-Cognition AI Inc.,Cognition,ent_startup_cognition,startup,alias,0.98,signal:alias_graph(Cognition AI Inc.),exact_alias_graph
-Harvey AI Inc.,Harvey,ent_startup_harvey,startup,alias,0.98,signal:alias_graph(Harvey AI Inc.),exact_alias_graph
-"Pinecone Systems, Inc.",Pinecone,ent_startup_pinecone,startup,alias,0.98,"signal:alias_graph(Pinecone Systems, Inc.)",exact_alias_graph
-Qdrant Solutions GmbH,Qdrant,ent_startup_qdrant,startup,alias,0.98,signal:alias_graph(Qdrant Solutions GmbH),exact_alias_graph
-Zilliz Inc.,Zilliz,ent_startup_zilliz,startup,alias,0.98,signal:alias_graph(Zilliz Inc.),exact_alias_graph
-Chroma Inc.,Chroma,ent_startup_chroma,startup,alias,0.98,signal:alias_graph(Chroma Inc.),exact_alias_graph
-Weaviate B.V.,Weaviate,ent_startup_weaviate,startup,alias,0.98,signal:alias_graph(Weaviate B.V.),exact_alias_graph
-"LangChain, Inc.",LangChain,ent_startup_langchain,startup,alias,0.98,"signal:alias_graph(LangChain, Inc.)",exact_alias_graph
-LlamaIndex Inc.,LlamaIndex,ent_startup_llamaindex,startup,alias,0.98,signal:alias_graph(LlamaIndex Inc.),exact_alias_graph
-CrewAI Inc.,CrewAI,ent_startup_crewai,startup,alias,0.98,signal:alias_graph(CrewAI Inc.),exact_alias_graph
-Ollama Inc.,Ollama,ent_startup_ollama,startup,alias,0.98,signal:alias_graph(Ollama Inc.),exact_alias_graph
-"Hugging Face, Inc.",Hugging Face,ent_startup_hugging_face,startup,alias,0.98,"signal:alias_graph(Hugging Face, Inc.)",exact_alias_graph
-Niche Studio 101,,,startup,UNRESOLVED,0.0,signal:unresolved,unresolved
-Niche Studio 102,,,startup,UNRESOLVED,0.0,signal:unresolved,unresolved
-OpenAI Inc.,OpenAI,ent_startup_openai,startup,alias,0.98,signal:alias_graph(OpenAI Inc.),exact_alias_graph
-Anthropic PBC,Anthropic,ent_startup_anthropic,startup,alias,0.98,signal:alias_graph(Anthropic PBC),exact_alias_graph
-Midjourney Inc.,Midjourney,ent_startup_midjourney,startup,alias,0.98,signal:alias_graph(Midjourney Inc.),exact_alias_graph
-Microsoft Corporation,Microsoft,ent_startup_microsoft,startup,alias,0.98,signal:alias_graph(Microsoft Corporation),exact_alias_graph
-Perplexity AI Inc.,Perplexity,ent_startup_perplexity,startup,alias,0.98,signal:alias_graph(Perplexity AI Inc.),exact_alias_graph
-Google LLC,Google,ent_startup_google,startup,alias,0.98,signal:alias_graph(Google LLC),exact_alias_graph
-Stability AI Ltd.,Stability AI,ent_startup_stability,startup,alias,0.98,signal:alias_graph(Stability AI Ltd.),exact_alias_graph
-ElevenLabs Inc.,ElevenLabs,ent_startup_elevenlabs,startup,alias,0.98,signal:alias_graph(ElevenLabs Inc.),exact_alias_graph
-"Runway AI, Inc.",Runway,ent_startup_runway,startup,alias,0.98,"signal:alias_graph(Runway AI, Inc.)",exact_alias_graph
-OpenAI Inc.,OpenAI,ent_startup_openai,startup,alias,0.98,signal:alias_graph(OpenAI Inc.),exact_alias_graph
-"Meta Platforms, Inc.",Meta,ent_startup_meta,startup,alias,0.98,"signal:alias_graph(Meta Platforms, Inc.)",exact_alias_graph
-DeepSeek Inc.,DeepSeek,ent_startup_deepseek,startup,alias,0.98,signal:alias_graph(DeepSeek Inc.),exact_alias_graph
-Mistral AI SAS,Mistral AI,ent_startup_mistral,startup,alias,0.98,signal:alias_graph(Mistral AI SAS),exact_alias_graph
-Alibaba Cloud Computing Ltd.,Alibaba Cloud,ent_startup_alibaba_cloud,startup,alias,0.98,signal:alias_graph(Alibaba Cloud Computing Ltd.),exact_alias_graph
-"Pika Labs, Inc.",Pika Labs,ent_startup_pika,startup,alias,0.98,"signal:alias_graph(Pika Labs, Inc.)",exact_alias_graph
-Suno AI Inc.,Suno AI,ent_startup_suno,startup,alias,0.98,signal:alias_graph(Suno AI Inc.),exact_alias_graph
-"Uncharted Labs, Inc. (Udio)",Udio,ent_startup_udio,startup,alias,0.98,"signal:alias_graph(Uncharted Labs, Inc. (Udio))",exact_alias_graph
-Kuaishou Technology Ltd.,Kuaishou,ent_startup_kuaishou,startup,alias,0.98,signal:alias_graph(Kuaishou Technology Ltd.),exact_alias_graph
-Black Forest Labs GmbH,Black Forest Labs,ent_startup_black_forest,startup,alias,0.98,signal:alias_graph(Black Forest Labs GmbH),exact_alias_graph
-Ideogram AI Inc.,Ideogram,ent_startup_ideogram,startup,alias,0.98,signal:alias_graph(Ideogram AI Inc.),exact_alias_graph
-Luma AI Inc.,Luma AI,ent_startup_luma,startup,alias,0.98,signal:alias_graph(Luma AI Inc.),exact_alias_graph
-Jasper AI Inc.,Jasper,ent_startup_jasper,startup,alias,0.98,signal:alias_graph(Jasper AI Inc.),exact_alias_graph
-Copy.ai Inc.,Copy.ai,ent_startup_copy,startup,alias,0.98,signal:alias_graph(Copy.ai Inc.),exact_alias_graph
-Descript Inc.,Descript,ent_startup_descript,startup,alias,0.98,signal:alias_graph(Descript Inc.),exact_alias_graph
-HeyGen Inc.,HeyGen,ent_startup_heygen,startup,alias,0.98,signal:alias_graph(HeyGen Inc.),exact_alias_graph
-Synthesia Ltd.,Synthesia,ent_startup_synthesia,startup,alias,0.98,signal:alias_graph(Synthesia Ltd.),exact_alias_graph
-Anysphere Inc. (Cursor),Anysphere,ent_startup_anysphere,startup,alias,0.98,signal:alias_graph(Anysphere Inc. (Cursor)),exact_alias_graph
-Replit Inc.,Replit,ent_startup_replit,startup,alias,0.98,signal:alias_graph(Replit Inc.),exact_alias_graph
-Vercel Inc.,Vercel,ent_startup_vercel,startup,alias,0.98,signal:alias_graph(Vercel Inc.),exact_alias_graph
-StackBlitz Inc.,StackBlitz,ent_startup_stackblitz,startup,alias,0.98,signal:alias_graph(StackBlitz Inc.),exact_alias_graph
-Cognition AI Inc.,Cognition,ent_startup_cognition,startup,alias,0.98,signal:alias_graph(Cognition AI Inc.),exact_alias_graph
-Harvey AI Inc.,Harvey,ent_startup_harvey,startup,alias,0.98,signal:alias_graph(Harvey AI Inc.),exact_alias_graph
-"Pinecone Systems, Inc.",Pinecone,ent_startup_pinecone,startup,alias,0.98,"signal:alias_graph(Pinecone Systems, Inc.)",exact_alias_graph
-Qdrant Solutions GmbH,Qdrant,ent_startup_qdrant,startup,alias,0.98,signal:alias_graph(Qdrant Solutions GmbH),exact_alias_graph
-Zilliz Inc.,Zilliz,ent_startup_zilliz,startup,alias,0.98,signal:alias_graph(Zilliz Inc.),exact_alias_graph
-Chroma Inc.,Chroma,ent_startup_chroma,startup,alias,0.98,signal:alias_graph(Chroma Inc.),exact_alias_graph
-Weaviate B.V.,Weaviate,ent_startup_weaviate,startup,alias,0.98,signal:alias_graph(Weaviate B.V.),exact_alias_graph
-"LangChain, Inc.",LangChain,ent_startup_langchain,startup,alias,0.98,"signal:alias_graph(LangChain, Inc.)",exact_alias_graph
-LlamaIndex Inc.,LlamaIndex,ent_startup_llamaindex,startup,alias,0.98,signal:alias_graph(LlamaIndex Inc.),exact_alias_graph
-CrewAI Inc.,CrewAI,ent_startup_crewai,startup,alias,0.98,signal:alias_graph(CrewAI Inc.),exact_alias_graph
-Ollama Inc.,Ollama,ent_startup_ollama,startup,alias,0.98,signal:alias_graph(Ollama Inc.),exact_alias_graph
-"Hugging Face, Inc.",Hugging Face,ent_startup_hugging_face,startup,alias,0.98,"signal:alias_graph(Hugging Face, Inc.)",exact_alias_graph
-Niche Studio 101,,,startup,UNRESOLVED,0.0,signal:unresolved,unresolved
-Niche Studio 102,,,startup,UNRESOLVED,0.0,signal:unresolved,unresolved
-OpenAI Inc.,OpenAI,ent_startup_openai,startup,alias,0.98,signal:alias_graph(OpenAI Inc.),exact_alias_graph
-Anthropic PBC,Anthropic,ent_startup_anthropic,startup,alias,0.98,signal:alias_graph(Anthropic PBC),exact_alias_graph
-Midjourney Inc.,Midjourney,ent_startup_midjourney,startup,alias,0.98,signal:alias_graph(Midjourney Inc.),exact_alias_graph
-Microsoft Corporation,Microsoft,ent_startup_microsoft,startup,alias,0.98,signal:alias_graph(Microsoft Corporation),exact_alias_graph
-Perplexity AI Inc.,Perplexity,ent_startup_perplexity,startup,alias,0.98,signal:alias_graph(Perplexity AI Inc.),exact_alias_graph
-Google LLC,Google,ent_startup_google,startup,alias,0.98,signal:alias_graph(Google LLC),exact_alias_graph
-Stability AI Ltd.,Stability AI,ent_startup_stability,startup,alias,0.98,signal:alias_graph(Stability AI Ltd.),exact_alias_graph
-ElevenLabs Inc.,ElevenLabs,ent_startup_elevenlabs,startup,alias,0.98,signal:alias_graph(ElevenLabs Inc.),exact_alias_graph
-"Runway AI, Inc.",Runway,ent_startup_runway,startup,alias,0.98,"signal:alias_graph(Runway AI, Inc.)",exact_alias_graph
-OpenAI Inc.,OpenAI,ent_startup_openai,startup,alias,0.98,signal:alias_graph(OpenAI Inc.),exact_alias_graph
-"Meta Platforms, Inc.",Meta,ent_startup_meta,startup,alias,0.98,"signal:alias_graph(Meta Platforms, Inc.)",exact_alias_graph
-DeepSeek Inc.,DeepSeek,ent_startup_deepseek,startup,alias,0.98,signal:alias_graph(DeepSeek Inc.),exact_alias_graph
-Mistral AI SAS,Mistral AI,ent_startup_mistral,startup,alias,0.98,signal:alias_graph(Mistral AI SAS),exact_alias_graph
-Alibaba Cloud Computing Ltd.,Alibaba Cloud,ent_startup_alibaba_cloud,startup,alias,0.98,signal:alias_graph(Alibaba Cloud Computing Ltd.),exact_alias_graph
-"Pika Labs, Inc.",Pika Labs,ent_startup_pika,startup,alias,0.98,"signal:alias_graph(Pika Labs, Inc.)",exact_alias_graph
-Suno AI Inc.,Suno AI,ent_startup_suno,startup,alias,0.98,signal:alias_graph(Suno AI Inc.),exact_alias_graph
-"Uncharted Labs, Inc. (Udio)",Udio,ent_startup_udio,startup,alias,0.98,"signal:alias_graph(Uncharted Labs, Inc. (Udio))",exact_alias_graph
-Kuaishou Technology Ltd.,Kuaishou,ent_startup_kuaishou,startup,alias,0.98,signal:alias_graph(Kuaishou Technology Ltd.),exact_alias_graph
-Black Forest Labs GmbH,Black Forest Labs,ent_startup_black_forest,startup,alias,0.98,signal:alias_graph(Black Forest Labs GmbH),exact_alias_graph
-Ideogram AI Inc.,Ideogram,ent_startup_ideogram,startup,alias,0.98,signal:alias_graph(Ideogram AI Inc.),exact_alias_graph
-Luma AI Inc.,Luma AI,ent_startup_luma,startup,alias,0.98,signal:alias_graph(Luma AI Inc.),exact_alias_graph
-Jasper AI Inc.,Jasper,ent_startup_jasper,startup,alias,0.98,signal:alias_graph(Jasper AI Inc.),exact_alias_graph
-Copy.ai Inc.,Copy.ai,ent_startup_copy,startup,alias,0.98,signal:alias_graph(Copy.ai Inc.),exact_alias_graph
-Descript Inc.,Descript,ent_startup_descript,startup,alias,0.98,signal:alias_graph(Descript Inc.),exact_alias_graph
-HeyGen Inc.,HeyGen,ent_startup_heygen,startup,alias,0.98,signal:alias_graph(HeyGen Inc.),exact_alias_graph
-Synthesia Ltd.,Synthesia,ent_startup_synthesia,startup,alias,0.98,signal:alias_graph(Synthesia Ltd.),exact_alias_graph
-Anysphere Inc. (Cursor),Anysphere,ent_startup_anysphere,startup,alias,0.98,signal:alias_graph(Anysphere Inc. (Cursor)),exact_alias_graph
-Replit Inc.,Replit,ent_startup_replit,startup,alias,0.98,signal:alias_graph(Replit Inc.),exact_alias_graph
-Vercel Inc.,Vercel,ent_startup_vercel,startup,alias,0.98,signal:alias_graph(Vercel Inc.),exact_alias_graph
-StackBlitz Inc.,StackBlitz,ent_startup_stackblitz,startup,alias,0.98,signal:alias_graph(StackBlitz Inc.),exact_alias_graph
-Cognition AI Inc.,Cognition,ent_startup_cognition,startup,alias,0.98,signal:alias_graph(Cognition AI Inc.),exact_alias_graph
-Harvey AI Inc.,Harvey,ent_startup_harvey,startup,alias,0.98,signal:alias_graph(Harvey AI Inc.),exact_alias_graph
-"Pinecone Systems, Inc.",Pinecone,ent_startup_pinecone,startup,alias,0.98,"signal:alias_graph(Pinecone Systems, Inc.)",exact_alias_graph
-Qdrant Solutions GmbH,Qdrant,ent_startup_qdrant,startup,alias,0.98,signal:alias_graph(Qdrant Solutions GmbH),exact_alias_graph
-Zilliz Inc.,Zilliz,ent_startup_zilliz,startup,alias,0.98,signal:alias_graph(Zilliz Inc.),exact_alias_graph
-Chroma Inc.,Chroma,ent_startup_chroma,startup,alias,0.98,signal:alias_graph(Chroma Inc.),exact_alias_graph
-Weaviate B.V.,Weaviate,ent_startup_weaviate,startup,alias,0.98,signal:alias_graph(Weaviate B.V.),exact_alias_graph
-"LangChain, Inc.",LangChain,ent_startup_langchain,startup,alias,0.98,"signal:alias_graph(LangChain, Inc.)",exact_alias_graph
-LlamaIndex Inc.,LlamaIndex,ent_startup_llamaindex,startup,alias,0.98,signal:alias_graph(LlamaIndex Inc.),exact_alias_graph
-CrewAI Inc.,CrewAI,ent_startup_crewai,startup,alias,0.98,signal:alias_graph(CrewAI Inc.),exact_alias_graph
-Ollama Inc.,Ollama,ent_startup_ollama,startup,alias,0.98,signal:alias_graph(Ollama Inc.),exact_alias_graph
-"Hugging Face, Inc.",Hugging Face,ent_startup_hugging_face,startup,alias,0.98,"signal:alias_graph(Hugging Face, Inc.)",exact_alias_graph
-Niche Studio 101,,,startup,UNRESOLVED,0.0,signal:unresolved,unresolved
-Niche Studio 102,,,startup,UNRESOLVED,0.0,signal:unresolved,unresolved
-OpenAI Inc.,OpenAI,ent_startup_openai,startup,alias,0.98,signal:alias_graph(OpenAI Inc.),exact_alias_graph
-Anthropic PBC,Anthropic,ent_startup_anthropic,startup,alias,0.98,signal:alias_graph(Anthropic PBC),exact_alias_graph
-Midjourney Inc.,Midjourney,ent_startup_midjourney,startup,alias,0.98,signal:alias_graph(Midjourney Inc.),exact_alias_graph
-Microsoft Corporation,Microsoft,ent_startup_microsoft,startup,alias,0.98,signal:alias_graph(Microsoft Corporation),exact_alias_graph
-Perplexity AI Inc.,Perplexity,ent_startup_perplexity,startup,alias,0.98,signal:alias_graph(Perplexity AI Inc.),exact_alias_graph
-Google LLC,Google,ent_startup_google,startup,alias,0.98,signal:alias_graph(Google LLC),exact_alias_graph
-Stability AI Ltd.,Stability AI,ent_startup_stability,startup,alias,0.98,signal:alias_graph(Stability AI Ltd.),exact_alias_graph
-ElevenLabs Inc.,ElevenLabs,ent_startup_elevenlabs,startup,alias,0.98,signal:alias_graph(ElevenLabs Inc.),exact_alias_graph
-"Runway AI, Inc.",Runway,ent_startup_runway,startup,alias,0.98,"signal:alias_graph(Runway AI, Inc.)",exact_alias_graph
-OpenAI Inc.,OpenAI,ent_startup_openai,startup,alias,0.98,signal:alias_graph(OpenAI Inc.),exact_alias_graph
-"Meta Platforms, Inc.",Meta,ent_startup_meta,startup,alias,0.98,"signal:alias_graph(Meta Platforms, Inc.)",exact_alias_graph
-DeepSeek Inc.,DeepSeek,ent_startup_deepseek,startup,alias,0.98,signal:alias_graph(DeepSeek Inc.),exact_alias_graph
-Mistral AI SAS,Mistral AI,ent_startup_mistral,startup,alias,0.98,signal:alias_graph(Mistral AI SAS),exact_alias_graph
-Alibaba Cloud Computing Ltd.,Alibaba Cloud,ent_startup_alibaba_cloud,startup,alias,0.98,signal:alias_graph(Alibaba Cloud Computing Ltd.),exact_alias_graph
-"Pika Labs, Inc.",Pika Labs,ent_startup_pika,startup,alias,0.98,"signal:alias_graph(Pika Labs, Inc.)",exact_alias_graph
-Suno AI Inc.,Suno AI,ent_startup_suno,startup,alias,0.98,signal:alias_graph(Suno AI Inc.),exact_alias_graph
-"Uncharted Labs, Inc. (Udio)",Udio,ent_startup_udio,startup,alias,0.98,"signal:alias_graph(Uncharted Labs, Inc. (Udio))",exact_alias_graph
-Kuaishou Technology Ltd.,Kuaishou,ent_startup_kuaishou,startup,alias,0.98,signal:alias_graph(Kuaishou Technology Ltd.),exact_alias_graph
-Black Forest Labs GmbH,Black Forest Labs,ent_startup_black_forest,startup,alias,0.98,signal:alias_graph(Black Forest Labs GmbH),exact_alias_graph
-Ideogram AI Inc.,Ideogram,ent_startup_ideogram,startup,alias,0.98,signal:alias_graph(Ideogram AI Inc.),exact_alias_graph
-Luma AI Inc.,Luma AI,ent_startup_luma,startup,alias,0.98,signal:alias_graph(Luma AI Inc.),exact_alias_graph
-Jasper AI Inc.,Jasper,ent_startup_jasper,startup,alias,0.98,signal:alias_graph(Jasper AI Inc.),exact_alias_graph
-Copy.ai Inc.,Copy.ai,ent_startup_copy,startup,alias,0.98,signal:alias_graph(Copy.ai Inc.),exact_alias_graph
-Descript Inc.,Descript,ent_startup_descript,startup,alias,0.98,signal:alias_graph(Descript Inc.),exact_alias_graph
-HeyGen Inc.,HeyGen,ent_startup_heygen,startup,alias,0.98,signal:alias_graph(HeyGen Inc.),exact_alias_graph
-Synthesia Ltd.,Synthesia,ent_startup_synthesia,startup,alias,0.98,signal:alias_graph(Synthesia Ltd.),exact_alias_graph
-Anysphere Inc. (Cursor),Anysphere,ent_startup_anysphere,startup,alias,0.98,signal:alias_graph(Anysphere Inc. (Cursor)),exact_alias_graph
-Replit Inc.,Replit,ent_startup_replit,startup,alias,0.98,signal:alias_graph(Replit Inc.),exact_alias_graph
-Vercel Inc.,Vercel,ent_startup_vercel,startup,alias,0.98,signal:alias_graph(Vercel Inc.),exact_alias_graph
-StackBlitz Inc.,StackBlitz,ent_startup_stackblitz,startup,alias,0.98,signal:alias_graph(StackBlitz Inc.),exact_alias_graph
-Cognition AI Inc.,Cognition,ent_startup_cognition,startup,alias,0.98,signal:alias_graph(Cognition AI Inc.),exact_alias_graph
-Harvey AI Inc.,Harvey,ent_startup_harvey,startup,alias,0.98,signal:alias_graph(Harvey AI Inc.),exact_alias_graph
-"Pinecone Systems, Inc.",Pinecone,ent_startup_pinecone,startup,alias,0.98,"signal:alias_graph(Pinecone Systems, Inc.)",exact_alias_graph
-Qdrant Solutions GmbH,Qdrant,ent_startup_qdrant,startup,alias,0.98,signal:alias_graph(Qdrant Solutions GmbH),exact_alias_graph
-Zilliz Inc.,Zilliz,ent_startup_zilliz,startup,alias,0.98,signal:alias_graph(Zilliz Inc.),exact_alias_graph
-Chroma Inc.,Chroma,ent_startup_chroma,startup,alias,0.98,signal:alias_graph(Chroma Inc.),exact_alias_graph
-Weaviate B.V.,Weaviate,ent_startup_weaviate,startup,alias,0.98,signal:alias_graph(Weaviate B.V.),exact_alias_graph
-"LangChain, Inc.",LangChain,ent_startup_langchain,startup,alias,0.98,"signal:alias_graph(LangChain, Inc.)",exact_alias_graph
-LlamaIndex Inc.,LlamaIndex,ent_startup_llamaindex,startup,alias,0.98,signal:alias_graph(LlamaIndex Inc.),exact_alias_graph
-CrewAI Inc.,CrewAI,ent_startup_crewai,startup,alias,0.98,signal:alias_graph(CrewAI Inc.),exact_alias_graph
-Ollama Inc.,Ollama,ent_startup_ollama,startup,alias,0.98,signal:alias_graph(Ollama Inc.),exact_alias_graph
-"Hugging Face, Inc.",Hugging Face,ent_startup_hugging_face,startup,alias,0.98,"signal:alias_graph(Hugging Face, Inc.)",exact_alias_graph
-Niche Studio 101,,,startup,UNRESOLVED,0.0,signal:unresolved,unresolved
-Niche Studio 102,,,startup,UNRESOLVED,0.0,signal:unresolved,unresolved
-OpenAI Inc.,OpenAI,ent_startup_openai,startup,alias,0.98,signal:alias_graph(OpenAI Inc.),exact_alias_graph
-Anthropic PBC,Anthropic,ent_startup_anthropic,startup,alias,0.98,signal:alias_graph(Anthropic PBC),exact_alias_graph
-Midjourney Inc.,Midjourney,ent_startup_midjourney,startup,alias,0.98,signal:alias_graph(Midjourney Inc.),exact_alias_graph
-Microsoft Corporation,Microsoft,ent_startup_microsoft,startup,alias,0.98,signal:alias_graph(Microsoft Corporation),exact_alias_graph
-Perplexity AI Inc.,Perplexity,ent_startup_perplexity,startup,alias,0.98,signal:alias_graph(Perplexity AI Inc.),exact_alias_graph
-Google LLC,Google,ent_startup_google,startup,alias,0.98,signal:alias_graph(Google LLC),exact_alias_graph
-Stability AI Ltd.,Stability AI,ent_startup_stability,startup,alias,0.98,signal:alias_graph(Stability AI Ltd.),exact_alias_graph
-ElevenLabs Inc.,ElevenLabs,ent_startup_elevenlabs,startup,alias,0.98,signal:alias_graph(ElevenLabs Inc.),exact_alias_graph
-"Runway AI, Inc.",Runway,ent_startup_runway,startup,alias,0.98,"signal:alias_graph(Runway AI, Inc.)",exact_alias_graph
-OpenAI Inc.,OpenAI,ent_startup_openai,startup,alias,0.98,signal:alias_graph(OpenAI Inc.),exact_alias_graph
-"Meta Platforms, Inc.",Meta,ent_startup_meta,startup,alias,0.98,"signal:alias_graph(Meta Platforms, Inc.)",exact_alias_graph
-DeepSeek Inc.,DeepSeek,ent_startup_deepseek,startup,alias,0.98,signal:alias_graph(DeepSeek Inc.),exact_alias_graph
-Mistral AI SAS,Mistral AI,ent_startup_mistral,startup,alias,0.98,signal:alias_graph(Mistral AI SAS),exact_alias_graph
-Alibaba Cloud Computing Ltd.,Alibaba Cloud,ent_startup_alibaba_cloud,startup,alias,0.98,signal:alias_graph(Alibaba Cloud Computing Ltd.),exact_alias_graph
-"Pika Labs, Inc.",Pika Labs,ent_startup_pika,startup,alias,0.98,"signal:alias_graph(Pika Labs, Inc.)",exact_alias_graph
-Suno AI Inc.,Suno AI,ent_startup_suno,startup,alias,0.98,signal:alias_graph(Suno AI Inc.),exact_alias_graph
-"Uncharted Labs, Inc. (Udio)",Udio,ent_startup_udio,startup,alias,0.98,"signal:alias_graph(Uncharted Labs, Inc. (Udio))",exact_alias_graph
-Kuaishou Technology Ltd.,Kuaishou,ent_startup_kuaishou,startup,alias,0.98,signal:alias_graph(Kuaishou Technology Ltd.),exact_alias_graph
-Black Forest Labs GmbH,Black Forest Labs,ent_startup_black_forest,startup,alias,0.98,signal:alias_graph(Black Forest Labs GmbH),exact_alias_graph
-Ideogram AI Inc.,Ideogram,ent_startup_ideogram,startup,alias,0.98,signal:alias_graph(Ideogram AI Inc.),exact_alias_graph
-Luma AI Inc.,Luma AI,ent_startup_luma,startup,alias,0.98,signal:alias_graph(Luma AI Inc.),exact_alias_graph
-Jasper AI Inc.,Jasper,ent_startup_jasper,startup,alias,0.98,signal:alias_graph(Jasper AI Inc.),exact_alias_graph
-Copy.ai Inc.,Copy.ai,ent_startup_copy,startup,alias,0.98,signal:alias_graph(Copy.ai Inc.),exact_alias_graph
-Descript Inc.,Descript,ent_startup_descript,startup,alias,0.98,signal:alias_graph(Descript Inc.),exact_alias_graph
-HeyGen Inc.,HeyGen,ent_startup_heygen,startup,alias,0.98,signal:alias_graph(HeyGen Inc.),exact_alias_graph
-Synthesia Ltd.,Synthesia,ent_startup_synthesia,startup,alias,0.98,signal:alias_graph(Synthesia Ltd.),exact_alias_graph
-Anysphere Inc. (Cursor),Anysphere,ent_startup_anysphere,startup,alias,0.98,signal:alias_graph(Anysphere Inc. (Cursor)),exact_alias_graph
-Replit Inc.,Replit,ent_startup_replit,startup,alias,0.98,signal:alias_graph(Replit Inc.),exact_alias_graph
-Vercel Inc.,Vercel,ent_startup_vercel,startup,alias,0.98,signal:alias_graph(Vercel Inc.),exact_alias_graph
-StackBlitz Inc.,StackBlitz,ent_startup_stackblitz,startup,alias,0.98,signal:alias_graph(StackBlitz Inc.),exact_alias_graph
-Cognition AI Inc.,Cognition,ent_startup_cognition,startup,alias,0.98,signal:alias_graph(Cognition AI Inc.),exact_alias_graph
-Harvey AI Inc.,Harvey,ent_startup_harvey,startup,alias,0.98,signal:alias_graph(Harvey AI Inc.),exact_alias_graph
-"Pinecone Systems, Inc.",Pinecone,ent_startup_pinecone,startup,alias,0.98,"signal:alias_graph(Pinecone Systems, Inc.)",exact_alias_graph
-Qdrant Solutions GmbH,Qdrant,ent_startup_qdrant,startup,alias,0.98,signal:alias_graph(Qdrant Solutions GmbH),exact_alias_graph
-Zilliz Inc.,Zilliz,ent_startup_zilliz,startup,alias,0.98,signal:alias_graph(Zilliz Inc.),exact_alias_graph
-Chroma Inc.,Chroma,ent_startup_chroma,startup,alias,0.98,signal:alias_graph(Chroma Inc.),exact_alias_graph
-Weaviate B.V.,Weaviate,ent_startup_weaviate,startup,alias,0.98,signal:alias_graph(Weaviate B.V.),exact_alias_graph
-"LangChain, Inc.",LangChain,ent_startup_langchain,startup,alias,0.98,"signal:alias_graph(LangChain, Inc.)",exact_alias_graph
-LlamaIndex Inc.,LlamaIndex,ent_startup_llamaindex,startup,alias,0.98,signal:alias_graph(LlamaIndex Inc.),exact_alias_graph
-CrewAI Inc.,CrewAI,ent_startup_crewai,startup,alias,0.98,signal:alias_graph(CrewAI Inc.),exact_alias_graph
-Ollama Inc.,Ollama,ent_startup_ollama,startup,alias,0.98,signal:alias_graph(Ollama Inc.),exact_alias_graph
-"Hugging Face, Inc.",Hugging Face,ent_startup_hugging_face,startup,alias,0.98,"signal:alias_graph(Hugging Face, Inc.)",exact_alias_graph
-Niche Studio 101,,,startup,UNRESOLVED,0.0,signal:unresolved,unresolved
-Niche Studio 102,,,startup,UNRESOLVED,0.0,signal:unresolved,unresolved
-OpenAI Inc.,OpenAI,ent_startup_openai,startup,alias,0.98,signal:alias_graph(OpenAI Inc.),exact_alias_graph
-Anthropic PBC,Anthropic,ent_startup_anthropic,startup,alias,0.98,signal:alias_graph(Anthropic PBC),exact_alias_graph
-Midjourney Inc.,Midjourney,ent_startup_midjourney,startup,alias,0.98,signal:alias_graph(Midjourney Inc.),exact_alias_graph
-Microsoft Corporation,Microsoft,ent_startup_microsoft,startup,alias,0.98,signal:alias_graph(Microsoft Corporation),exact_alias_graph
-Perplexity AI Inc.,Perplexity,ent_startup_perplexity,startup,alias,0.98,signal:alias_graph(Perplexity AI Inc.),exact_alias_graph
-Google LLC,Google,ent_startup_google,startup,alias,0.98,signal:alias_graph(Google LLC),exact_alias_graph
-Stability AI Ltd.,Stability AI,ent_startup_stability,startup,alias,0.98,signal:alias_graph(Stability AI Ltd.),exact_alias_graph
-ElevenLabs Inc.,ElevenLabs,ent_startup_elevenlabs,startup,alias,0.98,signal:alias_graph(ElevenLabs Inc.),exact_alias_graph
-"Runway AI, Inc.",Runway,ent_startup_runway,startup,alias,0.98,"signal:alias_graph(Runway AI, Inc.)",exact_alias_graph
-OpenAI Inc.,OpenAI,ent_startup_openai,startup,alias,0.98,signal:alias_graph(OpenAI Inc.),exact_alias_graph
-"Meta Platforms, Inc.",Meta,ent_startup_meta,startup,alias,0.98,"signal:alias_graph(Meta Platforms, Inc.)",exact_alias_graph
-DeepSeek Inc.,DeepSeek,ent_startup_deepseek,startup,alias,0.98,signal:alias_graph(DeepSeek Inc.),exact_alias_graph
-Mistral AI SAS,Mistral AI,ent_startup_mistral,startup,alias,0.98,signal:alias_graph(Mistral AI SAS),exact_alias_graph
-Alibaba Cloud Computing Ltd.,Alibaba Cloud,ent_startup_alibaba_cloud,startup,alias,0.98,signal:alias_graph(Alibaba Cloud Computing Ltd.),exact_alias_graph
-"Pika Labs, Inc.",Pika Labs,ent_startup_pika,startup,alias,0.98,"signal:alias_graph(Pika Labs, Inc.)",exact_alias_graph
-Suno AI Inc.,Suno AI,ent_startup_suno,startup,alias,0.98,signal:alias_graph(Suno AI Inc.),exact_alias_graph
-"Uncharted Labs, Inc. (Udio)",Udio,ent_startup_udio,startup,alias,0.98,"signal:alias_graph(Uncharted Labs, Inc. (Udio))",exact_alias_graph
-Kuaishou Technology Ltd.,Kuaishou,ent_startup_kuaishou,startup,alias,0.98,signal:alias_graph(Kuaishou Technology Ltd.),exact_alias_graph
-Black Forest Labs GmbH,Black Forest Labs,ent_startup_black_forest,startup,alias,0.98,signal:alias_graph(Black Forest Labs GmbH),exact_alias_graph
-Ideogram AI Inc.,Ideogram,ent_startup_ideogram,startup,alias,0.98,signal:alias_graph(Ideogram AI Inc.),exact_alias_graph
-Luma AI Inc.,Luma AI,ent_startup_luma,startup,alias,0.98,signal:alias_graph(Luma AI Inc.),exact_alias_graph
-Jasper AI Inc.,Jasper,ent_startup_jasper,startup,alias,0.98,signal:alias_graph(Jasper AI Inc.),exact_alias_graph
-Copy.ai Inc.,Copy.ai,ent_startup_copy,startup,alias,0.98,signal:alias_graph(Copy.ai Inc.),exact_alias_graph
-Descript Inc.,Descript,ent_startup_descript,startup,alias,0.98,signal:alias_graph(Descript Inc.),exact_alias_graph
-HeyGen Inc.,HeyGen,ent_startup_heygen,startup,alias,0.98,signal:alias_graph(HeyGen Inc.),exact_alias_graph
-Synthesia Ltd.,Synthesia,ent_startup_synthesia,startup,alias,0.98,signal:alias_graph(Synthesia Ltd.),exact_alias_graph
-Anysphere Inc. (Cursor),Anysphere,ent_startup_anysphere,startup,alias,0.98,signal:alias_graph(Anysphere Inc. (Cursor)),exact_alias_graph
-Replit Inc.,Replit,ent_startup_replit,startup,alias,0.98,signal:alias_graph(Replit Inc.),exact_alias_graph
-Vercel Inc.,Vercel,ent_startup_vercel,startup,alias,0.98,signal:alias_graph(Vercel Inc.),exact_alias_graph
-StackBlitz Inc.,StackBlitz,ent_startup_stackblitz,startup,alias,0.98,signal:alias_graph(StackBlitz Inc.),exact_alias_graph
-Cognition AI Inc.,Cognition,ent_startup_cognition,startup,alias,0.98,signal:alias_graph(Cognition AI Inc.),exact_alias_graph
-Harvey AI Inc.,Harvey,ent_startup_harvey,startup,alias,0.98,signal:alias_graph(Harvey AI Inc.),exact_alias_graph
-"Pinecone Systems, Inc.",Pinecone,ent_startup_pinecone,startup,alias,0.98,"signal:alias_graph(Pinecone Systems, Inc.)",exact_alias_graph
-Qdrant Solutions GmbH,Qdrant,ent_startup_qdrant,startup,alias,0.98,signal:alias_graph(Qdrant Solutions GmbH),exact_alias_graph
-Zilliz Inc.,Zilliz,ent_startup_zilliz,startup,alias,0.98,signal:alias_graph(Zilliz Inc.),exact_alias_graph
-Chroma Inc.,Chroma,ent_startup_chroma,startup,alias,0.98,signal:alias_graph(Chroma Inc.),exact_alias_graph
-Weaviate B.V.,Weaviate,ent_startup_weaviate,startup,alias,0.98,signal:alias_graph(Weaviate B.V.),exact_alias_graph
-"LangChain, Inc.",LangChain,ent_startup_langchain,startup,alias,0.98,"signal:alias_graph(LangChain, Inc.)",exact_alias_graph
-LlamaIndex Inc.,LlamaIndex,ent_startup_llamaindex,startup,alias,0.98,signal:alias_graph(LlamaIndex Inc.),exact_alias_graph
-CrewAI Inc.,CrewAI,ent_startup_crewai,startup,alias,0.98,signal:alias_graph(CrewAI Inc.),exact_alias_graph
-Ollama Inc.,Ollama,ent_startup_ollama,startup,alias,0.98,signal:alias_graph(Ollama Inc.),exact_alias_graph
-"Hugging Face, Inc.",Hugging Face,ent_startup_hugging_face,startup,alias,0.98,"signal:alias_graph(Hugging Face, Inc.)",exact_alias_graph
-Niche Studio 101,,,startup,UNRESOLVED,0.0,signal:unresolved,unresolved
-Niche Studio 102,,,startup,UNRESOLVED,0.0,signal:unresolved,unresolved
-OpenAI Inc.,OpenAI,ent_startup_openai,startup,alias,0.98,signal:alias_graph(OpenAI Inc.),exact_alias_graph
-Anthropic PBC,Anthropic,ent_startup_anthropic,startup,alias,0.98,signal:alias_graph(Anthropic PBC),exact_alias_graph
-Midjourney Inc.,Midjourney,ent_startup_midjourney,startup,alias,0.98,signal:alias_graph(Midjourney Inc.),exact_alias_graph
-Microsoft Corporation,Microsoft,ent_startup_microsoft,startup,alias,0.98,signal:alias_graph(Microsoft Corporation),exact_alias_graph
-Perplexity AI Inc.,Perplexity,ent_startup_perplexity,startup,alias,0.98,signal:alias_graph(Perplexity AI Inc.),exact_alias_graph
-Google LLC,Google,ent_startup_google,startup,alias,0.98,signal:alias_graph(Google LLC),exact_alias_graph
-Stability AI Ltd.,Stability AI,ent_startup_stability,startup,alias,0.98,signal:alias_graph(Stability AI Ltd.),exact_alias_graph
-ElevenLabs Inc.,ElevenLabs,ent_startup_elevenlabs,startup,alias,0.98,signal:alias_graph(ElevenLabs Inc.),exact_alias_graph
-"Runway AI, Inc.",Runway,ent_startup_runway,startup,alias,0.98,"signal:alias_graph(Runway AI, Inc.)",exact_alias_graph
-OpenAI Inc.,OpenAI,ent_startup_openai,startup,alias,0.98,signal:alias_graph(OpenAI Inc.),exact_alias_graph
-"Meta Platforms, Inc.",Meta,ent_startup_meta,startup,alias,0.98,"signal:alias_graph(Meta Platforms, Inc.)",exact_alias_graph
-DeepSeek Inc.,DeepSeek,ent_startup_deepseek,startup,alias,0.98,signal:alias_graph(DeepSeek Inc.),exact_alias_graph
-Mistral AI SAS,Mistral AI,ent_startup_mistral,startup,alias,0.98,signal:alias_graph(Mistral AI SAS),exact_alias_graph
-Alibaba Cloud Computing Ltd.,Alibaba Cloud,ent_startup_alibaba_cloud,startup,alias,0.98,signal:alias_graph(Alibaba Cloud Computing Ltd.),exact_alias_graph
-"Pika Labs, Inc.",Pika Labs,ent_startup_pika,startup,alias,0.98,"signal:alias_graph(Pika Labs, Inc.)",exact_alias_graph
-Suno AI Inc.,Suno AI,ent_startup_suno,startup,alias,0.98,signal:alias_graph(Suno AI Inc.),exact_alias_graph
-"Uncharted Labs, Inc. (Udio)",Udio,ent_startup_udio,startup,alias,0.98,"signal:alias_graph(Uncharted Labs, Inc. (Udio))",exact_alias_graph
-Kuaishou Technology Ltd.,Kuaishou,ent_startup_kuaishou,startup,alias,0.98,signal:alias_graph(Kuaishou Technology Ltd.),exact_alias_graph
-Black Forest Labs GmbH,Black Forest Labs,ent_startup_black_forest,startup,alias,0.98,signal:alias_graph(Black Forest Labs GmbH),exact_alias_graph
-Ideogram AI Inc.,Ideogram,ent_startup_ideogram,startup,alias,0.98,signal:alias_graph(Ideogram AI Inc.),exact_alias_graph
-Luma AI Inc.,Luma AI,ent_startup_luma,startup,alias,0.98,signal:alias_graph(Luma AI Inc.),exact_alias_graph
-Jasper AI Inc.,Jasper,ent_startup_jasper,startup,alias,0.98,signal:alias_graph(Jasper AI Inc.),exact_alias_graph
-Copy.ai Inc.,Copy.ai,ent_startup_copy,startup,alias,0.98,signal:alias_graph(Copy.ai Inc.),exact_alias_graph
-Descript Inc.,Descript,ent_startup_descript,startup,alias,0.98,signal:alias_graph(Descript Inc.),exact_alias_graph
-HeyGen Inc.,HeyGen,ent_startup_heygen,startup,alias,0.98,signal:alias_graph(HeyGen Inc.),exact_alias_graph
-Synthesia Ltd.,Synthesia,ent_startup_synthesia,startup,alias,0.98,signal:alias_graph(Synthesia Ltd.),exact_alias_graph
-Anysphere Inc. (Cursor),Anysphere,ent_startup_anysphere,startup,alias,0.98,signal:alias_graph(Anysphere Inc. (Cursor)),exact_alias_graph
-Replit Inc.,Replit,ent_startup_replit,startup,alias,0.98,signal:alias_graph(Replit Inc.),exact_alias_graph
-Vercel Inc.,Vercel,ent_startup_vercel,startup,alias,0.98,signal:alias_graph(Vercel Inc.),exact_alias_graph
-StackBlitz Inc.,StackBlitz,ent_startup_stackblitz,startup,alias,0.98,signal:alias_graph(StackBlitz Inc.),exact_alias_graph
-Cognition AI Inc.,Cognition,ent_startup_cognition,startup,alias,0.98,signal:alias_graph(Cognition AI Inc.),exact_alias_graph
-Harvey AI Inc.,Harvey,ent_startup_harvey,startup,alias,0.98,signal:alias_graph(Harvey AI Inc.),exact_alias_graph
-"Pinecone Systems, Inc.",Pinecone,ent_startup_pinecone,startup,alias,0.98,"signal:alias_graph(Pinecone Systems, Inc.)",exact_alias_graph
-Qdrant Solutions GmbH,Qdrant,ent_startup_qdrant,startup,alias,0.98,signal:alias_graph(Qdrant Solutions GmbH),exact_alias_graph
-Zilliz Inc.,Zilliz,ent_startup_zilliz,startup,alias,0.98,signal:alias_graph(Zilliz Inc.),exact_alias_graph
-Chroma Inc.,Chroma,ent_startup_chroma,startup,alias,0.98,signal:alias_graph(Chroma Inc.),exact_alias_graph
-Weaviate B.V.,Weaviate,ent_startup_weaviate,startup,alias,0.98,signal:alias_graph(Weaviate B.V.),exact_alias_graph
-"LangChain, Inc.",LangChain,ent_startup_langchain,startup,alias,0.98,"signal:alias_graph(LangChain, Inc.)",exact_alias_graph
-LlamaIndex Inc.,LlamaIndex,ent_startup_llamaindex,startup,alias,0.98,signal:alias_graph(LlamaIndex Inc.),exact_alias_graph
-CrewAI Inc.,CrewAI,ent_startup_crewai,startup,alias,0.98,signal:alias_graph(CrewAI Inc.),exact_alias_graph
-Ollama Inc.,Ollama,ent_startup_ollama,startup,alias,0.98,signal:alias_graph(Ollama Inc.),exact_alias_graph
-"Hugging Face, Inc.",Hugging Face,ent_startup_hugging_face,startup,alias,0.98,"signal:alias_graph(Hugging Face, Inc.)",exact_alias_graph
-Niche Studio 101,,,startup,UNRESOLVED,0.0,signal:unresolved,unresolved
-Niche Studio 102,,,startup,UNRESOLVED,0.0,signal:unresolved,unresolved
-OpenAI Inc.,OpenAI,ent_startup_openai,startup,alias,0.98,signal:alias_graph(OpenAI Inc.),exact_alias_graph
-Anthropic PBC,Anthropic,ent_startup_anthropic,startup,alias,0.98,signal:alias_graph(Anthropic PBC),exact_alias_graph
-Midjourney Inc.,Midjourney,ent_startup_midjourney,startup,alias,0.98,signal:alias_graph(Midjourney Inc.),exact_alias_graph
-Microsoft Corporation,Microsoft,ent_startup_microsoft,startup,alias,0.98,signal:alias_graph(Microsoft Corporation),exact_alias_graph
-Perplexity AI Inc.,Perplexity,ent_startup_perplexity,startup,alias,0.98,signal:alias_graph(Perplexity AI Inc.),exact_alias_graph
-Google LLC,Google,ent_startup_google,startup,alias,0.98,signal:alias_graph(Google LLC),exact_alias_graph
-Stability AI Ltd.,Stability AI,ent_startup_stability,startup,alias,0.98,signal:alias_graph(Stability AI Ltd.),exact_alias_graph
-ElevenLabs Inc.,ElevenLabs,ent_startup_elevenlabs,startup,alias,0.98,signal:alias_graph(ElevenLabs Inc.),exact_alias_graph
-"Runway AI, Inc.",Runway,ent_startup_runway,startup,alias,0.98,"signal:alias_graph(Runway AI, Inc.)",exact_alias_graph
-OpenAI Inc.,OpenAI,ent_startup_openai,startup,alias,0.98,signal:alias_graph(OpenAI Inc.),exact_alias_graph
-"Meta Platforms, Inc.",Meta,ent_startup_meta,startup,alias,0.98,"signal:alias_graph(Meta Platforms, Inc.)",exact_alias_graph
-DeepSeek Inc.,DeepSeek,ent_startup_deepseek,startup,alias,0.98,signal:alias_graph(DeepSeek Inc.),exact_alias_graph
-Mistral AI SAS,Mistral AI,ent_startup_mistral,startup,alias,0.98,signal:alias_graph(Mistral AI SAS),exact_alias_graph
-Alibaba Cloud Computing Ltd.,Alibaba Cloud,ent_startup_alibaba_cloud,startup,alias,0.98,signal:alias_graph(Alibaba Cloud Computing Ltd.),exact_alias_graph
-"Pika Labs, Inc.",Pika Labs,ent_startup_pika,startup,alias,0.98,"signal:alias_graph(Pika Labs, Inc.)",exact_alias_graph
-Suno AI Inc.,Suno AI,ent_startup_suno,startup,alias,0.98,signal:alias_graph(Suno AI Inc.),exact_alias_graph
-"Uncharted Labs, Inc. (Udio)",Udio,ent_startup_udio,startup,alias,0.98,"signal:alias_graph(Uncharted Labs, Inc. (Udio))",exact_alias_graph
-Kuaishou Technology Ltd.,Kuaishou,ent_startup_kuaishou,startup,alias,0.98,signal:alias_graph(Kuaishou Technology Ltd.),exact_alias_graph
-Black Forest Labs GmbH,Black Forest Labs,ent_startup_black_forest,startup,alias,0.98,signal:alias_graph(Black Forest Labs GmbH),exact_alias_graph
-Ideogram AI Inc.,Ideogram,ent_startup_ideogram,startup,alias,0.98,signal:alias_graph(Ideogram AI Inc.),exact_alias_graph
-Luma AI Inc.,Luma AI,ent_startup_luma,startup,alias,0.98,signal:alias_graph(Luma AI Inc.),exact_alias_graph
-Jasper AI Inc.,Jasper,ent_startup_jasper,startup,alias,0.98,signal:alias_graph(Jasper AI Inc.),exact_alias_graph
-Copy.ai Inc.,Copy.ai,ent_startup_copy,startup,alias,0.98,signal:alias_graph(Copy.ai Inc.),exact_alias_graph
-Descript Inc.,Descript,ent_startup_descript,startup,alias,0.98,signal:alias_graph(Descript Inc.),exact_alias_graph
-HeyGen Inc.,HeyGen,ent_startup_heygen,startup,alias,0.98,signal:alias_graph(HeyGen Inc.),exact_alias_graph
-Synthesia Ltd.,Synthesia,ent_startup_synthesia,startup,alias,0.98,signal:alias_graph(Synthesia Ltd.),exact_alias_graph
-Anysphere Inc. (Cursor),Anysphere,ent_startup_anysphere,startup,alias,0.98,signal:alias_graph(Anysphere Inc. (Cursor)),exact_alias_graph
-Replit Inc.,Replit,ent_startup_replit,startup,alias,0.98,signal:alias_graph(Replit Inc.),exact_alias_graph
-Vercel Inc.,Vercel,ent_startup_vercel,startup,alias,0.98,signal:alias_graph(Vercel Inc.),exact_alias_graph
-StackBlitz Inc.,StackBlitz,ent_startup_stackblitz,startup,alias,0.98,signal:alias_graph(StackBlitz Inc.),exact_alias_graph
-Cognition AI Inc.,Cognition,ent_startup_cognition,startup,alias,0.98,signal:alias_graph(Cognition AI Inc.),exact_alias_graph
-Harvey AI Inc.,Harvey,ent_startup_harvey,startup,alias,0.98,signal:alias_graph(Harvey AI Inc.),exact_alias_graph
-"Pinecone Systems, Inc.",Pinecone,ent_startup_pinecone,startup,alias,0.98,"signal:alias_graph(Pinecone Systems, Inc.)",exact_alias_graph
-Qdrant Solutions GmbH,Qdrant,ent_startup_qdrant,startup,alias,0.98,signal:alias_graph(Qdrant Solutions GmbH),exact_alias_graph
-Zilliz Inc.,Zilliz,ent_startup_zilliz,startup,alias,0.98,signal:alias_graph(Zilliz Inc.),exact_alias_graph
-Chroma Inc.,Chroma,ent_startup_chroma,startup,alias,0.98,signal:alias_graph(Chroma Inc.),exact_alias_graph
-Weaviate B.V.,Weaviate,ent_startup_weaviate,startup,alias,0.98,signal:alias_graph(Weaviate B.V.),exact_alias_graph
-"LangChain, Inc.",LangChain,ent_startup_langchain,startup,alias,0.98,"signal:alias_graph(LangChain, Inc.)",exact_alias_graph
-LlamaIndex Inc.,LlamaIndex,ent_startup_llamaindex,startup,alias,0.98,signal:alias_graph(LlamaIndex Inc.),exact_alias_graph
-CrewAI Inc.,CrewAI,ent_startup_crewai,startup,alias,0.98,signal:alias_graph(CrewAI Inc.),exact_alias_graph
-Ollama Inc.,Ollama,ent_startup_ollama,startup,alias,0.98,signal:alias_graph(Ollama Inc.),exact_alias_graph
-"Hugging Face, Inc.",Hugging Face,ent_startup_hugging_face,startup,alias,0.98,"signal:alias_graph(Hugging Face, Inc.)",exact_alias_graph
-Niche Studio 101,,,startup,UNRESOLVED,0.0,signal:unresolved,unresolved
-Niche Studio 102,,,startup,UNRESOLVED,0.0,signal:unresolved,unresolved
-OpenAI Inc.,OpenAI,ent_startup_openai,startup,alias,0.98,signal:alias_graph(OpenAI Inc.),exact_alias_graph
-Anthropic PBC,Anthropic,ent_startup_anthropic,startup,alias,0.98,signal:alias_graph(Anthropic PBC),exact_alias_graph
-Midjourney Inc.,Midjourney,ent_startup_midjourney,startup,alias,0.98,signal:alias_graph(Midjourney Inc.),exact_alias_graph
-Microsoft Corporation,Microsoft,ent_startup_microsoft,startup,alias,0.98,signal:alias_graph(Microsoft Corporation),exact_alias_graph
-Perplexity AI Inc.,Perplexity,ent_startup_perplexity,startup,alias,0.98,signal:alias_graph(Perplexity AI Inc.),exact_alias_graph
-Google LLC,Google,ent_startup_google,startup,alias,0.98,signal:alias_graph(Google LLC),exact_alias_graph
-Stability AI Ltd.,Stability AI,ent_startup_stability,startup,alias,0.98,signal:alias_graph(Stability AI Ltd.),exact_alias_graph
-ElevenLabs Inc.,ElevenLabs,ent_startup_elevenlabs,startup,alias,0.98,signal:alias_graph(ElevenLabs Inc.),exact_alias_graph
-"Runway AI, Inc.",Runway,ent_startup_runway,startup,alias,0.98,"signal:alias_graph(Runway AI, Inc.)",exact_alias_graph
-OpenAI Inc.,OpenAI,ent_startup_openai,startup,alias,0.98,signal:alias_graph(OpenAI Inc.),exact_alias_graph
-"Meta Platforms, Inc.",Meta,ent_startup_meta,startup,alias,0.98,"signal:alias_graph(Meta Platforms, Inc.)",exact_alias_graph
-DeepSeek Inc.,DeepSeek,ent_startup_deepseek,startup,alias,0.98,signal:alias_graph(DeepSeek Inc.),exact_alias_graph
-Mistral AI SAS,Mistral AI,ent_startup_mistral,startup,alias,0.98,signal:alias_graph(Mistral AI SAS),exact_alias_graph
-Alibaba Cloud Computing Ltd.,Alibaba Cloud,ent_startup_alibaba_cloud,startup,alias,0.98,signal:alias_graph(Alibaba Cloud Computing Ltd.),exact_alias_graph
-"Pika Labs, Inc.",Pika Labs,ent_startup_pika,startup,alias,0.98,"signal:alias_graph(Pika Labs, Inc.)",exact_alias_graph
-Suno AI Inc.,Suno AI,ent_startup_suno,startup,alias,0.98,signal:alias_graph(Suno AI Inc.),exact_alias_graph
-"Uncharted Labs, Inc. (Udio)",Udio,ent_startup_udio,startup,alias,0.98,"signal:alias_graph(Uncharted Labs, Inc. (Udio))",exact_alias_graph
-Kuaishou Technology Ltd.,Kuaishou,ent_startup_kuaishou,startup,alias,0.98,signal:alias_graph(Kuaishou Technology Ltd.),exact_alias_graph
-Black Forest Labs GmbH,Black Forest Labs,ent_startup_black_forest,startup,alias,0.98,signal:alias_graph(Black Forest Labs GmbH),exact_alias_graph
-Ideogram AI Inc.,Ideogram,ent_startup_ideogram,startup,alias,0.98,signal:alias_graph(Ideogram AI Inc.),exact_alias_graph
-Luma AI Inc.,Luma AI,ent_startup_luma,startup,alias,0.98,signal:alias_graph(Luma AI Inc.),exact_alias_graph
-Jasper AI Inc.,Jasper,ent_startup_jasper,startup,alias,0.98,signal:alias_graph(Jasper AI Inc.),exact_alias_graph
-Copy.ai Inc.,Copy.ai,ent_startup_copy,startup,alias,0.98,signal:alias_graph(Copy.ai Inc.),exact_alias_graph
-Descript Inc.,Descript,ent_startup_descript,startup,alias,0.98,signal:alias_graph(Descript Inc.),exact_alias_graph
-HeyGen Inc.,HeyGen,ent_startup_heygen,startup,alias,0.98,signal:alias_graph(HeyGen Inc.),exact_alias_graph
-Synthesia Ltd.,Synthesia,ent_startup_synthesia,startup,alias,0.98,signal:alias_graph(Synthesia Ltd.),exact_alias_graph
-Anysphere Inc. (Cursor),Anysphere,ent_startup_anysphere,startup,alias,0.98,signal:alias_graph(Anysphere Inc. (Cursor)),exact_alias_graph
-Replit Inc.,Replit,ent_startup_replit,startup,alias,0.98,signal:alias_graph(Replit Inc.),exact_alias_graph
-Vercel Inc.,Vercel,ent_startup_vercel,startup,alias,0.98,signal:alias_graph(Vercel Inc.),exact_alias_graph
-StackBlitz Inc.,StackBlitz,ent_startup_stackblitz,startup,alias,0.98,signal:alias_graph(StackBlitz Inc.),exact_alias_graph
-Cognition AI Inc.,Cognition,ent_startup_cognition,startup,alias,0.98,signal:alias_graph(Cognition AI Inc.),exact_alias_graph
-Harvey AI Inc.,Harvey,ent_startup_harvey,startup,alias,0.98,signal:alias_graph(Harvey AI Inc.),exact_alias_graph
+Langfuse GmbH,Langfuse,ent_startup_langfuse,startup,alias,0.98,signal:alias_graph(Langfuse GmbH),exact_alias_graph
+PromptLayer Inc.,PromptLayer,ent_startup_promptlayer,startup,alias,0.98,signal:alias_graph(PromptLayer Inc.),exact_alias_graph
+Portkey AI Inc.,Portkey,ent_startup_portkey,startup,alias,0.98,signal:alias_graph(Portkey AI Inc.),exact_alias_graph
+Unsloth AI Inc.,Unsloth AI,ent_startup_unsloth,startup,alias,0.98,signal:alias_graph(Unsloth AI Inc.),exact_alias_graph
+Significant Gravitas Ltd.,Significant Gravitas,ent_startup_significant_gravitas,startup,alias,0.98,signal:alias_graph(Significant Gravitas Ltd.),exact_alias_graph
+Baidu Inc.,Baidu,ent_startup_baidu,startup,alias,0.98,signal:alias_graph(Baidu Inc.),exact_alias_graph
+Tencent Holdings Ltd.,Tencent,ent_startup_tencent,startup,alias,0.98,signal:alias_graph(Tencent Holdings Ltd.),exact_alias_graph
+ByteDance Ltd.,ByteDance,ent_startup_bytedance,startup,alias,0.98,signal:alias_graph(ByteDance Ltd.),exact_alias_graph
+Make Inc.,Make,ent_startup_make,startup,alias,0.98,signal:alias_graph(Make Inc.),exact_alias_graph
+Zapier Inc.,Zapier,ent_startup_zapier,startup,alias,0.98,signal:alias_graph(Zapier Inc.),exact_alias_graph
+Krea AI Inc.,Krea,ent_startup_krea,startup,alias,0.98,signal:alias_graph(Krea AI Inc.),exact_alias_graph
+Photoroom SAS,Photoroom,ent_startup_photoroom,startup,alias,0.98,signal:alias_graph(Photoroom SAS),exact_alias_graph
+Topaz Labs LLC,Topaz Labs,ent_startup_topaz,startup,alias,0.98,signal:alias_graph(Topaz Labs LLC),exact_alias_graph
+InVideo Inc.,InVideo,ent_startup_invideo,startup,alias,0.98,signal:alias_graph(InVideo Inc.),exact_alias_graph
+OpusPro Inc.,OpusPro,ent_startup_opuspro,startup,alias,0.98,signal:alias_graph(OpusPro Inc.),exact_alias_graph
+Captions AI Inc.,Captions Inc.,ent_startup_captions,startup,alias,0.98,signal:alias_graph(Captions AI Inc.),exact_alias_graph
+Play.ht Inc.,Play.ht,ent_startup_play_ht,startup,alias,0.98,signal:alias_graph(Play.ht Inc.),exact_alias_graph
+Murf AI Inc.,Murf,ent_startup_murf,startup,alias,0.98,signal:alias_graph(Murf AI Inc.),exact_alias_graph
+Otter.ai Inc.,Otter.ai,ent_startup_otter,startup,alias,0.98,signal:alias_graph(Otter.ai Inc.),exact_alias_graph
+Fireflies.ai Corp.,Fireflies,ent_startup_fireflies,startup,alias,0.98,signal:alias_graph(Fireflies.ai Corp.),exact_alias_graph
+Superhuman Corp.,Superhuman,ent_startup_superhuman,startup,alias,0.98,signal:alias_graph(Superhuman Corp.),exact_alias_graph
+Raycast Technologies Ltd.,Raycast,ent_startup_raycast,startup,alias,0.98,signal:alias_graph(Raycast Technologies Ltd.),exact_alias_graph
+"SuSea, Inc. (You.com)",You.com,ent_startup_you_com,startup,alias,0.98,"signal:alias_graph(SuSea, Inc. (You.com))",exact_alias_graph
+Phind Inc.,Phind,ent_startup_phind,startup,alias,0.98,signal:alias_graph(Phind Inc.),exact_alias_graph
+"Quora, Inc.",Quora,ent_startup_quora,startup,alias,0.98,"signal:alias_graph(Quora, Inc.)",exact_alias_graph
+Character Technologies Inc.,Character.AI,ent_startup_character,startup,alias,0.98,signal:alias_graph(Character Technologies Inc.),exact_alias_graph
+"Luka, Inc.",Luka Inc.,ent_startup_luka,startup,alias,0.98,"signal:alias_graph(Luka, Inc.)",exact_alias_graph
