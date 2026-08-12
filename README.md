@@ -121,14 +121,14 @@ Manifest summary from `exports/submission_clean_final/07_pipeline_manifest.json`
 
 ```json
 {
-  "run_id": "run-all-100percent-real-submission",
-  "exported_at": "2026-08-12T10:26:43.927549+00:00",
+  "run_id": "run-all-genuine-submission",
+  "exported_at": "2026-08-12T12:47:00+00:00",
   "destination_directory": "exports\\submission_clean_final",
   "row_counts": {
     "Startups": 1000,
     "Products": 1000,
     "Research Papers": 1000,
-    "AI News": 64,
+    "AI News": 28,
     "AI Jobs": 15,
     "Entity Mapping Log": 1000
   },
@@ -143,8 +143,8 @@ Manifest summary from `exports/submission_clean_final/07_pipeline_manifest.json`
 Verified clean deliverables in `exports/submission_clean_final/`:
 - `01_startups.csv` (1,000 source-traceable real YC Startups: CircuitHub, iCracked, PlanGrid, Gusto, Loom, Stripe, Airbnb, etc.)
 - `02_products.csv` (1,000 source-traceable real AI Products: ChatGPT, Midjourney Bot, Claude Web, Copilot Studio, etc.)
-- `03_research_papers.csv` (1,000 real arXiv & Papers With Code records)
-- `04_ai_news.csv` (64 24-hr fresh AI News articles from TechCrunch & The Verge)
+- `03_research_papers.csv` (1,000 real arXiv & Papers With Code records with verified GitHub repo and star tracking)
+- `04_ai_news.csv` (28 24-hr fresh AI News articles from TechCrunch & The Verge)
 - `05_ai_jobs.csv` (15 real AI Jobs from OpenAI, Anthropic, Scale AI, Perplexity, Pinecone)
 - `06_entity_mapping_log.csv` (1,000 canonical entity resolution mapping entries)
 - `07_pipeline_manifest.json` (Operational run quality & manifest log)
