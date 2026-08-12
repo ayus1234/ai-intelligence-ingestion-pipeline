@@ -2,1000 +2,1000 @@ Product Name,Startup Name,Raw Startup Name,Canonical ID,Pricing Model,Category,S
 ChatGPT,OpenAI,OpenAI Inc.,ent_startup_openai,FREEMIUM,Conversational AI,https://aixploria.com/product/chatgpt
 Claude 3.5 Sonnet,Anthropic,Anthropic PBC,ent_startup_anthropic,FREEMIUM,AI Assistant,https://aixploria.com/product/claude-3-5-sonnet
 Midjourney v6,Midjourney,Midjourney Inc.,ent_startup_midjourney,PAID,Image Generation,https://aixploria.com/product/midjourney-v6
-GitHub Copilot,,Microsoft Corporation,,PAID,Developer Tools,https://aixploria.com/product/github-copilot
+GitHub Copilot,Microsoft,Microsoft Corporation,ent_startup_microsoft,PAID,Developer Tools,https://aixploria.com/product/github-copilot
 Perplexity Pro,Perplexity,Perplexity AI Inc.,ent_startup_perplexity,FREEMIUM,Search & Research,https://aixploria.com/product/perplexity-pro
-Gemini Advanced,,Google LLC,,FREEMIUM,Conversational AI,https://aixploria.com/product/gemini-advanced
+Gemini Advanced,Google,Google LLC,ent_startup_google,FREEMIUM,Conversational AI,https://aixploria.com/product/gemini-advanced
 Stable Diffusion 3,Stability AI,Stability AI Ltd.,ent_startup_stability,FREEMIUM,Image Generation,https://aixploria.com/product/stable-diffusion-3
 ElevenLabs Reader,ElevenLabs,ElevenLabs Inc.,ent_startup_elevenlabs,FREEMIUM,Voice & Audio,https://aixploria.com/product/elevenlabs-reader
 Runway Gen-3 Alpha,Runway,"Runway AI, Inc.",ent_startup_runway,FREEMIUM,Video Generation,https://aixploria.com/product/runway-gen-3
 Sora,OpenAI,OpenAI Inc.,ent_startup_openai,FREEMIUM,Video Generation,https://aixploria.com/product/sora
-Llama 3.1 405B,,"Meta Platforms, Inc.",,FREEMIUM,LLM Foundation,https://aixploria.com/product/llama-3-1-405b
-DeepSeek V3,,DeepSeek Inc.,,FREEMIUM,LLM Foundation,https://aixploria.com/product/deepseek-v3
+Llama 3.1 405B,Meta,"Meta Platforms, Inc.",ent_startup_meta,FREEMIUM,LLM Foundation,https://aixploria.com/product/llama-3-1-405b
+DeepSeek V3,DeepSeek,DeepSeek Inc.,ent_startup_deepseek,FREEMIUM,LLM Foundation,https://aixploria.com/product/deepseek-v3
 Mistral Large 2,Mistral AI,Mistral AI SAS,ent_startup_mistral,FREEMIUM,LLM Foundation,https://aixploria.com/product/mistral-large-2
-Qwen 2.5,,Alibaba Cloud Computing Ltd.,,FREEMIUM,LLM Foundation,https://aixploria.com/product/qwen-2-5
-Pika 1.0,,"Pika Labs, Inc.",,FREEMIUM,Video Generation,https://aixploria.com/product/pika-1-0
-Suno v3.5,,Suno AI Inc.,,FREEMIUM,Music Generation,https://aixploria.com/product/suno-v3-5
-Udio v1.5,,"Uncharted Labs, Inc. (Udio)",,FREEMIUM,Music Generation,https://aixploria.com/product/udio-v1-5
-Kling AI,,Kuaishou Technology Ltd.,,FREEMIUM,Video Generation,https://aixploria.com/product/kling-ai
-Flux.1,,Black Forest Labs GmbH,,FREEMIUM,Image Generation,https://aixploria.com/product/flux-1
-Ideogram 2.0,,Ideogram AI Inc.,,FREEMIUM,Image Generation,https://aixploria.com/product/ideogram-2-0
-Luma Dream Machine,,Luma AI Inc.,,FREEMIUM,3D & Video,https://aixploria.com/product/luma-dream-machine
+Qwen 2.5,Alibaba Cloud,Alibaba Cloud Computing Ltd.,ent_startup_alibaba_cloud,FREEMIUM,LLM Foundation,https://aixploria.com/product/qwen-2-5
+Pika 1.0,Pika Labs,"Pika Labs, Inc.",ent_startup_pika,FREEMIUM,Video Generation,https://aixploria.com/product/pika-1-0
+Suno v3.5,Suno AI,Suno AI Inc.,ent_startup_suno,FREEMIUM,Music Generation,https://aixploria.com/product/suno-v3-5
+Udio v1.5,Udio,"Uncharted Labs, Inc. (Udio)",ent_startup_udio,FREEMIUM,Music Generation,https://aixploria.com/product/udio-v1-5
+Kling AI,Kuaishou,Kuaishou Technology Ltd.,ent_startup_kuaishou,FREEMIUM,Video Generation,https://aixploria.com/product/kling-ai
+Flux.1,Black Forest Labs,Black Forest Labs GmbH,ent_startup_black_forest,FREEMIUM,Image Generation,https://aixploria.com/product/flux-1
+Ideogram 2.0,Ideogram,Ideogram AI Inc.,ent_startup_ideogram,FREEMIUM,Image Generation,https://aixploria.com/product/ideogram-2-0
+Luma Dream Machine,Luma AI,Luma AI Inc.,ent_startup_luma,FREEMIUM,3D & Video,https://aixploria.com/product/luma-dream-machine
 Jasper AI,Jasper,Jasper AI Inc.,ent_startup_jasper,PAID,Marketing AI,https://aixploria.com/product/jasper-ai
 Copy.ai,Copy.ai,Copy.ai Inc.,ent_startup_copy,FREEMIUM,Copywriting,https://aixploria.com/product/copy-ai
 Descript,Descript,Descript Inc.,ent_startup_descript,FREEMIUM,Audio & Video,https://aixploria.com/product/descript
-HeyGen,,HeyGen Inc.,,FREEMIUM,AI Avatars,https://aixploria.com/product/heygen
+HeyGen,HeyGen,HeyGen Inc.,ent_startup_heygen,FREEMIUM,AI Avatars,https://aixploria.com/product/heygen
 Synthesia,Synthesia,Synthesia Ltd.,ent_startup_synthesia,PAID,AI Avatars,https://aixploria.com/product/synthesia
-Cursor IDE,,Anysphere Inc. (Cursor),,FREEMIUM,Developer Tools,https://aixploria.com/product/cursor-ide
+Cursor IDE,Anysphere,Anysphere Inc. (Cursor),ent_startup_anysphere,FREEMIUM,Developer Tools,https://aixploria.com/product/cursor-ide
 Replit Agent,Replit,Replit Inc.,ent_startup_replit,FREEMIUM,Developer Tools,https://aixploria.com/product/replit-agent
-v0 by Vercel,,Vercel Inc.,,FREEMIUM,UI Code Gen,https://aixploria.com/product/v0-vercel
-Bolt.new,,StackBlitz Inc.,,FREEMIUM,Web Dev AI,https://aixploria.com/product/bolt-new
-Devin,,Cognition AI Inc.,,PAID,AI Software Engineer,https://aixploria.com/product/devin
+v0 by Vercel,Vercel,Vercel Inc.,ent_startup_vercel,FREEMIUM,UI Code Gen,https://aixploria.com/product/v0-vercel
+Bolt.new,StackBlitz,StackBlitz Inc.,ent_startup_stackblitz,FREEMIUM,Web Dev AI,https://aixploria.com/product/bolt-new
+Devin,Cognition,Cognition AI Inc.,ent_startup_cognition,PAID,AI Software Engineer,https://aixploria.com/product/devin
 Harvey AI,Harvey,Harvey AI Inc.,ent_startup_harvey,ENTERPRISE,Legal AI,https://aixploria.com/product/harvey-ai
 Pinecone Vector DB,Pinecone,"Pinecone Systems, Inc.",ent_startup_pinecone,FREEMIUM,Infrastructure,https://aixploria.com/product/pinecone
-Qdrant,,Qdrant Solutions GmbH,,FREEMIUM,Infrastructure,https://aixploria.com/product/qdrant
-Milvus,,Zilliz Inc.,,FREEMIUM,Infrastructure,https://aixploria.com/product/milvus
-Chroma DB,,Chroma Inc.,,FREEMIUM,Infrastructure,https://aixploria.com/product/chroma-db
+Qdrant,Qdrant,Qdrant Solutions GmbH,ent_startup_qdrant,FREEMIUM,Infrastructure,https://aixploria.com/product/qdrant
+Milvus,Zilliz,Zilliz Inc.,ent_startup_zilliz,FREEMIUM,Infrastructure,https://aixploria.com/product/milvus
+Chroma DB,Chroma,Chroma Inc.,ent_startup_chroma,FREEMIUM,Infrastructure,https://aixploria.com/product/chroma-db
 Weaviate,Weaviate,Weaviate B.V.,ent_startup_weaviate,FREEMIUM,Infrastructure,https://aixploria.com/product/weaviate
 LangChain,LangChain,"LangChain, Inc.",ent_startup_langchain,FREEMIUM,LLM Framework,https://aixploria.com/product/langchain
 LlamaIndex,LlamaIndex,LlamaIndex Inc.,ent_startup_llamaindex,FREEMIUM,RAG Framework,https://aixploria.com/product/llamaindex
-CrewAI,,CrewAI Inc.,,FREEMIUM,AI Agents,https://aixploria.com/product/crewai
-Ollama,,Ollama Inc.,,FREEMIUM,Local LLM,https://aixploria.com/product/ollama
+CrewAI,CrewAI,CrewAI Inc.,ent_startup_crewai,FREEMIUM,AI Agents,https://aixploria.com/product/crewai
+Ollama,Ollama,Ollama Inc.,ent_startup_ollama,FREEMIUM,Local LLM,https://aixploria.com/product/ollama
 Hugging Face Hub,Hugging Face,"Hugging Face, Inc.",ent_startup_hugging_face,FREEMIUM,Model Hub,https://aixploria.com/product/huggingface
-Unresolved Tool A,,Niche Studio 101,,FREE,Utility,https://aixploria.com/product/unresolved-a
-Unresolved Tool B,,Niche Studio 102,,FREE,Utility,https://aixploria.com/product/unresolved-b
+Unresolved Niche Tool 101,,Niche Studio 101,,FREE,Utility,https://aixploria.com/product/unresolved-a
+Unresolved Niche Tool 102,,Niche Studio 102,,FREE,Utility,https://aixploria.com/product/unresolved-b
 ChatGPT v2.0,OpenAI,OpenAI Inc.,ent_startup_openai,FREEMIUM,Conversational AI,https://aixploria.com/product/chatgpt-v2
 Claude 3.5 Sonnet v2.0,Anthropic,Anthropic PBC,ent_startup_anthropic,FREEMIUM,AI Assistant,https://aixploria.com/product/claude-3-5-sonnet-v2
 Midjourney v6 v2.0,Midjourney,Midjourney Inc.,ent_startup_midjourney,PAID,Image Generation,https://aixploria.com/product/midjourney-v6-v2
-GitHub Copilot v2.0,,Microsoft Corporation,,PAID,Developer Tools,https://aixploria.com/product/github-copilot-v2
+GitHub Copilot v2.0,Microsoft,Microsoft Corporation,ent_startup_microsoft,PAID,Developer Tools,https://aixploria.com/product/github-copilot-v2
 Perplexity Pro v2.0,Perplexity,Perplexity AI Inc.,ent_startup_perplexity,FREEMIUM,Search & Research,https://aixploria.com/product/perplexity-pro-v2
-Gemini Advanced v2.0,,Google LLC,,FREEMIUM,Conversational AI,https://aixploria.com/product/gemini-advanced-v2
+Gemini Advanced v2.0,Google,Google LLC,ent_startup_google,FREEMIUM,Conversational AI,https://aixploria.com/product/gemini-advanced-v2
 Stable Diffusion 3 v2.0,Stability AI,Stability AI Ltd.,ent_startup_stability,FREEMIUM,Image Generation,https://aixploria.com/product/stable-diffusion-3-v2
 ElevenLabs Reader v2.0,ElevenLabs,ElevenLabs Inc.,ent_startup_elevenlabs,FREEMIUM,Voice & Audio,https://aixploria.com/product/elevenlabs-reader-v2
 Runway Gen-3 Alpha v2.0,Runway,"Runway AI, Inc.",ent_startup_runway,FREEMIUM,Video Generation,https://aixploria.com/product/runway-gen-3-v2
 Sora v2.0,OpenAI,OpenAI Inc.,ent_startup_openai,FREEMIUM,Video Generation,https://aixploria.com/product/sora-v2
-Llama 3.1 405B v2.0,,"Meta Platforms, Inc.",,FREEMIUM,LLM Foundation,https://aixploria.com/product/llama-3-1-405b-v2
-DeepSeek V3 v2.0,,DeepSeek Inc.,,FREEMIUM,LLM Foundation,https://aixploria.com/product/deepseek-v3-v2
+Llama 3.1 405B v2.0,Meta,"Meta Platforms, Inc.",ent_startup_meta,FREEMIUM,LLM Foundation,https://aixploria.com/product/llama-3-1-405b-v2
+DeepSeek V3 v2.0,DeepSeek,DeepSeek Inc.,ent_startup_deepseek,FREEMIUM,LLM Foundation,https://aixploria.com/product/deepseek-v3-v2
 Mistral Large 2 v2.0,Mistral AI,Mistral AI SAS,ent_startup_mistral,FREEMIUM,LLM Foundation,https://aixploria.com/product/mistral-large-2-v2
-Qwen 2.5 v2.0,,Alibaba Cloud Computing Ltd.,,FREEMIUM,LLM Foundation,https://aixploria.com/product/qwen-2-5-v2
-Pika 1.0 v2.0,,"Pika Labs, Inc.",,FREEMIUM,Video Generation,https://aixploria.com/product/pika-1-0-v2
-Suno v3.5 v2.0,,Suno AI Inc.,,FREEMIUM,Music Generation,https://aixploria.com/product/suno-v3-5-v2
-Udio v1.5 v2.0,,"Uncharted Labs, Inc. (Udio)",,FREEMIUM,Music Generation,https://aixploria.com/product/udio-v1-5-v2
-Kling AI v2.0,,Kuaishou Technology Ltd.,,FREEMIUM,Video Generation,https://aixploria.com/product/kling-ai-v2
-Flux.1 v2.0,,Black Forest Labs GmbH,,FREEMIUM,Image Generation,https://aixploria.com/product/flux-1-v2
-Ideogram 2.0 v2.0,,Ideogram AI Inc.,,FREEMIUM,Image Generation,https://aixploria.com/product/ideogram-2-0-v2
-Luma Dream Machine v2.0,,Luma AI Inc.,,FREEMIUM,3D & Video,https://aixploria.com/product/luma-dream-machine-v2
+Qwen 2.5 v2.0,Alibaba Cloud,Alibaba Cloud Computing Ltd.,ent_startup_alibaba_cloud,FREEMIUM,LLM Foundation,https://aixploria.com/product/qwen-2-5-v2
+Pika 1.0 v2.0,Pika Labs,"Pika Labs, Inc.",ent_startup_pika,FREEMIUM,Video Generation,https://aixploria.com/product/pika-1-0-v2
+Suno v3.5 v2.0,Suno AI,Suno AI Inc.,ent_startup_suno,FREEMIUM,Music Generation,https://aixploria.com/product/suno-v3-5-v2
+Udio v1.5 v2.0,Udio,"Uncharted Labs, Inc. (Udio)",ent_startup_udio,FREEMIUM,Music Generation,https://aixploria.com/product/udio-v1-5-v2
+Kling AI v2.0,Kuaishou,Kuaishou Technology Ltd.,ent_startup_kuaishou,FREEMIUM,Video Generation,https://aixploria.com/product/kling-ai-v2
+Flux.1 v2.0,Black Forest Labs,Black Forest Labs GmbH,ent_startup_black_forest,FREEMIUM,Image Generation,https://aixploria.com/product/flux-1-v2
+Ideogram 2.0 v2.0,Ideogram,Ideogram AI Inc.,ent_startup_ideogram,FREEMIUM,Image Generation,https://aixploria.com/product/ideogram-2-0-v2
+Luma Dream Machine v2.0,Luma AI,Luma AI Inc.,ent_startup_luma,FREEMIUM,3D & Video,https://aixploria.com/product/luma-dream-machine-v2
 Jasper AI v2.0,Jasper,Jasper AI Inc.,ent_startup_jasper,PAID,Marketing AI,https://aixploria.com/product/jasper-ai-v2
 Copy.ai v2.0,Copy.ai,Copy.ai Inc.,ent_startup_copy,FREEMIUM,Copywriting,https://aixploria.com/product/copy-ai-v2
 Descript v2.0,Descript,Descript Inc.,ent_startup_descript,FREEMIUM,Audio & Video,https://aixploria.com/product/descript-v2
-HeyGen v2.0,,HeyGen Inc.,,FREEMIUM,AI Avatars,https://aixploria.com/product/heygen-v2
+HeyGen v2.0,HeyGen,HeyGen Inc.,ent_startup_heygen,FREEMIUM,AI Avatars,https://aixploria.com/product/heygen-v2
 Synthesia v2.0,Synthesia,Synthesia Ltd.,ent_startup_synthesia,PAID,AI Avatars,https://aixploria.com/product/synthesia-v2
-Cursor IDE v2.0,,Anysphere Inc. (Cursor),,FREEMIUM,Developer Tools,https://aixploria.com/product/cursor-ide-v2
+Cursor IDE v2.0,Anysphere,Anysphere Inc. (Cursor),ent_startup_anysphere,FREEMIUM,Developer Tools,https://aixploria.com/product/cursor-ide-v2
 Replit Agent v2.0,Replit,Replit Inc.,ent_startup_replit,FREEMIUM,Developer Tools,https://aixploria.com/product/replit-agent-v2
-v0 by Vercel v2.0,,Vercel Inc.,,FREEMIUM,UI Code Gen,https://aixploria.com/product/v0-vercel-v2
-Bolt.new v2.0,,StackBlitz Inc.,,FREEMIUM,Web Dev AI,https://aixploria.com/product/bolt-new-v2
-Devin v2.0,,Cognition AI Inc.,,PAID,AI Software Engineer,https://aixploria.com/product/devin-v2
+v0 by Vercel v2.0,Vercel,Vercel Inc.,ent_startup_vercel,FREEMIUM,UI Code Gen,https://aixploria.com/product/v0-vercel-v2
+Bolt.new v2.0,StackBlitz,StackBlitz Inc.,ent_startup_stackblitz,FREEMIUM,Web Dev AI,https://aixploria.com/product/bolt-new-v2
+Devin v2.0,Cognition,Cognition AI Inc.,ent_startup_cognition,PAID,AI Software Engineer,https://aixploria.com/product/devin-v2
 Harvey AI v2.0,Harvey,Harvey AI Inc.,ent_startup_harvey,ENTERPRISE,Legal AI,https://aixploria.com/product/harvey-ai-v2
 Pinecone Vector DB v2.0,Pinecone,"Pinecone Systems, Inc.",ent_startup_pinecone,FREEMIUM,Infrastructure,https://aixploria.com/product/pinecone-v2
-Qdrant v2.0,,Qdrant Solutions GmbH,,FREEMIUM,Infrastructure,https://aixploria.com/product/qdrant-v2
-Milvus v2.0,,Zilliz Inc.,,FREEMIUM,Infrastructure,https://aixploria.com/product/milvus-v2
-Chroma DB v2.0,,Chroma Inc.,,FREEMIUM,Infrastructure,https://aixploria.com/product/chroma-db-v2
+Qdrant v2.0,Qdrant,Qdrant Solutions GmbH,ent_startup_qdrant,FREEMIUM,Infrastructure,https://aixploria.com/product/qdrant-v2
+Milvus v2.0,Zilliz,Zilliz Inc.,ent_startup_zilliz,FREEMIUM,Infrastructure,https://aixploria.com/product/milvus-v2
+Chroma DB v2.0,Chroma,Chroma Inc.,ent_startup_chroma,FREEMIUM,Infrastructure,https://aixploria.com/product/chroma-db-v2
 Weaviate v2.0,Weaviate,Weaviate B.V.,ent_startup_weaviate,FREEMIUM,Infrastructure,https://aixploria.com/product/weaviate-v2
 LangChain v2.0,LangChain,"LangChain, Inc.",ent_startup_langchain,FREEMIUM,LLM Framework,https://aixploria.com/product/langchain-v2
 LlamaIndex v2.0,LlamaIndex,LlamaIndex Inc.,ent_startup_llamaindex,FREEMIUM,RAG Framework,https://aixploria.com/product/llamaindex-v2
-CrewAI v2.0,,CrewAI Inc.,,FREEMIUM,AI Agents,https://aixploria.com/product/crewai-v2
-Ollama v2.0,,Ollama Inc.,,FREEMIUM,Local LLM,https://aixploria.com/product/ollama-v2
+CrewAI v2.0,CrewAI,CrewAI Inc.,ent_startup_crewai,FREEMIUM,AI Agents,https://aixploria.com/product/crewai-v2
+Ollama v2.0,Ollama,Ollama Inc.,ent_startup_ollama,FREEMIUM,Local LLM,https://aixploria.com/product/ollama-v2
 Hugging Face Hub v2.0,Hugging Face,"Hugging Face, Inc.",ent_startup_hugging_face,FREEMIUM,Model Hub,https://aixploria.com/product/huggingface-v2
-Unresolved Tool A v2.0,,Niche Studio 101,,FREE,Utility,https://aixploria.com/product/unresolved-a-v2
-Unresolved Tool B v2.0,,Niche Studio 102,,FREE,Utility,https://aixploria.com/product/unresolved-b-v2
+Unresolved Niche Tool 101 v2.0,,Niche Studio 101,,FREE,Utility,https://aixploria.com/product/unresolved-a-v2
+Unresolved Niche Tool 102 v2.0,,Niche Studio 102,,FREE,Utility,https://aixploria.com/product/unresolved-b-v2
 ChatGPT v3.0,OpenAI,OpenAI Inc.,ent_startup_openai,FREEMIUM,Conversational AI,https://aixploria.com/product/chatgpt-v3
 Claude 3.5 Sonnet v3.0,Anthropic,Anthropic PBC,ent_startup_anthropic,FREEMIUM,AI Assistant,https://aixploria.com/product/claude-3-5-sonnet-v3
 Midjourney v6 v3.0,Midjourney,Midjourney Inc.,ent_startup_midjourney,PAID,Image Generation,https://aixploria.com/product/midjourney-v6-v3
-GitHub Copilot v3.0,,Microsoft Corporation,,PAID,Developer Tools,https://aixploria.com/product/github-copilot-v3
+GitHub Copilot v3.0,Microsoft,Microsoft Corporation,ent_startup_microsoft,PAID,Developer Tools,https://aixploria.com/product/github-copilot-v3
 Perplexity Pro v3.0,Perplexity,Perplexity AI Inc.,ent_startup_perplexity,FREEMIUM,Search & Research,https://aixploria.com/product/perplexity-pro-v3
-Gemini Advanced v3.0,,Google LLC,,FREEMIUM,Conversational AI,https://aixploria.com/product/gemini-advanced-v3
+Gemini Advanced v3.0,Google,Google LLC,ent_startup_google,FREEMIUM,Conversational AI,https://aixploria.com/product/gemini-advanced-v3
 Stable Diffusion 3 v3.0,Stability AI,Stability AI Ltd.,ent_startup_stability,FREEMIUM,Image Generation,https://aixploria.com/product/stable-diffusion-3-v3
 ElevenLabs Reader v3.0,ElevenLabs,ElevenLabs Inc.,ent_startup_elevenlabs,FREEMIUM,Voice & Audio,https://aixploria.com/product/elevenlabs-reader-v3
 Runway Gen-3 Alpha v3.0,Runway,"Runway AI, Inc.",ent_startup_runway,FREEMIUM,Video Generation,https://aixploria.com/product/runway-gen-3-v3
 Sora v3.0,OpenAI,OpenAI Inc.,ent_startup_openai,FREEMIUM,Video Generation,https://aixploria.com/product/sora-v3
-Llama 3.1 405B v3.0,,"Meta Platforms, Inc.",,FREEMIUM,LLM Foundation,https://aixploria.com/product/llama-3-1-405b-v3
-DeepSeek V3 v3.0,,DeepSeek Inc.,,FREEMIUM,LLM Foundation,https://aixploria.com/product/deepseek-v3-v3
+Llama 3.1 405B v3.0,Meta,"Meta Platforms, Inc.",ent_startup_meta,FREEMIUM,LLM Foundation,https://aixploria.com/product/llama-3-1-405b-v3
+DeepSeek V3 v3.0,DeepSeek,DeepSeek Inc.,ent_startup_deepseek,FREEMIUM,LLM Foundation,https://aixploria.com/product/deepseek-v3-v3
 Mistral Large 2 v3.0,Mistral AI,Mistral AI SAS,ent_startup_mistral,FREEMIUM,LLM Foundation,https://aixploria.com/product/mistral-large-2-v3
-Qwen 2.5 v3.0,,Alibaba Cloud Computing Ltd.,,FREEMIUM,LLM Foundation,https://aixploria.com/product/qwen-2-5-v3
-Pika 1.0 v3.0,,"Pika Labs, Inc.",,FREEMIUM,Video Generation,https://aixploria.com/product/pika-1-0-v3
-Suno v3.5 v3.0,,Suno AI Inc.,,FREEMIUM,Music Generation,https://aixploria.com/product/suno-v3-5-v3
-Udio v1.5 v3.0,,"Uncharted Labs, Inc. (Udio)",,FREEMIUM,Music Generation,https://aixploria.com/product/udio-v1-5-v3
-Kling AI v3.0,,Kuaishou Technology Ltd.,,FREEMIUM,Video Generation,https://aixploria.com/product/kling-ai-v3
-Flux.1 v3.0,,Black Forest Labs GmbH,,FREEMIUM,Image Generation,https://aixploria.com/product/flux-1-v3
-Ideogram 2.0 v3.0,,Ideogram AI Inc.,,FREEMIUM,Image Generation,https://aixploria.com/product/ideogram-2-0-v3
-Luma Dream Machine v3.0,,Luma AI Inc.,,FREEMIUM,3D & Video,https://aixploria.com/product/luma-dream-machine-v3
+Qwen 2.5 v3.0,Alibaba Cloud,Alibaba Cloud Computing Ltd.,ent_startup_alibaba_cloud,FREEMIUM,LLM Foundation,https://aixploria.com/product/qwen-2-5-v3
+Pika 1.0 v3.0,Pika Labs,"Pika Labs, Inc.",ent_startup_pika,FREEMIUM,Video Generation,https://aixploria.com/product/pika-1-0-v3
+Suno v3.5 v3.0,Suno AI,Suno AI Inc.,ent_startup_suno,FREEMIUM,Music Generation,https://aixploria.com/product/suno-v3-5-v3
+Udio v1.5 v3.0,Udio,"Uncharted Labs, Inc. (Udio)",ent_startup_udio,FREEMIUM,Music Generation,https://aixploria.com/product/udio-v1-5-v3
+Kling AI v3.0,Kuaishou,Kuaishou Technology Ltd.,ent_startup_kuaishou,FREEMIUM,Video Generation,https://aixploria.com/product/kling-ai-v3
+Flux.1 v3.0,Black Forest Labs,Black Forest Labs GmbH,ent_startup_black_forest,FREEMIUM,Image Generation,https://aixploria.com/product/flux-1-v3
+Ideogram 2.0 v3.0,Ideogram,Ideogram AI Inc.,ent_startup_ideogram,FREEMIUM,Image Generation,https://aixploria.com/product/ideogram-2-0-v3
+Luma Dream Machine v3.0,Luma AI,Luma AI Inc.,ent_startup_luma,FREEMIUM,3D & Video,https://aixploria.com/product/luma-dream-machine-v3
 Jasper AI v3.0,Jasper,Jasper AI Inc.,ent_startup_jasper,PAID,Marketing AI,https://aixploria.com/product/jasper-ai-v3
 Copy.ai v3.0,Copy.ai,Copy.ai Inc.,ent_startup_copy,FREEMIUM,Copywriting,https://aixploria.com/product/copy-ai-v3
 Descript v3.0,Descript,Descript Inc.,ent_startup_descript,FREEMIUM,Audio & Video,https://aixploria.com/product/descript-v3
-HeyGen v3.0,,HeyGen Inc.,,FREEMIUM,AI Avatars,https://aixploria.com/product/heygen-v3
+HeyGen v3.0,HeyGen,HeyGen Inc.,ent_startup_heygen,FREEMIUM,AI Avatars,https://aixploria.com/product/heygen-v3
 Synthesia v3.0,Synthesia,Synthesia Ltd.,ent_startup_synthesia,PAID,AI Avatars,https://aixploria.com/product/synthesia-v3
-Cursor IDE v3.0,,Anysphere Inc. (Cursor),,FREEMIUM,Developer Tools,https://aixploria.com/product/cursor-ide-v3
+Cursor IDE v3.0,Anysphere,Anysphere Inc. (Cursor),ent_startup_anysphere,FREEMIUM,Developer Tools,https://aixploria.com/product/cursor-ide-v3
 Replit Agent v3.0,Replit,Replit Inc.,ent_startup_replit,FREEMIUM,Developer Tools,https://aixploria.com/product/replit-agent-v3
-v0 by Vercel v3.0,,Vercel Inc.,,FREEMIUM,UI Code Gen,https://aixploria.com/product/v0-vercel-v3
-Bolt.new v3.0,,StackBlitz Inc.,,FREEMIUM,Web Dev AI,https://aixploria.com/product/bolt-new-v3
-Devin v3.0,,Cognition AI Inc.,,PAID,AI Software Engineer,https://aixploria.com/product/devin-v3
+v0 by Vercel v3.0,Vercel,Vercel Inc.,ent_startup_vercel,FREEMIUM,UI Code Gen,https://aixploria.com/product/v0-vercel-v3
+Bolt.new v3.0,StackBlitz,StackBlitz Inc.,ent_startup_stackblitz,FREEMIUM,Web Dev AI,https://aixploria.com/product/bolt-new-v3
+Devin v3.0,Cognition,Cognition AI Inc.,ent_startup_cognition,PAID,AI Software Engineer,https://aixploria.com/product/devin-v3
 Harvey AI v3.0,Harvey,Harvey AI Inc.,ent_startup_harvey,ENTERPRISE,Legal AI,https://aixploria.com/product/harvey-ai-v3
 Pinecone Vector DB v3.0,Pinecone,"Pinecone Systems, Inc.",ent_startup_pinecone,FREEMIUM,Infrastructure,https://aixploria.com/product/pinecone-v3
-Qdrant v3.0,,Qdrant Solutions GmbH,,FREEMIUM,Infrastructure,https://aixploria.com/product/qdrant-v3
-Milvus v3.0,,Zilliz Inc.,,FREEMIUM,Infrastructure,https://aixploria.com/product/milvus-v3
-Chroma DB v3.0,,Chroma Inc.,,FREEMIUM,Infrastructure,https://aixploria.com/product/chroma-db-v3
+Qdrant v3.0,Qdrant,Qdrant Solutions GmbH,ent_startup_qdrant,FREEMIUM,Infrastructure,https://aixploria.com/product/qdrant-v3
+Milvus v3.0,Zilliz,Zilliz Inc.,ent_startup_zilliz,FREEMIUM,Infrastructure,https://aixploria.com/product/milvus-v3
+Chroma DB v3.0,Chroma,Chroma Inc.,ent_startup_chroma,FREEMIUM,Infrastructure,https://aixploria.com/product/chroma-db-v3
 Weaviate v3.0,Weaviate,Weaviate B.V.,ent_startup_weaviate,FREEMIUM,Infrastructure,https://aixploria.com/product/weaviate-v3
 LangChain v3.0,LangChain,"LangChain, Inc.",ent_startup_langchain,FREEMIUM,LLM Framework,https://aixploria.com/product/langchain-v3
 LlamaIndex v3.0,LlamaIndex,LlamaIndex Inc.,ent_startup_llamaindex,FREEMIUM,RAG Framework,https://aixploria.com/product/llamaindex-v3
-CrewAI v3.0,,CrewAI Inc.,,FREEMIUM,AI Agents,https://aixploria.com/product/crewai-v3
-Ollama v3.0,,Ollama Inc.,,FREEMIUM,Local LLM,https://aixploria.com/product/ollama-v3
+CrewAI v3.0,CrewAI,CrewAI Inc.,ent_startup_crewai,FREEMIUM,AI Agents,https://aixploria.com/product/crewai-v3
+Ollama v3.0,Ollama,Ollama Inc.,ent_startup_ollama,FREEMIUM,Local LLM,https://aixploria.com/product/ollama-v3
 Hugging Face Hub v3.0,Hugging Face,"Hugging Face, Inc.",ent_startup_hugging_face,FREEMIUM,Model Hub,https://aixploria.com/product/huggingface-v3
-Unresolved Tool A v3.0,,Niche Studio 101,,FREE,Utility,https://aixploria.com/product/unresolved-a-v3
-Unresolved Tool B v3.0,,Niche Studio 102,,FREE,Utility,https://aixploria.com/product/unresolved-b-v3
+Unresolved Niche Tool 101 v3.0,,Niche Studio 101,,FREE,Utility,https://aixploria.com/product/unresolved-a-v3
+Unresolved Niche Tool 102 v3.0,,Niche Studio 102,,FREE,Utility,https://aixploria.com/product/unresolved-b-v3
 ChatGPT v4.0,OpenAI,OpenAI Inc.,ent_startup_openai,FREEMIUM,Conversational AI,https://aixploria.com/product/chatgpt-v4
 Claude 3.5 Sonnet v4.0,Anthropic,Anthropic PBC,ent_startup_anthropic,FREEMIUM,AI Assistant,https://aixploria.com/product/claude-3-5-sonnet-v4
 Midjourney v6 v4.0,Midjourney,Midjourney Inc.,ent_startup_midjourney,PAID,Image Generation,https://aixploria.com/product/midjourney-v6-v4
-GitHub Copilot v4.0,,Microsoft Corporation,,PAID,Developer Tools,https://aixploria.com/product/github-copilot-v4
+GitHub Copilot v4.0,Microsoft,Microsoft Corporation,ent_startup_microsoft,PAID,Developer Tools,https://aixploria.com/product/github-copilot-v4
 Perplexity Pro v4.0,Perplexity,Perplexity AI Inc.,ent_startup_perplexity,FREEMIUM,Search & Research,https://aixploria.com/product/perplexity-pro-v4
-Gemini Advanced v4.0,,Google LLC,,FREEMIUM,Conversational AI,https://aixploria.com/product/gemini-advanced-v4
+Gemini Advanced v4.0,Google,Google LLC,ent_startup_google,FREEMIUM,Conversational AI,https://aixploria.com/product/gemini-advanced-v4
 Stable Diffusion 3 v4.0,Stability AI,Stability AI Ltd.,ent_startup_stability,FREEMIUM,Image Generation,https://aixploria.com/product/stable-diffusion-3-v4
 ElevenLabs Reader v4.0,ElevenLabs,ElevenLabs Inc.,ent_startup_elevenlabs,FREEMIUM,Voice & Audio,https://aixploria.com/product/elevenlabs-reader-v4
 Runway Gen-3 Alpha v4.0,Runway,"Runway AI, Inc.",ent_startup_runway,FREEMIUM,Video Generation,https://aixploria.com/product/runway-gen-3-v4
 Sora v4.0,OpenAI,OpenAI Inc.,ent_startup_openai,FREEMIUM,Video Generation,https://aixploria.com/product/sora-v4
-Llama 3.1 405B v4.0,,"Meta Platforms, Inc.",,FREEMIUM,LLM Foundation,https://aixploria.com/product/llama-3-1-405b-v4
-DeepSeek V3 v4.0,,DeepSeek Inc.,,FREEMIUM,LLM Foundation,https://aixploria.com/product/deepseek-v3-v4
+Llama 3.1 405B v4.0,Meta,"Meta Platforms, Inc.",ent_startup_meta,FREEMIUM,LLM Foundation,https://aixploria.com/product/llama-3-1-405b-v4
+DeepSeek V3 v4.0,DeepSeek,DeepSeek Inc.,ent_startup_deepseek,FREEMIUM,LLM Foundation,https://aixploria.com/product/deepseek-v3-v4
 Mistral Large 2 v4.0,Mistral AI,Mistral AI SAS,ent_startup_mistral,FREEMIUM,LLM Foundation,https://aixploria.com/product/mistral-large-2-v4
-Qwen 2.5 v4.0,,Alibaba Cloud Computing Ltd.,,FREEMIUM,LLM Foundation,https://aixploria.com/product/qwen-2-5-v4
-Pika 1.0 v4.0,,"Pika Labs, Inc.",,FREEMIUM,Video Generation,https://aixploria.com/product/pika-1-0-v4
-Suno v3.5 v4.0,,Suno AI Inc.,,FREEMIUM,Music Generation,https://aixploria.com/product/suno-v3-5-v4
-Udio v1.5 v4.0,,"Uncharted Labs, Inc. (Udio)",,FREEMIUM,Music Generation,https://aixploria.com/product/udio-v1-5-v4
-Kling AI v4.0,,Kuaishou Technology Ltd.,,FREEMIUM,Video Generation,https://aixploria.com/product/kling-ai-v4
-Flux.1 v4.0,,Black Forest Labs GmbH,,FREEMIUM,Image Generation,https://aixploria.com/product/flux-1-v4
-Ideogram 2.0 v4.0,,Ideogram AI Inc.,,FREEMIUM,Image Generation,https://aixploria.com/product/ideogram-2-0-v4
-Luma Dream Machine v4.0,,Luma AI Inc.,,FREEMIUM,3D & Video,https://aixploria.com/product/luma-dream-machine-v4
+Qwen 2.5 v4.0,Alibaba Cloud,Alibaba Cloud Computing Ltd.,ent_startup_alibaba_cloud,FREEMIUM,LLM Foundation,https://aixploria.com/product/qwen-2-5-v4
+Pika 1.0 v4.0,Pika Labs,"Pika Labs, Inc.",ent_startup_pika,FREEMIUM,Video Generation,https://aixploria.com/product/pika-1-0-v4
+Suno v3.5 v4.0,Suno AI,Suno AI Inc.,ent_startup_suno,FREEMIUM,Music Generation,https://aixploria.com/product/suno-v3-5-v4
+Udio v1.5 v4.0,Udio,"Uncharted Labs, Inc. (Udio)",ent_startup_udio,FREEMIUM,Music Generation,https://aixploria.com/product/udio-v1-5-v4
+Kling AI v4.0,Kuaishou,Kuaishou Technology Ltd.,ent_startup_kuaishou,FREEMIUM,Video Generation,https://aixploria.com/product/kling-ai-v4
+Flux.1 v4.0,Black Forest Labs,Black Forest Labs GmbH,ent_startup_black_forest,FREEMIUM,Image Generation,https://aixploria.com/product/flux-1-v4
+Ideogram 2.0 v4.0,Ideogram,Ideogram AI Inc.,ent_startup_ideogram,FREEMIUM,Image Generation,https://aixploria.com/product/ideogram-2-0-v4
+Luma Dream Machine v4.0,Luma AI,Luma AI Inc.,ent_startup_luma,FREEMIUM,3D & Video,https://aixploria.com/product/luma-dream-machine-v4
 Jasper AI v4.0,Jasper,Jasper AI Inc.,ent_startup_jasper,PAID,Marketing AI,https://aixploria.com/product/jasper-ai-v4
 Copy.ai v4.0,Copy.ai,Copy.ai Inc.,ent_startup_copy,FREEMIUM,Copywriting,https://aixploria.com/product/copy-ai-v4
 Descript v4.0,Descript,Descript Inc.,ent_startup_descript,FREEMIUM,Audio & Video,https://aixploria.com/product/descript-v4
-HeyGen v4.0,,HeyGen Inc.,,FREEMIUM,AI Avatars,https://aixploria.com/product/heygen-v4
+HeyGen v4.0,HeyGen,HeyGen Inc.,ent_startup_heygen,FREEMIUM,AI Avatars,https://aixploria.com/product/heygen-v4
 Synthesia v4.0,Synthesia,Synthesia Ltd.,ent_startup_synthesia,PAID,AI Avatars,https://aixploria.com/product/synthesia-v4
-Cursor IDE v4.0,,Anysphere Inc. (Cursor),,FREEMIUM,Developer Tools,https://aixploria.com/product/cursor-ide-v4
+Cursor IDE v4.0,Anysphere,Anysphere Inc. (Cursor),ent_startup_anysphere,FREEMIUM,Developer Tools,https://aixploria.com/product/cursor-ide-v4
 Replit Agent v4.0,Replit,Replit Inc.,ent_startup_replit,FREEMIUM,Developer Tools,https://aixploria.com/product/replit-agent-v4
-v0 by Vercel v4.0,,Vercel Inc.,,FREEMIUM,UI Code Gen,https://aixploria.com/product/v0-vercel-v4
-Bolt.new v4.0,,StackBlitz Inc.,,FREEMIUM,Web Dev AI,https://aixploria.com/product/bolt-new-v4
-Devin v4.0,,Cognition AI Inc.,,PAID,AI Software Engineer,https://aixploria.com/product/devin-v4
+v0 by Vercel v4.0,Vercel,Vercel Inc.,ent_startup_vercel,FREEMIUM,UI Code Gen,https://aixploria.com/product/v0-vercel-v4
+Bolt.new v4.0,StackBlitz,StackBlitz Inc.,ent_startup_stackblitz,FREEMIUM,Web Dev AI,https://aixploria.com/product/bolt-new-v4
+Devin v4.0,Cognition,Cognition AI Inc.,ent_startup_cognition,PAID,AI Software Engineer,https://aixploria.com/product/devin-v4
 Harvey AI v4.0,Harvey,Harvey AI Inc.,ent_startup_harvey,ENTERPRISE,Legal AI,https://aixploria.com/product/harvey-ai-v4
 Pinecone Vector DB v4.0,Pinecone,"Pinecone Systems, Inc.",ent_startup_pinecone,FREEMIUM,Infrastructure,https://aixploria.com/product/pinecone-v4
-Qdrant v4.0,,Qdrant Solutions GmbH,,FREEMIUM,Infrastructure,https://aixploria.com/product/qdrant-v4
-Milvus v4.0,,Zilliz Inc.,,FREEMIUM,Infrastructure,https://aixploria.com/product/milvus-v4
-Chroma DB v4.0,,Chroma Inc.,,FREEMIUM,Infrastructure,https://aixploria.com/product/chroma-db-v4
+Qdrant v4.0,Qdrant,Qdrant Solutions GmbH,ent_startup_qdrant,FREEMIUM,Infrastructure,https://aixploria.com/product/qdrant-v4
+Milvus v4.0,Zilliz,Zilliz Inc.,ent_startup_zilliz,FREEMIUM,Infrastructure,https://aixploria.com/product/milvus-v4
+Chroma DB v4.0,Chroma,Chroma Inc.,ent_startup_chroma,FREEMIUM,Infrastructure,https://aixploria.com/product/chroma-db-v4
 Weaviate v4.0,Weaviate,Weaviate B.V.,ent_startup_weaviate,FREEMIUM,Infrastructure,https://aixploria.com/product/weaviate-v4
 LangChain v4.0,LangChain,"LangChain, Inc.",ent_startup_langchain,FREEMIUM,LLM Framework,https://aixploria.com/product/langchain-v4
 LlamaIndex v4.0,LlamaIndex,LlamaIndex Inc.,ent_startup_llamaindex,FREEMIUM,RAG Framework,https://aixploria.com/product/llamaindex-v4
-CrewAI v4.0,,CrewAI Inc.,,FREEMIUM,AI Agents,https://aixploria.com/product/crewai-v4
-Ollama v4.0,,Ollama Inc.,,FREEMIUM,Local LLM,https://aixploria.com/product/ollama-v4
+CrewAI v4.0,CrewAI,CrewAI Inc.,ent_startup_crewai,FREEMIUM,AI Agents,https://aixploria.com/product/crewai-v4
+Ollama v4.0,Ollama,Ollama Inc.,ent_startup_ollama,FREEMIUM,Local LLM,https://aixploria.com/product/ollama-v4
 Hugging Face Hub v4.0,Hugging Face,"Hugging Face, Inc.",ent_startup_hugging_face,FREEMIUM,Model Hub,https://aixploria.com/product/huggingface-v4
-Unresolved Tool A v4.0,,Niche Studio 101,,FREE,Utility,https://aixploria.com/product/unresolved-a-v4
-Unresolved Tool B v4.0,,Niche Studio 102,,FREE,Utility,https://aixploria.com/product/unresolved-b-v4
+Unresolved Niche Tool 101 v4.0,,Niche Studio 101,,FREE,Utility,https://aixploria.com/product/unresolved-a-v4
+Unresolved Niche Tool 102 v4.0,,Niche Studio 102,,FREE,Utility,https://aixploria.com/product/unresolved-b-v4
 ChatGPT v5.0,OpenAI,OpenAI Inc.,ent_startup_openai,FREEMIUM,Conversational AI,https://aixploria.com/product/chatgpt-v5
 Claude 3.5 Sonnet v5.0,Anthropic,Anthropic PBC,ent_startup_anthropic,FREEMIUM,AI Assistant,https://aixploria.com/product/claude-3-5-sonnet-v5
 Midjourney v6 v5.0,Midjourney,Midjourney Inc.,ent_startup_midjourney,PAID,Image Generation,https://aixploria.com/product/midjourney-v6-v5
-GitHub Copilot v5.0,,Microsoft Corporation,,PAID,Developer Tools,https://aixploria.com/product/github-copilot-v5
+GitHub Copilot v5.0,Microsoft,Microsoft Corporation,ent_startup_microsoft,PAID,Developer Tools,https://aixploria.com/product/github-copilot-v5
 Perplexity Pro v5.0,Perplexity,Perplexity AI Inc.,ent_startup_perplexity,FREEMIUM,Search & Research,https://aixploria.com/product/perplexity-pro-v5
-Gemini Advanced v5.0,,Google LLC,,FREEMIUM,Conversational AI,https://aixploria.com/product/gemini-advanced-v5
+Gemini Advanced v5.0,Google,Google LLC,ent_startup_google,FREEMIUM,Conversational AI,https://aixploria.com/product/gemini-advanced-v5
 Stable Diffusion 3 v5.0,Stability AI,Stability AI Ltd.,ent_startup_stability,FREEMIUM,Image Generation,https://aixploria.com/product/stable-diffusion-3-v5
 ElevenLabs Reader v5.0,ElevenLabs,ElevenLabs Inc.,ent_startup_elevenlabs,FREEMIUM,Voice & Audio,https://aixploria.com/product/elevenlabs-reader-v5
 Runway Gen-3 Alpha v5.0,Runway,"Runway AI, Inc.",ent_startup_runway,FREEMIUM,Video Generation,https://aixploria.com/product/runway-gen-3-v5
 Sora v5.0,OpenAI,OpenAI Inc.,ent_startup_openai,FREEMIUM,Video Generation,https://aixploria.com/product/sora-v5
-Llama 3.1 405B v5.0,,"Meta Platforms, Inc.",,FREEMIUM,LLM Foundation,https://aixploria.com/product/llama-3-1-405b-v5
-DeepSeek V3 v5.0,,DeepSeek Inc.,,FREEMIUM,LLM Foundation,https://aixploria.com/product/deepseek-v3-v5
+Llama 3.1 405B v5.0,Meta,"Meta Platforms, Inc.",ent_startup_meta,FREEMIUM,LLM Foundation,https://aixploria.com/product/llama-3-1-405b-v5
+DeepSeek V3 v5.0,DeepSeek,DeepSeek Inc.,ent_startup_deepseek,FREEMIUM,LLM Foundation,https://aixploria.com/product/deepseek-v3-v5
 Mistral Large 2 v5.0,Mistral AI,Mistral AI SAS,ent_startup_mistral,FREEMIUM,LLM Foundation,https://aixploria.com/product/mistral-large-2-v5
-Qwen 2.5 v5.0,,Alibaba Cloud Computing Ltd.,,FREEMIUM,LLM Foundation,https://aixploria.com/product/qwen-2-5-v5
-Pika 1.0 v5.0,,"Pika Labs, Inc.",,FREEMIUM,Video Generation,https://aixploria.com/product/pika-1-0-v5
-Suno v3.5 v5.0,,Suno AI Inc.,,FREEMIUM,Music Generation,https://aixploria.com/product/suno-v3-5-v5
-Udio v1.5 v5.0,,"Uncharted Labs, Inc. (Udio)",,FREEMIUM,Music Generation,https://aixploria.com/product/udio-v1-5-v5
-Kling AI v5.0,,Kuaishou Technology Ltd.,,FREEMIUM,Video Generation,https://aixploria.com/product/kling-ai-v5
-Flux.1 v5.0,,Black Forest Labs GmbH,,FREEMIUM,Image Generation,https://aixploria.com/product/flux-1-v5
-Ideogram 2.0 v5.0,,Ideogram AI Inc.,,FREEMIUM,Image Generation,https://aixploria.com/product/ideogram-2-0-v5
-Luma Dream Machine v5.0,,Luma AI Inc.,,FREEMIUM,3D & Video,https://aixploria.com/product/luma-dream-machine-v5
+Qwen 2.5 v5.0,Alibaba Cloud,Alibaba Cloud Computing Ltd.,ent_startup_alibaba_cloud,FREEMIUM,LLM Foundation,https://aixploria.com/product/qwen-2-5-v5
+Pika 1.0 v5.0,Pika Labs,"Pika Labs, Inc.",ent_startup_pika,FREEMIUM,Video Generation,https://aixploria.com/product/pika-1-0-v5
+Suno v3.5 v5.0,Suno AI,Suno AI Inc.,ent_startup_suno,FREEMIUM,Music Generation,https://aixploria.com/product/suno-v3-5-v5
+Udio v1.5 v5.0,Udio,"Uncharted Labs, Inc. (Udio)",ent_startup_udio,FREEMIUM,Music Generation,https://aixploria.com/product/udio-v1-5-v5
+Kling AI v5.0,Kuaishou,Kuaishou Technology Ltd.,ent_startup_kuaishou,FREEMIUM,Video Generation,https://aixploria.com/product/kling-ai-v5
+Flux.1 v5.0,Black Forest Labs,Black Forest Labs GmbH,ent_startup_black_forest,FREEMIUM,Image Generation,https://aixploria.com/product/flux-1-v5
+Ideogram 2.0 v5.0,Ideogram,Ideogram AI Inc.,ent_startup_ideogram,FREEMIUM,Image Generation,https://aixploria.com/product/ideogram-2-0-v5
+Luma Dream Machine v5.0,Luma AI,Luma AI Inc.,ent_startup_luma,FREEMIUM,3D & Video,https://aixploria.com/product/luma-dream-machine-v5
 Jasper AI v5.0,Jasper,Jasper AI Inc.,ent_startup_jasper,PAID,Marketing AI,https://aixploria.com/product/jasper-ai-v5
 Copy.ai v5.0,Copy.ai,Copy.ai Inc.,ent_startup_copy,FREEMIUM,Copywriting,https://aixploria.com/product/copy-ai-v5
 Descript v5.0,Descript,Descript Inc.,ent_startup_descript,FREEMIUM,Audio & Video,https://aixploria.com/product/descript-v5
-HeyGen v5.0,,HeyGen Inc.,,FREEMIUM,AI Avatars,https://aixploria.com/product/heygen-v5
+HeyGen v5.0,HeyGen,HeyGen Inc.,ent_startup_heygen,FREEMIUM,AI Avatars,https://aixploria.com/product/heygen-v5
 Synthesia v5.0,Synthesia,Synthesia Ltd.,ent_startup_synthesia,PAID,AI Avatars,https://aixploria.com/product/synthesia-v5
-Cursor IDE v5.0,,Anysphere Inc. (Cursor),,FREEMIUM,Developer Tools,https://aixploria.com/product/cursor-ide-v5
+Cursor IDE v5.0,Anysphere,Anysphere Inc. (Cursor),ent_startup_anysphere,FREEMIUM,Developer Tools,https://aixploria.com/product/cursor-ide-v5
 Replit Agent v5.0,Replit,Replit Inc.,ent_startup_replit,FREEMIUM,Developer Tools,https://aixploria.com/product/replit-agent-v5
-v0 by Vercel v5.0,,Vercel Inc.,,FREEMIUM,UI Code Gen,https://aixploria.com/product/v0-vercel-v5
-Bolt.new v5.0,,StackBlitz Inc.,,FREEMIUM,Web Dev AI,https://aixploria.com/product/bolt-new-v5
-Devin v5.0,,Cognition AI Inc.,,PAID,AI Software Engineer,https://aixploria.com/product/devin-v5
+v0 by Vercel v5.0,Vercel,Vercel Inc.,ent_startup_vercel,FREEMIUM,UI Code Gen,https://aixploria.com/product/v0-vercel-v5
+Bolt.new v5.0,StackBlitz,StackBlitz Inc.,ent_startup_stackblitz,FREEMIUM,Web Dev AI,https://aixploria.com/product/bolt-new-v5
+Devin v5.0,Cognition,Cognition AI Inc.,ent_startup_cognition,PAID,AI Software Engineer,https://aixploria.com/product/devin-v5
 Harvey AI v5.0,Harvey,Harvey AI Inc.,ent_startup_harvey,ENTERPRISE,Legal AI,https://aixploria.com/product/harvey-ai-v5
 Pinecone Vector DB v5.0,Pinecone,"Pinecone Systems, Inc.",ent_startup_pinecone,FREEMIUM,Infrastructure,https://aixploria.com/product/pinecone-v5
-Qdrant v5.0,,Qdrant Solutions GmbH,,FREEMIUM,Infrastructure,https://aixploria.com/product/qdrant-v5
-Milvus v5.0,,Zilliz Inc.,,FREEMIUM,Infrastructure,https://aixploria.com/product/milvus-v5
-Chroma DB v5.0,,Chroma Inc.,,FREEMIUM,Infrastructure,https://aixploria.com/product/chroma-db-v5
+Qdrant v5.0,Qdrant,Qdrant Solutions GmbH,ent_startup_qdrant,FREEMIUM,Infrastructure,https://aixploria.com/product/qdrant-v5
+Milvus v5.0,Zilliz,Zilliz Inc.,ent_startup_zilliz,FREEMIUM,Infrastructure,https://aixploria.com/product/milvus-v5
+Chroma DB v5.0,Chroma,Chroma Inc.,ent_startup_chroma,FREEMIUM,Infrastructure,https://aixploria.com/product/chroma-db-v5
 Weaviate v5.0,Weaviate,Weaviate B.V.,ent_startup_weaviate,FREEMIUM,Infrastructure,https://aixploria.com/product/weaviate-v5
 LangChain v5.0,LangChain,"LangChain, Inc.",ent_startup_langchain,FREEMIUM,LLM Framework,https://aixploria.com/product/langchain-v5
 LlamaIndex v5.0,LlamaIndex,LlamaIndex Inc.,ent_startup_llamaindex,FREEMIUM,RAG Framework,https://aixploria.com/product/llamaindex-v5
-CrewAI v5.0,,CrewAI Inc.,,FREEMIUM,AI Agents,https://aixploria.com/product/crewai-v5
-Ollama v5.0,,Ollama Inc.,,FREEMIUM,Local LLM,https://aixploria.com/product/ollama-v5
+CrewAI v5.0,CrewAI,CrewAI Inc.,ent_startup_crewai,FREEMIUM,AI Agents,https://aixploria.com/product/crewai-v5
+Ollama v5.0,Ollama,Ollama Inc.,ent_startup_ollama,FREEMIUM,Local LLM,https://aixploria.com/product/ollama-v5
 Hugging Face Hub v5.0,Hugging Face,"Hugging Face, Inc.",ent_startup_hugging_face,FREEMIUM,Model Hub,https://aixploria.com/product/huggingface-v5
-Unresolved Tool A v5.0,,Niche Studio 101,,FREE,Utility,https://aixploria.com/product/unresolved-a-v5
-Unresolved Tool B v5.0,,Niche Studio 102,,FREE,Utility,https://aixploria.com/product/unresolved-b-v5
+Unresolved Niche Tool 101 v5.0,,Niche Studio 101,,FREE,Utility,https://aixploria.com/product/unresolved-a-v5
+Unresolved Niche Tool 102 v5.0,,Niche Studio 102,,FREE,Utility,https://aixploria.com/product/unresolved-b-v5
 ChatGPT v6.0,OpenAI,OpenAI Inc.,ent_startup_openai,FREEMIUM,Conversational AI,https://aixploria.com/product/chatgpt-v6
 Claude 3.5 Sonnet v6.0,Anthropic,Anthropic PBC,ent_startup_anthropic,FREEMIUM,AI Assistant,https://aixploria.com/product/claude-3-5-sonnet-v6
 Midjourney v6 v6.0,Midjourney,Midjourney Inc.,ent_startup_midjourney,PAID,Image Generation,https://aixploria.com/product/midjourney-v6-v6
-GitHub Copilot v6.0,,Microsoft Corporation,,PAID,Developer Tools,https://aixploria.com/product/github-copilot-v6
+GitHub Copilot v6.0,Microsoft,Microsoft Corporation,ent_startup_microsoft,PAID,Developer Tools,https://aixploria.com/product/github-copilot-v6
 Perplexity Pro v6.0,Perplexity,Perplexity AI Inc.,ent_startup_perplexity,FREEMIUM,Search & Research,https://aixploria.com/product/perplexity-pro-v6
-Gemini Advanced v6.0,,Google LLC,,FREEMIUM,Conversational AI,https://aixploria.com/product/gemini-advanced-v6
+Gemini Advanced v6.0,Google,Google LLC,ent_startup_google,FREEMIUM,Conversational AI,https://aixploria.com/product/gemini-advanced-v6
 Stable Diffusion 3 v6.0,Stability AI,Stability AI Ltd.,ent_startup_stability,FREEMIUM,Image Generation,https://aixploria.com/product/stable-diffusion-3-v6
 ElevenLabs Reader v6.0,ElevenLabs,ElevenLabs Inc.,ent_startup_elevenlabs,FREEMIUM,Voice & Audio,https://aixploria.com/product/elevenlabs-reader-v6
 Runway Gen-3 Alpha v6.0,Runway,"Runway AI, Inc.",ent_startup_runway,FREEMIUM,Video Generation,https://aixploria.com/product/runway-gen-3-v6
 Sora v6.0,OpenAI,OpenAI Inc.,ent_startup_openai,FREEMIUM,Video Generation,https://aixploria.com/product/sora-v6
-Llama 3.1 405B v6.0,,"Meta Platforms, Inc.",,FREEMIUM,LLM Foundation,https://aixploria.com/product/llama-3-1-405b-v6
-DeepSeek V3 v6.0,,DeepSeek Inc.,,FREEMIUM,LLM Foundation,https://aixploria.com/product/deepseek-v3-v6
+Llama 3.1 405B v6.0,Meta,"Meta Platforms, Inc.",ent_startup_meta,FREEMIUM,LLM Foundation,https://aixploria.com/product/llama-3-1-405b-v6
+DeepSeek V3 v6.0,DeepSeek,DeepSeek Inc.,ent_startup_deepseek,FREEMIUM,LLM Foundation,https://aixploria.com/product/deepseek-v3-v6
 Mistral Large 2 v6.0,Mistral AI,Mistral AI SAS,ent_startup_mistral,FREEMIUM,LLM Foundation,https://aixploria.com/product/mistral-large-2-v6
-Qwen 2.5 v6.0,,Alibaba Cloud Computing Ltd.,,FREEMIUM,LLM Foundation,https://aixploria.com/product/qwen-2-5-v6
-Pika 1.0 v6.0,,"Pika Labs, Inc.",,FREEMIUM,Video Generation,https://aixploria.com/product/pika-1-0-v6
-Suno v3.5 v6.0,,Suno AI Inc.,,FREEMIUM,Music Generation,https://aixploria.com/product/suno-v3-5-v6
-Udio v1.5 v6.0,,"Uncharted Labs, Inc. (Udio)",,FREEMIUM,Music Generation,https://aixploria.com/product/udio-v1-5-v6
-Kling AI v6.0,,Kuaishou Technology Ltd.,,FREEMIUM,Video Generation,https://aixploria.com/product/kling-ai-v6
-Flux.1 v6.0,,Black Forest Labs GmbH,,FREEMIUM,Image Generation,https://aixploria.com/product/flux-1-v6
-Ideogram 2.0 v6.0,,Ideogram AI Inc.,,FREEMIUM,Image Generation,https://aixploria.com/product/ideogram-2-0-v6
-Luma Dream Machine v6.0,,Luma AI Inc.,,FREEMIUM,3D & Video,https://aixploria.com/product/luma-dream-machine-v6
+Qwen 2.5 v6.0,Alibaba Cloud,Alibaba Cloud Computing Ltd.,ent_startup_alibaba_cloud,FREEMIUM,LLM Foundation,https://aixploria.com/product/qwen-2-5-v6
+Pika 1.0 v6.0,Pika Labs,"Pika Labs, Inc.",ent_startup_pika,FREEMIUM,Video Generation,https://aixploria.com/product/pika-1-0-v6
+Suno v3.5 v6.0,Suno AI,Suno AI Inc.,ent_startup_suno,FREEMIUM,Music Generation,https://aixploria.com/product/suno-v3-5-v6
+Udio v1.5 v6.0,Udio,"Uncharted Labs, Inc. (Udio)",ent_startup_udio,FREEMIUM,Music Generation,https://aixploria.com/product/udio-v1-5-v6
+Kling AI v6.0,Kuaishou,Kuaishou Technology Ltd.,ent_startup_kuaishou,FREEMIUM,Video Generation,https://aixploria.com/product/kling-ai-v6
+Flux.1 v6.0,Black Forest Labs,Black Forest Labs GmbH,ent_startup_black_forest,FREEMIUM,Image Generation,https://aixploria.com/product/flux-1-v6
+Ideogram 2.0 v6.0,Ideogram,Ideogram AI Inc.,ent_startup_ideogram,FREEMIUM,Image Generation,https://aixploria.com/product/ideogram-2-0-v6
+Luma Dream Machine v6.0,Luma AI,Luma AI Inc.,ent_startup_luma,FREEMIUM,3D & Video,https://aixploria.com/product/luma-dream-machine-v6
 Jasper AI v6.0,Jasper,Jasper AI Inc.,ent_startup_jasper,PAID,Marketing AI,https://aixploria.com/product/jasper-ai-v6
 Copy.ai v6.0,Copy.ai,Copy.ai Inc.,ent_startup_copy,FREEMIUM,Copywriting,https://aixploria.com/product/copy-ai-v6
 Descript v6.0,Descript,Descript Inc.,ent_startup_descript,FREEMIUM,Audio & Video,https://aixploria.com/product/descript-v6
-HeyGen v6.0,,HeyGen Inc.,,FREEMIUM,AI Avatars,https://aixploria.com/product/heygen-v6
+HeyGen v6.0,HeyGen,HeyGen Inc.,ent_startup_heygen,FREEMIUM,AI Avatars,https://aixploria.com/product/heygen-v6
 Synthesia v6.0,Synthesia,Synthesia Ltd.,ent_startup_synthesia,PAID,AI Avatars,https://aixploria.com/product/synthesia-v6
-Cursor IDE v6.0,,Anysphere Inc. (Cursor),,FREEMIUM,Developer Tools,https://aixploria.com/product/cursor-ide-v6
+Cursor IDE v6.0,Anysphere,Anysphere Inc. (Cursor),ent_startup_anysphere,FREEMIUM,Developer Tools,https://aixploria.com/product/cursor-ide-v6
 Replit Agent v6.0,Replit,Replit Inc.,ent_startup_replit,FREEMIUM,Developer Tools,https://aixploria.com/product/replit-agent-v6
-v0 by Vercel v6.0,,Vercel Inc.,,FREEMIUM,UI Code Gen,https://aixploria.com/product/v0-vercel-v6
-Bolt.new v6.0,,StackBlitz Inc.,,FREEMIUM,Web Dev AI,https://aixploria.com/product/bolt-new-v6
-Devin v6.0,,Cognition AI Inc.,,PAID,AI Software Engineer,https://aixploria.com/product/devin-v6
+v0 by Vercel v6.0,Vercel,Vercel Inc.,ent_startup_vercel,FREEMIUM,UI Code Gen,https://aixploria.com/product/v0-vercel-v6
+Bolt.new v6.0,StackBlitz,StackBlitz Inc.,ent_startup_stackblitz,FREEMIUM,Web Dev AI,https://aixploria.com/product/bolt-new-v6
+Devin v6.0,Cognition,Cognition AI Inc.,ent_startup_cognition,PAID,AI Software Engineer,https://aixploria.com/product/devin-v6
 Harvey AI v6.0,Harvey,Harvey AI Inc.,ent_startup_harvey,ENTERPRISE,Legal AI,https://aixploria.com/product/harvey-ai-v6
 Pinecone Vector DB v6.0,Pinecone,"Pinecone Systems, Inc.",ent_startup_pinecone,FREEMIUM,Infrastructure,https://aixploria.com/product/pinecone-v6
-Qdrant v6.0,,Qdrant Solutions GmbH,,FREEMIUM,Infrastructure,https://aixploria.com/product/qdrant-v6
-Milvus v6.0,,Zilliz Inc.,,FREEMIUM,Infrastructure,https://aixploria.com/product/milvus-v6
-Chroma DB v6.0,,Chroma Inc.,,FREEMIUM,Infrastructure,https://aixploria.com/product/chroma-db-v6
+Qdrant v6.0,Qdrant,Qdrant Solutions GmbH,ent_startup_qdrant,FREEMIUM,Infrastructure,https://aixploria.com/product/qdrant-v6
+Milvus v6.0,Zilliz,Zilliz Inc.,ent_startup_zilliz,FREEMIUM,Infrastructure,https://aixploria.com/product/milvus-v6
+Chroma DB v6.0,Chroma,Chroma Inc.,ent_startup_chroma,FREEMIUM,Infrastructure,https://aixploria.com/product/chroma-db-v6
 Weaviate v6.0,Weaviate,Weaviate B.V.,ent_startup_weaviate,FREEMIUM,Infrastructure,https://aixploria.com/product/weaviate-v6
 LangChain v6.0,LangChain,"LangChain, Inc.",ent_startup_langchain,FREEMIUM,LLM Framework,https://aixploria.com/product/langchain-v6
 LlamaIndex v6.0,LlamaIndex,LlamaIndex Inc.,ent_startup_llamaindex,FREEMIUM,RAG Framework,https://aixploria.com/product/llamaindex-v6
-CrewAI v6.0,,CrewAI Inc.,,FREEMIUM,AI Agents,https://aixploria.com/product/crewai-v6
-Ollama v6.0,,Ollama Inc.,,FREEMIUM,Local LLM,https://aixploria.com/product/ollama-v6
+CrewAI v6.0,CrewAI,CrewAI Inc.,ent_startup_crewai,FREEMIUM,AI Agents,https://aixploria.com/product/crewai-v6
+Ollama v6.0,Ollama,Ollama Inc.,ent_startup_ollama,FREEMIUM,Local LLM,https://aixploria.com/product/ollama-v6
 Hugging Face Hub v6.0,Hugging Face,"Hugging Face, Inc.",ent_startup_hugging_face,FREEMIUM,Model Hub,https://aixploria.com/product/huggingface-v6
-Unresolved Tool A v6.0,,Niche Studio 101,,FREE,Utility,https://aixploria.com/product/unresolved-a-v6
-Unresolved Tool B v6.0,,Niche Studio 102,,FREE,Utility,https://aixploria.com/product/unresolved-b-v6
+Unresolved Niche Tool 101 v6.0,,Niche Studio 101,,FREE,Utility,https://aixploria.com/product/unresolved-a-v6
+Unresolved Niche Tool 102 v6.0,,Niche Studio 102,,FREE,Utility,https://aixploria.com/product/unresolved-b-v6
 ChatGPT v7.0,OpenAI,OpenAI Inc.,ent_startup_openai,FREEMIUM,Conversational AI,https://aixploria.com/product/chatgpt-v7
 Claude 3.5 Sonnet v7.0,Anthropic,Anthropic PBC,ent_startup_anthropic,FREEMIUM,AI Assistant,https://aixploria.com/product/claude-3-5-sonnet-v7
 Midjourney v6 v7.0,Midjourney,Midjourney Inc.,ent_startup_midjourney,PAID,Image Generation,https://aixploria.com/product/midjourney-v6-v7
-GitHub Copilot v7.0,,Microsoft Corporation,,PAID,Developer Tools,https://aixploria.com/product/github-copilot-v7
+GitHub Copilot v7.0,Microsoft,Microsoft Corporation,ent_startup_microsoft,PAID,Developer Tools,https://aixploria.com/product/github-copilot-v7
 Perplexity Pro v7.0,Perplexity,Perplexity AI Inc.,ent_startup_perplexity,FREEMIUM,Search & Research,https://aixploria.com/product/perplexity-pro-v7
-Gemini Advanced v7.0,,Google LLC,,FREEMIUM,Conversational AI,https://aixploria.com/product/gemini-advanced-v7
+Gemini Advanced v7.0,Google,Google LLC,ent_startup_google,FREEMIUM,Conversational AI,https://aixploria.com/product/gemini-advanced-v7
 Stable Diffusion 3 v7.0,Stability AI,Stability AI Ltd.,ent_startup_stability,FREEMIUM,Image Generation,https://aixploria.com/product/stable-diffusion-3-v7
 ElevenLabs Reader v7.0,ElevenLabs,ElevenLabs Inc.,ent_startup_elevenlabs,FREEMIUM,Voice & Audio,https://aixploria.com/product/elevenlabs-reader-v7
 Runway Gen-3 Alpha v7.0,Runway,"Runway AI, Inc.",ent_startup_runway,FREEMIUM,Video Generation,https://aixploria.com/product/runway-gen-3-v7
 Sora v7.0,OpenAI,OpenAI Inc.,ent_startup_openai,FREEMIUM,Video Generation,https://aixploria.com/product/sora-v7
-Llama 3.1 405B v7.0,,"Meta Platforms, Inc.",,FREEMIUM,LLM Foundation,https://aixploria.com/product/llama-3-1-405b-v7
-DeepSeek V3 v7.0,,DeepSeek Inc.,,FREEMIUM,LLM Foundation,https://aixploria.com/product/deepseek-v3-v7
+Llama 3.1 405B v7.0,Meta,"Meta Platforms, Inc.",ent_startup_meta,FREEMIUM,LLM Foundation,https://aixploria.com/product/llama-3-1-405b-v7
+DeepSeek V3 v7.0,DeepSeek,DeepSeek Inc.,ent_startup_deepseek,FREEMIUM,LLM Foundation,https://aixploria.com/product/deepseek-v3-v7
 Mistral Large 2 v7.0,Mistral AI,Mistral AI SAS,ent_startup_mistral,FREEMIUM,LLM Foundation,https://aixploria.com/product/mistral-large-2-v7
-Qwen 2.5 v7.0,,Alibaba Cloud Computing Ltd.,,FREEMIUM,LLM Foundation,https://aixploria.com/product/qwen-2-5-v7
-Pika 1.0 v7.0,,"Pika Labs, Inc.",,FREEMIUM,Video Generation,https://aixploria.com/product/pika-1-0-v7
-Suno v3.5 v7.0,,Suno AI Inc.,,FREEMIUM,Music Generation,https://aixploria.com/product/suno-v3-5-v7
-Udio v1.5 v7.0,,"Uncharted Labs, Inc. (Udio)",,FREEMIUM,Music Generation,https://aixploria.com/product/udio-v1-5-v7
-Kling AI v7.0,,Kuaishou Technology Ltd.,,FREEMIUM,Video Generation,https://aixploria.com/product/kling-ai-v7
-Flux.1 v7.0,,Black Forest Labs GmbH,,FREEMIUM,Image Generation,https://aixploria.com/product/flux-1-v7
-Ideogram 2.0 v7.0,,Ideogram AI Inc.,,FREEMIUM,Image Generation,https://aixploria.com/product/ideogram-2-0-v7
-Luma Dream Machine v7.0,,Luma AI Inc.,,FREEMIUM,3D & Video,https://aixploria.com/product/luma-dream-machine-v7
+Qwen 2.5 v7.0,Alibaba Cloud,Alibaba Cloud Computing Ltd.,ent_startup_alibaba_cloud,FREEMIUM,LLM Foundation,https://aixploria.com/product/qwen-2-5-v7
+Pika 1.0 v7.0,Pika Labs,"Pika Labs, Inc.",ent_startup_pika,FREEMIUM,Video Generation,https://aixploria.com/product/pika-1-0-v7
+Suno v3.5 v7.0,Suno AI,Suno AI Inc.,ent_startup_suno,FREEMIUM,Music Generation,https://aixploria.com/product/suno-v3-5-v7
+Udio v1.5 v7.0,Udio,"Uncharted Labs, Inc. (Udio)",ent_startup_udio,FREEMIUM,Music Generation,https://aixploria.com/product/udio-v1-5-v7
+Kling AI v7.0,Kuaishou,Kuaishou Technology Ltd.,ent_startup_kuaishou,FREEMIUM,Video Generation,https://aixploria.com/product/kling-ai-v7
+Flux.1 v7.0,Black Forest Labs,Black Forest Labs GmbH,ent_startup_black_forest,FREEMIUM,Image Generation,https://aixploria.com/product/flux-1-v7
+Ideogram 2.0 v7.0,Ideogram,Ideogram AI Inc.,ent_startup_ideogram,FREEMIUM,Image Generation,https://aixploria.com/product/ideogram-2-0-v7
+Luma Dream Machine v7.0,Luma AI,Luma AI Inc.,ent_startup_luma,FREEMIUM,3D & Video,https://aixploria.com/product/luma-dream-machine-v7
 Jasper AI v7.0,Jasper,Jasper AI Inc.,ent_startup_jasper,PAID,Marketing AI,https://aixploria.com/product/jasper-ai-v7
 Copy.ai v7.0,Copy.ai,Copy.ai Inc.,ent_startup_copy,FREEMIUM,Copywriting,https://aixploria.com/product/copy-ai-v7
 Descript v7.0,Descript,Descript Inc.,ent_startup_descript,FREEMIUM,Audio & Video,https://aixploria.com/product/descript-v7
-HeyGen v7.0,,HeyGen Inc.,,FREEMIUM,AI Avatars,https://aixploria.com/product/heygen-v7
+HeyGen v7.0,HeyGen,HeyGen Inc.,ent_startup_heygen,FREEMIUM,AI Avatars,https://aixploria.com/product/heygen-v7
 Synthesia v7.0,Synthesia,Synthesia Ltd.,ent_startup_synthesia,PAID,AI Avatars,https://aixploria.com/product/synthesia-v7
-Cursor IDE v7.0,,Anysphere Inc. (Cursor),,FREEMIUM,Developer Tools,https://aixploria.com/product/cursor-ide-v7
+Cursor IDE v7.0,Anysphere,Anysphere Inc. (Cursor),ent_startup_anysphere,FREEMIUM,Developer Tools,https://aixploria.com/product/cursor-ide-v7
 Replit Agent v7.0,Replit,Replit Inc.,ent_startup_replit,FREEMIUM,Developer Tools,https://aixploria.com/product/replit-agent-v7
-v0 by Vercel v7.0,,Vercel Inc.,,FREEMIUM,UI Code Gen,https://aixploria.com/product/v0-vercel-v7
-Bolt.new v7.0,,StackBlitz Inc.,,FREEMIUM,Web Dev AI,https://aixploria.com/product/bolt-new-v7
-Devin v7.0,,Cognition AI Inc.,,PAID,AI Software Engineer,https://aixploria.com/product/devin-v7
+v0 by Vercel v7.0,Vercel,Vercel Inc.,ent_startup_vercel,FREEMIUM,UI Code Gen,https://aixploria.com/product/v0-vercel-v7
+Bolt.new v7.0,StackBlitz,StackBlitz Inc.,ent_startup_stackblitz,FREEMIUM,Web Dev AI,https://aixploria.com/product/bolt-new-v7
+Devin v7.0,Cognition,Cognition AI Inc.,ent_startup_cognition,PAID,AI Software Engineer,https://aixploria.com/product/devin-v7
 Harvey AI v7.0,Harvey,Harvey AI Inc.,ent_startup_harvey,ENTERPRISE,Legal AI,https://aixploria.com/product/harvey-ai-v7
 Pinecone Vector DB v7.0,Pinecone,"Pinecone Systems, Inc.",ent_startup_pinecone,FREEMIUM,Infrastructure,https://aixploria.com/product/pinecone-v7
-Qdrant v7.0,,Qdrant Solutions GmbH,,FREEMIUM,Infrastructure,https://aixploria.com/product/qdrant-v7
-Milvus v7.0,,Zilliz Inc.,,FREEMIUM,Infrastructure,https://aixploria.com/product/milvus-v7
-Chroma DB v7.0,,Chroma Inc.,,FREEMIUM,Infrastructure,https://aixploria.com/product/chroma-db-v7
+Qdrant v7.0,Qdrant,Qdrant Solutions GmbH,ent_startup_qdrant,FREEMIUM,Infrastructure,https://aixploria.com/product/qdrant-v7
+Milvus v7.0,Zilliz,Zilliz Inc.,ent_startup_zilliz,FREEMIUM,Infrastructure,https://aixploria.com/product/milvus-v7
+Chroma DB v7.0,Chroma,Chroma Inc.,ent_startup_chroma,FREEMIUM,Infrastructure,https://aixploria.com/product/chroma-db-v7
 Weaviate v7.0,Weaviate,Weaviate B.V.,ent_startup_weaviate,FREEMIUM,Infrastructure,https://aixploria.com/product/weaviate-v7
 LangChain v7.0,LangChain,"LangChain, Inc.",ent_startup_langchain,FREEMIUM,LLM Framework,https://aixploria.com/product/langchain-v7
 LlamaIndex v7.0,LlamaIndex,LlamaIndex Inc.,ent_startup_llamaindex,FREEMIUM,RAG Framework,https://aixploria.com/product/llamaindex-v7
-CrewAI v7.0,,CrewAI Inc.,,FREEMIUM,AI Agents,https://aixploria.com/product/crewai-v7
-Ollama v7.0,,Ollama Inc.,,FREEMIUM,Local LLM,https://aixploria.com/product/ollama-v7
+CrewAI v7.0,CrewAI,CrewAI Inc.,ent_startup_crewai,FREEMIUM,AI Agents,https://aixploria.com/product/crewai-v7
+Ollama v7.0,Ollama,Ollama Inc.,ent_startup_ollama,FREEMIUM,Local LLM,https://aixploria.com/product/ollama-v7
 Hugging Face Hub v7.0,Hugging Face,"Hugging Face, Inc.",ent_startup_hugging_face,FREEMIUM,Model Hub,https://aixploria.com/product/huggingface-v7
-Unresolved Tool A v7.0,,Niche Studio 101,,FREE,Utility,https://aixploria.com/product/unresolved-a-v7
-Unresolved Tool B v7.0,,Niche Studio 102,,FREE,Utility,https://aixploria.com/product/unresolved-b-v7
+Unresolved Niche Tool 101 v7.0,,Niche Studio 101,,FREE,Utility,https://aixploria.com/product/unresolved-a-v7
+Unresolved Niche Tool 102 v7.0,,Niche Studio 102,,FREE,Utility,https://aixploria.com/product/unresolved-b-v7
 ChatGPT v8.0,OpenAI,OpenAI Inc.,ent_startup_openai,FREEMIUM,Conversational AI,https://aixploria.com/product/chatgpt-v8
 Claude 3.5 Sonnet v8.0,Anthropic,Anthropic PBC,ent_startup_anthropic,FREEMIUM,AI Assistant,https://aixploria.com/product/claude-3-5-sonnet-v8
 Midjourney v6 v8.0,Midjourney,Midjourney Inc.,ent_startup_midjourney,PAID,Image Generation,https://aixploria.com/product/midjourney-v6-v8
-GitHub Copilot v8.0,,Microsoft Corporation,,PAID,Developer Tools,https://aixploria.com/product/github-copilot-v8
+GitHub Copilot v8.0,Microsoft,Microsoft Corporation,ent_startup_microsoft,PAID,Developer Tools,https://aixploria.com/product/github-copilot-v8
 Perplexity Pro v8.0,Perplexity,Perplexity AI Inc.,ent_startup_perplexity,FREEMIUM,Search & Research,https://aixploria.com/product/perplexity-pro-v8
-Gemini Advanced v8.0,,Google LLC,,FREEMIUM,Conversational AI,https://aixploria.com/product/gemini-advanced-v8
+Gemini Advanced v8.0,Google,Google LLC,ent_startup_google,FREEMIUM,Conversational AI,https://aixploria.com/product/gemini-advanced-v8
 Stable Diffusion 3 v8.0,Stability AI,Stability AI Ltd.,ent_startup_stability,FREEMIUM,Image Generation,https://aixploria.com/product/stable-diffusion-3-v8
 ElevenLabs Reader v8.0,ElevenLabs,ElevenLabs Inc.,ent_startup_elevenlabs,FREEMIUM,Voice & Audio,https://aixploria.com/product/elevenlabs-reader-v8
 Runway Gen-3 Alpha v8.0,Runway,"Runway AI, Inc.",ent_startup_runway,FREEMIUM,Video Generation,https://aixploria.com/product/runway-gen-3-v8
 Sora v8.0,OpenAI,OpenAI Inc.,ent_startup_openai,FREEMIUM,Video Generation,https://aixploria.com/product/sora-v8
-Llama 3.1 405B v8.0,,"Meta Platforms, Inc.",,FREEMIUM,LLM Foundation,https://aixploria.com/product/llama-3-1-405b-v8
-DeepSeek V3 v8.0,,DeepSeek Inc.,,FREEMIUM,LLM Foundation,https://aixploria.com/product/deepseek-v3-v8
+Llama 3.1 405B v8.0,Meta,"Meta Platforms, Inc.",ent_startup_meta,FREEMIUM,LLM Foundation,https://aixploria.com/product/llama-3-1-405b-v8
+DeepSeek V3 v8.0,DeepSeek,DeepSeek Inc.,ent_startup_deepseek,FREEMIUM,LLM Foundation,https://aixploria.com/product/deepseek-v3-v8
 Mistral Large 2 v8.0,Mistral AI,Mistral AI SAS,ent_startup_mistral,FREEMIUM,LLM Foundation,https://aixploria.com/product/mistral-large-2-v8
-Qwen 2.5 v8.0,,Alibaba Cloud Computing Ltd.,,FREEMIUM,LLM Foundation,https://aixploria.com/product/qwen-2-5-v8
-Pika 1.0 v8.0,,"Pika Labs, Inc.",,FREEMIUM,Video Generation,https://aixploria.com/product/pika-1-0-v8
-Suno v3.5 v8.0,,Suno AI Inc.,,FREEMIUM,Music Generation,https://aixploria.com/product/suno-v3-5-v8
-Udio v1.5 v8.0,,"Uncharted Labs, Inc. (Udio)",,FREEMIUM,Music Generation,https://aixploria.com/product/udio-v1-5-v8
-Kling AI v8.0,,Kuaishou Technology Ltd.,,FREEMIUM,Video Generation,https://aixploria.com/product/kling-ai-v8
-Flux.1 v8.0,,Black Forest Labs GmbH,,FREEMIUM,Image Generation,https://aixploria.com/product/flux-1-v8
-Ideogram 2.0 v8.0,,Ideogram AI Inc.,,FREEMIUM,Image Generation,https://aixploria.com/product/ideogram-2-0-v8
-Luma Dream Machine v8.0,,Luma AI Inc.,,FREEMIUM,3D & Video,https://aixploria.com/product/luma-dream-machine-v8
+Qwen 2.5 v8.0,Alibaba Cloud,Alibaba Cloud Computing Ltd.,ent_startup_alibaba_cloud,FREEMIUM,LLM Foundation,https://aixploria.com/product/qwen-2-5-v8
+Pika 1.0 v8.0,Pika Labs,"Pika Labs, Inc.",ent_startup_pika,FREEMIUM,Video Generation,https://aixploria.com/product/pika-1-0-v8
+Suno v3.5 v8.0,Suno AI,Suno AI Inc.,ent_startup_suno,FREEMIUM,Music Generation,https://aixploria.com/product/suno-v3-5-v8
+Udio v1.5 v8.0,Udio,"Uncharted Labs, Inc. (Udio)",ent_startup_udio,FREEMIUM,Music Generation,https://aixploria.com/product/udio-v1-5-v8
+Kling AI v8.0,Kuaishou,Kuaishou Technology Ltd.,ent_startup_kuaishou,FREEMIUM,Video Generation,https://aixploria.com/product/kling-ai-v8
+Flux.1 v8.0,Black Forest Labs,Black Forest Labs GmbH,ent_startup_black_forest,FREEMIUM,Image Generation,https://aixploria.com/product/flux-1-v8
+Ideogram 2.0 v8.0,Ideogram,Ideogram AI Inc.,ent_startup_ideogram,FREEMIUM,Image Generation,https://aixploria.com/product/ideogram-2-0-v8
+Luma Dream Machine v8.0,Luma AI,Luma AI Inc.,ent_startup_luma,FREEMIUM,3D & Video,https://aixploria.com/product/luma-dream-machine-v8
 Jasper AI v8.0,Jasper,Jasper AI Inc.,ent_startup_jasper,PAID,Marketing AI,https://aixploria.com/product/jasper-ai-v8
 Copy.ai v8.0,Copy.ai,Copy.ai Inc.,ent_startup_copy,FREEMIUM,Copywriting,https://aixploria.com/product/copy-ai-v8
 Descript v8.0,Descript,Descript Inc.,ent_startup_descript,FREEMIUM,Audio & Video,https://aixploria.com/product/descript-v8
-HeyGen v8.0,,HeyGen Inc.,,FREEMIUM,AI Avatars,https://aixploria.com/product/heygen-v8
+HeyGen v8.0,HeyGen,HeyGen Inc.,ent_startup_heygen,FREEMIUM,AI Avatars,https://aixploria.com/product/heygen-v8
 Synthesia v8.0,Synthesia,Synthesia Ltd.,ent_startup_synthesia,PAID,AI Avatars,https://aixploria.com/product/synthesia-v8
-Cursor IDE v8.0,,Anysphere Inc. (Cursor),,FREEMIUM,Developer Tools,https://aixploria.com/product/cursor-ide-v8
+Cursor IDE v8.0,Anysphere,Anysphere Inc. (Cursor),ent_startup_anysphere,FREEMIUM,Developer Tools,https://aixploria.com/product/cursor-ide-v8
 Replit Agent v8.0,Replit,Replit Inc.,ent_startup_replit,FREEMIUM,Developer Tools,https://aixploria.com/product/replit-agent-v8
-v0 by Vercel v8.0,,Vercel Inc.,,FREEMIUM,UI Code Gen,https://aixploria.com/product/v0-vercel-v8
-Bolt.new v8.0,,StackBlitz Inc.,,FREEMIUM,Web Dev AI,https://aixploria.com/product/bolt-new-v8
-Devin v8.0,,Cognition AI Inc.,,PAID,AI Software Engineer,https://aixploria.com/product/devin-v8
+v0 by Vercel v8.0,Vercel,Vercel Inc.,ent_startup_vercel,FREEMIUM,UI Code Gen,https://aixploria.com/product/v0-vercel-v8
+Bolt.new v8.0,StackBlitz,StackBlitz Inc.,ent_startup_stackblitz,FREEMIUM,Web Dev AI,https://aixploria.com/product/bolt-new-v8
+Devin v8.0,Cognition,Cognition AI Inc.,ent_startup_cognition,PAID,AI Software Engineer,https://aixploria.com/product/devin-v8
 Harvey AI v8.0,Harvey,Harvey AI Inc.,ent_startup_harvey,ENTERPRISE,Legal AI,https://aixploria.com/product/harvey-ai-v8
 Pinecone Vector DB v8.0,Pinecone,"Pinecone Systems, Inc.",ent_startup_pinecone,FREEMIUM,Infrastructure,https://aixploria.com/product/pinecone-v8
-Qdrant v8.0,,Qdrant Solutions GmbH,,FREEMIUM,Infrastructure,https://aixploria.com/product/qdrant-v8
-Milvus v8.0,,Zilliz Inc.,,FREEMIUM,Infrastructure,https://aixploria.com/product/milvus-v8
-Chroma DB v8.0,,Chroma Inc.,,FREEMIUM,Infrastructure,https://aixploria.com/product/chroma-db-v8
+Qdrant v8.0,Qdrant,Qdrant Solutions GmbH,ent_startup_qdrant,FREEMIUM,Infrastructure,https://aixploria.com/product/qdrant-v8
+Milvus v8.0,Zilliz,Zilliz Inc.,ent_startup_zilliz,FREEMIUM,Infrastructure,https://aixploria.com/product/milvus-v8
+Chroma DB v8.0,Chroma,Chroma Inc.,ent_startup_chroma,FREEMIUM,Infrastructure,https://aixploria.com/product/chroma-db-v8
 Weaviate v8.0,Weaviate,Weaviate B.V.,ent_startup_weaviate,FREEMIUM,Infrastructure,https://aixploria.com/product/weaviate-v8
 LangChain v8.0,LangChain,"LangChain, Inc.",ent_startup_langchain,FREEMIUM,LLM Framework,https://aixploria.com/product/langchain-v8
 LlamaIndex v8.0,LlamaIndex,LlamaIndex Inc.,ent_startup_llamaindex,FREEMIUM,RAG Framework,https://aixploria.com/product/llamaindex-v8
-CrewAI v8.0,,CrewAI Inc.,,FREEMIUM,AI Agents,https://aixploria.com/product/crewai-v8
-Ollama v8.0,,Ollama Inc.,,FREEMIUM,Local LLM,https://aixploria.com/product/ollama-v8
+CrewAI v8.0,CrewAI,CrewAI Inc.,ent_startup_crewai,FREEMIUM,AI Agents,https://aixploria.com/product/crewai-v8
+Ollama v8.0,Ollama,Ollama Inc.,ent_startup_ollama,FREEMIUM,Local LLM,https://aixploria.com/product/ollama-v8
 Hugging Face Hub v8.0,Hugging Face,"Hugging Face, Inc.",ent_startup_hugging_face,FREEMIUM,Model Hub,https://aixploria.com/product/huggingface-v8
-Unresolved Tool A v8.0,,Niche Studio 101,,FREE,Utility,https://aixploria.com/product/unresolved-a-v8
-Unresolved Tool B v8.0,,Niche Studio 102,,FREE,Utility,https://aixploria.com/product/unresolved-b-v8
+Unresolved Niche Tool 101 v8.0,,Niche Studio 101,,FREE,Utility,https://aixploria.com/product/unresolved-a-v8
+Unresolved Niche Tool 102 v8.0,,Niche Studio 102,,FREE,Utility,https://aixploria.com/product/unresolved-b-v8
 ChatGPT v9.0,OpenAI,OpenAI Inc.,ent_startup_openai,FREEMIUM,Conversational AI,https://aixploria.com/product/chatgpt-v9
 Claude 3.5 Sonnet v9.0,Anthropic,Anthropic PBC,ent_startup_anthropic,FREEMIUM,AI Assistant,https://aixploria.com/product/claude-3-5-sonnet-v9
 Midjourney v6 v9.0,Midjourney,Midjourney Inc.,ent_startup_midjourney,PAID,Image Generation,https://aixploria.com/product/midjourney-v6-v9
-GitHub Copilot v9.0,,Microsoft Corporation,,PAID,Developer Tools,https://aixploria.com/product/github-copilot-v9
+GitHub Copilot v9.0,Microsoft,Microsoft Corporation,ent_startup_microsoft,PAID,Developer Tools,https://aixploria.com/product/github-copilot-v9
 Perplexity Pro v9.0,Perplexity,Perplexity AI Inc.,ent_startup_perplexity,FREEMIUM,Search & Research,https://aixploria.com/product/perplexity-pro-v9
-Gemini Advanced v9.0,,Google LLC,,FREEMIUM,Conversational AI,https://aixploria.com/product/gemini-advanced-v9
+Gemini Advanced v9.0,Google,Google LLC,ent_startup_google,FREEMIUM,Conversational AI,https://aixploria.com/product/gemini-advanced-v9
 Stable Diffusion 3 v9.0,Stability AI,Stability AI Ltd.,ent_startup_stability,FREEMIUM,Image Generation,https://aixploria.com/product/stable-diffusion-3-v9
 ElevenLabs Reader v9.0,ElevenLabs,ElevenLabs Inc.,ent_startup_elevenlabs,FREEMIUM,Voice & Audio,https://aixploria.com/product/elevenlabs-reader-v9
 Runway Gen-3 Alpha v9.0,Runway,"Runway AI, Inc.",ent_startup_runway,FREEMIUM,Video Generation,https://aixploria.com/product/runway-gen-3-v9
 Sora v9.0,OpenAI,OpenAI Inc.,ent_startup_openai,FREEMIUM,Video Generation,https://aixploria.com/product/sora-v9
-Llama 3.1 405B v9.0,,"Meta Platforms, Inc.",,FREEMIUM,LLM Foundation,https://aixploria.com/product/llama-3-1-405b-v9
-DeepSeek V3 v9.0,,DeepSeek Inc.,,FREEMIUM,LLM Foundation,https://aixploria.com/product/deepseek-v3-v9
+Llama 3.1 405B v9.0,Meta,"Meta Platforms, Inc.",ent_startup_meta,FREEMIUM,LLM Foundation,https://aixploria.com/product/llama-3-1-405b-v9
+DeepSeek V3 v9.0,DeepSeek,DeepSeek Inc.,ent_startup_deepseek,FREEMIUM,LLM Foundation,https://aixploria.com/product/deepseek-v3-v9
 Mistral Large 2 v9.0,Mistral AI,Mistral AI SAS,ent_startup_mistral,FREEMIUM,LLM Foundation,https://aixploria.com/product/mistral-large-2-v9
-Qwen 2.5 v9.0,,Alibaba Cloud Computing Ltd.,,FREEMIUM,LLM Foundation,https://aixploria.com/product/qwen-2-5-v9
-Pika 1.0 v9.0,,"Pika Labs, Inc.",,FREEMIUM,Video Generation,https://aixploria.com/product/pika-1-0-v9
-Suno v3.5 v9.0,,Suno AI Inc.,,FREEMIUM,Music Generation,https://aixploria.com/product/suno-v3-5-v9
-Udio v1.5 v9.0,,"Uncharted Labs, Inc. (Udio)",,FREEMIUM,Music Generation,https://aixploria.com/product/udio-v1-5-v9
-Kling AI v9.0,,Kuaishou Technology Ltd.,,FREEMIUM,Video Generation,https://aixploria.com/product/kling-ai-v9
-Flux.1 v9.0,,Black Forest Labs GmbH,,FREEMIUM,Image Generation,https://aixploria.com/product/flux-1-v9
-Ideogram 2.0 v9.0,,Ideogram AI Inc.,,FREEMIUM,Image Generation,https://aixploria.com/product/ideogram-2-0-v9
-Luma Dream Machine v9.0,,Luma AI Inc.,,FREEMIUM,3D & Video,https://aixploria.com/product/luma-dream-machine-v9
+Qwen 2.5 v9.0,Alibaba Cloud,Alibaba Cloud Computing Ltd.,ent_startup_alibaba_cloud,FREEMIUM,LLM Foundation,https://aixploria.com/product/qwen-2-5-v9
+Pika 1.0 v9.0,Pika Labs,"Pika Labs, Inc.",ent_startup_pika,FREEMIUM,Video Generation,https://aixploria.com/product/pika-1-0-v9
+Suno v3.5 v9.0,Suno AI,Suno AI Inc.,ent_startup_suno,FREEMIUM,Music Generation,https://aixploria.com/product/suno-v3-5-v9
+Udio v1.5 v9.0,Udio,"Uncharted Labs, Inc. (Udio)",ent_startup_udio,FREEMIUM,Music Generation,https://aixploria.com/product/udio-v1-5-v9
+Kling AI v9.0,Kuaishou,Kuaishou Technology Ltd.,ent_startup_kuaishou,FREEMIUM,Video Generation,https://aixploria.com/product/kling-ai-v9
+Flux.1 v9.0,Black Forest Labs,Black Forest Labs GmbH,ent_startup_black_forest,FREEMIUM,Image Generation,https://aixploria.com/product/flux-1-v9
+Ideogram 2.0 v9.0,Ideogram,Ideogram AI Inc.,ent_startup_ideogram,FREEMIUM,Image Generation,https://aixploria.com/product/ideogram-2-0-v9
+Luma Dream Machine v9.0,Luma AI,Luma AI Inc.,ent_startup_luma,FREEMIUM,3D & Video,https://aixploria.com/product/luma-dream-machine-v9
 Jasper AI v9.0,Jasper,Jasper AI Inc.,ent_startup_jasper,PAID,Marketing AI,https://aixploria.com/product/jasper-ai-v9
 Copy.ai v9.0,Copy.ai,Copy.ai Inc.,ent_startup_copy,FREEMIUM,Copywriting,https://aixploria.com/product/copy-ai-v9
 Descript v9.0,Descript,Descript Inc.,ent_startup_descript,FREEMIUM,Audio & Video,https://aixploria.com/product/descript-v9
-HeyGen v9.0,,HeyGen Inc.,,FREEMIUM,AI Avatars,https://aixploria.com/product/heygen-v9
+HeyGen v9.0,HeyGen,HeyGen Inc.,ent_startup_heygen,FREEMIUM,AI Avatars,https://aixploria.com/product/heygen-v9
 Synthesia v9.0,Synthesia,Synthesia Ltd.,ent_startup_synthesia,PAID,AI Avatars,https://aixploria.com/product/synthesia-v9
-Cursor IDE v9.0,,Anysphere Inc. (Cursor),,FREEMIUM,Developer Tools,https://aixploria.com/product/cursor-ide-v9
+Cursor IDE v9.0,Anysphere,Anysphere Inc. (Cursor),ent_startup_anysphere,FREEMIUM,Developer Tools,https://aixploria.com/product/cursor-ide-v9
 Replit Agent v9.0,Replit,Replit Inc.,ent_startup_replit,FREEMIUM,Developer Tools,https://aixploria.com/product/replit-agent-v9
-v0 by Vercel v9.0,,Vercel Inc.,,FREEMIUM,UI Code Gen,https://aixploria.com/product/v0-vercel-v9
-Bolt.new v9.0,,StackBlitz Inc.,,FREEMIUM,Web Dev AI,https://aixploria.com/product/bolt-new-v9
-Devin v9.0,,Cognition AI Inc.,,PAID,AI Software Engineer,https://aixploria.com/product/devin-v9
+v0 by Vercel v9.0,Vercel,Vercel Inc.,ent_startup_vercel,FREEMIUM,UI Code Gen,https://aixploria.com/product/v0-vercel-v9
+Bolt.new v9.0,StackBlitz,StackBlitz Inc.,ent_startup_stackblitz,FREEMIUM,Web Dev AI,https://aixploria.com/product/bolt-new-v9
+Devin v9.0,Cognition,Cognition AI Inc.,ent_startup_cognition,PAID,AI Software Engineer,https://aixploria.com/product/devin-v9
 Harvey AI v9.0,Harvey,Harvey AI Inc.,ent_startup_harvey,ENTERPRISE,Legal AI,https://aixploria.com/product/harvey-ai-v9
 Pinecone Vector DB v9.0,Pinecone,"Pinecone Systems, Inc.",ent_startup_pinecone,FREEMIUM,Infrastructure,https://aixploria.com/product/pinecone-v9
-Qdrant v9.0,,Qdrant Solutions GmbH,,FREEMIUM,Infrastructure,https://aixploria.com/product/qdrant-v9
-Milvus v9.0,,Zilliz Inc.,,FREEMIUM,Infrastructure,https://aixploria.com/product/milvus-v9
-Chroma DB v9.0,,Chroma Inc.,,FREEMIUM,Infrastructure,https://aixploria.com/product/chroma-db-v9
+Qdrant v9.0,Qdrant,Qdrant Solutions GmbH,ent_startup_qdrant,FREEMIUM,Infrastructure,https://aixploria.com/product/qdrant-v9
+Milvus v9.0,Zilliz,Zilliz Inc.,ent_startup_zilliz,FREEMIUM,Infrastructure,https://aixploria.com/product/milvus-v9
+Chroma DB v9.0,Chroma,Chroma Inc.,ent_startup_chroma,FREEMIUM,Infrastructure,https://aixploria.com/product/chroma-db-v9
 Weaviate v9.0,Weaviate,Weaviate B.V.,ent_startup_weaviate,FREEMIUM,Infrastructure,https://aixploria.com/product/weaviate-v9
 LangChain v9.0,LangChain,"LangChain, Inc.",ent_startup_langchain,FREEMIUM,LLM Framework,https://aixploria.com/product/langchain-v9
 LlamaIndex v9.0,LlamaIndex,LlamaIndex Inc.,ent_startup_llamaindex,FREEMIUM,RAG Framework,https://aixploria.com/product/llamaindex-v9
-CrewAI v9.0,,CrewAI Inc.,,FREEMIUM,AI Agents,https://aixploria.com/product/crewai-v9
-Ollama v9.0,,Ollama Inc.,,FREEMIUM,Local LLM,https://aixploria.com/product/ollama-v9
+CrewAI v9.0,CrewAI,CrewAI Inc.,ent_startup_crewai,FREEMIUM,AI Agents,https://aixploria.com/product/crewai-v9
+Ollama v9.0,Ollama,Ollama Inc.,ent_startup_ollama,FREEMIUM,Local LLM,https://aixploria.com/product/ollama-v9
 Hugging Face Hub v9.0,Hugging Face,"Hugging Face, Inc.",ent_startup_hugging_face,FREEMIUM,Model Hub,https://aixploria.com/product/huggingface-v9
-Unresolved Tool A v9.0,,Niche Studio 101,,FREE,Utility,https://aixploria.com/product/unresolved-a-v9
-Unresolved Tool B v9.0,,Niche Studio 102,,FREE,Utility,https://aixploria.com/product/unresolved-b-v9
+Unresolved Niche Tool 101 v9.0,,Niche Studio 101,,FREE,Utility,https://aixploria.com/product/unresolved-a-v9
+Unresolved Niche Tool 102 v9.0,,Niche Studio 102,,FREE,Utility,https://aixploria.com/product/unresolved-b-v9
 ChatGPT v10.0,OpenAI,OpenAI Inc.,ent_startup_openai,FREEMIUM,Conversational AI,https://aixploria.com/product/chatgpt-v10
 Claude 3.5 Sonnet v10.0,Anthropic,Anthropic PBC,ent_startup_anthropic,FREEMIUM,AI Assistant,https://aixploria.com/product/claude-3-5-sonnet-v10
 Midjourney v6 v10.0,Midjourney,Midjourney Inc.,ent_startup_midjourney,PAID,Image Generation,https://aixploria.com/product/midjourney-v6-v10
-GitHub Copilot v10.0,,Microsoft Corporation,,PAID,Developer Tools,https://aixploria.com/product/github-copilot-v10
+GitHub Copilot v10.0,Microsoft,Microsoft Corporation,ent_startup_microsoft,PAID,Developer Tools,https://aixploria.com/product/github-copilot-v10
 Perplexity Pro v10.0,Perplexity,Perplexity AI Inc.,ent_startup_perplexity,FREEMIUM,Search & Research,https://aixploria.com/product/perplexity-pro-v10
-Gemini Advanced v10.0,,Google LLC,,FREEMIUM,Conversational AI,https://aixploria.com/product/gemini-advanced-v10
+Gemini Advanced v10.0,Google,Google LLC,ent_startup_google,FREEMIUM,Conversational AI,https://aixploria.com/product/gemini-advanced-v10
 Stable Diffusion 3 v10.0,Stability AI,Stability AI Ltd.,ent_startup_stability,FREEMIUM,Image Generation,https://aixploria.com/product/stable-diffusion-3-v10
 ElevenLabs Reader v10.0,ElevenLabs,ElevenLabs Inc.,ent_startup_elevenlabs,FREEMIUM,Voice & Audio,https://aixploria.com/product/elevenlabs-reader-v10
 Runway Gen-3 Alpha v10.0,Runway,"Runway AI, Inc.",ent_startup_runway,FREEMIUM,Video Generation,https://aixploria.com/product/runway-gen-3-v10
 Sora v10.0,OpenAI,OpenAI Inc.,ent_startup_openai,FREEMIUM,Video Generation,https://aixploria.com/product/sora-v10
-Llama 3.1 405B v10.0,,"Meta Platforms, Inc.",,FREEMIUM,LLM Foundation,https://aixploria.com/product/llama-3-1-405b-v10
-DeepSeek V3 v10.0,,DeepSeek Inc.,,FREEMIUM,LLM Foundation,https://aixploria.com/product/deepseek-v3-v10
+Llama 3.1 405B v10.0,Meta,"Meta Platforms, Inc.",ent_startup_meta,FREEMIUM,LLM Foundation,https://aixploria.com/product/llama-3-1-405b-v10
+DeepSeek V3 v10.0,DeepSeek,DeepSeek Inc.,ent_startup_deepseek,FREEMIUM,LLM Foundation,https://aixploria.com/product/deepseek-v3-v10
 Mistral Large 2 v10.0,Mistral AI,Mistral AI SAS,ent_startup_mistral,FREEMIUM,LLM Foundation,https://aixploria.com/product/mistral-large-2-v10
-Qwen 2.5 v10.0,,Alibaba Cloud Computing Ltd.,,FREEMIUM,LLM Foundation,https://aixploria.com/product/qwen-2-5-v10
-Pika 1.0 v10.0,,"Pika Labs, Inc.",,FREEMIUM,Video Generation,https://aixploria.com/product/pika-1-0-v10
-Suno v3.5 v10.0,,Suno AI Inc.,,FREEMIUM,Music Generation,https://aixploria.com/product/suno-v3-5-v10
-Udio v1.5 v10.0,,"Uncharted Labs, Inc. (Udio)",,FREEMIUM,Music Generation,https://aixploria.com/product/udio-v1-5-v10
-Kling AI v10.0,,Kuaishou Technology Ltd.,,FREEMIUM,Video Generation,https://aixploria.com/product/kling-ai-v10
-Flux.1 v10.0,,Black Forest Labs GmbH,,FREEMIUM,Image Generation,https://aixploria.com/product/flux-1-v10
-Ideogram 2.0 v10.0,,Ideogram AI Inc.,,FREEMIUM,Image Generation,https://aixploria.com/product/ideogram-2-0-v10
-Luma Dream Machine v10.0,,Luma AI Inc.,,FREEMIUM,3D & Video,https://aixploria.com/product/luma-dream-machine-v10
+Qwen 2.5 v10.0,Alibaba Cloud,Alibaba Cloud Computing Ltd.,ent_startup_alibaba_cloud,FREEMIUM,LLM Foundation,https://aixploria.com/product/qwen-2-5-v10
+Pika 1.0 v10.0,Pika Labs,"Pika Labs, Inc.",ent_startup_pika,FREEMIUM,Video Generation,https://aixploria.com/product/pika-1-0-v10
+Suno v3.5 v10.0,Suno AI,Suno AI Inc.,ent_startup_suno,FREEMIUM,Music Generation,https://aixploria.com/product/suno-v3-5-v10
+Udio v1.5 v10.0,Udio,"Uncharted Labs, Inc. (Udio)",ent_startup_udio,FREEMIUM,Music Generation,https://aixploria.com/product/udio-v1-5-v10
+Kling AI v10.0,Kuaishou,Kuaishou Technology Ltd.,ent_startup_kuaishou,FREEMIUM,Video Generation,https://aixploria.com/product/kling-ai-v10
+Flux.1 v10.0,Black Forest Labs,Black Forest Labs GmbH,ent_startup_black_forest,FREEMIUM,Image Generation,https://aixploria.com/product/flux-1-v10
+Ideogram 2.0 v10.0,Ideogram,Ideogram AI Inc.,ent_startup_ideogram,FREEMIUM,Image Generation,https://aixploria.com/product/ideogram-2-0-v10
+Luma Dream Machine v10.0,Luma AI,Luma AI Inc.,ent_startup_luma,FREEMIUM,3D & Video,https://aixploria.com/product/luma-dream-machine-v10
 Jasper AI v10.0,Jasper,Jasper AI Inc.,ent_startup_jasper,PAID,Marketing AI,https://aixploria.com/product/jasper-ai-v10
 Copy.ai v10.0,Copy.ai,Copy.ai Inc.,ent_startup_copy,FREEMIUM,Copywriting,https://aixploria.com/product/copy-ai-v10
 Descript v10.0,Descript,Descript Inc.,ent_startup_descript,FREEMIUM,Audio & Video,https://aixploria.com/product/descript-v10
-HeyGen v10.0,,HeyGen Inc.,,FREEMIUM,AI Avatars,https://aixploria.com/product/heygen-v10
+HeyGen v10.0,HeyGen,HeyGen Inc.,ent_startup_heygen,FREEMIUM,AI Avatars,https://aixploria.com/product/heygen-v10
 Synthesia v10.0,Synthesia,Synthesia Ltd.,ent_startup_synthesia,PAID,AI Avatars,https://aixploria.com/product/synthesia-v10
-Cursor IDE v10.0,,Anysphere Inc. (Cursor),,FREEMIUM,Developer Tools,https://aixploria.com/product/cursor-ide-v10
+Cursor IDE v10.0,Anysphere,Anysphere Inc. (Cursor),ent_startup_anysphere,FREEMIUM,Developer Tools,https://aixploria.com/product/cursor-ide-v10
 Replit Agent v10.0,Replit,Replit Inc.,ent_startup_replit,FREEMIUM,Developer Tools,https://aixploria.com/product/replit-agent-v10
-v0 by Vercel v10.0,,Vercel Inc.,,FREEMIUM,UI Code Gen,https://aixploria.com/product/v0-vercel-v10
-Bolt.new v10.0,,StackBlitz Inc.,,FREEMIUM,Web Dev AI,https://aixploria.com/product/bolt-new-v10
-Devin v10.0,,Cognition AI Inc.,,PAID,AI Software Engineer,https://aixploria.com/product/devin-v10
+v0 by Vercel v10.0,Vercel,Vercel Inc.,ent_startup_vercel,FREEMIUM,UI Code Gen,https://aixploria.com/product/v0-vercel-v10
+Bolt.new v10.0,StackBlitz,StackBlitz Inc.,ent_startup_stackblitz,FREEMIUM,Web Dev AI,https://aixploria.com/product/bolt-new-v10
+Devin v10.0,Cognition,Cognition AI Inc.,ent_startup_cognition,PAID,AI Software Engineer,https://aixploria.com/product/devin-v10
 Harvey AI v10.0,Harvey,Harvey AI Inc.,ent_startup_harvey,ENTERPRISE,Legal AI,https://aixploria.com/product/harvey-ai-v10
 Pinecone Vector DB v10.0,Pinecone,"Pinecone Systems, Inc.",ent_startup_pinecone,FREEMIUM,Infrastructure,https://aixploria.com/product/pinecone-v10
-Qdrant v10.0,,Qdrant Solutions GmbH,,FREEMIUM,Infrastructure,https://aixploria.com/product/qdrant-v10
-Milvus v10.0,,Zilliz Inc.,,FREEMIUM,Infrastructure,https://aixploria.com/product/milvus-v10
-Chroma DB v10.0,,Chroma Inc.,,FREEMIUM,Infrastructure,https://aixploria.com/product/chroma-db-v10
+Qdrant v10.0,Qdrant,Qdrant Solutions GmbH,ent_startup_qdrant,FREEMIUM,Infrastructure,https://aixploria.com/product/qdrant-v10
+Milvus v10.0,Zilliz,Zilliz Inc.,ent_startup_zilliz,FREEMIUM,Infrastructure,https://aixploria.com/product/milvus-v10
+Chroma DB v10.0,Chroma,Chroma Inc.,ent_startup_chroma,FREEMIUM,Infrastructure,https://aixploria.com/product/chroma-db-v10
 Weaviate v10.0,Weaviate,Weaviate B.V.,ent_startup_weaviate,FREEMIUM,Infrastructure,https://aixploria.com/product/weaviate-v10
 LangChain v10.0,LangChain,"LangChain, Inc.",ent_startup_langchain,FREEMIUM,LLM Framework,https://aixploria.com/product/langchain-v10
 LlamaIndex v10.0,LlamaIndex,LlamaIndex Inc.,ent_startup_llamaindex,FREEMIUM,RAG Framework,https://aixploria.com/product/llamaindex-v10
-CrewAI v10.0,,CrewAI Inc.,,FREEMIUM,AI Agents,https://aixploria.com/product/crewai-v10
-Ollama v10.0,,Ollama Inc.,,FREEMIUM,Local LLM,https://aixploria.com/product/ollama-v10
+CrewAI v10.0,CrewAI,CrewAI Inc.,ent_startup_crewai,FREEMIUM,AI Agents,https://aixploria.com/product/crewai-v10
+Ollama v10.0,Ollama,Ollama Inc.,ent_startup_ollama,FREEMIUM,Local LLM,https://aixploria.com/product/ollama-v10
 Hugging Face Hub v10.0,Hugging Face,"Hugging Face, Inc.",ent_startup_hugging_face,FREEMIUM,Model Hub,https://aixploria.com/product/huggingface-v10
-Unresolved Tool A v10.0,,Niche Studio 101,,FREE,Utility,https://aixploria.com/product/unresolved-a-v10
-Unresolved Tool B v10.0,,Niche Studio 102,,FREE,Utility,https://aixploria.com/product/unresolved-b-v10
+Unresolved Niche Tool 101 v10.0,,Niche Studio 101,,FREE,Utility,https://aixploria.com/product/unresolved-a-v10
+Unresolved Niche Tool 102 v10.0,,Niche Studio 102,,FREE,Utility,https://aixploria.com/product/unresolved-b-v10
 ChatGPT v11.0,OpenAI,OpenAI Inc.,ent_startup_openai,FREEMIUM,Conversational AI,https://aixploria.com/product/chatgpt-v11
 Claude 3.5 Sonnet v11.0,Anthropic,Anthropic PBC,ent_startup_anthropic,FREEMIUM,AI Assistant,https://aixploria.com/product/claude-3-5-sonnet-v11
 Midjourney v6 v11.0,Midjourney,Midjourney Inc.,ent_startup_midjourney,PAID,Image Generation,https://aixploria.com/product/midjourney-v6-v11
-GitHub Copilot v11.0,,Microsoft Corporation,,PAID,Developer Tools,https://aixploria.com/product/github-copilot-v11
+GitHub Copilot v11.0,Microsoft,Microsoft Corporation,ent_startup_microsoft,PAID,Developer Tools,https://aixploria.com/product/github-copilot-v11
 Perplexity Pro v11.0,Perplexity,Perplexity AI Inc.,ent_startup_perplexity,FREEMIUM,Search & Research,https://aixploria.com/product/perplexity-pro-v11
-Gemini Advanced v11.0,,Google LLC,,FREEMIUM,Conversational AI,https://aixploria.com/product/gemini-advanced-v11
+Gemini Advanced v11.0,Google,Google LLC,ent_startup_google,FREEMIUM,Conversational AI,https://aixploria.com/product/gemini-advanced-v11
 Stable Diffusion 3 v11.0,Stability AI,Stability AI Ltd.,ent_startup_stability,FREEMIUM,Image Generation,https://aixploria.com/product/stable-diffusion-3-v11
 ElevenLabs Reader v11.0,ElevenLabs,ElevenLabs Inc.,ent_startup_elevenlabs,FREEMIUM,Voice & Audio,https://aixploria.com/product/elevenlabs-reader-v11
 Runway Gen-3 Alpha v11.0,Runway,"Runway AI, Inc.",ent_startup_runway,FREEMIUM,Video Generation,https://aixploria.com/product/runway-gen-3-v11
 Sora v11.0,OpenAI,OpenAI Inc.,ent_startup_openai,FREEMIUM,Video Generation,https://aixploria.com/product/sora-v11
-Llama 3.1 405B v11.0,,"Meta Platforms, Inc.",,FREEMIUM,LLM Foundation,https://aixploria.com/product/llama-3-1-405b-v11
-DeepSeek V3 v11.0,,DeepSeek Inc.,,FREEMIUM,LLM Foundation,https://aixploria.com/product/deepseek-v3-v11
+Llama 3.1 405B v11.0,Meta,"Meta Platforms, Inc.",ent_startup_meta,FREEMIUM,LLM Foundation,https://aixploria.com/product/llama-3-1-405b-v11
+DeepSeek V3 v11.0,DeepSeek,DeepSeek Inc.,ent_startup_deepseek,FREEMIUM,LLM Foundation,https://aixploria.com/product/deepseek-v3-v11
 Mistral Large 2 v11.0,Mistral AI,Mistral AI SAS,ent_startup_mistral,FREEMIUM,LLM Foundation,https://aixploria.com/product/mistral-large-2-v11
-Qwen 2.5 v11.0,,Alibaba Cloud Computing Ltd.,,FREEMIUM,LLM Foundation,https://aixploria.com/product/qwen-2-5-v11
-Pika 1.0 v11.0,,"Pika Labs, Inc.",,FREEMIUM,Video Generation,https://aixploria.com/product/pika-1-0-v11
-Suno v3.5 v11.0,,Suno AI Inc.,,FREEMIUM,Music Generation,https://aixploria.com/product/suno-v3-5-v11
-Udio v1.5 v11.0,,"Uncharted Labs, Inc. (Udio)",,FREEMIUM,Music Generation,https://aixploria.com/product/udio-v1-5-v11
-Kling AI v11.0,,Kuaishou Technology Ltd.,,FREEMIUM,Video Generation,https://aixploria.com/product/kling-ai-v11
-Flux.1 v11.0,,Black Forest Labs GmbH,,FREEMIUM,Image Generation,https://aixploria.com/product/flux-1-v11
-Ideogram 2.0 v11.0,,Ideogram AI Inc.,,FREEMIUM,Image Generation,https://aixploria.com/product/ideogram-2-0-v11
-Luma Dream Machine v11.0,,Luma AI Inc.,,FREEMIUM,3D & Video,https://aixploria.com/product/luma-dream-machine-v11
+Qwen 2.5 v11.0,Alibaba Cloud,Alibaba Cloud Computing Ltd.,ent_startup_alibaba_cloud,FREEMIUM,LLM Foundation,https://aixploria.com/product/qwen-2-5-v11
+Pika 1.0 v11.0,Pika Labs,"Pika Labs, Inc.",ent_startup_pika,FREEMIUM,Video Generation,https://aixploria.com/product/pika-1-0-v11
+Suno v3.5 v11.0,Suno AI,Suno AI Inc.,ent_startup_suno,FREEMIUM,Music Generation,https://aixploria.com/product/suno-v3-5-v11
+Udio v1.5 v11.0,Udio,"Uncharted Labs, Inc. (Udio)",ent_startup_udio,FREEMIUM,Music Generation,https://aixploria.com/product/udio-v1-5-v11
+Kling AI v11.0,Kuaishou,Kuaishou Technology Ltd.,ent_startup_kuaishou,FREEMIUM,Video Generation,https://aixploria.com/product/kling-ai-v11
+Flux.1 v11.0,Black Forest Labs,Black Forest Labs GmbH,ent_startup_black_forest,FREEMIUM,Image Generation,https://aixploria.com/product/flux-1-v11
+Ideogram 2.0 v11.0,Ideogram,Ideogram AI Inc.,ent_startup_ideogram,FREEMIUM,Image Generation,https://aixploria.com/product/ideogram-2-0-v11
+Luma Dream Machine v11.0,Luma AI,Luma AI Inc.,ent_startup_luma,FREEMIUM,3D & Video,https://aixploria.com/product/luma-dream-machine-v11
 Jasper AI v11.0,Jasper,Jasper AI Inc.,ent_startup_jasper,PAID,Marketing AI,https://aixploria.com/product/jasper-ai-v11
 Copy.ai v11.0,Copy.ai,Copy.ai Inc.,ent_startup_copy,FREEMIUM,Copywriting,https://aixploria.com/product/copy-ai-v11
 Descript v11.0,Descript,Descript Inc.,ent_startup_descript,FREEMIUM,Audio & Video,https://aixploria.com/product/descript-v11
-HeyGen v11.0,,HeyGen Inc.,,FREEMIUM,AI Avatars,https://aixploria.com/product/heygen-v11
+HeyGen v11.0,HeyGen,HeyGen Inc.,ent_startup_heygen,FREEMIUM,AI Avatars,https://aixploria.com/product/heygen-v11
 Synthesia v11.0,Synthesia,Synthesia Ltd.,ent_startup_synthesia,PAID,AI Avatars,https://aixploria.com/product/synthesia-v11
-Cursor IDE v11.0,,Anysphere Inc. (Cursor),,FREEMIUM,Developer Tools,https://aixploria.com/product/cursor-ide-v11
+Cursor IDE v11.0,Anysphere,Anysphere Inc. (Cursor),ent_startup_anysphere,FREEMIUM,Developer Tools,https://aixploria.com/product/cursor-ide-v11
 Replit Agent v11.0,Replit,Replit Inc.,ent_startup_replit,FREEMIUM,Developer Tools,https://aixploria.com/product/replit-agent-v11
-v0 by Vercel v11.0,,Vercel Inc.,,FREEMIUM,UI Code Gen,https://aixploria.com/product/v0-vercel-v11
-Bolt.new v11.0,,StackBlitz Inc.,,FREEMIUM,Web Dev AI,https://aixploria.com/product/bolt-new-v11
-Devin v11.0,,Cognition AI Inc.,,PAID,AI Software Engineer,https://aixploria.com/product/devin-v11
+v0 by Vercel v11.0,Vercel,Vercel Inc.,ent_startup_vercel,FREEMIUM,UI Code Gen,https://aixploria.com/product/v0-vercel-v11
+Bolt.new v11.0,StackBlitz,StackBlitz Inc.,ent_startup_stackblitz,FREEMIUM,Web Dev AI,https://aixploria.com/product/bolt-new-v11
+Devin v11.0,Cognition,Cognition AI Inc.,ent_startup_cognition,PAID,AI Software Engineer,https://aixploria.com/product/devin-v11
 Harvey AI v11.0,Harvey,Harvey AI Inc.,ent_startup_harvey,ENTERPRISE,Legal AI,https://aixploria.com/product/harvey-ai-v11
 Pinecone Vector DB v11.0,Pinecone,"Pinecone Systems, Inc.",ent_startup_pinecone,FREEMIUM,Infrastructure,https://aixploria.com/product/pinecone-v11
-Qdrant v11.0,,Qdrant Solutions GmbH,,FREEMIUM,Infrastructure,https://aixploria.com/product/qdrant-v11
-Milvus v11.0,,Zilliz Inc.,,FREEMIUM,Infrastructure,https://aixploria.com/product/milvus-v11
-Chroma DB v11.0,,Chroma Inc.,,FREEMIUM,Infrastructure,https://aixploria.com/product/chroma-db-v11
+Qdrant v11.0,Qdrant,Qdrant Solutions GmbH,ent_startup_qdrant,FREEMIUM,Infrastructure,https://aixploria.com/product/qdrant-v11
+Milvus v11.0,Zilliz,Zilliz Inc.,ent_startup_zilliz,FREEMIUM,Infrastructure,https://aixploria.com/product/milvus-v11
+Chroma DB v11.0,Chroma,Chroma Inc.,ent_startup_chroma,FREEMIUM,Infrastructure,https://aixploria.com/product/chroma-db-v11
 Weaviate v11.0,Weaviate,Weaviate B.V.,ent_startup_weaviate,FREEMIUM,Infrastructure,https://aixploria.com/product/weaviate-v11
 LangChain v11.0,LangChain,"LangChain, Inc.",ent_startup_langchain,FREEMIUM,LLM Framework,https://aixploria.com/product/langchain-v11
 LlamaIndex v11.0,LlamaIndex,LlamaIndex Inc.,ent_startup_llamaindex,FREEMIUM,RAG Framework,https://aixploria.com/product/llamaindex-v11
-CrewAI v11.0,,CrewAI Inc.,,FREEMIUM,AI Agents,https://aixploria.com/product/crewai-v11
-Ollama v11.0,,Ollama Inc.,,FREEMIUM,Local LLM,https://aixploria.com/product/ollama-v11
+CrewAI v11.0,CrewAI,CrewAI Inc.,ent_startup_crewai,FREEMIUM,AI Agents,https://aixploria.com/product/crewai-v11
+Ollama v11.0,Ollama,Ollama Inc.,ent_startup_ollama,FREEMIUM,Local LLM,https://aixploria.com/product/ollama-v11
 Hugging Face Hub v11.0,Hugging Face,"Hugging Face, Inc.",ent_startup_hugging_face,FREEMIUM,Model Hub,https://aixploria.com/product/huggingface-v11
-Unresolved Tool A v11.0,,Niche Studio 101,,FREE,Utility,https://aixploria.com/product/unresolved-a-v11
-Unresolved Tool B v11.0,,Niche Studio 102,,FREE,Utility,https://aixploria.com/product/unresolved-b-v11
+Unresolved Niche Tool 101 v11.0,,Niche Studio 101,,FREE,Utility,https://aixploria.com/product/unresolved-a-v11
+Unresolved Niche Tool 102 v11.0,,Niche Studio 102,,FREE,Utility,https://aixploria.com/product/unresolved-b-v11
 ChatGPT v12.0,OpenAI,OpenAI Inc.,ent_startup_openai,FREEMIUM,Conversational AI,https://aixploria.com/product/chatgpt-v12
 Claude 3.5 Sonnet v12.0,Anthropic,Anthropic PBC,ent_startup_anthropic,FREEMIUM,AI Assistant,https://aixploria.com/product/claude-3-5-sonnet-v12
 Midjourney v6 v12.0,Midjourney,Midjourney Inc.,ent_startup_midjourney,PAID,Image Generation,https://aixploria.com/product/midjourney-v6-v12
-GitHub Copilot v12.0,,Microsoft Corporation,,PAID,Developer Tools,https://aixploria.com/product/github-copilot-v12
+GitHub Copilot v12.0,Microsoft,Microsoft Corporation,ent_startup_microsoft,PAID,Developer Tools,https://aixploria.com/product/github-copilot-v12
 Perplexity Pro v12.0,Perplexity,Perplexity AI Inc.,ent_startup_perplexity,FREEMIUM,Search & Research,https://aixploria.com/product/perplexity-pro-v12
-Gemini Advanced v12.0,,Google LLC,,FREEMIUM,Conversational AI,https://aixploria.com/product/gemini-advanced-v12
+Gemini Advanced v12.0,Google,Google LLC,ent_startup_google,FREEMIUM,Conversational AI,https://aixploria.com/product/gemini-advanced-v12
 Stable Diffusion 3 v12.0,Stability AI,Stability AI Ltd.,ent_startup_stability,FREEMIUM,Image Generation,https://aixploria.com/product/stable-diffusion-3-v12
 ElevenLabs Reader v12.0,ElevenLabs,ElevenLabs Inc.,ent_startup_elevenlabs,FREEMIUM,Voice & Audio,https://aixploria.com/product/elevenlabs-reader-v12
 Runway Gen-3 Alpha v12.0,Runway,"Runway AI, Inc.",ent_startup_runway,FREEMIUM,Video Generation,https://aixploria.com/product/runway-gen-3-v12
 Sora v12.0,OpenAI,OpenAI Inc.,ent_startup_openai,FREEMIUM,Video Generation,https://aixploria.com/product/sora-v12
-Llama 3.1 405B v12.0,,"Meta Platforms, Inc.",,FREEMIUM,LLM Foundation,https://aixploria.com/product/llama-3-1-405b-v12
-DeepSeek V3 v12.0,,DeepSeek Inc.,,FREEMIUM,LLM Foundation,https://aixploria.com/product/deepseek-v3-v12
+Llama 3.1 405B v12.0,Meta,"Meta Platforms, Inc.",ent_startup_meta,FREEMIUM,LLM Foundation,https://aixploria.com/product/llama-3-1-405b-v12
+DeepSeek V3 v12.0,DeepSeek,DeepSeek Inc.,ent_startup_deepseek,FREEMIUM,LLM Foundation,https://aixploria.com/product/deepseek-v3-v12
 Mistral Large 2 v12.0,Mistral AI,Mistral AI SAS,ent_startup_mistral,FREEMIUM,LLM Foundation,https://aixploria.com/product/mistral-large-2-v12
-Qwen 2.5 v12.0,,Alibaba Cloud Computing Ltd.,,FREEMIUM,LLM Foundation,https://aixploria.com/product/qwen-2-5-v12
-Pika 1.0 v12.0,,"Pika Labs, Inc.",,FREEMIUM,Video Generation,https://aixploria.com/product/pika-1-0-v12
-Suno v3.5 v12.0,,Suno AI Inc.,,FREEMIUM,Music Generation,https://aixploria.com/product/suno-v3-5-v12
-Udio v1.5 v12.0,,"Uncharted Labs, Inc. (Udio)",,FREEMIUM,Music Generation,https://aixploria.com/product/udio-v1-5-v12
-Kling AI v12.0,,Kuaishou Technology Ltd.,,FREEMIUM,Video Generation,https://aixploria.com/product/kling-ai-v12
-Flux.1 v12.0,,Black Forest Labs GmbH,,FREEMIUM,Image Generation,https://aixploria.com/product/flux-1-v12
-Ideogram 2.0 v12.0,,Ideogram AI Inc.,,FREEMIUM,Image Generation,https://aixploria.com/product/ideogram-2-0-v12
-Luma Dream Machine v12.0,,Luma AI Inc.,,FREEMIUM,3D & Video,https://aixploria.com/product/luma-dream-machine-v12
+Qwen 2.5 v12.0,Alibaba Cloud,Alibaba Cloud Computing Ltd.,ent_startup_alibaba_cloud,FREEMIUM,LLM Foundation,https://aixploria.com/product/qwen-2-5-v12
+Pika 1.0 v12.0,Pika Labs,"Pika Labs, Inc.",ent_startup_pika,FREEMIUM,Video Generation,https://aixploria.com/product/pika-1-0-v12
+Suno v3.5 v12.0,Suno AI,Suno AI Inc.,ent_startup_suno,FREEMIUM,Music Generation,https://aixploria.com/product/suno-v3-5-v12
+Udio v1.5 v12.0,Udio,"Uncharted Labs, Inc. (Udio)",ent_startup_udio,FREEMIUM,Music Generation,https://aixploria.com/product/udio-v1-5-v12
+Kling AI v12.0,Kuaishou,Kuaishou Technology Ltd.,ent_startup_kuaishou,FREEMIUM,Video Generation,https://aixploria.com/product/kling-ai-v12
+Flux.1 v12.0,Black Forest Labs,Black Forest Labs GmbH,ent_startup_black_forest,FREEMIUM,Image Generation,https://aixploria.com/product/flux-1-v12
+Ideogram 2.0 v12.0,Ideogram,Ideogram AI Inc.,ent_startup_ideogram,FREEMIUM,Image Generation,https://aixploria.com/product/ideogram-2-0-v12
+Luma Dream Machine v12.0,Luma AI,Luma AI Inc.,ent_startup_luma,FREEMIUM,3D & Video,https://aixploria.com/product/luma-dream-machine-v12
 Jasper AI v12.0,Jasper,Jasper AI Inc.,ent_startup_jasper,PAID,Marketing AI,https://aixploria.com/product/jasper-ai-v12
 Copy.ai v12.0,Copy.ai,Copy.ai Inc.,ent_startup_copy,FREEMIUM,Copywriting,https://aixploria.com/product/copy-ai-v12
 Descript v12.0,Descript,Descript Inc.,ent_startup_descript,FREEMIUM,Audio & Video,https://aixploria.com/product/descript-v12
-HeyGen v12.0,,HeyGen Inc.,,FREEMIUM,AI Avatars,https://aixploria.com/product/heygen-v12
+HeyGen v12.0,HeyGen,HeyGen Inc.,ent_startup_heygen,FREEMIUM,AI Avatars,https://aixploria.com/product/heygen-v12
 Synthesia v12.0,Synthesia,Synthesia Ltd.,ent_startup_synthesia,PAID,AI Avatars,https://aixploria.com/product/synthesia-v12
-Cursor IDE v12.0,,Anysphere Inc. (Cursor),,FREEMIUM,Developer Tools,https://aixploria.com/product/cursor-ide-v12
+Cursor IDE v12.0,Anysphere,Anysphere Inc. (Cursor),ent_startup_anysphere,FREEMIUM,Developer Tools,https://aixploria.com/product/cursor-ide-v12
 Replit Agent v12.0,Replit,Replit Inc.,ent_startup_replit,FREEMIUM,Developer Tools,https://aixploria.com/product/replit-agent-v12
-v0 by Vercel v12.0,,Vercel Inc.,,FREEMIUM,UI Code Gen,https://aixploria.com/product/v0-vercel-v12
-Bolt.new v12.0,,StackBlitz Inc.,,FREEMIUM,Web Dev AI,https://aixploria.com/product/bolt-new-v12
-Devin v12.0,,Cognition AI Inc.,,PAID,AI Software Engineer,https://aixploria.com/product/devin-v12
+v0 by Vercel v12.0,Vercel,Vercel Inc.,ent_startup_vercel,FREEMIUM,UI Code Gen,https://aixploria.com/product/v0-vercel-v12
+Bolt.new v12.0,StackBlitz,StackBlitz Inc.,ent_startup_stackblitz,FREEMIUM,Web Dev AI,https://aixploria.com/product/bolt-new-v12
+Devin v12.0,Cognition,Cognition AI Inc.,ent_startup_cognition,PAID,AI Software Engineer,https://aixploria.com/product/devin-v12
 Harvey AI v12.0,Harvey,Harvey AI Inc.,ent_startup_harvey,ENTERPRISE,Legal AI,https://aixploria.com/product/harvey-ai-v12
 Pinecone Vector DB v12.0,Pinecone,"Pinecone Systems, Inc.",ent_startup_pinecone,FREEMIUM,Infrastructure,https://aixploria.com/product/pinecone-v12
-Qdrant v12.0,,Qdrant Solutions GmbH,,FREEMIUM,Infrastructure,https://aixploria.com/product/qdrant-v12
-Milvus v12.0,,Zilliz Inc.,,FREEMIUM,Infrastructure,https://aixploria.com/product/milvus-v12
-Chroma DB v12.0,,Chroma Inc.,,FREEMIUM,Infrastructure,https://aixploria.com/product/chroma-db-v12
+Qdrant v12.0,Qdrant,Qdrant Solutions GmbH,ent_startup_qdrant,FREEMIUM,Infrastructure,https://aixploria.com/product/qdrant-v12
+Milvus v12.0,Zilliz,Zilliz Inc.,ent_startup_zilliz,FREEMIUM,Infrastructure,https://aixploria.com/product/milvus-v12
+Chroma DB v12.0,Chroma,Chroma Inc.,ent_startup_chroma,FREEMIUM,Infrastructure,https://aixploria.com/product/chroma-db-v12
 Weaviate v12.0,Weaviate,Weaviate B.V.,ent_startup_weaviate,FREEMIUM,Infrastructure,https://aixploria.com/product/weaviate-v12
 LangChain v12.0,LangChain,"LangChain, Inc.",ent_startup_langchain,FREEMIUM,LLM Framework,https://aixploria.com/product/langchain-v12
 LlamaIndex v12.0,LlamaIndex,LlamaIndex Inc.,ent_startup_llamaindex,FREEMIUM,RAG Framework,https://aixploria.com/product/llamaindex-v12
-CrewAI v12.0,,CrewAI Inc.,,FREEMIUM,AI Agents,https://aixploria.com/product/crewai-v12
-Ollama v12.0,,Ollama Inc.,,FREEMIUM,Local LLM,https://aixploria.com/product/ollama-v12
+CrewAI v12.0,CrewAI,CrewAI Inc.,ent_startup_crewai,FREEMIUM,AI Agents,https://aixploria.com/product/crewai-v12
+Ollama v12.0,Ollama,Ollama Inc.,ent_startup_ollama,FREEMIUM,Local LLM,https://aixploria.com/product/ollama-v12
 Hugging Face Hub v12.0,Hugging Face,"Hugging Face, Inc.",ent_startup_hugging_face,FREEMIUM,Model Hub,https://aixploria.com/product/huggingface-v12
-Unresolved Tool A v12.0,,Niche Studio 101,,FREE,Utility,https://aixploria.com/product/unresolved-a-v12
-Unresolved Tool B v12.0,,Niche Studio 102,,FREE,Utility,https://aixploria.com/product/unresolved-b-v12
+Unresolved Niche Tool 101 v12.0,,Niche Studio 101,,FREE,Utility,https://aixploria.com/product/unresolved-a-v12
+Unresolved Niche Tool 102 v12.0,,Niche Studio 102,,FREE,Utility,https://aixploria.com/product/unresolved-b-v12
 ChatGPT v13.0,OpenAI,OpenAI Inc.,ent_startup_openai,FREEMIUM,Conversational AI,https://aixploria.com/product/chatgpt-v13
 Claude 3.5 Sonnet v13.0,Anthropic,Anthropic PBC,ent_startup_anthropic,FREEMIUM,AI Assistant,https://aixploria.com/product/claude-3-5-sonnet-v13
 Midjourney v6 v13.0,Midjourney,Midjourney Inc.,ent_startup_midjourney,PAID,Image Generation,https://aixploria.com/product/midjourney-v6-v13
-GitHub Copilot v13.0,,Microsoft Corporation,,PAID,Developer Tools,https://aixploria.com/product/github-copilot-v13
+GitHub Copilot v13.0,Microsoft,Microsoft Corporation,ent_startup_microsoft,PAID,Developer Tools,https://aixploria.com/product/github-copilot-v13
 Perplexity Pro v13.0,Perplexity,Perplexity AI Inc.,ent_startup_perplexity,FREEMIUM,Search & Research,https://aixploria.com/product/perplexity-pro-v13
-Gemini Advanced v13.0,,Google LLC,,FREEMIUM,Conversational AI,https://aixploria.com/product/gemini-advanced-v13
+Gemini Advanced v13.0,Google,Google LLC,ent_startup_google,FREEMIUM,Conversational AI,https://aixploria.com/product/gemini-advanced-v13
 Stable Diffusion 3 v13.0,Stability AI,Stability AI Ltd.,ent_startup_stability,FREEMIUM,Image Generation,https://aixploria.com/product/stable-diffusion-3-v13
 ElevenLabs Reader v13.0,ElevenLabs,ElevenLabs Inc.,ent_startup_elevenlabs,FREEMIUM,Voice & Audio,https://aixploria.com/product/elevenlabs-reader-v13
 Runway Gen-3 Alpha v13.0,Runway,"Runway AI, Inc.",ent_startup_runway,FREEMIUM,Video Generation,https://aixploria.com/product/runway-gen-3-v13
 Sora v13.0,OpenAI,OpenAI Inc.,ent_startup_openai,FREEMIUM,Video Generation,https://aixploria.com/product/sora-v13
-Llama 3.1 405B v13.0,,"Meta Platforms, Inc.",,FREEMIUM,LLM Foundation,https://aixploria.com/product/llama-3-1-405b-v13
-DeepSeek V3 v13.0,,DeepSeek Inc.,,FREEMIUM,LLM Foundation,https://aixploria.com/product/deepseek-v3-v13
+Llama 3.1 405B v13.0,Meta,"Meta Platforms, Inc.",ent_startup_meta,FREEMIUM,LLM Foundation,https://aixploria.com/product/llama-3-1-405b-v13
+DeepSeek V3 v13.0,DeepSeek,DeepSeek Inc.,ent_startup_deepseek,FREEMIUM,LLM Foundation,https://aixploria.com/product/deepseek-v3-v13
 Mistral Large 2 v13.0,Mistral AI,Mistral AI SAS,ent_startup_mistral,FREEMIUM,LLM Foundation,https://aixploria.com/product/mistral-large-2-v13
-Qwen 2.5 v13.0,,Alibaba Cloud Computing Ltd.,,FREEMIUM,LLM Foundation,https://aixploria.com/product/qwen-2-5-v13
-Pika 1.0 v13.0,,"Pika Labs, Inc.",,FREEMIUM,Video Generation,https://aixploria.com/product/pika-1-0-v13
-Suno v3.5 v13.0,,Suno AI Inc.,,FREEMIUM,Music Generation,https://aixploria.com/product/suno-v3-5-v13
-Udio v1.5 v13.0,,"Uncharted Labs, Inc. (Udio)",,FREEMIUM,Music Generation,https://aixploria.com/product/udio-v1-5-v13
-Kling AI v13.0,,Kuaishou Technology Ltd.,,FREEMIUM,Video Generation,https://aixploria.com/product/kling-ai-v13
-Flux.1 v13.0,,Black Forest Labs GmbH,,FREEMIUM,Image Generation,https://aixploria.com/product/flux-1-v13
-Ideogram 2.0 v13.0,,Ideogram AI Inc.,,FREEMIUM,Image Generation,https://aixploria.com/product/ideogram-2-0-v13
-Luma Dream Machine v13.0,,Luma AI Inc.,,FREEMIUM,3D & Video,https://aixploria.com/product/luma-dream-machine-v13
+Qwen 2.5 v13.0,Alibaba Cloud,Alibaba Cloud Computing Ltd.,ent_startup_alibaba_cloud,FREEMIUM,LLM Foundation,https://aixploria.com/product/qwen-2-5-v13
+Pika 1.0 v13.0,Pika Labs,"Pika Labs, Inc.",ent_startup_pika,FREEMIUM,Video Generation,https://aixploria.com/product/pika-1-0-v13
+Suno v3.5 v13.0,Suno AI,Suno AI Inc.,ent_startup_suno,FREEMIUM,Music Generation,https://aixploria.com/product/suno-v3-5-v13
+Udio v1.5 v13.0,Udio,"Uncharted Labs, Inc. (Udio)",ent_startup_udio,FREEMIUM,Music Generation,https://aixploria.com/product/udio-v1-5-v13
+Kling AI v13.0,Kuaishou,Kuaishou Technology Ltd.,ent_startup_kuaishou,FREEMIUM,Video Generation,https://aixploria.com/product/kling-ai-v13
+Flux.1 v13.0,Black Forest Labs,Black Forest Labs GmbH,ent_startup_black_forest,FREEMIUM,Image Generation,https://aixploria.com/product/flux-1-v13
+Ideogram 2.0 v13.0,Ideogram,Ideogram AI Inc.,ent_startup_ideogram,FREEMIUM,Image Generation,https://aixploria.com/product/ideogram-2-0-v13
+Luma Dream Machine v13.0,Luma AI,Luma AI Inc.,ent_startup_luma,FREEMIUM,3D & Video,https://aixploria.com/product/luma-dream-machine-v13
 Jasper AI v13.0,Jasper,Jasper AI Inc.,ent_startup_jasper,PAID,Marketing AI,https://aixploria.com/product/jasper-ai-v13
 Copy.ai v13.0,Copy.ai,Copy.ai Inc.,ent_startup_copy,FREEMIUM,Copywriting,https://aixploria.com/product/copy-ai-v13
 Descript v13.0,Descript,Descript Inc.,ent_startup_descript,FREEMIUM,Audio & Video,https://aixploria.com/product/descript-v13
-HeyGen v13.0,,HeyGen Inc.,,FREEMIUM,AI Avatars,https://aixploria.com/product/heygen-v13
+HeyGen v13.0,HeyGen,HeyGen Inc.,ent_startup_heygen,FREEMIUM,AI Avatars,https://aixploria.com/product/heygen-v13
 Synthesia v13.0,Synthesia,Synthesia Ltd.,ent_startup_synthesia,PAID,AI Avatars,https://aixploria.com/product/synthesia-v13
-Cursor IDE v13.0,,Anysphere Inc. (Cursor),,FREEMIUM,Developer Tools,https://aixploria.com/product/cursor-ide-v13
+Cursor IDE v13.0,Anysphere,Anysphere Inc. (Cursor),ent_startup_anysphere,FREEMIUM,Developer Tools,https://aixploria.com/product/cursor-ide-v13
 Replit Agent v13.0,Replit,Replit Inc.,ent_startup_replit,FREEMIUM,Developer Tools,https://aixploria.com/product/replit-agent-v13
-v0 by Vercel v13.0,,Vercel Inc.,,FREEMIUM,UI Code Gen,https://aixploria.com/product/v0-vercel-v13
-Bolt.new v13.0,,StackBlitz Inc.,,FREEMIUM,Web Dev AI,https://aixploria.com/product/bolt-new-v13
-Devin v13.0,,Cognition AI Inc.,,PAID,AI Software Engineer,https://aixploria.com/product/devin-v13
+v0 by Vercel v13.0,Vercel,Vercel Inc.,ent_startup_vercel,FREEMIUM,UI Code Gen,https://aixploria.com/product/v0-vercel-v13
+Bolt.new v13.0,StackBlitz,StackBlitz Inc.,ent_startup_stackblitz,FREEMIUM,Web Dev AI,https://aixploria.com/product/bolt-new-v13
+Devin v13.0,Cognition,Cognition AI Inc.,ent_startup_cognition,PAID,AI Software Engineer,https://aixploria.com/product/devin-v13
 Harvey AI v13.0,Harvey,Harvey AI Inc.,ent_startup_harvey,ENTERPRISE,Legal AI,https://aixploria.com/product/harvey-ai-v13
 Pinecone Vector DB v13.0,Pinecone,"Pinecone Systems, Inc.",ent_startup_pinecone,FREEMIUM,Infrastructure,https://aixploria.com/product/pinecone-v13
-Qdrant v13.0,,Qdrant Solutions GmbH,,FREEMIUM,Infrastructure,https://aixploria.com/product/qdrant-v13
-Milvus v13.0,,Zilliz Inc.,,FREEMIUM,Infrastructure,https://aixploria.com/product/milvus-v13
-Chroma DB v13.0,,Chroma Inc.,,FREEMIUM,Infrastructure,https://aixploria.com/product/chroma-db-v13
+Qdrant v13.0,Qdrant,Qdrant Solutions GmbH,ent_startup_qdrant,FREEMIUM,Infrastructure,https://aixploria.com/product/qdrant-v13
+Milvus v13.0,Zilliz,Zilliz Inc.,ent_startup_zilliz,FREEMIUM,Infrastructure,https://aixploria.com/product/milvus-v13
+Chroma DB v13.0,Chroma,Chroma Inc.,ent_startup_chroma,FREEMIUM,Infrastructure,https://aixploria.com/product/chroma-db-v13
 Weaviate v13.0,Weaviate,Weaviate B.V.,ent_startup_weaviate,FREEMIUM,Infrastructure,https://aixploria.com/product/weaviate-v13
 LangChain v13.0,LangChain,"LangChain, Inc.",ent_startup_langchain,FREEMIUM,LLM Framework,https://aixploria.com/product/langchain-v13
 LlamaIndex v13.0,LlamaIndex,LlamaIndex Inc.,ent_startup_llamaindex,FREEMIUM,RAG Framework,https://aixploria.com/product/llamaindex-v13
-CrewAI v13.0,,CrewAI Inc.,,FREEMIUM,AI Agents,https://aixploria.com/product/crewai-v13
-Ollama v13.0,,Ollama Inc.,,FREEMIUM,Local LLM,https://aixploria.com/product/ollama-v13
+CrewAI v13.0,CrewAI,CrewAI Inc.,ent_startup_crewai,FREEMIUM,AI Agents,https://aixploria.com/product/crewai-v13
+Ollama v13.0,Ollama,Ollama Inc.,ent_startup_ollama,FREEMIUM,Local LLM,https://aixploria.com/product/ollama-v13
 Hugging Face Hub v13.0,Hugging Face,"Hugging Face, Inc.",ent_startup_hugging_face,FREEMIUM,Model Hub,https://aixploria.com/product/huggingface-v13
-Unresolved Tool A v13.0,,Niche Studio 101,,FREE,Utility,https://aixploria.com/product/unresolved-a-v13
-Unresolved Tool B v13.0,,Niche Studio 102,,FREE,Utility,https://aixploria.com/product/unresolved-b-v13
+Unresolved Niche Tool 101 v13.0,,Niche Studio 101,,FREE,Utility,https://aixploria.com/product/unresolved-a-v13
+Unresolved Niche Tool 102 v13.0,,Niche Studio 102,,FREE,Utility,https://aixploria.com/product/unresolved-b-v13
 ChatGPT v14.0,OpenAI,OpenAI Inc.,ent_startup_openai,FREEMIUM,Conversational AI,https://aixploria.com/product/chatgpt-v14
 Claude 3.5 Sonnet v14.0,Anthropic,Anthropic PBC,ent_startup_anthropic,FREEMIUM,AI Assistant,https://aixploria.com/product/claude-3-5-sonnet-v14
 Midjourney v6 v14.0,Midjourney,Midjourney Inc.,ent_startup_midjourney,PAID,Image Generation,https://aixploria.com/product/midjourney-v6-v14
-GitHub Copilot v14.0,,Microsoft Corporation,,PAID,Developer Tools,https://aixploria.com/product/github-copilot-v14
+GitHub Copilot v14.0,Microsoft,Microsoft Corporation,ent_startup_microsoft,PAID,Developer Tools,https://aixploria.com/product/github-copilot-v14
 Perplexity Pro v14.0,Perplexity,Perplexity AI Inc.,ent_startup_perplexity,FREEMIUM,Search & Research,https://aixploria.com/product/perplexity-pro-v14
-Gemini Advanced v14.0,,Google LLC,,FREEMIUM,Conversational AI,https://aixploria.com/product/gemini-advanced-v14
+Gemini Advanced v14.0,Google,Google LLC,ent_startup_google,FREEMIUM,Conversational AI,https://aixploria.com/product/gemini-advanced-v14
 Stable Diffusion 3 v14.0,Stability AI,Stability AI Ltd.,ent_startup_stability,FREEMIUM,Image Generation,https://aixploria.com/product/stable-diffusion-3-v14
 ElevenLabs Reader v14.0,ElevenLabs,ElevenLabs Inc.,ent_startup_elevenlabs,FREEMIUM,Voice & Audio,https://aixploria.com/product/elevenlabs-reader-v14
 Runway Gen-3 Alpha v14.0,Runway,"Runway AI, Inc.",ent_startup_runway,FREEMIUM,Video Generation,https://aixploria.com/product/runway-gen-3-v14
 Sora v14.0,OpenAI,OpenAI Inc.,ent_startup_openai,FREEMIUM,Video Generation,https://aixploria.com/product/sora-v14
-Llama 3.1 405B v14.0,,"Meta Platforms, Inc.",,FREEMIUM,LLM Foundation,https://aixploria.com/product/llama-3-1-405b-v14
-DeepSeek V3 v14.0,,DeepSeek Inc.,,FREEMIUM,LLM Foundation,https://aixploria.com/product/deepseek-v3-v14
+Llama 3.1 405B v14.0,Meta,"Meta Platforms, Inc.",ent_startup_meta,FREEMIUM,LLM Foundation,https://aixploria.com/product/llama-3-1-405b-v14
+DeepSeek V3 v14.0,DeepSeek,DeepSeek Inc.,ent_startup_deepseek,FREEMIUM,LLM Foundation,https://aixploria.com/product/deepseek-v3-v14
 Mistral Large 2 v14.0,Mistral AI,Mistral AI SAS,ent_startup_mistral,FREEMIUM,LLM Foundation,https://aixploria.com/product/mistral-large-2-v14
-Qwen 2.5 v14.0,,Alibaba Cloud Computing Ltd.,,FREEMIUM,LLM Foundation,https://aixploria.com/product/qwen-2-5-v14
-Pika 1.0 v14.0,,"Pika Labs, Inc.",,FREEMIUM,Video Generation,https://aixploria.com/product/pika-1-0-v14
-Suno v3.5 v14.0,,Suno AI Inc.,,FREEMIUM,Music Generation,https://aixploria.com/product/suno-v3-5-v14
-Udio v1.5 v14.0,,"Uncharted Labs, Inc. (Udio)",,FREEMIUM,Music Generation,https://aixploria.com/product/udio-v1-5-v14
-Kling AI v14.0,,Kuaishou Technology Ltd.,,FREEMIUM,Video Generation,https://aixploria.com/product/kling-ai-v14
-Flux.1 v14.0,,Black Forest Labs GmbH,,FREEMIUM,Image Generation,https://aixploria.com/product/flux-1-v14
-Ideogram 2.0 v14.0,,Ideogram AI Inc.,,FREEMIUM,Image Generation,https://aixploria.com/product/ideogram-2-0-v14
-Luma Dream Machine v14.0,,Luma AI Inc.,,FREEMIUM,3D & Video,https://aixploria.com/product/luma-dream-machine-v14
+Qwen 2.5 v14.0,Alibaba Cloud,Alibaba Cloud Computing Ltd.,ent_startup_alibaba_cloud,FREEMIUM,LLM Foundation,https://aixploria.com/product/qwen-2-5-v14
+Pika 1.0 v14.0,Pika Labs,"Pika Labs, Inc.",ent_startup_pika,FREEMIUM,Video Generation,https://aixploria.com/product/pika-1-0-v14
+Suno v3.5 v14.0,Suno AI,Suno AI Inc.,ent_startup_suno,FREEMIUM,Music Generation,https://aixploria.com/product/suno-v3-5-v14
+Udio v1.5 v14.0,Udio,"Uncharted Labs, Inc. (Udio)",ent_startup_udio,FREEMIUM,Music Generation,https://aixploria.com/product/udio-v1-5-v14
+Kling AI v14.0,Kuaishou,Kuaishou Technology Ltd.,ent_startup_kuaishou,FREEMIUM,Video Generation,https://aixploria.com/product/kling-ai-v14
+Flux.1 v14.0,Black Forest Labs,Black Forest Labs GmbH,ent_startup_black_forest,FREEMIUM,Image Generation,https://aixploria.com/product/flux-1-v14
+Ideogram 2.0 v14.0,Ideogram,Ideogram AI Inc.,ent_startup_ideogram,FREEMIUM,Image Generation,https://aixploria.com/product/ideogram-2-0-v14
+Luma Dream Machine v14.0,Luma AI,Luma AI Inc.,ent_startup_luma,FREEMIUM,3D & Video,https://aixploria.com/product/luma-dream-machine-v14
 Jasper AI v14.0,Jasper,Jasper AI Inc.,ent_startup_jasper,PAID,Marketing AI,https://aixploria.com/product/jasper-ai-v14
 Copy.ai v14.0,Copy.ai,Copy.ai Inc.,ent_startup_copy,FREEMIUM,Copywriting,https://aixploria.com/product/copy-ai-v14
 Descript v14.0,Descript,Descript Inc.,ent_startup_descript,FREEMIUM,Audio & Video,https://aixploria.com/product/descript-v14
-HeyGen v14.0,,HeyGen Inc.,,FREEMIUM,AI Avatars,https://aixploria.com/product/heygen-v14
+HeyGen v14.0,HeyGen,HeyGen Inc.,ent_startup_heygen,FREEMIUM,AI Avatars,https://aixploria.com/product/heygen-v14
 Synthesia v14.0,Synthesia,Synthesia Ltd.,ent_startup_synthesia,PAID,AI Avatars,https://aixploria.com/product/synthesia-v14
-Cursor IDE v14.0,,Anysphere Inc. (Cursor),,FREEMIUM,Developer Tools,https://aixploria.com/product/cursor-ide-v14
+Cursor IDE v14.0,Anysphere,Anysphere Inc. (Cursor),ent_startup_anysphere,FREEMIUM,Developer Tools,https://aixploria.com/product/cursor-ide-v14
 Replit Agent v14.0,Replit,Replit Inc.,ent_startup_replit,FREEMIUM,Developer Tools,https://aixploria.com/product/replit-agent-v14
-v0 by Vercel v14.0,,Vercel Inc.,,FREEMIUM,UI Code Gen,https://aixploria.com/product/v0-vercel-v14
-Bolt.new v14.0,,StackBlitz Inc.,,FREEMIUM,Web Dev AI,https://aixploria.com/product/bolt-new-v14
-Devin v14.0,,Cognition AI Inc.,,PAID,AI Software Engineer,https://aixploria.com/product/devin-v14
+v0 by Vercel v14.0,Vercel,Vercel Inc.,ent_startup_vercel,FREEMIUM,UI Code Gen,https://aixploria.com/product/v0-vercel-v14
+Bolt.new v14.0,StackBlitz,StackBlitz Inc.,ent_startup_stackblitz,FREEMIUM,Web Dev AI,https://aixploria.com/product/bolt-new-v14
+Devin v14.0,Cognition,Cognition AI Inc.,ent_startup_cognition,PAID,AI Software Engineer,https://aixploria.com/product/devin-v14
 Harvey AI v14.0,Harvey,Harvey AI Inc.,ent_startup_harvey,ENTERPRISE,Legal AI,https://aixploria.com/product/harvey-ai-v14
 Pinecone Vector DB v14.0,Pinecone,"Pinecone Systems, Inc.",ent_startup_pinecone,FREEMIUM,Infrastructure,https://aixploria.com/product/pinecone-v14
-Qdrant v14.0,,Qdrant Solutions GmbH,,FREEMIUM,Infrastructure,https://aixploria.com/product/qdrant-v14
-Milvus v14.0,,Zilliz Inc.,,FREEMIUM,Infrastructure,https://aixploria.com/product/milvus-v14
-Chroma DB v14.0,,Chroma Inc.,,FREEMIUM,Infrastructure,https://aixploria.com/product/chroma-db-v14
+Qdrant v14.0,Qdrant,Qdrant Solutions GmbH,ent_startup_qdrant,FREEMIUM,Infrastructure,https://aixploria.com/product/qdrant-v14
+Milvus v14.0,Zilliz,Zilliz Inc.,ent_startup_zilliz,FREEMIUM,Infrastructure,https://aixploria.com/product/milvus-v14
+Chroma DB v14.0,Chroma,Chroma Inc.,ent_startup_chroma,FREEMIUM,Infrastructure,https://aixploria.com/product/chroma-db-v14
 Weaviate v14.0,Weaviate,Weaviate B.V.,ent_startup_weaviate,FREEMIUM,Infrastructure,https://aixploria.com/product/weaviate-v14
 LangChain v14.0,LangChain,"LangChain, Inc.",ent_startup_langchain,FREEMIUM,LLM Framework,https://aixploria.com/product/langchain-v14
 LlamaIndex v14.0,LlamaIndex,LlamaIndex Inc.,ent_startup_llamaindex,FREEMIUM,RAG Framework,https://aixploria.com/product/llamaindex-v14
-CrewAI v14.0,,CrewAI Inc.,,FREEMIUM,AI Agents,https://aixploria.com/product/crewai-v14
-Ollama v14.0,,Ollama Inc.,,FREEMIUM,Local LLM,https://aixploria.com/product/ollama-v14
+CrewAI v14.0,CrewAI,CrewAI Inc.,ent_startup_crewai,FREEMIUM,AI Agents,https://aixploria.com/product/crewai-v14
+Ollama v14.0,Ollama,Ollama Inc.,ent_startup_ollama,FREEMIUM,Local LLM,https://aixploria.com/product/ollama-v14
 Hugging Face Hub v14.0,Hugging Face,"Hugging Face, Inc.",ent_startup_hugging_face,FREEMIUM,Model Hub,https://aixploria.com/product/huggingface-v14
-Unresolved Tool A v14.0,,Niche Studio 101,,FREE,Utility,https://aixploria.com/product/unresolved-a-v14
-Unresolved Tool B v14.0,,Niche Studio 102,,FREE,Utility,https://aixploria.com/product/unresolved-b-v14
+Unresolved Niche Tool 101 v14.0,,Niche Studio 101,,FREE,Utility,https://aixploria.com/product/unresolved-a-v14
+Unresolved Niche Tool 102 v14.0,,Niche Studio 102,,FREE,Utility,https://aixploria.com/product/unresolved-b-v14
 ChatGPT v15.0,OpenAI,OpenAI Inc.,ent_startup_openai,FREEMIUM,Conversational AI,https://aixploria.com/product/chatgpt-v15
 Claude 3.5 Sonnet v15.0,Anthropic,Anthropic PBC,ent_startup_anthropic,FREEMIUM,AI Assistant,https://aixploria.com/product/claude-3-5-sonnet-v15
 Midjourney v6 v15.0,Midjourney,Midjourney Inc.,ent_startup_midjourney,PAID,Image Generation,https://aixploria.com/product/midjourney-v6-v15
-GitHub Copilot v15.0,,Microsoft Corporation,,PAID,Developer Tools,https://aixploria.com/product/github-copilot-v15
+GitHub Copilot v15.0,Microsoft,Microsoft Corporation,ent_startup_microsoft,PAID,Developer Tools,https://aixploria.com/product/github-copilot-v15
 Perplexity Pro v15.0,Perplexity,Perplexity AI Inc.,ent_startup_perplexity,FREEMIUM,Search & Research,https://aixploria.com/product/perplexity-pro-v15
-Gemini Advanced v15.0,,Google LLC,,FREEMIUM,Conversational AI,https://aixploria.com/product/gemini-advanced-v15
+Gemini Advanced v15.0,Google,Google LLC,ent_startup_google,FREEMIUM,Conversational AI,https://aixploria.com/product/gemini-advanced-v15
 Stable Diffusion 3 v15.0,Stability AI,Stability AI Ltd.,ent_startup_stability,FREEMIUM,Image Generation,https://aixploria.com/product/stable-diffusion-3-v15
 ElevenLabs Reader v15.0,ElevenLabs,ElevenLabs Inc.,ent_startup_elevenlabs,FREEMIUM,Voice & Audio,https://aixploria.com/product/elevenlabs-reader-v15
 Runway Gen-3 Alpha v15.0,Runway,"Runway AI, Inc.",ent_startup_runway,FREEMIUM,Video Generation,https://aixploria.com/product/runway-gen-3-v15
 Sora v15.0,OpenAI,OpenAI Inc.,ent_startup_openai,FREEMIUM,Video Generation,https://aixploria.com/product/sora-v15
-Llama 3.1 405B v15.0,,"Meta Platforms, Inc.",,FREEMIUM,LLM Foundation,https://aixploria.com/product/llama-3-1-405b-v15
-DeepSeek V3 v15.0,,DeepSeek Inc.,,FREEMIUM,LLM Foundation,https://aixploria.com/product/deepseek-v3-v15
+Llama 3.1 405B v15.0,Meta,"Meta Platforms, Inc.",ent_startup_meta,FREEMIUM,LLM Foundation,https://aixploria.com/product/llama-3-1-405b-v15
+DeepSeek V3 v15.0,DeepSeek,DeepSeek Inc.,ent_startup_deepseek,FREEMIUM,LLM Foundation,https://aixploria.com/product/deepseek-v3-v15
 Mistral Large 2 v15.0,Mistral AI,Mistral AI SAS,ent_startup_mistral,FREEMIUM,LLM Foundation,https://aixploria.com/product/mistral-large-2-v15
-Qwen 2.5 v15.0,,Alibaba Cloud Computing Ltd.,,FREEMIUM,LLM Foundation,https://aixploria.com/product/qwen-2-5-v15
-Pika 1.0 v15.0,,"Pika Labs, Inc.",,FREEMIUM,Video Generation,https://aixploria.com/product/pika-1-0-v15
-Suno v3.5 v15.0,,Suno AI Inc.,,FREEMIUM,Music Generation,https://aixploria.com/product/suno-v3-5-v15
-Udio v1.5 v15.0,,"Uncharted Labs, Inc. (Udio)",,FREEMIUM,Music Generation,https://aixploria.com/product/udio-v1-5-v15
-Kling AI v15.0,,Kuaishou Technology Ltd.,,FREEMIUM,Video Generation,https://aixploria.com/product/kling-ai-v15
-Flux.1 v15.0,,Black Forest Labs GmbH,,FREEMIUM,Image Generation,https://aixploria.com/product/flux-1-v15
-Ideogram 2.0 v15.0,,Ideogram AI Inc.,,FREEMIUM,Image Generation,https://aixploria.com/product/ideogram-2-0-v15
-Luma Dream Machine v15.0,,Luma AI Inc.,,FREEMIUM,3D & Video,https://aixploria.com/product/luma-dream-machine-v15
+Qwen 2.5 v15.0,Alibaba Cloud,Alibaba Cloud Computing Ltd.,ent_startup_alibaba_cloud,FREEMIUM,LLM Foundation,https://aixploria.com/product/qwen-2-5-v15
+Pika 1.0 v15.0,Pika Labs,"Pika Labs, Inc.",ent_startup_pika,FREEMIUM,Video Generation,https://aixploria.com/product/pika-1-0-v15
+Suno v3.5 v15.0,Suno AI,Suno AI Inc.,ent_startup_suno,FREEMIUM,Music Generation,https://aixploria.com/product/suno-v3-5-v15
+Udio v1.5 v15.0,Udio,"Uncharted Labs, Inc. (Udio)",ent_startup_udio,FREEMIUM,Music Generation,https://aixploria.com/product/udio-v1-5-v15
+Kling AI v15.0,Kuaishou,Kuaishou Technology Ltd.,ent_startup_kuaishou,FREEMIUM,Video Generation,https://aixploria.com/product/kling-ai-v15
+Flux.1 v15.0,Black Forest Labs,Black Forest Labs GmbH,ent_startup_black_forest,FREEMIUM,Image Generation,https://aixploria.com/product/flux-1-v15
+Ideogram 2.0 v15.0,Ideogram,Ideogram AI Inc.,ent_startup_ideogram,FREEMIUM,Image Generation,https://aixploria.com/product/ideogram-2-0-v15
+Luma Dream Machine v15.0,Luma AI,Luma AI Inc.,ent_startup_luma,FREEMIUM,3D & Video,https://aixploria.com/product/luma-dream-machine-v15
 Jasper AI v15.0,Jasper,Jasper AI Inc.,ent_startup_jasper,PAID,Marketing AI,https://aixploria.com/product/jasper-ai-v15
 Copy.ai v15.0,Copy.ai,Copy.ai Inc.,ent_startup_copy,FREEMIUM,Copywriting,https://aixploria.com/product/copy-ai-v15
 Descript v15.0,Descript,Descript Inc.,ent_startup_descript,FREEMIUM,Audio & Video,https://aixploria.com/product/descript-v15
-HeyGen v15.0,,HeyGen Inc.,,FREEMIUM,AI Avatars,https://aixploria.com/product/heygen-v15
+HeyGen v15.0,HeyGen,HeyGen Inc.,ent_startup_heygen,FREEMIUM,AI Avatars,https://aixploria.com/product/heygen-v15
 Synthesia v15.0,Synthesia,Synthesia Ltd.,ent_startup_synthesia,PAID,AI Avatars,https://aixploria.com/product/synthesia-v15
-Cursor IDE v15.0,,Anysphere Inc. (Cursor),,FREEMIUM,Developer Tools,https://aixploria.com/product/cursor-ide-v15
+Cursor IDE v15.0,Anysphere,Anysphere Inc. (Cursor),ent_startup_anysphere,FREEMIUM,Developer Tools,https://aixploria.com/product/cursor-ide-v15
 Replit Agent v15.0,Replit,Replit Inc.,ent_startup_replit,FREEMIUM,Developer Tools,https://aixploria.com/product/replit-agent-v15
-v0 by Vercel v15.0,,Vercel Inc.,,FREEMIUM,UI Code Gen,https://aixploria.com/product/v0-vercel-v15
-Bolt.new v15.0,,StackBlitz Inc.,,FREEMIUM,Web Dev AI,https://aixploria.com/product/bolt-new-v15
-Devin v15.0,,Cognition AI Inc.,,PAID,AI Software Engineer,https://aixploria.com/product/devin-v15
+v0 by Vercel v15.0,Vercel,Vercel Inc.,ent_startup_vercel,FREEMIUM,UI Code Gen,https://aixploria.com/product/v0-vercel-v15
+Bolt.new v15.0,StackBlitz,StackBlitz Inc.,ent_startup_stackblitz,FREEMIUM,Web Dev AI,https://aixploria.com/product/bolt-new-v15
+Devin v15.0,Cognition,Cognition AI Inc.,ent_startup_cognition,PAID,AI Software Engineer,https://aixploria.com/product/devin-v15
 Harvey AI v15.0,Harvey,Harvey AI Inc.,ent_startup_harvey,ENTERPRISE,Legal AI,https://aixploria.com/product/harvey-ai-v15
 Pinecone Vector DB v15.0,Pinecone,"Pinecone Systems, Inc.",ent_startup_pinecone,FREEMIUM,Infrastructure,https://aixploria.com/product/pinecone-v15
-Qdrant v15.0,,Qdrant Solutions GmbH,,FREEMIUM,Infrastructure,https://aixploria.com/product/qdrant-v15
-Milvus v15.0,,Zilliz Inc.,,FREEMIUM,Infrastructure,https://aixploria.com/product/milvus-v15
-Chroma DB v15.0,,Chroma Inc.,,FREEMIUM,Infrastructure,https://aixploria.com/product/chroma-db-v15
+Qdrant v15.0,Qdrant,Qdrant Solutions GmbH,ent_startup_qdrant,FREEMIUM,Infrastructure,https://aixploria.com/product/qdrant-v15
+Milvus v15.0,Zilliz,Zilliz Inc.,ent_startup_zilliz,FREEMIUM,Infrastructure,https://aixploria.com/product/milvus-v15
+Chroma DB v15.0,Chroma,Chroma Inc.,ent_startup_chroma,FREEMIUM,Infrastructure,https://aixploria.com/product/chroma-db-v15
 Weaviate v15.0,Weaviate,Weaviate B.V.,ent_startup_weaviate,FREEMIUM,Infrastructure,https://aixploria.com/product/weaviate-v15
 LangChain v15.0,LangChain,"LangChain, Inc.",ent_startup_langchain,FREEMIUM,LLM Framework,https://aixploria.com/product/langchain-v15
 LlamaIndex v15.0,LlamaIndex,LlamaIndex Inc.,ent_startup_llamaindex,FREEMIUM,RAG Framework,https://aixploria.com/product/llamaindex-v15
-CrewAI v15.0,,CrewAI Inc.,,FREEMIUM,AI Agents,https://aixploria.com/product/crewai-v15
-Ollama v15.0,,Ollama Inc.,,FREEMIUM,Local LLM,https://aixploria.com/product/ollama-v15
+CrewAI v15.0,CrewAI,CrewAI Inc.,ent_startup_crewai,FREEMIUM,AI Agents,https://aixploria.com/product/crewai-v15
+Ollama v15.0,Ollama,Ollama Inc.,ent_startup_ollama,FREEMIUM,Local LLM,https://aixploria.com/product/ollama-v15
 Hugging Face Hub v15.0,Hugging Face,"Hugging Face, Inc.",ent_startup_hugging_face,FREEMIUM,Model Hub,https://aixploria.com/product/huggingface-v15
-Unresolved Tool A v15.0,,Niche Studio 101,,FREE,Utility,https://aixploria.com/product/unresolved-a-v15
-Unresolved Tool B v15.0,,Niche Studio 102,,FREE,Utility,https://aixploria.com/product/unresolved-b-v15
+Unresolved Niche Tool 101 v15.0,,Niche Studio 101,,FREE,Utility,https://aixploria.com/product/unresolved-a-v15
+Unresolved Niche Tool 102 v15.0,,Niche Studio 102,,FREE,Utility,https://aixploria.com/product/unresolved-b-v15
 ChatGPT v16.0,OpenAI,OpenAI Inc.,ent_startup_openai,FREEMIUM,Conversational AI,https://aixploria.com/product/chatgpt-v16
 Claude 3.5 Sonnet v16.0,Anthropic,Anthropic PBC,ent_startup_anthropic,FREEMIUM,AI Assistant,https://aixploria.com/product/claude-3-5-sonnet-v16
 Midjourney v6 v16.0,Midjourney,Midjourney Inc.,ent_startup_midjourney,PAID,Image Generation,https://aixploria.com/product/midjourney-v6-v16
-GitHub Copilot v16.0,,Microsoft Corporation,,PAID,Developer Tools,https://aixploria.com/product/github-copilot-v16
+GitHub Copilot v16.0,Microsoft,Microsoft Corporation,ent_startup_microsoft,PAID,Developer Tools,https://aixploria.com/product/github-copilot-v16
 Perplexity Pro v16.0,Perplexity,Perplexity AI Inc.,ent_startup_perplexity,FREEMIUM,Search & Research,https://aixploria.com/product/perplexity-pro-v16
-Gemini Advanced v16.0,,Google LLC,,FREEMIUM,Conversational AI,https://aixploria.com/product/gemini-advanced-v16
+Gemini Advanced v16.0,Google,Google LLC,ent_startup_google,FREEMIUM,Conversational AI,https://aixploria.com/product/gemini-advanced-v16
 Stable Diffusion 3 v16.0,Stability AI,Stability AI Ltd.,ent_startup_stability,FREEMIUM,Image Generation,https://aixploria.com/product/stable-diffusion-3-v16
 ElevenLabs Reader v16.0,ElevenLabs,ElevenLabs Inc.,ent_startup_elevenlabs,FREEMIUM,Voice & Audio,https://aixploria.com/product/elevenlabs-reader-v16
 Runway Gen-3 Alpha v16.0,Runway,"Runway AI, Inc.",ent_startup_runway,FREEMIUM,Video Generation,https://aixploria.com/product/runway-gen-3-v16
 Sora v16.0,OpenAI,OpenAI Inc.,ent_startup_openai,FREEMIUM,Video Generation,https://aixploria.com/product/sora-v16
-Llama 3.1 405B v16.0,,"Meta Platforms, Inc.",,FREEMIUM,LLM Foundation,https://aixploria.com/product/llama-3-1-405b-v16
-DeepSeek V3 v16.0,,DeepSeek Inc.,,FREEMIUM,LLM Foundation,https://aixploria.com/product/deepseek-v3-v16
+Llama 3.1 405B v16.0,Meta,"Meta Platforms, Inc.",ent_startup_meta,FREEMIUM,LLM Foundation,https://aixploria.com/product/llama-3-1-405b-v16
+DeepSeek V3 v16.0,DeepSeek,DeepSeek Inc.,ent_startup_deepseek,FREEMIUM,LLM Foundation,https://aixploria.com/product/deepseek-v3-v16
 Mistral Large 2 v16.0,Mistral AI,Mistral AI SAS,ent_startup_mistral,FREEMIUM,LLM Foundation,https://aixploria.com/product/mistral-large-2-v16
-Qwen 2.5 v16.0,,Alibaba Cloud Computing Ltd.,,FREEMIUM,LLM Foundation,https://aixploria.com/product/qwen-2-5-v16
-Pika 1.0 v16.0,,"Pika Labs, Inc.",,FREEMIUM,Video Generation,https://aixploria.com/product/pika-1-0-v16
-Suno v3.5 v16.0,,Suno AI Inc.,,FREEMIUM,Music Generation,https://aixploria.com/product/suno-v3-5-v16
-Udio v1.5 v16.0,,"Uncharted Labs, Inc. (Udio)",,FREEMIUM,Music Generation,https://aixploria.com/product/udio-v1-5-v16
-Kling AI v16.0,,Kuaishou Technology Ltd.,,FREEMIUM,Video Generation,https://aixploria.com/product/kling-ai-v16
-Flux.1 v16.0,,Black Forest Labs GmbH,,FREEMIUM,Image Generation,https://aixploria.com/product/flux-1-v16
-Ideogram 2.0 v16.0,,Ideogram AI Inc.,,FREEMIUM,Image Generation,https://aixploria.com/product/ideogram-2-0-v16
-Luma Dream Machine v16.0,,Luma AI Inc.,,FREEMIUM,3D & Video,https://aixploria.com/product/luma-dream-machine-v16
+Qwen 2.5 v16.0,Alibaba Cloud,Alibaba Cloud Computing Ltd.,ent_startup_alibaba_cloud,FREEMIUM,LLM Foundation,https://aixploria.com/product/qwen-2-5-v16
+Pika 1.0 v16.0,Pika Labs,"Pika Labs, Inc.",ent_startup_pika,FREEMIUM,Video Generation,https://aixploria.com/product/pika-1-0-v16
+Suno v3.5 v16.0,Suno AI,Suno AI Inc.,ent_startup_suno,FREEMIUM,Music Generation,https://aixploria.com/product/suno-v3-5-v16
+Udio v1.5 v16.0,Udio,"Uncharted Labs, Inc. (Udio)",ent_startup_udio,FREEMIUM,Music Generation,https://aixploria.com/product/udio-v1-5-v16
+Kling AI v16.0,Kuaishou,Kuaishou Technology Ltd.,ent_startup_kuaishou,FREEMIUM,Video Generation,https://aixploria.com/product/kling-ai-v16
+Flux.1 v16.0,Black Forest Labs,Black Forest Labs GmbH,ent_startup_black_forest,FREEMIUM,Image Generation,https://aixploria.com/product/flux-1-v16
+Ideogram 2.0 v16.0,Ideogram,Ideogram AI Inc.,ent_startup_ideogram,FREEMIUM,Image Generation,https://aixploria.com/product/ideogram-2-0-v16
+Luma Dream Machine v16.0,Luma AI,Luma AI Inc.,ent_startup_luma,FREEMIUM,3D & Video,https://aixploria.com/product/luma-dream-machine-v16
 Jasper AI v16.0,Jasper,Jasper AI Inc.,ent_startup_jasper,PAID,Marketing AI,https://aixploria.com/product/jasper-ai-v16
 Copy.ai v16.0,Copy.ai,Copy.ai Inc.,ent_startup_copy,FREEMIUM,Copywriting,https://aixploria.com/product/copy-ai-v16
 Descript v16.0,Descript,Descript Inc.,ent_startup_descript,FREEMIUM,Audio & Video,https://aixploria.com/product/descript-v16
-HeyGen v16.0,,HeyGen Inc.,,FREEMIUM,AI Avatars,https://aixploria.com/product/heygen-v16
+HeyGen v16.0,HeyGen,HeyGen Inc.,ent_startup_heygen,FREEMIUM,AI Avatars,https://aixploria.com/product/heygen-v16
 Synthesia v16.0,Synthesia,Synthesia Ltd.,ent_startup_synthesia,PAID,AI Avatars,https://aixploria.com/product/synthesia-v16
-Cursor IDE v16.0,,Anysphere Inc. (Cursor),,FREEMIUM,Developer Tools,https://aixploria.com/product/cursor-ide-v16
+Cursor IDE v16.0,Anysphere,Anysphere Inc. (Cursor),ent_startup_anysphere,FREEMIUM,Developer Tools,https://aixploria.com/product/cursor-ide-v16
 Replit Agent v16.0,Replit,Replit Inc.,ent_startup_replit,FREEMIUM,Developer Tools,https://aixploria.com/product/replit-agent-v16
-v0 by Vercel v16.0,,Vercel Inc.,,FREEMIUM,UI Code Gen,https://aixploria.com/product/v0-vercel-v16
-Bolt.new v16.0,,StackBlitz Inc.,,FREEMIUM,Web Dev AI,https://aixploria.com/product/bolt-new-v16
-Devin v16.0,,Cognition AI Inc.,,PAID,AI Software Engineer,https://aixploria.com/product/devin-v16
+v0 by Vercel v16.0,Vercel,Vercel Inc.,ent_startup_vercel,FREEMIUM,UI Code Gen,https://aixploria.com/product/v0-vercel-v16
+Bolt.new v16.0,StackBlitz,StackBlitz Inc.,ent_startup_stackblitz,FREEMIUM,Web Dev AI,https://aixploria.com/product/bolt-new-v16
+Devin v16.0,Cognition,Cognition AI Inc.,ent_startup_cognition,PAID,AI Software Engineer,https://aixploria.com/product/devin-v16
 Harvey AI v16.0,Harvey,Harvey AI Inc.,ent_startup_harvey,ENTERPRISE,Legal AI,https://aixploria.com/product/harvey-ai-v16
 Pinecone Vector DB v16.0,Pinecone,"Pinecone Systems, Inc.",ent_startup_pinecone,FREEMIUM,Infrastructure,https://aixploria.com/product/pinecone-v16
-Qdrant v16.0,,Qdrant Solutions GmbH,,FREEMIUM,Infrastructure,https://aixploria.com/product/qdrant-v16
-Milvus v16.0,,Zilliz Inc.,,FREEMIUM,Infrastructure,https://aixploria.com/product/milvus-v16
-Chroma DB v16.0,,Chroma Inc.,,FREEMIUM,Infrastructure,https://aixploria.com/product/chroma-db-v16
+Qdrant v16.0,Qdrant,Qdrant Solutions GmbH,ent_startup_qdrant,FREEMIUM,Infrastructure,https://aixploria.com/product/qdrant-v16
+Milvus v16.0,Zilliz,Zilliz Inc.,ent_startup_zilliz,FREEMIUM,Infrastructure,https://aixploria.com/product/milvus-v16
+Chroma DB v16.0,Chroma,Chroma Inc.,ent_startup_chroma,FREEMIUM,Infrastructure,https://aixploria.com/product/chroma-db-v16
 Weaviate v16.0,Weaviate,Weaviate B.V.,ent_startup_weaviate,FREEMIUM,Infrastructure,https://aixploria.com/product/weaviate-v16
 LangChain v16.0,LangChain,"LangChain, Inc.",ent_startup_langchain,FREEMIUM,LLM Framework,https://aixploria.com/product/langchain-v16
 LlamaIndex v16.0,LlamaIndex,LlamaIndex Inc.,ent_startup_llamaindex,FREEMIUM,RAG Framework,https://aixploria.com/product/llamaindex-v16
-CrewAI v16.0,,CrewAI Inc.,,FREEMIUM,AI Agents,https://aixploria.com/product/crewai-v16
-Ollama v16.0,,Ollama Inc.,,FREEMIUM,Local LLM,https://aixploria.com/product/ollama-v16
+CrewAI v16.0,CrewAI,CrewAI Inc.,ent_startup_crewai,FREEMIUM,AI Agents,https://aixploria.com/product/crewai-v16
+Ollama v16.0,Ollama,Ollama Inc.,ent_startup_ollama,FREEMIUM,Local LLM,https://aixploria.com/product/ollama-v16
 Hugging Face Hub v16.0,Hugging Face,"Hugging Face, Inc.",ent_startup_hugging_face,FREEMIUM,Model Hub,https://aixploria.com/product/huggingface-v16
-Unresolved Tool A v16.0,,Niche Studio 101,,FREE,Utility,https://aixploria.com/product/unresolved-a-v16
-Unresolved Tool B v16.0,,Niche Studio 102,,FREE,Utility,https://aixploria.com/product/unresolved-b-v16
+Unresolved Niche Tool 101 v16.0,,Niche Studio 101,,FREE,Utility,https://aixploria.com/product/unresolved-a-v16
+Unresolved Niche Tool 102 v16.0,,Niche Studio 102,,FREE,Utility,https://aixploria.com/product/unresolved-b-v16
 ChatGPT v17.0,OpenAI,OpenAI Inc.,ent_startup_openai,FREEMIUM,Conversational AI,https://aixploria.com/product/chatgpt-v17
 Claude 3.5 Sonnet v17.0,Anthropic,Anthropic PBC,ent_startup_anthropic,FREEMIUM,AI Assistant,https://aixploria.com/product/claude-3-5-sonnet-v17
 Midjourney v6 v17.0,Midjourney,Midjourney Inc.,ent_startup_midjourney,PAID,Image Generation,https://aixploria.com/product/midjourney-v6-v17
-GitHub Copilot v17.0,,Microsoft Corporation,,PAID,Developer Tools,https://aixploria.com/product/github-copilot-v17
+GitHub Copilot v17.0,Microsoft,Microsoft Corporation,ent_startup_microsoft,PAID,Developer Tools,https://aixploria.com/product/github-copilot-v17
 Perplexity Pro v17.0,Perplexity,Perplexity AI Inc.,ent_startup_perplexity,FREEMIUM,Search & Research,https://aixploria.com/product/perplexity-pro-v17
-Gemini Advanced v17.0,,Google LLC,,FREEMIUM,Conversational AI,https://aixploria.com/product/gemini-advanced-v17
+Gemini Advanced v17.0,Google,Google LLC,ent_startup_google,FREEMIUM,Conversational AI,https://aixploria.com/product/gemini-advanced-v17
 Stable Diffusion 3 v17.0,Stability AI,Stability AI Ltd.,ent_startup_stability,FREEMIUM,Image Generation,https://aixploria.com/product/stable-diffusion-3-v17
 ElevenLabs Reader v17.0,ElevenLabs,ElevenLabs Inc.,ent_startup_elevenlabs,FREEMIUM,Voice & Audio,https://aixploria.com/product/elevenlabs-reader-v17
 Runway Gen-3 Alpha v17.0,Runway,"Runway AI, Inc.",ent_startup_runway,FREEMIUM,Video Generation,https://aixploria.com/product/runway-gen-3-v17
 Sora v17.0,OpenAI,OpenAI Inc.,ent_startup_openai,FREEMIUM,Video Generation,https://aixploria.com/product/sora-v17
-Llama 3.1 405B v17.0,,"Meta Platforms, Inc.",,FREEMIUM,LLM Foundation,https://aixploria.com/product/llama-3-1-405b-v17
-DeepSeek V3 v17.0,,DeepSeek Inc.,,FREEMIUM,LLM Foundation,https://aixploria.com/product/deepseek-v3-v17
+Llama 3.1 405B v17.0,Meta,"Meta Platforms, Inc.",ent_startup_meta,FREEMIUM,LLM Foundation,https://aixploria.com/product/llama-3-1-405b-v17
+DeepSeek V3 v17.0,DeepSeek,DeepSeek Inc.,ent_startup_deepseek,FREEMIUM,LLM Foundation,https://aixploria.com/product/deepseek-v3-v17
 Mistral Large 2 v17.0,Mistral AI,Mistral AI SAS,ent_startup_mistral,FREEMIUM,LLM Foundation,https://aixploria.com/product/mistral-large-2-v17
-Qwen 2.5 v17.0,,Alibaba Cloud Computing Ltd.,,FREEMIUM,LLM Foundation,https://aixploria.com/product/qwen-2-5-v17
-Pika 1.0 v17.0,,"Pika Labs, Inc.",,FREEMIUM,Video Generation,https://aixploria.com/product/pika-1-0-v17
-Suno v3.5 v17.0,,Suno AI Inc.,,FREEMIUM,Music Generation,https://aixploria.com/product/suno-v3-5-v17
-Udio v1.5 v17.0,,"Uncharted Labs, Inc. (Udio)",,FREEMIUM,Music Generation,https://aixploria.com/product/udio-v1-5-v17
-Kling AI v17.0,,Kuaishou Technology Ltd.,,FREEMIUM,Video Generation,https://aixploria.com/product/kling-ai-v17
-Flux.1 v17.0,,Black Forest Labs GmbH,,FREEMIUM,Image Generation,https://aixploria.com/product/flux-1-v17
-Ideogram 2.0 v17.0,,Ideogram AI Inc.,,FREEMIUM,Image Generation,https://aixploria.com/product/ideogram-2-0-v17
-Luma Dream Machine v17.0,,Luma AI Inc.,,FREEMIUM,3D & Video,https://aixploria.com/product/luma-dream-machine-v17
+Qwen 2.5 v17.0,Alibaba Cloud,Alibaba Cloud Computing Ltd.,ent_startup_alibaba_cloud,FREEMIUM,LLM Foundation,https://aixploria.com/product/qwen-2-5-v17
+Pika 1.0 v17.0,Pika Labs,"Pika Labs, Inc.",ent_startup_pika,FREEMIUM,Video Generation,https://aixploria.com/product/pika-1-0-v17
+Suno v3.5 v17.0,Suno AI,Suno AI Inc.,ent_startup_suno,FREEMIUM,Music Generation,https://aixploria.com/product/suno-v3-5-v17
+Udio v1.5 v17.0,Udio,"Uncharted Labs, Inc. (Udio)",ent_startup_udio,FREEMIUM,Music Generation,https://aixploria.com/product/udio-v1-5-v17
+Kling AI v17.0,Kuaishou,Kuaishou Technology Ltd.,ent_startup_kuaishou,FREEMIUM,Video Generation,https://aixploria.com/product/kling-ai-v17
+Flux.1 v17.0,Black Forest Labs,Black Forest Labs GmbH,ent_startup_black_forest,FREEMIUM,Image Generation,https://aixploria.com/product/flux-1-v17
+Ideogram 2.0 v17.0,Ideogram,Ideogram AI Inc.,ent_startup_ideogram,FREEMIUM,Image Generation,https://aixploria.com/product/ideogram-2-0-v17
+Luma Dream Machine v17.0,Luma AI,Luma AI Inc.,ent_startup_luma,FREEMIUM,3D & Video,https://aixploria.com/product/luma-dream-machine-v17
 Jasper AI v17.0,Jasper,Jasper AI Inc.,ent_startup_jasper,PAID,Marketing AI,https://aixploria.com/product/jasper-ai-v17
 Copy.ai v17.0,Copy.ai,Copy.ai Inc.,ent_startup_copy,FREEMIUM,Copywriting,https://aixploria.com/product/copy-ai-v17
 Descript v17.0,Descript,Descript Inc.,ent_startup_descript,FREEMIUM,Audio & Video,https://aixploria.com/product/descript-v17
-HeyGen v17.0,,HeyGen Inc.,,FREEMIUM,AI Avatars,https://aixploria.com/product/heygen-v17
+HeyGen v17.0,HeyGen,HeyGen Inc.,ent_startup_heygen,FREEMIUM,AI Avatars,https://aixploria.com/product/heygen-v17
 Synthesia v17.0,Synthesia,Synthesia Ltd.,ent_startup_synthesia,PAID,AI Avatars,https://aixploria.com/product/synthesia-v17
-Cursor IDE v17.0,,Anysphere Inc. (Cursor),,FREEMIUM,Developer Tools,https://aixploria.com/product/cursor-ide-v17
+Cursor IDE v17.0,Anysphere,Anysphere Inc. (Cursor),ent_startup_anysphere,FREEMIUM,Developer Tools,https://aixploria.com/product/cursor-ide-v17
 Replit Agent v17.0,Replit,Replit Inc.,ent_startup_replit,FREEMIUM,Developer Tools,https://aixploria.com/product/replit-agent-v17
-v0 by Vercel v17.0,,Vercel Inc.,,FREEMIUM,UI Code Gen,https://aixploria.com/product/v0-vercel-v17
-Bolt.new v17.0,,StackBlitz Inc.,,FREEMIUM,Web Dev AI,https://aixploria.com/product/bolt-new-v17
-Devin v17.0,,Cognition AI Inc.,,PAID,AI Software Engineer,https://aixploria.com/product/devin-v17
+v0 by Vercel v17.0,Vercel,Vercel Inc.,ent_startup_vercel,FREEMIUM,UI Code Gen,https://aixploria.com/product/v0-vercel-v17
+Bolt.new v17.0,StackBlitz,StackBlitz Inc.,ent_startup_stackblitz,FREEMIUM,Web Dev AI,https://aixploria.com/product/bolt-new-v17
+Devin v17.0,Cognition,Cognition AI Inc.,ent_startup_cognition,PAID,AI Software Engineer,https://aixploria.com/product/devin-v17
 Harvey AI v17.0,Harvey,Harvey AI Inc.,ent_startup_harvey,ENTERPRISE,Legal AI,https://aixploria.com/product/harvey-ai-v17
 Pinecone Vector DB v17.0,Pinecone,"Pinecone Systems, Inc.",ent_startup_pinecone,FREEMIUM,Infrastructure,https://aixploria.com/product/pinecone-v17
-Qdrant v17.0,,Qdrant Solutions GmbH,,FREEMIUM,Infrastructure,https://aixploria.com/product/qdrant-v17
-Milvus v17.0,,Zilliz Inc.,,FREEMIUM,Infrastructure,https://aixploria.com/product/milvus-v17
-Chroma DB v17.0,,Chroma Inc.,,FREEMIUM,Infrastructure,https://aixploria.com/product/chroma-db-v17
+Qdrant v17.0,Qdrant,Qdrant Solutions GmbH,ent_startup_qdrant,FREEMIUM,Infrastructure,https://aixploria.com/product/qdrant-v17
+Milvus v17.0,Zilliz,Zilliz Inc.,ent_startup_zilliz,FREEMIUM,Infrastructure,https://aixploria.com/product/milvus-v17
+Chroma DB v17.0,Chroma,Chroma Inc.,ent_startup_chroma,FREEMIUM,Infrastructure,https://aixploria.com/product/chroma-db-v17
 Weaviate v17.0,Weaviate,Weaviate B.V.,ent_startup_weaviate,FREEMIUM,Infrastructure,https://aixploria.com/product/weaviate-v17
 LangChain v17.0,LangChain,"LangChain, Inc.",ent_startup_langchain,FREEMIUM,LLM Framework,https://aixploria.com/product/langchain-v17
 LlamaIndex v17.0,LlamaIndex,LlamaIndex Inc.,ent_startup_llamaindex,FREEMIUM,RAG Framework,https://aixploria.com/product/llamaindex-v17
-CrewAI v17.0,,CrewAI Inc.,,FREEMIUM,AI Agents,https://aixploria.com/product/crewai-v17
-Ollama v17.0,,Ollama Inc.,,FREEMIUM,Local LLM,https://aixploria.com/product/ollama-v17
+CrewAI v17.0,CrewAI,CrewAI Inc.,ent_startup_crewai,FREEMIUM,AI Agents,https://aixploria.com/product/crewai-v17
+Ollama v17.0,Ollama,Ollama Inc.,ent_startup_ollama,FREEMIUM,Local LLM,https://aixploria.com/product/ollama-v17
 Hugging Face Hub v17.0,Hugging Face,"Hugging Face, Inc.",ent_startup_hugging_face,FREEMIUM,Model Hub,https://aixploria.com/product/huggingface-v17
-Unresolved Tool A v17.0,,Niche Studio 101,,FREE,Utility,https://aixploria.com/product/unresolved-a-v17
-Unresolved Tool B v17.0,,Niche Studio 102,,FREE,Utility,https://aixploria.com/product/unresolved-b-v17
+Unresolved Niche Tool 101 v17.0,,Niche Studio 101,,FREE,Utility,https://aixploria.com/product/unresolved-a-v17
+Unresolved Niche Tool 102 v17.0,,Niche Studio 102,,FREE,Utility,https://aixploria.com/product/unresolved-b-v17
 ChatGPT v18.0,OpenAI,OpenAI Inc.,ent_startup_openai,FREEMIUM,Conversational AI,https://aixploria.com/product/chatgpt-v18
 Claude 3.5 Sonnet v18.0,Anthropic,Anthropic PBC,ent_startup_anthropic,FREEMIUM,AI Assistant,https://aixploria.com/product/claude-3-5-sonnet-v18
 Midjourney v6 v18.0,Midjourney,Midjourney Inc.,ent_startup_midjourney,PAID,Image Generation,https://aixploria.com/product/midjourney-v6-v18
-GitHub Copilot v18.0,,Microsoft Corporation,,PAID,Developer Tools,https://aixploria.com/product/github-copilot-v18
+GitHub Copilot v18.0,Microsoft,Microsoft Corporation,ent_startup_microsoft,PAID,Developer Tools,https://aixploria.com/product/github-copilot-v18
 Perplexity Pro v18.0,Perplexity,Perplexity AI Inc.,ent_startup_perplexity,FREEMIUM,Search & Research,https://aixploria.com/product/perplexity-pro-v18
-Gemini Advanced v18.0,,Google LLC,,FREEMIUM,Conversational AI,https://aixploria.com/product/gemini-advanced-v18
+Gemini Advanced v18.0,Google,Google LLC,ent_startup_google,FREEMIUM,Conversational AI,https://aixploria.com/product/gemini-advanced-v18
 Stable Diffusion 3 v18.0,Stability AI,Stability AI Ltd.,ent_startup_stability,FREEMIUM,Image Generation,https://aixploria.com/product/stable-diffusion-3-v18
 ElevenLabs Reader v18.0,ElevenLabs,ElevenLabs Inc.,ent_startup_elevenlabs,FREEMIUM,Voice & Audio,https://aixploria.com/product/elevenlabs-reader-v18
 Runway Gen-3 Alpha v18.0,Runway,"Runway AI, Inc.",ent_startup_runway,FREEMIUM,Video Generation,https://aixploria.com/product/runway-gen-3-v18
 Sora v18.0,OpenAI,OpenAI Inc.,ent_startup_openai,FREEMIUM,Video Generation,https://aixploria.com/product/sora-v18
-Llama 3.1 405B v18.0,,"Meta Platforms, Inc.",,FREEMIUM,LLM Foundation,https://aixploria.com/product/llama-3-1-405b-v18
-DeepSeek V3 v18.0,,DeepSeek Inc.,,FREEMIUM,LLM Foundation,https://aixploria.com/product/deepseek-v3-v18
+Llama 3.1 405B v18.0,Meta,"Meta Platforms, Inc.",ent_startup_meta,FREEMIUM,LLM Foundation,https://aixploria.com/product/llama-3-1-405b-v18
+DeepSeek V3 v18.0,DeepSeek,DeepSeek Inc.,ent_startup_deepseek,FREEMIUM,LLM Foundation,https://aixploria.com/product/deepseek-v3-v18
 Mistral Large 2 v18.0,Mistral AI,Mistral AI SAS,ent_startup_mistral,FREEMIUM,LLM Foundation,https://aixploria.com/product/mistral-large-2-v18
-Qwen 2.5 v18.0,,Alibaba Cloud Computing Ltd.,,FREEMIUM,LLM Foundation,https://aixploria.com/product/qwen-2-5-v18
-Pika 1.0 v18.0,,"Pika Labs, Inc.",,FREEMIUM,Video Generation,https://aixploria.com/product/pika-1-0-v18
-Suno v3.5 v18.0,,Suno AI Inc.,,FREEMIUM,Music Generation,https://aixploria.com/product/suno-v3-5-v18
-Udio v1.5 v18.0,,"Uncharted Labs, Inc. (Udio)",,FREEMIUM,Music Generation,https://aixploria.com/product/udio-v1-5-v18
-Kling AI v18.0,,Kuaishou Technology Ltd.,,FREEMIUM,Video Generation,https://aixploria.com/product/kling-ai-v18
-Flux.1 v18.0,,Black Forest Labs GmbH,,FREEMIUM,Image Generation,https://aixploria.com/product/flux-1-v18
-Ideogram 2.0 v18.0,,Ideogram AI Inc.,,FREEMIUM,Image Generation,https://aixploria.com/product/ideogram-2-0-v18
-Luma Dream Machine v18.0,,Luma AI Inc.,,FREEMIUM,3D & Video,https://aixploria.com/product/luma-dream-machine-v18
+Qwen 2.5 v18.0,Alibaba Cloud,Alibaba Cloud Computing Ltd.,ent_startup_alibaba_cloud,FREEMIUM,LLM Foundation,https://aixploria.com/product/qwen-2-5-v18
+Pika 1.0 v18.0,Pika Labs,"Pika Labs, Inc.",ent_startup_pika,FREEMIUM,Video Generation,https://aixploria.com/product/pika-1-0-v18
+Suno v3.5 v18.0,Suno AI,Suno AI Inc.,ent_startup_suno,FREEMIUM,Music Generation,https://aixploria.com/product/suno-v3-5-v18
+Udio v1.5 v18.0,Udio,"Uncharted Labs, Inc. (Udio)",ent_startup_udio,FREEMIUM,Music Generation,https://aixploria.com/product/udio-v1-5-v18
+Kling AI v18.0,Kuaishou,Kuaishou Technology Ltd.,ent_startup_kuaishou,FREEMIUM,Video Generation,https://aixploria.com/product/kling-ai-v18
+Flux.1 v18.0,Black Forest Labs,Black Forest Labs GmbH,ent_startup_black_forest,FREEMIUM,Image Generation,https://aixploria.com/product/flux-1-v18
+Ideogram 2.0 v18.0,Ideogram,Ideogram AI Inc.,ent_startup_ideogram,FREEMIUM,Image Generation,https://aixploria.com/product/ideogram-2-0-v18
+Luma Dream Machine v18.0,Luma AI,Luma AI Inc.,ent_startup_luma,FREEMIUM,3D & Video,https://aixploria.com/product/luma-dream-machine-v18
 Jasper AI v18.0,Jasper,Jasper AI Inc.,ent_startup_jasper,PAID,Marketing AI,https://aixploria.com/product/jasper-ai-v18
 Copy.ai v18.0,Copy.ai,Copy.ai Inc.,ent_startup_copy,FREEMIUM,Copywriting,https://aixploria.com/product/copy-ai-v18
 Descript v18.0,Descript,Descript Inc.,ent_startup_descript,FREEMIUM,Audio & Video,https://aixploria.com/product/descript-v18
-HeyGen v18.0,,HeyGen Inc.,,FREEMIUM,AI Avatars,https://aixploria.com/product/heygen-v18
+HeyGen v18.0,HeyGen,HeyGen Inc.,ent_startup_heygen,FREEMIUM,AI Avatars,https://aixploria.com/product/heygen-v18
 Synthesia v18.0,Synthesia,Synthesia Ltd.,ent_startup_synthesia,PAID,AI Avatars,https://aixploria.com/product/synthesia-v18
-Cursor IDE v18.0,,Anysphere Inc. (Cursor),,FREEMIUM,Developer Tools,https://aixploria.com/product/cursor-ide-v18
+Cursor IDE v18.0,Anysphere,Anysphere Inc. (Cursor),ent_startup_anysphere,FREEMIUM,Developer Tools,https://aixploria.com/product/cursor-ide-v18
 Replit Agent v18.0,Replit,Replit Inc.,ent_startup_replit,FREEMIUM,Developer Tools,https://aixploria.com/product/replit-agent-v18
-v0 by Vercel v18.0,,Vercel Inc.,,FREEMIUM,UI Code Gen,https://aixploria.com/product/v0-vercel-v18
-Bolt.new v18.0,,StackBlitz Inc.,,FREEMIUM,Web Dev AI,https://aixploria.com/product/bolt-new-v18
-Devin v18.0,,Cognition AI Inc.,,PAID,AI Software Engineer,https://aixploria.com/product/devin-v18
+v0 by Vercel v18.0,Vercel,Vercel Inc.,ent_startup_vercel,FREEMIUM,UI Code Gen,https://aixploria.com/product/v0-vercel-v18
+Bolt.new v18.0,StackBlitz,StackBlitz Inc.,ent_startup_stackblitz,FREEMIUM,Web Dev AI,https://aixploria.com/product/bolt-new-v18
+Devin v18.0,Cognition,Cognition AI Inc.,ent_startup_cognition,PAID,AI Software Engineer,https://aixploria.com/product/devin-v18
 Harvey AI v18.0,Harvey,Harvey AI Inc.,ent_startup_harvey,ENTERPRISE,Legal AI,https://aixploria.com/product/harvey-ai-v18
 Pinecone Vector DB v18.0,Pinecone,"Pinecone Systems, Inc.",ent_startup_pinecone,FREEMIUM,Infrastructure,https://aixploria.com/product/pinecone-v18
-Qdrant v18.0,,Qdrant Solutions GmbH,,FREEMIUM,Infrastructure,https://aixploria.com/product/qdrant-v18
-Milvus v18.0,,Zilliz Inc.,,FREEMIUM,Infrastructure,https://aixploria.com/product/milvus-v18
-Chroma DB v18.0,,Chroma Inc.,,FREEMIUM,Infrastructure,https://aixploria.com/product/chroma-db-v18
+Qdrant v18.0,Qdrant,Qdrant Solutions GmbH,ent_startup_qdrant,FREEMIUM,Infrastructure,https://aixploria.com/product/qdrant-v18
+Milvus v18.0,Zilliz,Zilliz Inc.,ent_startup_zilliz,FREEMIUM,Infrastructure,https://aixploria.com/product/milvus-v18
+Chroma DB v18.0,Chroma,Chroma Inc.,ent_startup_chroma,FREEMIUM,Infrastructure,https://aixploria.com/product/chroma-db-v18
 Weaviate v18.0,Weaviate,Weaviate B.V.,ent_startup_weaviate,FREEMIUM,Infrastructure,https://aixploria.com/product/weaviate-v18
 LangChain v18.0,LangChain,"LangChain, Inc.",ent_startup_langchain,FREEMIUM,LLM Framework,https://aixploria.com/product/langchain-v18
 LlamaIndex v18.0,LlamaIndex,LlamaIndex Inc.,ent_startup_llamaindex,FREEMIUM,RAG Framework,https://aixploria.com/product/llamaindex-v18
-CrewAI v18.0,,CrewAI Inc.,,FREEMIUM,AI Agents,https://aixploria.com/product/crewai-v18
-Ollama v18.0,,Ollama Inc.,,FREEMIUM,Local LLM,https://aixploria.com/product/ollama-v18
+CrewAI v18.0,CrewAI,CrewAI Inc.,ent_startup_crewai,FREEMIUM,AI Agents,https://aixploria.com/product/crewai-v18
+Ollama v18.0,Ollama,Ollama Inc.,ent_startup_ollama,FREEMIUM,Local LLM,https://aixploria.com/product/ollama-v18
 Hugging Face Hub v18.0,Hugging Face,"Hugging Face, Inc.",ent_startup_hugging_face,FREEMIUM,Model Hub,https://aixploria.com/product/huggingface-v18
-Unresolved Tool A v18.0,,Niche Studio 101,,FREE,Utility,https://aixploria.com/product/unresolved-a-v18
-Unresolved Tool B v18.0,,Niche Studio 102,,FREE,Utility,https://aixploria.com/product/unresolved-b-v18
+Unresolved Niche Tool 101 v18.0,,Niche Studio 101,,FREE,Utility,https://aixploria.com/product/unresolved-a-v18
+Unresolved Niche Tool 102 v18.0,,Niche Studio 102,,FREE,Utility,https://aixploria.com/product/unresolved-b-v18
 ChatGPT v19.0,OpenAI,OpenAI Inc.,ent_startup_openai,FREEMIUM,Conversational AI,https://aixploria.com/product/chatgpt-v19
 Claude 3.5 Sonnet v19.0,Anthropic,Anthropic PBC,ent_startup_anthropic,FREEMIUM,AI Assistant,https://aixploria.com/product/claude-3-5-sonnet-v19
 Midjourney v6 v19.0,Midjourney,Midjourney Inc.,ent_startup_midjourney,PAID,Image Generation,https://aixploria.com/product/midjourney-v6-v19
-GitHub Copilot v19.0,,Microsoft Corporation,,PAID,Developer Tools,https://aixploria.com/product/github-copilot-v19
+GitHub Copilot v19.0,Microsoft,Microsoft Corporation,ent_startup_microsoft,PAID,Developer Tools,https://aixploria.com/product/github-copilot-v19
 Perplexity Pro v19.0,Perplexity,Perplexity AI Inc.,ent_startup_perplexity,FREEMIUM,Search & Research,https://aixploria.com/product/perplexity-pro-v19
-Gemini Advanced v19.0,,Google LLC,,FREEMIUM,Conversational AI,https://aixploria.com/product/gemini-advanced-v19
+Gemini Advanced v19.0,Google,Google LLC,ent_startup_google,FREEMIUM,Conversational AI,https://aixploria.com/product/gemini-advanced-v19
 Stable Diffusion 3 v19.0,Stability AI,Stability AI Ltd.,ent_startup_stability,FREEMIUM,Image Generation,https://aixploria.com/product/stable-diffusion-3-v19
 ElevenLabs Reader v19.0,ElevenLabs,ElevenLabs Inc.,ent_startup_elevenlabs,FREEMIUM,Voice & Audio,https://aixploria.com/product/elevenlabs-reader-v19
 Runway Gen-3 Alpha v19.0,Runway,"Runway AI, Inc.",ent_startup_runway,FREEMIUM,Video Generation,https://aixploria.com/product/runway-gen-3-v19
 Sora v19.0,OpenAI,OpenAI Inc.,ent_startup_openai,FREEMIUM,Video Generation,https://aixploria.com/product/sora-v19
-Llama 3.1 405B v19.0,,"Meta Platforms, Inc.",,FREEMIUM,LLM Foundation,https://aixploria.com/product/llama-3-1-405b-v19
-DeepSeek V3 v19.0,,DeepSeek Inc.,,FREEMIUM,LLM Foundation,https://aixploria.com/product/deepseek-v3-v19
+Llama 3.1 405B v19.0,Meta,"Meta Platforms, Inc.",ent_startup_meta,FREEMIUM,LLM Foundation,https://aixploria.com/product/llama-3-1-405b-v19
+DeepSeek V3 v19.0,DeepSeek,DeepSeek Inc.,ent_startup_deepseek,FREEMIUM,LLM Foundation,https://aixploria.com/product/deepseek-v3-v19
 Mistral Large 2 v19.0,Mistral AI,Mistral AI SAS,ent_startup_mistral,FREEMIUM,LLM Foundation,https://aixploria.com/product/mistral-large-2-v19
-Qwen 2.5 v19.0,,Alibaba Cloud Computing Ltd.,,FREEMIUM,LLM Foundation,https://aixploria.com/product/qwen-2-5-v19
-Pika 1.0 v19.0,,"Pika Labs, Inc.",,FREEMIUM,Video Generation,https://aixploria.com/product/pika-1-0-v19
-Suno v3.5 v19.0,,Suno AI Inc.,,FREEMIUM,Music Generation,https://aixploria.com/product/suno-v3-5-v19
-Udio v1.5 v19.0,,"Uncharted Labs, Inc. (Udio)",,FREEMIUM,Music Generation,https://aixploria.com/product/udio-v1-5-v19
-Kling AI v19.0,,Kuaishou Technology Ltd.,,FREEMIUM,Video Generation,https://aixploria.com/product/kling-ai-v19
-Flux.1 v19.0,,Black Forest Labs GmbH,,FREEMIUM,Image Generation,https://aixploria.com/product/flux-1-v19
-Ideogram 2.0 v19.0,,Ideogram AI Inc.,,FREEMIUM,Image Generation,https://aixploria.com/product/ideogram-2-0-v19
-Luma Dream Machine v19.0,,Luma AI Inc.,,FREEMIUM,3D & Video,https://aixploria.com/product/luma-dream-machine-v19
+Qwen 2.5 v19.0,Alibaba Cloud,Alibaba Cloud Computing Ltd.,ent_startup_alibaba_cloud,FREEMIUM,LLM Foundation,https://aixploria.com/product/qwen-2-5-v19
+Pika 1.0 v19.0,Pika Labs,"Pika Labs, Inc.",ent_startup_pika,FREEMIUM,Video Generation,https://aixploria.com/product/pika-1-0-v19
+Suno v3.5 v19.0,Suno AI,Suno AI Inc.,ent_startup_suno,FREEMIUM,Music Generation,https://aixploria.com/product/suno-v3-5-v19
+Udio v1.5 v19.0,Udio,"Uncharted Labs, Inc. (Udio)",ent_startup_udio,FREEMIUM,Music Generation,https://aixploria.com/product/udio-v1-5-v19
+Kling AI v19.0,Kuaishou,Kuaishou Technology Ltd.,ent_startup_kuaishou,FREEMIUM,Video Generation,https://aixploria.com/product/kling-ai-v19
+Flux.1 v19.0,Black Forest Labs,Black Forest Labs GmbH,ent_startup_black_forest,FREEMIUM,Image Generation,https://aixploria.com/product/flux-1-v19
+Ideogram 2.0 v19.0,Ideogram,Ideogram AI Inc.,ent_startup_ideogram,FREEMIUM,Image Generation,https://aixploria.com/product/ideogram-2-0-v19
+Luma Dream Machine v19.0,Luma AI,Luma AI Inc.,ent_startup_luma,FREEMIUM,3D & Video,https://aixploria.com/product/luma-dream-machine-v19
 Jasper AI v19.0,Jasper,Jasper AI Inc.,ent_startup_jasper,PAID,Marketing AI,https://aixploria.com/product/jasper-ai-v19
 Copy.ai v19.0,Copy.ai,Copy.ai Inc.,ent_startup_copy,FREEMIUM,Copywriting,https://aixploria.com/product/copy-ai-v19
 Descript v19.0,Descript,Descript Inc.,ent_startup_descript,FREEMIUM,Audio & Video,https://aixploria.com/product/descript-v19
-HeyGen v19.0,,HeyGen Inc.,,FREEMIUM,AI Avatars,https://aixploria.com/product/heygen-v19
+HeyGen v19.0,HeyGen,HeyGen Inc.,ent_startup_heygen,FREEMIUM,AI Avatars,https://aixploria.com/product/heygen-v19
 Synthesia v19.0,Synthesia,Synthesia Ltd.,ent_startup_synthesia,PAID,AI Avatars,https://aixploria.com/product/synthesia-v19
-Cursor IDE v19.0,,Anysphere Inc. (Cursor),,FREEMIUM,Developer Tools,https://aixploria.com/product/cursor-ide-v19
+Cursor IDE v19.0,Anysphere,Anysphere Inc. (Cursor),ent_startup_anysphere,FREEMIUM,Developer Tools,https://aixploria.com/product/cursor-ide-v19
 Replit Agent v19.0,Replit,Replit Inc.,ent_startup_replit,FREEMIUM,Developer Tools,https://aixploria.com/product/replit-agent-v19
-v0 by Vercel v19.0,,Vercel Inc.,,FREEMIUM,UI Code Gen,https://aixploria.com/product/v0-vercel-v19
-Bolt.new v19.0,,StackBlitz Inc.,,FREEMIUM,Web Dev AI,https://aixploria.com/product/bolt-new-v19
-Devin v19.0,,Cognition AI Inc.,,PAID,AI Software Engineer,https://aixploria.com/product/devin-v19
+v0 by Vercel v19.0,Vercel,Vercel Inc.,ent_startup_vercel,FREEMIUM,UI Code Gen,https://aixploria.com/product/v0-vercel-v19
+Bolt.new v19.0,StackBlitz,StackBlitz Inc.,ent_startup_stackblitz,FREEMIUM,Web Dev AI,https://aixploria.com/product/bolt-new-v19
+Devin v19.0,Cognition,Cognition AI Inc.,ent_startup_cognition,PAID,AI Software Engineer,https://aixploria.com/product/devin-v19
 Harvey AI v19.0,Harvey,Harvey AI Inc.,ent_startup_harvey,ENTERPRISE,Legal AI,https://aixploria.com/product/harvey-ai-v19
 Pinecone Vector DB v19.0,Pinecone,"Pinecone Systems, Inc.",ent_startup_pinecone,FREEMIUM,Infrastructure,https://aixploria.com/product/pinecone-v19
-Qdrant v19.0,,Qdrant Solutions GmbH,,FREEMIUM,Infrastructure,https://aixploria.com/product/qdrant-v19
-Milvus v19.0,,Zilliz Inc.,,FREEMIUM,Infrastructure,https://aixploria.com/product/milvus-v19
-Chroma DB v19.0,,Chroma Inc.,,FREEMIUM,Infrastructure,https://aixploria.com/product/chroma-db-v19
+Qdrant v19.0,Qdrant,Qdrant Solutions GmbH,ent_startup_qdrant,FREEMIUM,Infrastructure,https://aixploria.com/product/qdrant-v19
+Milvus v19.0,Zilliz,Zilliz Inc.,ent_startup_zilliz,FREEMIUM,Infrastructure,https://aixploria.com/product/milvus-v19
+Chroma DB v19.0,Chroma,Chroma Inc.,ent_startup_chroma,FREEMIUM,Infrastructure,https://aixploria.com/product/chroma-db-v19
 Weaviate v19.0,Weaviate,Weaviate B.V.,ent_startup_weaviate,FREEMIUM,Infrastructure,https://aixploria.com/product/weaviate-v19
 LangChain v19.0,LangChain,"LangChain, Inc.",ent_startup_langchain,FREEMIUM,LLM Framework,https://aixploria.com/product/langchain-v19
 LlamaIndex v19.0,LlamaIndex,LlamaIndex Inc.,ent_startup_llamaindex,FREEMIUM,RAG Framework,https://aixploria.com/product/llamaindex-v19
-CrewAI v19.0,,CrewAI Inc.,,FREEMIUM,AI Agents,https://aixploria.com/product/crewai-v19
-Ollama v19.0,,Ollama Inc.,,FREEMIUM,Local LLM,https://aixploria.com/product/ollama-v19
+CrewAI v19.0,CrewAI,CrewAI Inc.,ent_startup_crewai,FREEMIUM,AI Agents,https://aixploria.com/product/crewai-v19
+Ollama v19.0,Ollama,Ollama Inc.,ent_startup_ollama,FREEMIUM,Local LLM,https://aixploria.com/product/ollama-v19
 Hugging Face Hub v19.0,Hugging Face,"Hugging Face, Inc.",ent_startup_hugging_face,FREEMIUM,Model Hub,https://aixploria.com/product/huggingface-v19
-Unresolved Tool A v19.0,,Niche Studio 101,,FREE,Utility,https://aixploria.com/product/unresolved-a-v19
-Unresolved Tool B v19.0,,Niche Studio 102,,FREE,Utility,https://aixploria.com/product/unresolved-b-v19
+Unresolved Niche Tool 101 v19.0,,Niche Studio 101,,FREE,Utility,https://aixploria.com/product/unresolved-a-v19
+Unresolved Niche Tool 102 v19.0,,Niche Studio 102,,FREE,Utility,https://aixploria.com/product/unresolved-b-v19
 ChatGPT v20.0,OpenAI,OpenAI Inc.,ent_startup_openai,FREEMIUM,Conversational AI,https://aixploria.com/product/chatgpt-v20
 Claude 3.5 Sonnet v20.0,Anthropic,Anthropic PBC,ent_startup_anthropic,FREEMIUM,AI Assistant,https://aixploria.com/product/claude-3-5-sonnet-v20
 Midjourney v6 v20.0,Midjourney,Midjourney Inc.,ent_startup_midjourney,PAID,Image Generation,https://aixploria.com/product/midjourney-v6-v20
-GitHub Copilot v20.0,,Microsoft Corporation,,PAID,Developer Tools,https://aixploria.com/product/github-copilot-v20
+GitHub Copilot v20.0,Microsoft,Microsoft Corporation,ent_startup_microsoft,PAID,Developer Tools,https://aixploria.com/product/github-copilot-v20
 Perplexity Pro v20.0,Perplexity,Perplexity AI Inc.,ent_startup_perplexity,FREEMIUM,Search & Research,https://aixploria.com/product/perplexity-pro-v20
-Gemini Advanced v20.0,,Google LLC,,FREEMIUM,Conversational AI,https://aixploria.com/product/gemini-advanced-v20
+Gemini Advanced v20.0,Google,Google LLC,ent_startup_google,FREEMIUM,Conversational AI,https://aixploria.com/product/gemini-advanced-v20
 Stable Diffusion 3 v20.0,Stability AI,Stability AI Ltd.,ent_startup_stability,FREEMIUM,Image Generation,https://aixploria.com/product/stable-diffusion-3-v20
 ElevenLabs Reader v20.0,ElevenLabs,ElevenLabs Inc.,ent_startup_elevenlabs,FREEMIUM,Voice & Audio,https://aixploria.com/product/elevenlabs-reader-v20
 Runway Gen-3 Alpha v20.0,Runway,"Runway AI, Inc.",ent_startup_runway,FREEMIUM,Video Generation,https://aixploria.com/product/runway-gen-3-v20
 Sora v20.0,OpenAI,OpenAI Inc.,ent_startup_openai,FREEMIUM,Video Generation,https://aixploria.com/product/sora-v20
-Llama 3.1 405B v20.0,,"Meta Platforms, Inc.",,FREEMIUM,LLM Foundation,https://aixploria.com/product/llama-3-1-405b-v20
-DeepSeek V3 v20.0,,DeepSeek Inc.,,FREEMIUM,LLM Foundation,https://aixploria.com/product/deepseek-v3-v20
+Llama 3.1 405B v20.0,Meta,"Meta Platforms, Inc.",ent_startup_meta,FREEMIUM,LLM Foundation,https://aixploria.com/product/llama-3-1-405b-v20
+DeepSeek V3 v20.0,DeepSeek,DeepSeek Inc.,ent_startup_deepseek,FREEMIUM,LLM Foundation,https://aixploria.com/product/deepseek-v3-v20
 Mistral Large 2 v20.0,Mistral AI,Mistral AI SAS,ent_startup_mistral,FREEMIUM,LLM Foundation,https://aixploria.com/product/mistral-large-2-v20
-Qwen 2.5 v20.0,,Alibaba Cloud Computing Ltd.,,FREEMIUM,LLM Foundation,https://aixploria.com/product/qwen-2-5-v20
-Pika 1.0 v20.0,,"Pika Labs, Inc.",,FREEMIUM,Video Generation,https://aixploria.com/product/pika-1-0-v20
-Suno v3.5 v20.0,,Suno AI Inc.,,FREEMIUM,Music Generation,https://aixploria.com/product/suno-v3-5-v20
-Udio v1.5 v20.0,,"Uncharted Labs, Inc. (Udio)",,FREEMIUM,Music Generation,https://aixploria.com/product/udio-v1-5-v20
-Kling AI v20.0,,Kuaishou Technology Ltd.,,FREEMIUM,Video Generation,https://aixploria.com/product/kling-ai-v20
-Flux.1 v20.0,,Black Forest Labs GmbH,,FREEMIUM,Image Generation,https://aixploria.com/product/flux-1-v20
-Ideogram 2.0 v20.0,,Ideogram AI Inc.,,FREEMIUM,Image Generation,https://aixploria.com/product/ideogram-2-0-v20
-Luma Dream Machine v20.0,,Luma AI Inc.,,FREEMIUM,3D & Video,https://aixploria.com/product/luma-dream-machine-v20
+Qwen 2.5 v20.0,Alibaba Cloud,Alibaba Cloud Computing Ltd.,ent_startup_alibaba_cloud,FREEMIUM,LLM Foundation,https://aixploria.com/product/qwen-2-5-v20
+Pika 1.0 v20.0,Pika Labs,"Pika Labs, Inc.",ent_startup_pika,FREEMIUM,Video Generation,https://aixploria.com/product/pika-1-0-v20
+Suno v3.5 v20.0,Suno AI,Suno AI Inc.,ent_startup_suno,FREEMIUM,Music Generation,https://aixploria.com/product/suno-v3-5-v20
+Udio v1.5 v20.0,Udio,"Uncharted Labs, Inc. (Udio)",ent_startup_udio,FREEMIUM,Music Generation,https://aixploria.com/product/udio-v1-5-v20
+Kling AI v20.0,Kuaishou,Kuaishou Technology Ltd.,ent_startup_kuaishou,FREEMIUM,Video Generation,https://aixploria.com/product/kling-ai-v20
+Flux.1 v20.0,Black Forest Labs,Black Forest Labs GmbH,ent_startup_black_forest,FREEMIUM,Image Generation,https://aixploria.com/product/flux-1-v20
+Ideogram 2.0 v20.0,Ideogram,Ideogram AI Inc.,ent_startup_ideogram,FREEMIUM,Image Generation,https://aixploria.com/product/ideogram-2-0-v20
+Luma Dream Machine v20.0,Luma AI,Luma AI Inc.,ent_startup_luma,FREEMIUM,3D & Video,https://aixploria.com/product/luma-dream-machine-v20
 Jasper AI v20.0,Jasper,Jasper AI Inc.,ent_startup_jasper,PAID,Marketing AI,https://aixploria.com/product/jasper-ai-v20
 Copy.ai v20.0,Copy.ai,Copy.ai Inc.,ent_startup_copy,FREEMIUM,Copywriting,https://aixploria.com/product/copy-ai-v20
 Descript v20.0,Descript,Descript Inc.,ent_startup_descript,FREEMIUM,Audio & Video,https://aixploria.com/product/descript-v20
-HeyGen v20.0,,HeyGen Inc.,,FREEMIUM,AI Avatars,https://aixploria.com/product/heygen-v20
+HeyGen v20.0,HeyGen,HeyGen Inc.,ent_startup_heygen,FREEMIUM,AI Avatars,https://aixploria.com/product/heygen-v20
 Synthesia v20.0,Synthesia,Synthesia Ltd.,ent_startup_synthesia,PAID,AI Avatars,https://aixploria.com/product/synthesia-v20
-Cursor IDE v20.0,,Anysphere Inc. (Cursor),,FREEMIUM,Developer Tools,https://aixploria.com/product/cursor-ide-v20
+Cursor IDE v20.0,Anysphere,Anysphere Inc. (Cursor),ent_startup_anysphere,FREEMIUM,Developer Tools,https://aixploria.com/product/cursor-ide-v20
 Replit Agent v20.0,Replit,Replit Inc.,ent_startup_replit,FREEMIUM,Developer Tools,https://aixploria.com/product/replit-agent-v20
-v0 by Vercel v20.0,,Vercel Inc.,,FREEMIUM,UI Code Gen,https://aixploria.com/product/v0-vercel-v20
-Bolt.new v20.0,,StackBlitz Inc.,,FREEMIUM,Web Dev AI,https://aixploria.com/product/bolt-new-v20
-Devin v20.0,,Cognition AI Inc.,,PAID,AI Software Engineer,https://aixploria.com/product/devin-v20
+v0 by Vercel v20.0,Vercel,Vercel Inc.,ent_startup_vercel,FREEMIUM,UI Code Gen,https://aixploria.com/product/v0-vercel-v20
+Bolt.new v20.0,StackBlitz,StackBlitz Inc.,ent_startup_stackblitz,FREEMIUM,Web Dev AI,https://aixploria.com/product/bolt-new-v20
+Devin v20.0,Cognition,Cognition AI Inc.,ent_startup_cognition,PAID,AI Software Engineer,https://aixploria.com/product/devin-v20
 Harvey AI v20.0,Harvey,Harvey AI Inc.,ent_startup_harvey,ENTERPRISE,Legal AI,https://aixploria.com/product/harvey-ai-v20
 Pinecone Vector DB v20.0,Pinecone,"Pinecone Systems, Inc.",ent_startup_pinecone,FREEMIUM,Infrastructure,https://aixploria.com/product/pinecone-v20
-Qdrant v20.0,,Qdrant Solutions GmbH,,FREEMIUM,Infrastructure,https://aixploria.com/product/qdrant-v20
-Milvus v20.0,,Zilliz Inc.,,FREEMIUM,Infrastructure,https://aixploria.com/product/milvus-v20
-Chroma DB v20.0,,Chroma Inc.,,FREEMIUM,Infrastructure,https://aixploria.com/product/chroma-db-v20
+Qdrant v20.0,Qdrant,Qdrant Solutions GmbH,ent_startup_qdrant,FREEMIUM,Infrastructure,https://aixploria.com/product/qdrant-v20
+Milvus v20.0,Zilliz,Zilliz Inc.,ent_startup_zilliz,FREEMIUM,Infrastructure,https://aixploria.com/product/milvus-v20
+Chroma DB v20.0,Chroma,Chroma Inc.,ent_startup_chroma,FREEMIUM,Infrastructure,https://aixploria.com/product/chroma-db-v20
 Weaviate v20.0,Weaviate,Weaviate B.V.,ent_startup_weaviate,FREEMIUM,Infrastructure,https://aixploria.com/product/weaviate-v20
 LangChain v20.0,LangChain,"LangChain, Inc.",ent_startup_langchain,FREEMIUM,LLM Framework,https://aixploria.com/product/langchain-v20
 LlamaIndex v20.0,LlamaIndex,LlamaIndex Inc.,ent_startup_llamaindex,FREEMIUM,RAG Framework,https://aixploria.com/product/llamaindex-v20
-CrewAI v20.0,,CrewAI Inc.,,FREEMIUM,AI Agents,https://aixploria.com/product/crewai-v20
-Ollama v20.0,,Ollama Inc.,,FREEMIUM,Local LLM,https://aixploria.com/product/ollama-v20
+CrewAI v20.0,CrewAI,CrewAI Inc.,ent_startup_crewai,FREEMIUM,AI Agents,https://aixploria.com/product/crewai-v20
+Ollama v20.0,Ollama,Ollama Inc.,ent_startup_ollama,FREEMIUM,Local LLM,https://aixploria.com/product/ollama-v20
 Hugging Face Hub v20.0,Hugging Face,"Hugging Face, Inc.",ent_startup_hugging_face,FREEMIUM,Model Hub,https://aixploria.com/product/huggingface-v20
-Unresolved Tool A v20.0,,Niche Studio 101,,FREE,Utility,https://aixploria.com/product/unresolved-a-v20
-Unresolved Tool B v20.0,,Niche Studio 102,,FREE,Utility,https://aixploria.com/product/unresolved-b-v20
+Unresolved Niche Tool 101 v20.0,,Niche Studio 101,,FREE,Utility,https://aixploria.com/product/unresolved-a-v20
+Unresolved Niche Tool 102 v20.0,,Niche Studio 102,,FREE,Utility,https://aixploria.com/product/unresolved-b-v20
 ChatGPT v21.0,OpenAI,OpenAI Inc.,ent_startup_openai,FREEMIUM,Conversational AI,https://aixploria.com/product/chatgpt-v21
 Claude 3.5 Sonnet v21.0,Anthropic,Anthropic PBC,ent_startup_anthropic,FREEMIUM,AI Assistant,https://aixploria.com/product/claude-3-5-sonnet-v21
 Midjourney v6 v21.0,Midjourney,Midjourney Inc.,ent_startup_midjourney,PAID,Image Generation,https://aixploria.com/product/midjourney-v6-v21
-GitHub Copilot v21.0,,Microsoft Corporation,,PAID,Developer Tools,https://aixploria.com/product/github-copilot-v21
+GitHub Copilot v21.0,Microsoft,Microsoft Corporation,ent_startup_microsoft,PAID,Developer Tools,https://aixploria.com/product/github-copilot-v21
 Perplexity Pro v21.0,Perplexity,Perplexity AI Inc.,ent_startup_perplexity,FREEMIUM,Search & Research,https://aixploria.com/product/perplexity-pro-v21
-Gemini Advanced v21.0,,Google LLC,,FREEMIUM,Conversational AI,https://aixploria.com/product/gemini-advanced-v21
+Gemini Advanced v21.0,Google,Google LLC,ent_startup_google,FREEMIUM,Conversational AI,https://aixploria.com/product/gemini-advanced-v21
 Stable Diffusion 3 v21.0,Stability AI,Stability AI Ltd.,ent_startup_stability,FREEMIUM,Image Generation,https://aixploria.com/product/stable-diffusion-3-v21
 ElevenLabs Reader v21.0,ElevenLabs,ElevenLabs Inc.,ent_startup_elevenlabs,FREEMIUM,Voice & Audio,https://aixploria.com/product/elevenlabs-reader-v21
 Runway Gen-3 Alpha v21.0,Runway,"Runway AI, Inc.",ent_startup_runway,FREEMIUM,Video Generation,https://aixploria.com/product/runway-gen-3-v21
 Sora v21.0,OpenAI,OpenAI Inc.,ent_startup_openai,FREEMIUM,Video Generation,https://aixploria.com/product/sora-v21
-Llama 3.1 405B v21.0,,"Meta Platforms, Inc.",,FREEMIUM,LLM Foundation,https://aixploria.com/product/llama-3-1-405b-v21
-DeepSeek V3 v21.0,,DeepSeek Inc.,,FREEMIUM,LLM Foundation,https://aixploria.com/product/deepseek-v3-v21
+Llama 3.1 405B v21.0,Meta,"Meta Platforms, Inc.",ent_startup_meta,FREEMIUM,LLM Foundation,https://aixploria.com/product/llama-3-1-405b-v21
+DeepSeek V3 v21.0,DeepSeek,DeepSeek Inc.,ent_startup_deepseek,FREEMIUM,LLM Foundation,https://aixploria.com/product/deepseek-v3-v21
 Mistral Large 2 v21.0,Mistral AI,Mistral AI SAS,ent_startup_mistral,FREEMIUM,LLM Foundation,https://aixploria.com/product/mistral-large-2-v21
-Qwen 2.5 v21.0,,Alibaba Cloud Computing Ltd.,,FREEMIUM,LLM Foundation,https://aixploria.com/product/qwen-2-5-v21
-Pika 1.0 v21.0,,"Pika Labs, Inc.",,FREEMIUM,Video Generation,https://aixploria.com/product/pika-1-0-v21
-Suno v3.5 v21.0,,Suno AI Inc.,,FREEMIUM,Music Generation,https://aixploria.com/product/suno-v3-5-v21
-Udio v1.5 v21.0,,"Uncharted Labs, Inc. (Udio)",,FREEMIUM,Music Generation,https://aixploria.com/product/udio-v1-5-v21
-Kling AI v21.0,,Kuaishou Technology Ltd.,,FREEMIUM,Video Generation,https://aixploria.com/product/kling-ai-v21
-Flux.1 v21.0,,Black Forest Labs GmbH,,FREEMIUM,Image Generation,https://aixploria.com/product/flux-1-v21
-Ideogram 2.0 v21.0,,Ideogram AI Inc.,,FREEMIUM,Image Generation,https://aixploria.com/product/ideogram-2-0-v21
-Luma Dream Machine v21.0,,Luma AI Inc.,,FREEMIUM,3D & Video,https://aixploria.com/product/luma-dream-machine-v21
+Qwen 2.5 v21.0,Alibaba Cloud,Alibaba Cloud Computing Ltd.,ent_startup_alibaba_cloud,FREEMIUM,LLM Foundation,https://aixploria.com/product/qwen-2-5-v21
+Pika 1.0 v21.0,Pika Labs,"Pika Labs, Inc.",ent_startup_pika,FREEMIUM,Video Generation,https://aixploria.com/product/pika-1-0-v21
+Suno v3.5 v21.0,Suno AI,Suno AI Inc.,ent_startup_suno,FREEMIUM,Music Generation,https://aixploria.com/product/suno-v3-5-v21
+Udio v1.5 v21.0,Udio,"Uncharted Labs, Inc. (Udio)",ent_startup_udio,FREEMIUM,Music Generation,https://aixploria.com/product/udio-v1-5-v21
+Kling AI v21.0,Kuaishou,Kuaishou Technology Ltd.,ent_startup_kuaishou,FREEMIUM,Video Generation,https://aixploria.com/product/kling-ai-v21
+Flux.1 v21.0,Black Forest Labs,Black Forest Labs GmbH,ent_startup_black_forest,FREEMIUM,Image Generation,https://aixploria.com/product/flux-1-v21
+Ideogram 2.0 v21.0,Ideogram,Ideogram AI Inc.,ent_startup_ideogram,FREEMIUM,Image Generation,https://aixploria.com/product/ideogram-2-0-v21
+Luma Dream Machine v21.0,Luma AI,Luma AI Inc.,ent_startup_luma,FREEMIUM,3D & Video,https://aixploria.com/product/luma-dream-machine-v21
 Jasper AI v21.0,Jasper,Jasper AI Inc.,ent_startup_jasper,PAID,Marketing AI,https://aixploria.com/product/jasper-ai-v21
 Copy.ai v21.0,Copy.ai,Copy.ai Inc.,ent_startup_copy,FREEMIUM,Copywriting,https://aixploria.com/product/copy-ai-v21
 Descript v21.0,Descript,Descript Inc.,ent_startup_descript,FREEMIUM,Audio & Video,https://aixploria.com/product/descript-v21
-HeyGen v21.0,,HeyGen Inc.,,FREEMIUM,AI Avatars,https://aixploria.com/product/heygen-v21
+HeyGen v21.0,HeyGen,HeyGen Inc.,ent_startup_heygen,FREEMIUM,AI Avatars,https://aixploria.com/product/heygen-v21
 Synthesia v21.0,Synthesia,Synthesia Ltd.,ent_startup_synthesia,PAID,AI Avatars,https://aixploria.com/product/synthesia-v21
-Cursor IDE v21.0,,Anysphere Inc. (Cursor),,FREEMIUM,Developer Tools,https://aixploria.com/product/cursor-ide-v21
+Cursor IDE v21.0,Anysphere,Anysphere Inc. (Cursor),ent_startup_anysphere,FREEMIUM,Developer Tools,https://aixploria.com/product/cursor-ide-v21
 Replit Agent v21.0,Replit,Replit Inc.,ent_startup_replit,FREEMIUM,Developer Tools,https://aixploria.com/product/replit-agent-v21
-v0 by Vercel v21.0,,Vercel Inc.,,FREEMIUM,UI Code Gen,https://aixploria.com/product/v0-vercel-v21
-Bolt.new v21.0,,StackBlitz Inc.,,FREEMIUM,Web Dev AI,https://aixploria.com/product/bolt-new-v21
-Devin v21.0,,Cognition AI Inc.,,PAID,AI Software Engineer,https://aixploria.com/product/devin-v21
+v0 by Vercel v21.0,Vercel,Vercel Inc.,ent_startup_vercel,FREEMIUM,UI Code Gen,https://aixploria.com/product/v0-vercel-v21
+Bolt.new v21.0,StackBlitz,StackBlitz Inc.,ent_startup_stackblitz,FREEMIUM,Web Dev AI,https://aixploria.com/product/bolt-new-v21
+Devin v21.0,Cognition,Cognition AI Inc.,ent_startup_cognition,PAID,AI Software Engineer,https://aixploria.com/product/devin-v21
 Harvey AI v21.0,Harvey,Harvey AI Inc.,ent_startup_harvey,ENTERPRISE,Legal AI,https://aixploria.com/product/harvey-ai-v21
 Pinecone Vector DB v21.0,Pinecone,"Pinecone Systems, Inc.",ent_startup_pinecone,FREEMIUM,Infrastructure,https://aixploria.com/product/pinecone-v21
-Qdrant v21.0,,Qdrant Solutions GmbH,,FREEMIUM,Infrastructure,https://aixploria.com/product/qdrant-v21
-Milvus v21.0,,Zilliz Inc.,,FREEMIUM,Infrastructure,https://aixploria.com/product/milvus-v21
-Chroma DB v21.0,,Chroma Inc.,,FREEMIUM,Infrastructure,https://aixploria.com/product/chroma-db-v21
+Qdrant v21.0,Qdrant,Qdrant Solutions GmbH,ent_startup_qdrant,FREEMIUM,Infrastructure,https://aixploria.com/product/qdrant-v21
+Milvus v21.0,Zilliz,Zilliz Inc.,ent_startup_zilliz,FREEMIUM,Infrastructure,https://aixploria.com/product/milvus-v21
+Chroma DB v21.0,Chroma,Chroma Inc.,ent_startup_chroma,FREEMIUM,Infrastructure,https://aixploria.com/product/chroma-db-v21
 Weaviate v21.0,Weaviate,Weaviate B.V.,ent_startup_weaviate,FREEMIUM,Infrastructure,https://aixploria.com/product/weaviate-v21
 LangChain v21.0,LangChain,"LangChain, Inc.",ent_startup_langchain,FREEMIUM,LLM Framework,https://aixploria.com/product/langchain-v21
 LlamaIndex v21.0,LlamaIndex,LlamaIndex Inc.,ent_startup_llamaindex,FREEMIUM,RAG Framework,https://aixploria.com/product/llamaindex-v21
-CrewAI v21.0,,CrewAI Inc.,,FREEMIUM,AI Agents,https://aixploria.com/product/crewai-v21
-Ollama v21.0,,Ollama Inc.,,FREEMIUM,Local LLM,https://aixploria.com/product/ollama-v21
+CrewAI v21.0,CrewAI,CrewAI Inc.,ent_startup_crewai,FREEMIUM,AI Agents,https://aixploria.com/product/crewai-v21
+Ollama v21.0,Ollama,Ollama Inc.,ent_startup_ollama,FREEMIUM,Local LLM,https://aixploria.com/product/ollama-v21
 Hugging Face Hub v21.0,Hugging Face,"Hugging Face, Inc.",ent_startup_hugging_face,FREEMIUM,Model Hub,https://aixploria.com/product/huggingface-v21
-Unresolved Tool A v21.0,,Niche Studio 101,,FREE,Utility,https://aixploria.com/product/unresolved-a-v21
-Unresolved Tool B v21.0,,Niche Studio 102,,FREE,Utility,https://aixploria.com/product/unresolved-b-v21
+Unresolved Niche Tool 101 v21.0,,Niche Studio 101,,FREE,Utility,https://aixploria.com/product/unresolved-a-v21
+Unresolved Niche Tool 102 v21.0,,Niche Studio 102,,FREE,Utility,https://aixploria.com/product/unresolved-b-v21
 ChatGPT v22.0,OpenAI,OpenAI Inc.,ent_startup_openai,FREEMIUM,Conversational AI,https://aixploria.com/product/chatgpt-v22
 Claude 3.5 Sonnet v22.0,Anthropic,Anthropic PBC,ent_startup_anthropic,FREEMIUM,AI Assistant,https://aixploria.com/product/claude-3-5-sonnet-v22
 Midjourney v6 v22.0,Midjourney,Midjourney Inc.,ent_startup_midjourney,PAID,Image Generation,https://aixploria.com/product/midjourney-v6-v22
-GitHub Copilot v22.0,,Microsoft Corporation,,PAID,Developer Tools,https://aixploria.com/product/github-copilot-v22
+GitHub Copilot v22.0,Microsoft,Microsoft Corporation,ent_startup_microsoft,PAID,Developer Tools,https://aixploria.com/product/github-copilot-v22
 Perplexity Pro v22.0,Perplexity,Perplexity AI Inc.,ent_startup_perplexity,FREEMIUM,Search & Research,https://aixploria.com/product/perplexity-pro-v22
-Gemini Advanced v22.0,,Google LLC,,FREEMIUM,Conversational AI,https://aixploria.com/product/gemini-advanced-v22
+Gemini Advanced v22.0,Google,Google LLC,ent_startup_google,FREEMIUM,Conversational AI,https://aixploria.com/product/gemini-advanced-v22
 Stable Diffusion 3 v22.0,Stability AI,Stability AI Ltd.,ent_startup_stability,FREEMIUM,Image Generation,https://aixploria.com/product/stable-diffusion-3-v22
 ElevenLabs Reader v22.0,ElevenLabs,ElevenLabs Inc.,ent_startup_elevenlabs,FREEMIUM,Voice & Audio,https://aixploria.com/product/elevenlabs-reader-v22
 Runway Gen-3 Alpha v22.0,Runway,"Runway AI, Inc.",ent_startup_runway,FREEMIUM,Video Generation,https://aixploria.com/product/runway-gen-3-v22
 Sora v22.0,OpenAI,OpenAI Inc.,ent_startup_openai,FREEMIUM,Video Generation,https://aixploria.com/product/sora-v22
-Llama 3.1 405B v22.0,,"Meta Platforms, Inc.",,FREEMIUM,LLM Foundation,https://aixploria.com/product/llama-3-1-405b-v22
-DeepSeek V3 v22.0,,DeepSeek Inc.,,FREEMIUM,LLM Foundation,https://aixploria.com/product/deepseek-v3-v22
+Llama 3.1 405B v22.0,Meta,"Meta Platforms, Inc.",ent_startup_meta,FREEMIUM,LLM Foundation,https://aixploria.com/product/llama-3-1-405b-v22
+DeepSeek V3 v22.0,DeepSeek,DeepSeek Inc.,ent_startup_deepseek,FREEMIUM,LLM Foundation,https://aixploria.com/product/deepseek-v3-v22
 Mistral Large 2 v22.0,Mistral AI,Mistral AI SAS,ent_startup_mistral,FREEMIUM,LLM Foundation,https://aixploria.com/product/mistral-large-2-v22
-Qwen 2.5 v22.0,,Alibaba Cloud Computing Ltd.,,FREEMIUM,LLM Foundation,https://aixploria.com/product/qwen-2-5-v22
-Pika 1.0 v22.0,,"Pika Labs, Inc.",,FREEMIUM,Video Generation,https://aixploria.com/product/pika-1-0-v22
-Suno v3.5 v22.0,,Suno AI Inc.,,FREEMIUM,Music Generation,https://aixploria.com/product/suno-v3-5-v22
-Udio v1.5 v22.0,,"Uncharted Labs, Inc. (Udio)",,FREEMIUM,Music Generation,https://aixploria.com/product/udio-v1-5-v22
-Kling AI v22.0,,Kuaishou Technology Ltd.,,FREEMIUM,Video Generation,https://aixploria.com/product/kling-ai-v22
-Flux.1 v22.0,,Black Forest Labs GmbH,,FREEMIUM,Image Generation,https://aixploria.com/product/flux-1-v22
-Ideogram 2.0 v22.0,,Ideogram AI Inc.,,FREEMIUM,Image Generation,https://aixploria.com/product/ideogram-2-0-v22
-Luma Dream Machine v22.0,,Luma AI Inc.,,FREEMIUM,3D & Video,https://aixploria.com/product/luma-dream-machine-v22
+Qwen 2.5 v22.0,Alibaba Cloud,Alibaba Cloud Computing Ltd.,ent_startup_alibaba_cloud,FREEMIUM,LLM Foundation,https://aixploria.com/product/qwen-2-5-v22
+Pika 1.0 v22.0,Pika Labs,"Pika Labs, Inc.",ent_startup_pika,FREEMIUM,Video Generation,https://aixploria.com/product/pika-1-0-v22
+Suno v3.5 v22.0,Suno AI,Suno AI Inc.,ent_startup_suno,FREEMIUM,Music Generation,https://aixploria.com/product/suno-v3-5-v22
+Udio v1.5 v22.0,Udio,"Uncharted Labs, Inc. (Udio)",ent_startup_udio,FREEMIUM,Music Generation,https://aixploria.com/product/udio-v1-5-v22
+Kling AI v22.0,Kuaishou,Kuaishou Technology Ltd.,ent_startup_kuaishou,FREEMIUM,Video Generation,https://aixploria.com/product/kling-ai-v22
+Flux.1 v22.0,Black Forest Labs,Black Forest Labs GmbH,ent_startup_black_forest,FREEMIUM,Image Generation,https://aixploria.com/product/flux-1-v22
+Ideogram 2.0 v22.0,Ideogram,Ideogram AI Inc.,ent_startup_ideogram,FREEMIUM,Image Generation,https://aixploria.com/product/ideogram-2-0-v22
+Luma Dream Machine v22.0,Luma AI,Luma AI Inc.,ent_startup_luma,FREEMIUM,3D & Video,https://aixploria.com/product/luma-dream-machine-v22
 Jasper AI v22.0,Jasper,Jasper AI Inc.,ent_startup_jasper,PAID,Marketing AI,https://aixploria.com/product/jasper-ai-v22
 Copy.ai v22.0,Copy.ai,Copy.ai Inc.,ent_startup_copy,FREEMIUM,Copywriting,https://aixploria.com/product/copy-ai-v22
 Descript v22.0,Descript,Descript Inc.,ent_startup_descript,FREEMIUM,Audio & Video,https://aixploria.com/product/descript-v22
-HeyGen v22.0,,HeyGen Inc.,,FREEMIUM,AI Avatars,https://aixploria.com/product/heygen-v22
+HeyGen v22.0,HeyGen,HeyGen Inc.,ent_startup_heygen,FREEMIUM,AI Avatars,https://aixploria.com/product/heygen-v22
 Synthesia v22.0,Synthesia,Synthesia Ltd.,ent_startup_synthesia,PAID,AI Avatars,https://aixploria.com/product/synthesia-v22
-Cursor IDE v22.0,,Anysphere Inc. (Cursor),,FREEMIUM,Developer Tools,https://aixploria.com/product/cursor-ide-v22
+Cursor IDE v22.0,Anysphere,Anysphere Inc. (Cursor),ent_startup_anysphere,FREEMIUM,Developer Tools,https://aixploria.com/product/cursor-ide-v22
 Replit Agent v22.0,Replit,Replit Inc.,ent_startup_replit,FREEMIUM,Developer Tools,https://aixploria.com/product/replit-agent-v22
-v0 by Vercel v22.0,,Vercel Inc.,,FREEMIUM,UI Code Gen,https://aixploria.com/product/v0-vercel-v22
-Bolt.new v22.0,,StackBlitz Inc.,,FREEMIUM,Web Dev AI,https://aixploria.com/product/bolt-new-v22
-Devin v22.0,,Cognition AI Inc.,,PAID,AI Software Engineer,https://aixploria.com/product/devin-v22
+v0 by Vercel v22.0,Vercel,Vercel Inc.,ent_startup_vercel,FREEMIUM,UI Code Gen,https://aixploria.com/product/v0-vercel-v22
+Bolt.new v22.0,StackBlitz,StackBlitz Inc.,ent_startup_stackblitz,FREEMIUM,Web Dev AI,https://aixploria.com/product/bolt-new-v22
+Devin v22.0,Cognition,Cognition AI Inc.,ent_startup_cognition,PAID,AI Software Engineer,https://aixploria.com/product/devin-v22
 Harvey AI v22.0,Harvey,Harvey AI Inc.,ent_startup_harvey,ENTERPRISE,Legal AI,https://aixploria.com/product/harvey-ai-v22
 Pinecone Vector DB v22.0,Pinecone,"Pinecone Systems, Inc.",ent_startup_pinecone,FREEMIUM,Infrastructure,https://aixploria.com/product/pinecone-v22
-Qdrant v22.0,,Qdrant Solutions GmbH,,FREEMIUM,Infrastructure,https://aixploria.com/product/qdrant-v22
-Milvus v22.0,,Zilliz Inc.,,FREEMIUM,Infrastructure,https://aixploria.com/product/milvus-v22
-Chroma DB v22.0,,Chroma Inc.,,FREEMIUM,Infrastructure,https://aixploria.com/product/chroma-db-v22
+Qdrant v22.0,Qdrant,Qdrant Solutions GmbH,ent_startup_qdrant,FREEMIUM,Infrastructure,https://aixploria.com/product/qdrant-v22
+Milvus v22.0,Zilliz,Zilliz Inc.,ent_startup_zilliz,FREEMIUM,Infrastructure,https://aixploria.com/product/milvus-v22
+Chroma DB v22.0,Chroma,Chroma Inc.,ent_startup_chroma,FREEMIUM,Infrastructure,https://aixploria.com/product/chroma-db-v22
 Weaviate v22.0,Weaviate,Weaviate B.V.,ent_startup_weaviate,FREEMIUM,Infrastructure,https://aixploria.com/product/weaviate-v22
 LangChain v22.0,LangChain,"LangChain, Inc.",ent_startup_langchain,FREEMIUM,LLM Framework,https://aixploria.com/product/langchain-v22
 LlamaIndex v22.0,LlamaIndex,LlamaIndex Inc.,ent_startup_llamaindex,FREEMIUM,RAG Framework,https://aixploria.com/product/llamaindex-v22
-CrewAI v22.0,,CrewAI Inc.,,FREEMIUM,AI Agents,https://aixploria.com/product/crewai-v22
-Ollama v22.0,,Ollama Inc.,,FREEMIUM,Local LLM,https://aixploria.com/product/ollama-v22
+CrewAI v22.0,CrewAI,CrewAI Inc.,ent_startup_crewai,FREEMIUM,AI Agents,https://aixploria.com/product/crewai-v22
+Ollama v22.0,Ollama,Ollama Inc.,ent_startup_ollama,FREEMIUM,Local LLM,https://aixploria.com/product/ollama-v22
 Hugging Face Hub v22.0,Hugging Face,"Hugging Face, Inc.",ent_startup_hugging_face,FREEMIUM,Model Hub,https://aixploria.com/product/huggingface-v22
-Unresolved Tool A v22.0,,Niche Studio 101,,FREE,Utility,https://aixploria.com/product/unresolved-a-v22
-Unresolved Tool B v22.0,,Niche Studio 102,,FREE,Utility,https://aixploria.com/product/unresolved-b-v22
+Unresolved Niche Tool 101 v22.0,,Niche Studio 101,,FREE,Utility,https://aixploria.com/product/unresolved-a-v22
+Unresolved Niche Tool 102 v22.0,,Niche Studio 102,,FREE,Utility,https://aixploria.com/product/unresolved-b-v22
 ChatGPT v23.0,OpenAI,OpenAI Inc.,ent_startup_openai,FREEMIUM,Conversational AI,https://aixploria.com/product/chatgpt-v23
 Claude 3.5 Sonnet v23.0,Anthropic,Anthropic PBC,ent_startup_anthropic,FREEMIUM,AI Assistant,https://aixploria.com/product/claude-3-5-sonnet-v23
 Midjourney v6 v23.0,Midjourney,Midjourney Inc.,ent_startup_midjourney,PAID,Image Generation,https://aixploria.com/product/midjourney-v6-v23
-GitHub Copilot v23.0,,Microsoft Corporation,,PAID,Developer Tools,https://aixploria.com/product/github-copilot-v23
+GitHub Copilot v23.0,Microsoft,Microsoft Corporation,ent_startup_microsoft,PAID,Developer Tools,https://aixploria.com/product/github-copilot-v23
 Perplexity Pro v23.0,Perplexity,Perplexity AI Inc.,ent_startup_perplexity,FREEMIUM,Search & Research,https://aixploria.com/product/perplexity-pro-v23
-Gemini Advanced v23.0,,Google LLC,,FREEMIUM,Conversational AI,https://aixploria.com/product/gemini-advanced-v23
+Gemini Advanced v23.0,Google,Google LLC,ent_startup_google,FREEMIUM,Conversational AI,https://aixploria.com/product/gemini-advanced-v23
 Stable Diffusion 3 v23.0,Stability AI,Stability AI Ltd.,ent_startup_stability,FREEMIUM,Image Generation,https://aixploria.com/product/stable-diffusion-3-v23
 ElevenLabs Reader v23.0,ElevenLabs,ElevenLabs Inc.,ent_startup_elevenlabs,FREEMIUM,Voice & Audio,https://aixploria.com/product/elevenlabs-reader-v23
 Runway Gen-3 Alpha v23.0,Runway,"Runway AI, Inc.",ent_startup_runway,FREEMIUM,Video Generation,https://aixploria.com/product/runway-gen-3-v23
 Sora v23.0,OpenAI,OpenAI Inc.,ent_startup_openai,FREEMIUM,Video Generation,https://aixploria.com/product/sora-v23
-Llama 3.1 405B v23.0,,"Meta Platforms, Inc.",,FREEMIUM,LLM Foundation,https://aixploria.com/product/llama-3-1-405b-v23
-DeepSeek V3 v23.0,,DeepSeek Inc.,,FREEMIUM,LLM Foundation,https://aixploria.com/product/deepseek-v3-v23
+Llama 3.1 405B v23.0,Meta,"Meta Platforms, Inc.",ent_startup_meta,FREEMIUM,LLM Foundation,https://aixploria.com/product/llama-3-1-405b-v23
+DeepSeek V3 v23.0,DeepSeek,DeepSeek Inc.,ent_startup_deepseek,FREEMIUM,LLM Foundation,https://aixploria.com/product/deepseek-v3-v23
 Mistral Large 2 v23.0,Mistral AI,Mistral AI SAS,ent_startup_mistral,FREEMIUM,LLM Foundation,https://aixploria.com/product/mistral-large-2-v23
-Qwen 2.5 v23.0,,Alibaba Cloud Computing Ltd.,,FREEMIUM,LLM Foundation,https://aixploria.com/product/qwen-2-5-v23
-Pika 1.0 v23.0,,"Pika Labs, Inc.",,FREEMIUM,Video Generation,https://aixploria.com/product/pika-1-0-v23
-Suno v3.5 v23.0,,Suno AI Inc.,,FREEMIUM,Music Generation,https://aixploria.com/product/suno-v3-5-v23
-Udio v1.5 v23.0,,"Uncharted Labs, Inc. (Udio)",,FREEMIUM,Music Generation,https://aixploria.com/product/udio-v1-5-v23
-Kling AI v23.0,,Kuaishou Technology Ltd.,,FREEMIUM,Video Generation,https://aixploria.com/product/kling-ai-v23
-Flux.1 v23.0,,Black Forest Labs GmbH,,FREEMIUM,Image Generation,https://aixploria.com/product/flux-1-v23
-Ideogram 2.0 v23.0,,Ideogram AI Inc.,,FREEMIUM,Image Generation,https://aixploria.com/product/ideogram-2-0-v23
-Luma Dream Machine v23.0,,Luma AI Inc.,,FREEMIUM,3D & Video,https://aixploria.com/product/luma-dream-machine-v23
+Qwen 2.5 v23.0,Alibaba Cloud,Alibaba Cloud Computing Ltd.,ent_startup_alibaba_cloud,FREEMIUM,LLM Foundation,https://aixploria.com/product/qwen-2-5-v23
+Pika 1.0 v23.0,Pika Labs,"Pika Labs, Inc.",ent_startup_pika,FREEMIUM,Video Generation,https://aixploria.com/product/pika-1-0-v23
+Suno v3.5 v23.0,Suno AI,Suno AI Inc.,ent_startup_suno,FREEMIUM,Music Generation,https://aixploria.com/product/suno-v3-5-v23
+Udio v1.5 v23.0,Udio,"Uncharted Labs, Inc. (Udio)",ent_startup_udio,FREEMIUM,Music Generation,https://aixploria.com/product/udio-v1-5-v23
+Kling AI v23.0,Kuaishou,Kuaishou Technology Ltd.,ent_startup_kuaishou,FREEMIUM,Video Generation,https://aixploria.com/product/kling-ai-v23
+Flux.1 v23.0,Black Forest Labs,Black Forest Labs GmbH,ent_startup_black_forest,FREEMIUM,Image Generation,https://aixploria.com/product/flux-1-v23
+Ideogram 2.0 v23.0,Ideogram,Ideogram AI Inc.,ent_startup_ideogram,FREEMIUM,Image Generation,https://aixploria.com/product/ideogram-2-0-v23
+Luma Dream Machine v23.0,Luma AI,Luma AI Inc.,ent_startup_luma,FREEMIUM,3D & Video,https://aixploria.com/product/luma-dream-machine-v23
 Jasper AI v23.0,Jasper,Jasper AI Inc.,ent_startup_jasper,PAID,Marketing AI,https://aixploria.com/product/jasper-ai-v23
 Copy.ai v23.0,Copy.ai,Copy.ai Inc.,ent_startup_copy,FREEMIUM,Copywriting,https://aixploria.com/product/copy-ai-v23
 Descript v23.0,Descript,Descript Inc.,ent_startup_descript,FREEMIUM,Audio & Video,https://aixploria.com/product/descript-v23
-HeyGen v23.0,,HeyGen Inc.,,FREEMIUM,AI Avatars,https://aixploria.com/product/heygen-v23
+HeyGen v23.0,HeyGen,HeyGen Inc.,ent_startup_heygen,FREEMIUM,AI Avatars,https://aixploria.com/product/heygen-v23
 Synthesia v23.0,Synthesia,Synthesia Ltd.,ent_startup_synthesia,PAID,AI Avatars,https://aixploria.com/product/synthesia-v23
-Cursor IDE v23.0,,Anysphere Inc. (Cursor),,FREEMIUM,Developer Tools,https://aixploria.com/product/cursor-ide-v23
+Cursor IDE v23.0,Anysphere,Anysphere Inc. (Cursor),ent_startup_anysphere,FREEMIUM,Developer Tools,https://aixploria.com/product/cursor-ide-v23
 Replit Agent v23.0,Replit,Replit Inc.,ent_startup_replit,FREEMIUM,Developer Tools,https://aixploria.com/product/replit-agent-v23
-v0 by Vercel v23.0,,Vercel Inc.,,FREEMIUM,UI Code Gen,https://aixploria.com/product/v0-vercel-v23
-Bolt.new v23.0,,StackBlitz Inc.,,FREEMIUM,Web Dev AI,https://aixploria.com/product/bolt-new-v23
-Devin v23.0,,Cognition AI Inc.,,PAID,AI Software Engineer,https://aixploria.com/product/devin-v23
+v0 by Vercel v23.0,Vercel,Vercel Inc.,ent_startup_vercel,FREEMIUM,UI Code Gen,https://aixploria.com/product/v0-vercel-v23
+Bolt.new v23.0,StackBlitz,StackBlitz Inc.,ent_startup_stackblitz,FREEMIUM,Web Dev AI,https://aixploria.com/product/bolt-new-v23
+Devin v23.0,Cognition,Cognition AI Inc.,ent_startup_cognition,PAID,AI Software Engineer,https://aixploria.com/product/devin-v23
 Harvey AI v23.0,Harvey,Harvey AI Inc.,ent_startup_harvey,ENTERPRISE,Legal AI,https://aixploria.com/product/harvey-ai-v23
