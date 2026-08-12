@@ -54,3 +54,9 @@ strict = true
 warn_return_any = true
 warn_unused_configs = true
 
+[tool.pyright]
+venvPath = "."
+venv = ".venv"
+extraPaths = ["src"]
+
+
