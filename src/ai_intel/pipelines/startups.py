@@ -151,10 +151,12 @@ class StartupPipeline:
             employee_count = enrichment.employee_count
             employee_count_raw = enrichment.employee_count_raw
 
-        # Format employeeCountRaw as verbatim source range string without 'employees' suffix
+        # Format employeeCountRaw as verbatim range string or single integer if exact
         if employee_count_raw is None or employee_count_raw.isdigit() or employee_count_raw == str(employee_count):
             if employee_count is None:
                 employee_count_raw = "Unknown"
+            elif employee_count <= 2:
+                employee_count_raw = str(employee_count)
             elif employee_count <= 10:
                 employee_count_raw = "1-10"
             elif employee_count <= 50:
