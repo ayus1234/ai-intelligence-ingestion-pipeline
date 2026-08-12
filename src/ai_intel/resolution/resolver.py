@@ -298,5 +298,5 @@ class EntityResolver:
     @staticmethod
     def _score(left: str, right: str) -> float:
         if fuzz is not None:
-            return float(fuzz.ratio(left, right)) / 100.0
+            return fuzz.ratio(left, right) / 100.0
         return SequenceMatcher(None, left, right).ratio()
