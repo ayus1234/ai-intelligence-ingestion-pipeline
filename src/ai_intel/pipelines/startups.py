@@ -151,22 +151,22 @@ class StartupPipeline:
             employee_count = enrichment.employee_count
             employee_count_raw = enrichment.employee_count_raw
 
-        # Format employeeCountRaw as verbatim source range/text string if missing or numeric
+        # Format employeeCountRaw as verbatim source range string without 'employees' suffix
         if employee_count_raw is None or employee_count_raw.isdigit() or employee_count_raw == str(employee_count):
             if employee_count is None:
                 employee_count_raw = "Unknown"
             elif employee_count <= 10:
-                employee_count_raw = "1-10 employees"
+                employee_count_raw = "1-10"
             elif employee_count <= 50:
-                employee_count_raw = "11-50 employees"
+                employee_count_raw = "11-50"
             elif employee_count <= 200:
-                employee_count_raw = "51-200 employees"
+                employee_count_raw = "51-200"
             elif employee_count <= 500:
-                employee_count_raw = "201-500 employees"
+                employee_count_raw = "201-500"
             elif employee_count <= 1000:
-                employee_count_raw = "501-1000 employees"
+                employee_count_raw = "501-1000"
             else:
-                employee_count_raw = "1000+ employees"
+                employee_count_raw = "1000+"
 
         record = StartupRecord(
             source=SourceRef(name=candidate.source_name, url=candidate.source_url),
