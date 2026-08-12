@@ -1,0 +1,18 @@
+{
+  "run_id": "run-all-100percent-real",
+  "exported_at": "2026-08-12T10:04:23.653605+00:00",
+  "destination_directory": "exports\\final_submission_clean",
+  "row_counts": {
+    "Startups": 1000,
+    "Products": 1000,
+    "Research Papers": 1000,
+    "AI News": 28,
+    "AI Jobs": 15,
+    "Entity Mapping Log": 2015
+  },
+  "quality_report": {
+    "duplicate_natural_keys": 0,
+    "freshness_violations": 0,
+    "status": "STRICT_SUCCESS"
+  }
+}

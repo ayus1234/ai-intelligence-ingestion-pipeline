@@ -1,0 +1,1001 @@
+Raw Name,Canonical Name,Canonical ID,Entity Type,Resolution Tier,Confidence Score,Signals Evaluated,Method
+CircuitHub,CircuitHub,ent_startup_circuithub,startup,unresolved,0.0,signal:domain(circuithub.com); signal:unresolved,unresolved
+iCracked,iCracked,ent_startup_icracked,startup,unresolved,0.0,signal:domain(icracked.com); signal:unresolved,unresolved
+42Floors,42Floors,ent_startup_42floors,startup,unresolved,0.0,signal:domain(42floors.com); signal:unresolved,unresolved
+PlanGrid,PlanGrid,ent_startup_plangrid,startup,unresolved,0.0,signal:domain(plangrid.com); signal:unresolved,unresolved
+WireOver,WireOver,ent_startup_wireover,startup,unresolved,0.0,signal:domain(wireover.com); signal:unresolved,unresolved
+The Muse,The Muse,ent_startup_the_muse,startup,unresolved,0.0,signal:domain(themuse.com); signal:unresolved,unresolved
+SendHub,SendHub,ent_startup_sendhub,startup,unresolved,0.0,signal:domain(sendhub.com); signal:unresolved,unresolved
+Hipmob,Hipmob,ent_startup_hipmob,startup,unresolved,0.0,signal:domain(hipmob.com); signal:unresolved,unresolved
+MyVR,MyVR,ent_startup_myvr,startup,unresolved,0.0,signal:domain(myvr.com); signal:unresolved,unresolved
+HireArt,HireArt,ent_startup_hireart,startup,unresolved,0.0,signal:domain(hireart.com); signal:unresolved,unresolved
+Amiato,Amiato,ent_startup_amiato,startup,unresolved,0.0,signal:domain(noudata.com); signal:unresolved,unresolved
+Medigram,Medigram,ent_startup_medigram,startup,unresolved,0.0,signal:domain(medigram.com); signal:unresolved,unresolved
+Couple,Couple,ent_startup_couple,startup,unresolved,0.0,signal:domain(couple.me); signal:unresolved,unresolved
+HackPad,HackPad,ent_startup_hackpad,startup,unresolved,0.0,signal:domain(hackpad.com); signal:unresolved,unresolved
+Rescale,Rescale,ent_startup_rescale,startup,unresolved,0.0,signal:domain(rescale.com); signal:unresolved,unresolved
+SlidePay,SlidePay,ent_startup_slidepay,startup,unresolved,0.0,signal:domain(angel.co); signal:unresolved,unresolved
+Tap to Learn,Tap to Learn,ent_startup_tap_to_learn,startup,unresolved,0.0,signal:domain(taptolearn.com); signal:unresolved,unresolved
+Optilly/Installmonetizer,Optilly/Installmonetizer,ent_startup_optilly_installmonetizer,startup,unresolved,0.0,signal:domain(optilly.com); signal:unresolved,unresolved
+BookSolid,BookSolid,ent_startup_booksolid,startup,unresolved,0.0,signal:domain(booksolid.com); signal:unresolved,unresolved
+Gusto,Gusto,ent_startup_gusto,startup,unresolved,0.0,signal:domain(gusto.com); signal:unresolved,unresolved
+FamilyLeaf,FamilyLeaf,ent_startup_familyleaf,startup,unresolved,0.0,signal:domain(familyleaf.com); signal:unresolved,unresolved
+Marft,Marft,ent_startup_marft,startup,unresolved,0.0,signal:domain(marft.com); signal:unresolved,unresolved
+Minefold,Minefold,ent_startup_minefold,startup,unresolved,0.0,signal:domain(minefold.com); signal:unresolved,unresolved
+Zipio,Zipio,ent_startup_zipio,startup,unresolved,0.0,signal:domain(dealupa.com); signal:unresolved,unresolved
+Chute,Chute,ent_startup_chute,startup,unresolved,0.0,signal:domain(getchute.com); signal:unresolved,unresolved
+Matterport,Matterport,ent_startup_matterport,startup,unresolved,0.0,signal:domain(matterport.com); signal:unresolved,unresolved
+Shoptiques,Shoptiques,ent_startup_shoptiques,startup,unresolved,0.0,signal:domain(shoptiques.com); signal:unresolved,unresolved
+CleverDeck,CleverDeck,ent_startup_cleverdeck,startup,unresolved,0.0,signal:domain(cleverdeck.com); signal:unresolved,unresolved
+Make School,Make School,ent_startup_make_school,startup,unresolved,0.0,signal:domain(makeschool.com); signal:unresolved,unresolved
+Pixelapse,Pixelapse,ent_startup_pixelapse,startup,unresolved,0.0,signal:domain(pixelapse.com); signal:unresolved,unresolved
+Screenleap,Screenleap,ent_startup_screenleap,startup,unresolved,0.0,signal:domain(screenleap.com); signal:unresolved,unresolved
+Talkray (TiKL),Talkray (TiKL),ent_startup_talkray_tikl,startup,unresolved,0.0,signal:domain(talkray.com); signal:unresolved,unresolved
+Zillabyte,Zillabyte,ent_startup_zillabyte,startup,unresolved,0.0,signal:domain(zillabyte.com); signal:unresolved,unresolved
+Exec,Exec,ent_startup_exec,startup,unresolved,0.0,signal:domain(iamexec.com); signal:unresolved,unresolved
+Grouper,Grouper,ent_startup_grouper,startup,unresolved,0.0,signal:domain(joingrouper.com); signal:unresolved,unresolved
+Amplitude,Amplitude,ent_startup_amplitude,startup,unresolved,0.0,signal:domain(amplitude.com); signal:unresolved,unresolved
+LendUp,LendUp,ent_startup_lendup,startup,unresolved,0.0,signal:domain(lendup.com); signal:unresolved,unresolved
+Tilt,Tilt,ent_startup_tilt,startup,unresolved,0.0,signal:domain(tilt.com); signal:unresolved,unresolved
+Brace,Brace,ent_startup_brace,startup,unresolved,0.0,signal:domain(brace.io); signal:unresolved,unresolved
+Swiftype,Swiftype,ent_startup_swiftype,startup,unresolved,0.0,signal:domain(swiftype.com); signal:unresolved,unresolved
+LVL6,LVL6,ent_startup_lvl6,startup,unresolved,0.0,signal:domain(lvl6.com); signal:unresolved,unresolved
+BarSense,BarSense,ent_startup_barsense,startup,unresolved,0.0,signal:domain(kytephone.com); signal:unresolved,unresolved
+FarmLogs,FarmLogs,ent_startup_farmlogs,startup,unresolved,0.0,signal:domain(farmlogs.com); signal:unresolved,unresolved
+99dresses,99dresses,ent_startup_99dresses,startup,unresolved,0.0,signal:domain(99dresses.com); signal:unresolved,unresolved
+Authy,Authy,ent_startup_authy,startup,unresolved,0.0,signal:domain(authy.com); signal:unresolved,unresolved
+Flutter,Flutter,ent_startup_flutter,startup,unresolved,0.0,signal:domain(flutterapp.com); signal:unresolved,unresolved
+Fond,Fond,ent_startup_fond,startup,unresolved,0.0,signal:domain(fond.co); signal:unresolved,unresolved
+Per Vices,Per Vices,ent_startup_per_vices,startup,unresolved,0.0,signal:domain(pervices.com); signal:unresolved,unresolved
+Loom,Loom,ent_startup_loom,startup,unresolved,0.0,signal:domain(loom.com); signal:unresolved,unresolved
+Documents.Me,Documents.Me,ent_startup_documents_me,startup,unresolved,0.0,signal:domain(documents.me); signal:unresolved,unresolved
+Ark,Ark,ent_startup_ark,startup,unresolved,0.0,signal:domain(ark.com); signal:unresolved,unresolved
+SolidStage,SolidStage,ent_startup_solidstage,startup,unresolved,0.0,signal:domain(solidstage.com); signal:unresolved,unresolved
+YourMechanic,YourMechanic,ent_startup_yourmechanic,startup,unresolved,0.0,signal:domain(yourmechanic.com); signal:unresolved,unresolved
+Priceonomics,Priceonomics,ent_startup_priceonomics,startup,unresolved,0.0,signal:domain(priceonomics.com); signal:unresolved,unresolved
+Sendwave,Sendwave,ent_startup_sendwave,startup,unresolved,0.0,signal:domain(sendwave.com); signal:unresolved,unresolved
+Glider,Glider,ent_startup_glider,startup,unresolved,0.0,signal:domain(glider.io); signal:unresolved,unresolved
+Medmonk,Medmonk,ent_startup_medmonk,startup,unresolved,0.0,signal:domain(medmonk.com); signal:unresolved,unresolved
+Carsabi,Carsabi,ent_startup_carsabi,startup,unresolved,0.0,signal:domain(carsabi.com); signal:unresolved,unresolved
+Y Combinator,Y Combinator,ent_startup_y_combinator,startup,unresolved,0.0,signal:domain(ycombinator.com); signal:unresolved,unresolved
+Socialcam,Socialcam,ent_startup_socialcam,startup,unresolved,0.0,signal:domain(socialcam.com); signal:unresolved,unresolved
+GiveSpark,GiveSpark,ent_startup_givespark,startup,unresolved,0.0,signal:domain(givespark.com); signal:unresolved,unresolved
+Shopular,Shopular,ent_startup_shopular,startup,unresolved,0.0,signal:domain(shopular.com); signal:unresolved,unresolved
+Picplum,Picplum,ent_startup_picplum,startup,unresolved,0.0,signal:domain(picplum.com); signal:unresolved,unresolved
+Freshplum,Freshplum,ent_startup_freshplum,startup,unresolved,0.0,signal:domain(freshplum.com); signal:unresolved,unresolved
+Clutch,Clutch,ent_startup_clutch,startup,unresolved,0.0,signal:domain(clutch.io); signal:unresolved,unresolved
+Apollo,Apollo,ent_startup_apollo,startup,unresolved,0.0,signal:domain(apollographql.com); signal:unresolved,unresolved
+HackerRank,HackerRank,ent_startup_hackerrank,startup,unresolved,0.0,signal:domain(hackerrank.com); signal:unresolved,unresolved
+Stypi,Stypi,ent_startup_stypi,startup,unresolved,0.0,signal:domain(stypi.com); signal:unresolved,unresolved
+Genius,Genius,ent_startup_genius,startup,unresolved,0.0,signal:domain(genius.com); signal:unresolved,unresolved
+OneSignal,OneSignal,ent_startup_onesignal,startup,unresolved,0.0,signal:domain(onesignal.com); signal:unresolved,unresolved
+Zigfu,Zigfu,ent_startup_zigfu,startup,unresolved,0.0,signal:domain(breaks.nu); signal:unresolved,unresolved
+PayDragon,PayDragon,ent_startup_paydragon,startup,unresolved,0.0,signal:domain(paperlinks.com); signal:unresolved,unresolved
+Aisle50,Aisle50,ent_startup_aisle50,startup,unresolved,0.0,signal:domain(aisle50.com); signal:unresolved,unresolved
+Debteye,Debteye,ent_startup_debteye,startup,unresolved,0.0,signal:domain(debteye.com); signal:unresolved,unresolved
+Proxino,Proxino,ent_startup_proxino,startup,unresolved,0.0,signal:domain(proxino.com); signal:unresolved,unresolved
+Streak,Streak,ent_startup_streak,startup,unresolved,0.0,signal:domain(streak.com); signal:unresolved,unresolved
+Science Exchange,Science Exchange,ent_startup_science_exchange,startup,unresolved,0.0,signal:domain(scienceexchange.com); signal:unresolved,unresolved
+PhoneSys,PhoneSys,ent_startup_phonesys,startup,unresolved,0.0,signal:domain(pingm.net); signal:unresolved,unresolved
+Quartzy,Quartzy,ent_startup_quartzy,startup,unresolved,0.0,signal:domain(quartzy.com); signal:unresolved,unresolved
+Codecademy,Codecademy,ent_startup_codecademy,startup,unresolved,0.0,signal:domain(codecademy.com); signal:unresolved,unresolved
+Cryptoseal,Cryptoseal,ent_startup_cryptoseal,startup,unresolved,0.0,signal:domain(cryptoseal.com); signal:unresolved,unresolved
+Segment,Segment,ent_startup_segment,startup,unresolved,0.0,signal:domain(segment.com); signal:unresolved,unresolved
+Citus Data,Citus Data,ent_startup_citus_data,startup,unresolved,0.0,signal:domain(citusdata.com); signal:unresolved,unresolved
+AgileMD,AgileMD,ent_startup_agilemd,startup,unresolved,0.0,signal:domain(agilemd.com); signal:unresolved,unresolved
+Clerky,Clerky,ent_startup_clerky,startup,unresolved,0.0,signal:domain(clerky.com); signal:unresolved,unresolved
+Quad,Quad,ent_startup_quad,startup,unresolved,0.0,signal:domain(thequad.com); signal:unresolved,unresolved
+Dubjoy,Dubjoy,ent_startup_dubjoy,startup,unresolved,0.0,signal:domain(dubjoy.com); signal:unresolved,unresolved
+Zenbox,Zenbox,ent_startup_zenbox,startup,unresolved,0.0,signal:domain(zenboxapp.com); signal:unresolved,unresolved
+Realm,Realm,ent_startup_realm,startup,unresolved,0.0,signal:domain(realm.io); signal:unresolved,unresolved
+Firebase,Firebase,ent_startup_firebase,startup,unresolved,0.0,signal:domain(firebase.com); signal:unresolved,unresolved
+GoCardless,GoCardless,ent_startup_gocardless,startup,unresolved,0.0,signal:domain(gocardless.com); signal:unresolved,unresolved
+Pagelever,Pagelever,ent_startup_pagelever,startup,unresolved,0.0,signal:domain(pagelever.com); signal:unresolved,unresolved
+MarketBrief,MarketBrief,ent_startup_marketbrief,startup,unresolved,0.0,signal:domain(marketbrief.com); signal:unresolved,unresolved
+Fobo,Fobo,ent_startup_fobo,startup,unresolved,0.0,signal:domain(fobo.net); signal:unresolved,unresolved
+Sift,Sift,ent_startup_sift,startup,unresolved,0.0,signal:domain(sift.com); signal:unresolved,unresolved
+Verbling,Verbling,ent_startup_verbling,startup,unresolved,0.0,signal:domain(verbling.com); signal:unresolved,unresolved
+Embark,Embark,ent_startup_embark,startup,unresolved,0.0,signal:domain(letsembark.com); signal:unresolved,unresolved
+LeadGenius,LeadGenius,ent_startup_leadgenius,startup,unresolved,0.0,signal:domain(leadgenius.com); signal:unresolved,unresolved
+Caviar,Caviar,ent_startup_caviar,startup,unresolved,0.0,signal:domain(trycaviar.com); signal:unresolved,unresolved
+Interstate,Interstate,ent_startup_interstate,startup,unresolved,0.0,signal:domain(interstateapp.com); signal:unresolved,unresolved
+Everyme,Everyme,ent_startup_everyme,startup,unresolved,0.0,signal:domain(everyme.com); signal:unresolved,unresolved
+Opez,Opez,ent_startup_opez,startup,unresolved,0.0,signal:domain(opez.com); signal:unresolved,unresolved
+MixRank,MixRank,ent_startup_mixrank,startup,unresolved,0.0,signal:domain(mixrank.com); signal:unresolved,unresolved
+Kicksend,Kicksend,ent_startup_kicksend,startup,unresolved,0.0,signal:domain(kicksend.com); signal:unresolved,unresolved
+Videopixie,Videopixie,ent_startup_videopixie,startup,unresolved,0.0,signal:domain(videopixie.com); signal:unresolved,unresolved
+Vapor,Vapor,ent_startup_vapor,startup,unresolved,0.0,signal:domain(askolo.com); signal:unresolved,unresolved
+Launchpad Toys,Launchpad Toys,ent_startup_launchpad_toys,startup,unresolved,0.0,signal:domain(launchpadtoys.com); signal:unresolved,unresolved
+Imgix,Imgix,ent_startup_imgix,startup,unresolved,0.0,signal:domain(imgix.com); signal:unresolved,unresolved
+Compose,Compose,ent_startup_compose,startup,unresolved,0.0,signal:domain(mongohq.com); signal:unresolved,unresolved
+GlassMap,GlassMap,ent_startup_glassmap,startup,unresolved,0.0,signal:domain(ansibletechnologies.com); signal:unresolved,unresolved
+Vidyard,Vidyard,ent_startup_vidyard,startup,unresolved,0.0,signal:domain(vidyard.com); signal:unresolved,unresolved
+Leaky,Leaky,ent_startup_leaky,startup,unresolved,0.0,signal:domain(leaky.com); signal:unresolved,unresolved
+Ridejoy,Ridejoy,ent_startup_ridejoy,startup,unresolved,0.0,signal:domain(ridejoy.com); signal:unresolved,unresolved
+TapEngage,TapEngage,ent_startup_tapengage,startup,unresolved,0.0,signal:domain(tapengage.com); signal:unresolved,unresolved
+Snapjoy,Snapjoy,ent_startup_snapjoy,startup,unresolved,0.0,signal:domain(snapjoy.com); signal:unresolved,unresolved
+Perfect Audience,Perfect Audience,ent_startup_perfect_audience,startup,unresolved,0.0,signal:domain(perfectaudience.com); signal:unresolved,unresolved
+Rentobo,Rentobo,ent_startup_rentobo,startup,unresolved,0.0,signal:domain(rentobo.com); signal:unresolved,unresolved
+Draft,Draft,ent_startup_draft,startup,unresolved,0.0,signal:domain(draftin.com); signal:unresolved,unresolved
+Parse,Parse,ent_startup_parse,startup,unresolved,0.0,signal:domain(parse.com); signal:unresolved,unresolved
+Zeus,Zeus,ent_startup_zeus,startup,unresolved,0.0,signal:domain(zeusliving.com); signal:unresolved,unresolved
+Userfox,Userfox,ent_startup_userfox,startup,unresolved,0.0,signal:domain(userfox.com); signal:unresolved,unresolved
+Automatic,Automatic,ent_startup_automatic,startup,unresolved,0.0,signal:domain(automatic.com); signal:unresolved,unresolved
+Hungry Labs,Hungry Labs,ent_startup_hungry,startup,unresolved,0.0,signal:domain(hungrylabs.com); signal:unresolved,unresolved
+Inporia,Inporia,ent_startup_inporia,startup,unresolved,0.0,signal:domain(inporia.com); signal:unresolved,unresolved
+Upverter,Upverter,ent_startup_upverter,startup,unresolved,0.0,signal:domain(upverter.com); signal:unresolved,unresolved
+SingleStore,SingleStore,ent_startup_singlestore,startup,unresolved,0.0,signal:domain(singlestore.com); signal:unresolved,unresolved
+Beetailer,Beetailer,ent_startup_beetailer,startup,unresolved,0.0,signal:domain(beetailer.com); signal:unresolved,unresolved
+TellFi,TellFi,ent_startup_tellfi,startup,unresolved,0.0,signal:domain(tellfi.com); signal:unresolved,unresolved
+Assembled,Assembled,ent_startup_assembled,startup,unresolved,0.0,signal:unresolved,unresolved
+Talkable,Talkable,ent_startup_talkable,startup,unresolved,0.0,signal:domain(talkable.com); signal:unresolved,unresolved
+FitFu,FitFu,ent_startup_fitfu,startup,unresolved,0.0,signal:domain(fitfu.com); signal:unresolved,unresolved
+AppHarbor,AppHarbor,ent_startup_appharbor,startup,unresolved,0.0,signal:domain(appharbor.com); signal:unresolved,unresolved
+Tumult,Tumult,ent_startup_tumult,startup,unresolved,0.0,signal:domain(tumult.com); signal:unresolved,unresolved
+Earbits,Earbits,ent_startup_earbits,startup,unresolved,0.0,signal:domain(earbits.com); signal:unresolved,unresolved
+Acunote,Acunote,ent_startup_acunote,startup,unresolved,0.0,signal:domain(acunote.com); signal:unresolved,unresolved
+Sendoid,Sendoid,ent_startup_sendoid,startup,unresolved,0.0,signal:domain(sendoid.com); signal:unresolved,unresolved
+HelloSign,HelloSign,ent_startup_hellosign,startup,unresolved,0.0,signal:domain(hellosign.com); signal:unresolved,unresolved
+Instapainting,Instapainting,ent_startup_instapainting,startup,unresolved,0.0,signal:domain(instapainting.com); signal:unresolved,unresolved
+You Got Listings,You Got Listings,ent_startup_you_got_listings,startup,unresolved,0.0,signal:domain(yougotlistings.com); signal:unresolved,unresolved
+Hotspots,Hotspots,ent_startup_hotspots,startup,unresolved,0.0,signal:domain(moki.tv); signal:unresolved,unresolved
+Tremendous,Tremendous,ent_startup_tremendous,startup,unresolved,0.0,signal:domain(tremendous.com); signal:unresolved,unresolved
+Custora,Custora,ent_startup_custora,startup,unresolved,0.0,signal:domain(custora.com); signal:unresolved,unresolved
+Comprehend,Comprehend,ent_startup_comprehend,startup,unresolved,0.0,signal:domain(comprehend.com); signal:unresolved,unresolved
+Humble Bundle,Humble Bundle,ent_startup_humble_bundle,startup,unresolved,0.0,signal:domain(humble.com); signal:unresolved,unresolved
+Pebble,Pebble,ent_startup_pebble,startup,unresolved,0.0,signal:domain(getpebble.com); signal:unresolved,unresolved
+Hyperink,Hyperink,ent_startup_hyperink,startup,unresolved,0.0,signal:domain(hyperinkpress.com); signal:unresolved,unresolved
+Insight Data Science,Insight Data Science,ent_startup_insight_data_science,startup,unresolved,0.0,signal:domain(insightdatascience.com); signal:unresolved,unresolved
+Convore,Convore,ent_startup_convore,startup,unresolved,0.0,signal:domain(convore.com); signal:unresolved,unresolved
+Flotype,Flotype,ent_startup_flotype,startup,unresolved,0.0,signal:domain(flotype.com); signal:unresolved,unresolved
+Fivestars,Fivestars,ent_startup_fivestars,startup,unresolved,0.0,signal:domain(fivestars.com); signal:unresolved,unresolved
+Apportable,Apportable,ent_startup_apportable,startup,unresolved,0.0,signal:domain(apportable.com); signal:unresolved,unresolved
+Close,Close,ent_startup_close,startup,unresolved,0.0,signal:domain(close.com); signal:unresolved,unresolved
+Balanced,Balanced,ent_startup_balanced,startup,unresolved,0.0,signal:domain(balancedpayments.com); signal:unresolved,unresolved
+Mailgun,Mailgun,ent_startup_mailgun,startup,unresolved,0.0,signal:domain(mailgun.net); signal:unresolved,unresolved
+Tutorspree,Tutorspree,ent_startup_tutorspree,startup,unresolved,0.0,signal:domain(tutorspree.com); signal:unresolved,unresolved
+Mino Games,Mino Games,ent_startup_mino_games,startup,unresolved,0.0,signal:domain(minomonsters.com); signal:unresolved,unresolved
+Lanyrd,Lanyrd,ent_startup_lanyrd,startup,unresolved,0.0,signal:domain(lanyrd.com); signal:unresolved,unresolved
+TrustEgg,TrustEgg,ent_startup_trustegg,startup,unresolved,0.0,signal:domain(fidoosh.com); signal:unresolved,unresolved
+Siasto,Siasto,ent_startup_siasto,startup,unresolved,0.0,signal:domain(siasto.com); signal:unresolved,unresolved
+GOAT Group,GOAT Group,ent_startup_goat_group,startup,unresolved,0.0,signal:domain(goatgroup.com); signal:unresolved,unresolved
+OrderAhead,OrderAhead,ent_startup_orderahead,startup,unresolved,0.0,signal:domain(crunchbase.com); signal:unresolved,unresolved
+DrChrono,DrChrono,ent_startup_drchrono,startup,unresolved,0.0,signal:domain(drchrono.com); signal:unresolved,unresolved
+Zerocater,Zerocater,ent_startup_zerocater,startup,unresolved,0.0,signal:domain(zerocater.com); signal:unresolved,unresolved
+Storyworth,Storyworth,ent_startup_storyworth,startup,unresolved,0.0,signal:domain(storyworth.com); signal:unresolved,unresolved
+TalkBin,TalkBin,ent_startup_talkbin,startup,unresolved,0.0,signal:domain(talkbin.com); signal:unresolved,unresolved
+Venuetastic,Venuetastic,ent_startup_venuetastic,startup,unresolved,0.0,signal:domain(venuetastic.com); signal:unresolved,unresolved
+SimplyListed,SimplyListed,ent_startup_simplylisted,startup,unresolved,0.0,signal:domain(simplylisted.com); signal:unresolved,unresolved
+Chartio,Chartio,ent_startup_chartio,startup,unresolved,0.0,signal:domain(chartio.com); signal:unresolved,unresolved
+Presto,Presto,ent_startup_presto,startup,unresolved,0.0,signal:domain(presto.com); signal:unresolved,unresolved
+Hipmunk,Hipmunk,ent_startup_hipmunk,startup,unresolved,0.0,signal:domain(hipmunk.com); signal:unresolved,unresolved
+Teevox,Teevox,ent_startup_teevox,startup,unresolved,0.0,signal:domain(teevox.com); signal:unresolved,unresolved
+Rapportive,Rapportive,ent_startup_rapportive,startup,unresolved,0.0,signal:domain(rapportive.com); signal:unresolved,unresolved
+Recurse Center,Recurse Center,ent_startup_recurse_center,startup,unresolved,0.0,signal:domain(recurse.com); signal:unresolved,unresolved
+Simperium,Simperium,ent_startup_simperium,startup,unresolved,0.0,signal:domain(simperium.com); signal:unresolved,unresolved
+AeroFS,AeroFS,ent_startup_aerofs,startup,unresolved,0.0,signal:domain(aerofs.com); signal:unresolved,unresolved
+Chirply,Chirply,ent_startup_chirply,startup,unresolved,0.0,signal:domain(chirply.com); signal:unresolved,unresolved
+Habit Labs,Habit Labs,ent_startup_habit,startup,unresolved,0.0,signal:domain(habitlabs.com); signal:unresolved,unresolved
+PadMapper,PadMapper,ent_startup_padmapper,startup,unresolved,0.0,signal:domain(padmapper.com); signal:unresolved,unresolved
+DemandSphere,DemandSphere,ent_startup_demandsphere,startup,unresolved,0.0,signal:domain(demandsphere.com); signal:unresolved,unresolved
+AnyList,AnyList,ent_startup_anylist,startup,unresolved,0.0,signal:domain(anylist.com); signal:unresolved,unresolved
+Brushes,Brushes,ent_startup_brushes,startup,unresolved,0.0,signal:domain(brushesapp.com); signal:unresolved,unresolved
+Gantto,Gantto,ent_startup_gantto,startup,unresolved,0.0,signal:domain(gantto.com); signal:unresolved,unresolved
+Homejoy,Homejoy,ent_startup_homejoy,startup,unresolved,0.0,signal:domain(homejoy.com); signal:unresolved,unresolved
+1000Memories,1000Memories,ent_startup_1000memories,startup,unresolved,0.0,signal:domain(ancestry.com); signal:unresolved,unresolved
+GazeHawk,GazeHawk,ent_startup_gazehawk,startup,unresolved,0.0,signal:domain(gazehawk.com); signal:unresolved,unresolved
+Leftronic,Leftronic,ent_startup_leftronic,startup,unresolved,0.0,signal:domain(leftronic.com); signal:unresolved,unresolved
+Upbeat,Upbeat,ent_startup_upbeat,startup,unresolved,0.0,signal:domain(upbeatpr.com); signal:unresolved,unresolved
+Opzi,Opzi,ent_startup_opzi,startup,unresolved,0.0,signal:domain(opzi.com); signal:unresolved,unresolved
+FutureAdvisor,FutureAdvisor,ent_startup_futureadvisor,startup,unresolved,0.0,signal:domain(futureadvisor.com); signal:unresolved,unresolved
+Docker,Docker,ent_startup_docker,startup,unresolved,0.0,signal:domain(docker.com); signal:unresolved,unresolved
+Post.fm,Post.fm,ent_startup_post_fm,startup,unresolved,0.0,signal:domain(post.fm); signal:unresolved,unresolved
+inDinero,inDinero,ent_startup_indinero,startup,unresolved,0.0,signal:domain(indinero.com); signal:unresolved,unresolved
+WorkFlowy,WorkFlowy,ent_startup_workflowy,startup,unresolved,0.0,signal:domain(workflowy.com); signal:unresolved,unresolved
+PagerDuty,PagerDuty,ent_startup_pagerduty,startup,unresolved,0.0,signal:domain(pagerduty.com); signal:unresolved,unresolved
+Ready For Zero,Ready For Zero,ent_startup_ready_for_zero,startup,unresolved,0.0,signal:domain(readyforzero.com); signal:unresolved,unresolved
+MessageParty,MessageParty,ent_startup_messageparty,startup,unresolved,0.0,signal:domain(messageparty.com); signal:unresolved,unresolved
+Fanvibe,Fanvibe,ent_startup_fanvibe,startup,unresolved,0.0,signal:domain(fanvibe.com); signal:unresolved,unresolved
+Fridge,Fridge,ent_startup_fridge,startup,unresolved,0.0,signal:domain(frid.ge); signal:unresolved,unresolved
+Tapzilla,Tapzilla,ent_startup_tapzilla,startup,unresolved,0.0,signal:domain(tapzilla.com); signal:unresolved,unresolved
+Whereoscope,Whereoscope,ent_startup_whereoscope,startup,unresolved,0.0,signal:domain(whereoscope.com); signal:unresolved,unresolved
+AdGrok,AdGrok,ent_startup_adgrok,startup,unresolved,0.0,signal:domain(adgrok.com); signal:unresolved,unresolved
+Pribbit,Pribbit,ent_startup_pribbit,startup,unresolved,0.0,signal:domain(pribbit.com); signal:unresolved,unresolved
+Koduco,Koduco,ent_startup_koduco,startup,unresolved,0.0,signal:domain(koduco.com); signal:unresolved,unresolved
+Mertado,Mertado,ent_startup_mertado,startup,unresolved,0.0,signal:domain(mertado.com); signal:unresolved,unresolved
+500Friends,500Friends,ent_startup_500friends,startup,unresolved,0.0,signal:domain(500friends.com); signal:unresolved,unresolved
+All Screen,All Screen,ent_startup_all_screen,startup,unresolved,0.0,signal:domain(140fire.com); signal:unresolved,unresolved
+Crocodoc,Crocodoc,ent_startup_crocodoc,startup,unresolved,0.0,signal:domain(crocodoc.com); signal:unresolved,unresolved
+Bitplay,Bitplay,ent_startup_bitplay,startup,unresolved,0.0,signal:domain(meetings.io); signal:unresolved,unresolved
+Fabricly,Fabricly,ent_startup_fabricly,startup,unresolved,0.0,signal:domain(fabricly.com); signal:unresolved,unresolved
+Embedly,Embedly,ent_startup_embedly,startup,unresolved,0.0,signal:domain(embed.ly); signal:unresolved,unresolved
+Creative Market,Creative Market,ent_startup_creative_market,startup,unresolved,0.0,signal:domain(creativemarket.com); signal:unresolved,unresolved
+Nowmov,Nowmov,ent_startup_nowmov,startup,unresolved,0.0,signal:domain(nowmov.com); signal:unresolved,unresolved
+Optimizely,Optimizely,ent_startup_optimizely,startup,unresolved,0.0,signal:domain(optimizely.com); signal:unresolved,unresolved
+LaunchHear,LaunchHear,ent_startup_launchhear,startup,unresolved,0.0,signal:domain(alexkrupp.com); signal:unresolved,unresolved
+Zencoder,Zencoder,ent_startup_zencoder,startup,unresolved,0.0,signal:domain(zencoder.com); signal:unresolved,unresolved
+Cue,Cue,ent_startup_cue,startup,unresolved,0.0,signal:domain(cueup.com); signal:unresolved,unresolved
+Answerly,Answerly,ent_startup_answerly,startup,unresolved,0.0,signal:domain(answerly.com); signal:unresolved,unresolved
+OwnLocal,OwnLocal,ent_startup_ownlocal,startup,unresolved,0.0,signal:domain(ownlocal.com); signal:unresolved,unresolved
+Zenedy,Zenedy,ent_startup_zenedy,startup,unresolved,0.0,signal:domain(zenedy.com); signal:unresolved,unresolved
+Gamador,Gamador,ent_startup_gamador,startup,unresolved,0.0,signal:domain(gamador.com); signal:unresolved,unresolved
+Fithub,Fithub,ent_startup_fithub,startup,unresolved,0.0,signal:domain(fithub.com); signal:unresolved,unresolved
+Cardpool,Cardpool,ent_startup_cardpool,startup,unresolved,0.0,signal:domain(cardpool.com); signal:unresolved,unresolved
+Movity,Movity,ent_startup_movity,startup,unresolved,0.0,signal:domain(movity.com); signal:unresolved,unresolved
+Etacts,Etacts,ent_startup_etacts,startup,unresolved,0.0,signal:domain(etacts.com); signal:unresolved,unresolved
+Data Marketplace,Data Marketplace,ent_startup_data_marketplace,startup,unresolved,0.0,signal:domain(datamarketplace.com); signal:unresolved,unresolved
+Newslabs,Newslabs,ent_startup_newslabs,startup,unresolved,0.0,signal:domain(newslabs.com); signal:unresolved,unresolved
+Newcope,Newcope,ent_startup_newcope,startup,unresolved,0.0,signal:domain(newcope.com); signal:unresolved,unresolved
+Infoharmoni,Infoharmoni,ent_startup_infoharmoni,startup,unresolved,0.0,signal:domain(infoharmoni.com); signal:unresolved,unresolved
+Notifo,Notifo,ent_startup_notifo,startup,unresolved,0.0,signal:domain(notifo.com); signal:unresolved,unresolved
+Listia,Listia,ent_startup_listia,startup,unresolved,0.0,signal:domain(listia.com); signal:unresolved,unresolved
+Stripe,Stripe,ent_startup_stripe,startup,unresolved,0.0,signal:domain(stripe.com); signal:unresolved,unresolved
+HighlightCam,HighlightCam,ent_startup_highlightcam,startup,unresolved,0.0,signal:domain(highlightcam.com); signal:unresolved,unresolved
+DailyBooth,DailyBooth,ent_startup_dailybooth,startup,unresolved,0.0,signal:domain(dailybooth.com); signal:unresolved,unresolved
+Bump,Bump,ent_startup_bump,startup,unresolved,0.0,signal:domain(bumptechnologies.com); signal:unresolved,unresolved
+WePay,WePay,ent_startup_wepay,startup,unresolved,0.0,signal:domain(wepay.com); signal:unresolved,unresolved
+Directed Edge,Directed Edge,ent_startup_directed_edge,startup,unresolved,0.0,signal:domain(directededge.com); signal:unresolved,unresolved
+RethinkDB,RethinkDB,ent_startup_rethinkdb,startup,unresolved,0.0,signal:domain(rethinkdb.com); signal:unresolved,unresolved
+Jobspice,Jobspice,ent_startup_jobspice,startup,unresolved,0.0,signal:domain(jobspice.com); signal:unresolved,unresolved
+Mixpanel,Mixpanel,ent_startup_mixpanel,startup,unresolved,0.0,signal:domain(mixpanel.com); signal:unresolved,unresolved
+Olark,Olark,ent_startup_olark,startup,unresolved,0.0,signal:domain(olark.com); signal:unresolved,unresolved
+Lockitron,Lockitron,ent_startup_lockitron,startup,unresolved,0.0,signal:domain(lockitron.com); signal:unresolved,unresolved
+CarWoo,CarWoo,ent_startup_carwoo,startup,unresolved,0.0,signal:domain(carwoo.com); signal:unresolved,unresolved
+Tuxebo,Tuxebo,ent_startup_tuxebo,startup,unresolved,0.0,signal:unresolved,unresolved
+Fanchatter,Fanchatter,ent_startup_fanchatter,startup,unresolved,0.0,signal:domain(fanchatter.com); signal:unresolved,unresolved
+Plurchase,Plurchase,ent_startup_plurchase,startup,unresolved,0.0,signal:domain(plurchase.com); signal:unresolved,unresolved
+GraffitiGeo,GraffitiGeo,ent_startup_graffitigeo,startup,unresolved,0.0,signal:domain(graffitigeo.com); signal:unresolved,unresolved
+Flightcaster,Flightcaster,ent_startup_flightcaster,startup,unresolved,0.0,signal:unresolved,unresolved
+NudgePad,NudgePad,ent_startup_nudgepad,startup,unresolved,0.0,signal:domain(azure.com); signal:unresolved,unresolved
+RentHop,RentHop,ent_startup_renthop,startup,unresolved,0.0,signal:domain(renthop.com); signal:unresolved,unresolved
+Lingt,Lingt,ent_startup_lingt,startup,unresolved,0.0,signal:domain(lingt.com); signal:unresolved,unresolved
+RoboHR,RoboHR,ent_startup_robohr,startup,unresolved,0.0,signal:domain(robohr.com); signal:unresolved,unresolved
+AdThrow,AdThrow,ent_startup_adthrow,startup,unresolved,0.0,signal:domain(adthrow.com); signal:unresolved,unresolved
+Stackq,Stackq,ent_startup_stackq,startup,unresolved,0.0,signal:domain(stackq.com); signal:unresolved,unresolved
+Wakemate,Wakemate,ent_startup_wakemate,startup,unresolved,0.0,signal:domain(wakemate.com); signal:unresolved,unresolved
+Instantq,Instantq,ent_startup_instantq,startup,unresolved,0.0,signal:domain(instantq.com); signal:unresolved,unresolved
+Recurious,Recurious,ent_startup_recurious,startup,unresolved,0.0,signal:domain(thesixtyone.com); signal:unresolved,unresolved
+Skysheet,Skysheet,ent_startup_skysheet,startup,unresolved,0.0,signal:domain(skysheet.com); signal:unresolved,unresolved
+Heyzap,Heyzap,ent_startup_heyzap,startup,unresolved,0.0,signal:domain(heyzap.com); signal:unresolved,unresolved
+Wattvision,Wattvision,ent_startup_wattvision,startup,unresolved,0.0,signal:domain(wattvision.com); signal:unresolved,unresolved
+Foodoro,Foodoro,ent_startup_foodoro,startup,unresolved,0.0,signal:domain(foodoro.com); signal:unresolved,unresolved
+Volantio,Volantio,ent_startup_volantio,startup,unresolved,0.0,signal:domain(volantio.com); signal:unresolved,unresolved
+Airbnb,Airbnb,ent_startup_airbnb,startup,unresolved,0.0,signal:domain(airbnb.com); signal:unresolved,unresolved
+Divvyshot,Divvyshot,ent_startup_divvyshot,startup,unresolved,0.0,signal:domain(divvyshot.com); signal:unresolved,unresolved
+reMail,reMail,ent_startup_remail,startup,unresolved,0.0,signal:domain(remail.com); signal:unresolved,unresolved
+Echodio,Echodio,ent_startup_echodio,startup,unresolved,0.0,signal:domain(echodio.com); signal:unresolved,unresolved
+Cloudkick,Cloudkick,ent_startup_cloudkick,startup,unresolved,0.0,signal:domain(cloudkick.com); signal:unresolved,unresolved
+Spaces Life,Spaces Life,ent_startup_spaces_life,startup,unresolved,0.0,signal:domain(spaceslife.com); signal:unresolved,unresolved
+Picurio,Picurio,ent_startup_picurio,startup,unresolved,0.0,signal:domain(picurio.com); signal:unresolved,unresolved
+Nambii,Nambii,ent_startup_nambii,startup,unresolved,0.0,signal:domain(nambii.com); signal:unresolved,unresolved
+Voxli,Voxli,ent_startup_voxli,startup,unresolved,0.0,signal:domain(voxli.com); signal:unresolved,unresolved
+PetaSales,PetaSales,ent_startup_petasales,startup,unresolved,0.0,signal:unresolved,unresolved
+Posterous,Posterous,ent_startup_posterous,startup,unresolved,0.0,signal:domain(posterous.com); signal:unresolved,unresolved
+Poll Everywhere,Poll Everywhere,ent_startup_poll_everywhere,startup,unresolved,0.0,signal:domain(polleverywhere.com); signal:unresolved,unresolved
+OhLife,OhLife,ent_startup_ohlife,startup,unresolved,0.0,signal:domain(ohlife.com); signal:unresolved,unresolved
+Cloudant,Cloudant,ent_startup_cloudant,startup,unresolved,0.0,signal:domain(cloudant.com); signal:unresolved,unresolved
+Job Alchemist,Job Alchemist,ent_startup_job_alchemist,startup,unresolved,0.0,signal:domain(jobalchemist.com); signal:unresolved,unresolved
+Frogmetrics,Frogmetrics,ent_startup_frogmetrics,startup,unresolved,0.0,signal:domain(frogmetrics.com); signal:unresolved,unresolved
+Anyvite,Anyvite,ent_startup_anyvite,startup,unresolved,0.0,signal:domain(anyvite.com); signal:unresolved,unresolved
+CO2Stats,CO2Stats,ent_startup_co2stats,startup,unresolved,0.0,signal:domain(co2stats.com); signal:unresolved,unresolved
+JustSpotted,JustSpotted,ent_startup_justspotted,startup,unresolved,0.0,signal:domain(justspotted.com); signal:unresolved,unresolved
+Picwing,Picwing,ent_startup_picwing,startup,unresolved,0.0,signal:domain(picwing.com); signal:unresolved,unresolved
+BackType,BackType,ent_startup_backtype,startup,unresolved,0.0,signal:domain(backtype.com); signal:unresolved,unresolved
+Precognate,Precognate,ent_startup_precognate,startup,unresolved,0.0,signal:domain(precognate.com); signal:unresolved,unresolved
+Youlicit,Youlicit,ent_startup_youlicit,startup,unresolved,0.0,signal:domain(youlicit.com); signal:unresolved,unresolved
+Team Apart,Team Apart,ent_startup_team_apart,startup,unresolved,0.0,signal:domain(teamapart.com); signal:unresolved,unresolved
+Claimspotting,Claimspotting,ent_startup_claimspotting,startup,unresolved,0.0,signal:domain(urbantakeover.at); signal:unresolved,unresolved
+Ticket Stumbler,Ticket Stumbler,ent_startup_ticket_stumbler,startup,unresolved,0.0,signal:domain(ticketstumbler.com); signal:unresolved,unresolved
+Snipd,Snipd,ent_startup_snipd,startup,unresolved,0.0,signal:domain(snipd.com); signal:unresolved,unresolved
+Popcuts,Popcuts,ent_startup_popcuts,startup,unresolved,0.0,signal:domain(popcuts.com); signal:unresolved,unresolved
+People & Pages,People & Pages,ent_startup_people_pages,startup,unresolved,0.0,signal:domain(peopleandpages.com); signal:unresolved,unresolved
+PlayReader,PlayReader,ent_startup_playreader,startup,unresolved,0.0,signal:domain(playreader.com); signal:unresolved,unresolved
+Treehouse,Treehouse,ent_startup_treehouse,startup,unresolved,0.0,signal:domain(gotreehouse.com); signal:unresolved,unresolved
+Slinkset,Slinkset,ent_startup_slinkset,startup,unresolved,0.0,signal:domain(slinkset.com); signal:unresolved,unresolved
+Trigger,Trigger,ent_startup_trigger,startup,unresolved,0.0,signal:domain(trigger.io); signal:unresolved,unresolved
+RescueTime,RescueTime,ent_startup_rescuetime,startup,unresolved,0.0,signal:domain(rescuetime.com); signal:unresolved,unresolved
+A Thinking Ape,A Thinking Ape,ent_startup_a_thinking_ape,startup,unresolved,0.0,signal:domain(athinkingape.com); signal:unresolved,unresolved
+Ninite,Ninite,ent_startup_ninite,startup,unresolved,0.0,signal:domain(ninite.com); signal:unresolved,unresolved
+Machine Zone,Machine Zone,ent_startup_machine_zone,startup,unresolved,0.0,signal:domain(mz.com); signal:unresolved,unresolved
+MightyQuiz,MightyQuiz,ent_startup_mightyquiz,startup,unresolved,0.0,signal:domain(mightyquiz.com); signal:unresolved,unresolved
+FathomDB,FathomDB,ent_startup_fathomdb,startup,unresolved,0.0,signal:domain(fathomdb.com); signal:unresolved,unresolved
+Omnisio,Omnisio,ent_startup_omnisio,startup,unresolved,0.0,signal:domain(omnisio.com); signal:unresolved,unresolved
+Heroku,Heroku,ent_startup_heroku,startup,unresolved,0.0,signal:domain(heroku.com); signal:unresolved,unresolved
+280 North,280 North,ent_startup_280_north,startup,unresolved,0.0,signal:domain(280north.com); signal:unresolved,unresolved
+Wundrbar,Wundrbar,ent_startup_wundrbar,startup,unresolved,0.0,signal:domain(wundrbar.com); signal:unresolved,unresolved
+Socialbrowse,Socialbrowse,ent_startup_socialbrowse,startup,unresolved,0.0,signal:domain(socialbrowse.com); signal:unresolved,unresolved
+Mixwit,Mixwit,ent_startup_mixwit,startup,unresolved,0.0,signal:domain(cloud.tv); signal:unresolved,unresolved
+Tipjoy,Tipjoy,ent_startup_tipjoy,startup,unresolved,0.0,signal:domain(tipjoy.com); signal:unresolved,unresolved
+Kirkland North,Kirkland North,ent_startup_kirkland_north,startup,unresolved,0.0,signal:domain(kirklandnorth.com); signal:unresolved,unresolved
+Deluux,Deluux,ent_startup_deluux,startup,unresolved,0.0,signal:domain(deluux.com); signal:unresolved,unresolved
+YumDots,YumDots,ent_startup_yumdots,startup,unresolved,0.0,signal:domain(yumdots.com); signal:unresolved,unresolved
+Snaptalent,Snaptalent,ent_startup_snaptalent,startup,unresolved,0.0,signal:domain(snaptalent.com); signal:unresolved,unresolved
+Insoshi,Insoshi,ent_startup_insoshi,startup,unresolved,0.0,signal:domain(insoshi.com); signal:unresolved,unresolved
+Joberator,Joberator,ent_startup_joberator,startup,unresolved,0.0,signal:domain(joberator.com); signal:unresolved,unresolved
+BitSample,BitSample,ent_startup_bitsample,startup,unresolved,0.0,signal:unresolved,unresolved
+Songkick,Songkick,ent_startup_songkick,startup,unresolved,0.0,signal:domain(songkick.com); signal:unresolved,unresolved
+Dropbox,Dropbox,ent_startup_dropbox,startup,unresolved,0.0,signal:domain(dropbox.com); signal:unresolved,unresolved
+Blue Frog Gaming,Blue Frog Gaming,ent_startup_blue_frog_gaming,startup,unresolved,0.0,signal:domain(bluefroggaming.com); signal:unresolved,unresolved
+Disqus,Disqus,ent_startup_disqus,startup,unresolved,0.0,signal:domain(disqus.com); signal:unresolved,unresolved
+Bountii,Bountii,ent_startup_bountii,startup,unresolved,0.0,signal:domain(bountii.com); signal:unresolved,unresolved
+Hello Chair,Hello Chair,ent_startup_hello_chair,startup,unresolved,0.0,signal:domain(hellochair.com); signal:unresolved,unresolved
+iJigg/Top440,iJigg/Top440,ent_startup_ijigg_top440,startup,unresolved,0.0,signal:domain(ijigg.com); signal:unresolved,unresolved
+Splashup,Splashup,ent_startup_splashup,startup,unresolved,0.0,signal:domain(splashup.com); signal:unresolved,unresolved
+ContestMachine,ContestMachine,ent_startup_contestmachine,startup,unresolved,0.0,signal:domain(contestmachine.com); signal:unresolved,unresolved
+ZumoDrive,ZumoDrive,ent_startup_zumodrive,startup,unresolved,0.0,signal:domain(zumodrive.com); signal:unresolved,unresolved
+SocialPicks,SocialPicks,ent_startup_socialpicks,startup,unresolved,0.0,signal:domain(socialpicks.com); signal:unresolved,unresolved
+Clickpass,Clickpass,ent_startup_clickpass,startup,unresolved,0.0,signal:domain(clickpass.com); signal:unresolved,unresolved
+Appjet,Appjet,ent_startup_appjet,startup,unresolved,0.0,signal:domain(appjet.com); signal:unresolved,unresolved
+Anywhere.FM,Anywhere.FM,ent_startup_anywhere_fm,startup,unresolved,0.0,signal:domain(anywhere.fm); signal:unresolved,unresolved
+Reble,Reble,ent_startup_reble,startup,unresolved,0.0,signal:domain(reble.fm); signal:unresolved,unresolved
+Meetyu,Meetyu,ent_startup_meetyu,startup,unresolved,0.0,signal:domain(meetyu.com); signal:unresolved,unresolved
+Fuzzwich,Fuzzwich,ent_startup_fuzzwich,startup,unresolved,0.0,signal:domain(fuzzwich.com); signal:unresolved,unresolved
+Eivod,Eivod,ent_startup_eivod,startup,unresolved,0.0,signal:domain(eivod.com); signal:unresolved,unresolved
+Biographicon,Biographicon,ent_startup_biographicon,startup,unresolved,0.0,signal:domain(biographicon.com); signal:unresolved,unresolved
+Virtualmin,Virtualmin,ent_startup_virtualmin,startup,unresolved,0.0,signal:domain(virtualmin.com); signal:unresolved,unresolved
+Weebly,Weebly,ent_startup_weebly,startup,unresolved,0.0,signal:domain(weebly.com); signal:unresolved,unresolved
+Tsumobi,Tsumobi,ent_startup_tsumobi,startup,unresolved,0.0,signal:domain(tsumobi.com); signal:unresolved,unresolved
+Octopart,Octopart,ent_startup_octopart,startup,unresolved,0.0,signal:domain(octopart.com); signal:unresolved,unresolved
+Buxfer,Buxfer,ent_startup_buxfer,startup,unresolved,0.0,signal:domain(buxfer.com); signal:unresolved,unresolved
+Zenter,Zenter,ent_startup_zenter,startup,unresolved,0.0,signal:domain(googleblog.blogspot.com); signal:unresolved,unresolved
+Auctomatic,Auctomatic,ent_startup_auctomatic,startup,unresolved,0.0,signal:domain(auctomatic.com); signal:unresolved,unresolved
+WriteWith,WriteWith,ent_startup_writewith,startup,unresolved,0.0,signal:domain(writewith.com); signal:unresolved,unresolved
+Whitenoise,Whitenoise,ent_startup_whitenoise,startup,unresolved,0.0,signal:domain(whitenoisenetworks.com); signal:unresolved,unresolved
+View3,View3,ent_startup_view3,startup,unresolved,0.0,signal:domain(view3.com); signal:unresolved,unresolved
+Socialmoth,Socialmoth,ent_startup_socialmoth,startup,unresolved,0.0,signal:domain(socialmoth.com); signal:unresolved,unresolved
+Heysan,Heysan,ent_startup_heysan,startup,unresolved,0.0,signal:domain(heysan.com); signal:unresolved,unresolved
+Xobni,Xobni,ent_startup_xobni,startup,unresolved,0.0,signal:domain(xobni.com); signal:unresolved,unresolved
+Scribd,Scribd,ent_startup_scribd,startup,unresolved,0.0,signal:domain(scribd.com); signal:unresolved,unresolved
+OMGPop,OMGPop,ent_startup_omgpop,startup,unresolved,0.0,signal:domain(omgpop.com); signal:unresolved,unresolved
+Jamglue,Jamglue,ent_startup_jamglue,startup,unresolved,0.0,signal:domain(jamglue.com); signal:unresolved,unresolved
+Thinkature,Thinkature,ent_startup_thinkature,startup,unresolved,0.0,signal:domain(thinkature.com); signal:unresolved,unresolved
+Talkito,Talkito,ent_startup_talkito,startup,unresolved,0.0,signal:domain(talkito.com); signal:unresolved,unresolved
+Shoutfit,Shoutfit,ent_startup_shoutfit,startup,unresolved,0.0,signal:domain(shoutfit.com); signal:unresolved,unresolved
+Pollground,Pollground,ent_startup_pollground,startup,unresolved,0.0,signal:domain(pollground.com); signal:unresolved,unresolved
+Zanbazaar,Zanbazaar,ent_startup_zanbazaar,startup,unresolved,0.0,signal:domain(zanbazaar.com); signal:unresolved,unresolved
+Likebetter,Likebetter,ent_startup_likebetter,startup,unresolved,0.0,signal:domain(likebetter.com); signal:unresolved,unresolved
+Jumpchat,Jumpchat,ent_startup_jumpchat,startup,unresolved,0.0,signal:domain(jumpchat.com); signal:unresolved,unresolved
+Inkling,Inkling,ent_startup_inkling,startup,unresolved,0.0,signal:domain(inklingmarkets.com); signal:unresolved,unresolved
+Clustrix,Clustrix,ent_startup_clustrix,startup,unresolved,0.0,signal:domain(clustrix.com); signal:unresolved,unresolved
+Snipshot,Snipshot,ent_startup_snipshot,startup,unresolved,0.0,signal:domain(snipshot.com); signal:unresolved,unresolved
+Project Wedding,Project Wedding,ent_startup_project_wedding,startup,unresolved,0.0,signal:domain(projectwedding.com); signal:unresolved,unresolved
+Wufoo,Wufoo,ent_startup_wufoo,startup,unresolved,0.0,signal:domain(wufoo.com); signal:unresolved,unresolved
+Flagr,Flagr,ent_startup_flagr,startup,unresolved,0.0,signal:domain(flagr.com); signal:unresolved,unresolved
+Audiobeta,Audiobeta,ent_startup_audiobeta,startup,unresolved,0.0,signal:domain(audiobeta.com); signal:unresolved,unresolved
+Loopt,Loopt,ent_startup_loopt,startup,unresolved,0.0,signal:domain(loopt.com); signal:unresolved,unresolved
+TextPayMe,TextPayMe,ent_startup_textpayme,startup,unresolved,0.0,signal:domain(textpayme.com); signal:unresolved,unresolved
+Clickfacts,Clickfacts,ent_startup_clickfacts,startup,unresolved,0.0,signal:domain(clickfacts.com); signal:unresolved,unresolved
+Simmery,Simmery,ent_startup_simmery,startup,unresolved,0.0,signal:domain(simmery.com); signal:unresolved,unresolved
+Memamp,Memamp,ent_startup_memamp,startup,unresolved,0.0,signal:domain(memamp.com); signal:unresolved,unresolved
+Kiko,Kiko,ent_startup_kiko,startup,unresolved,0.0,signal:domain(kiko.com); signal:unresolved,unresolved
+Reddit,Reddit,ent_startup_reddit,startup,unresolved,0.0,signal:domain(reddit.com); signal:unresolved,unresolved
+Infogami,Infogami,ent_startup_infogami,startup,unresolved,0.0,signal:domain(infogami.com); signal:unresolved,unresolved
+Mixed Media Labs,Mixed Media Labs,ent_startup_mixed_media,startup,unresolved,0.0,signal:unresolved,unresolved
+Twitch,Twitch,ent_startup_twitch,startup,unresolved,0.0,signal:domain(twitch.com); signal:unresolved,unresolved
+Parakey,Parakey,ent_startup_parakey,startup,unresolved,0.0,signal:domain(parakey.com); signal:unresolved,unresolved
+TomoGuides,TomoGuides,ent_startup_tomoguides,startup,unresolved,0.0,signal:domain(tomoguides.com); signal:unresolved,unresolved
+Pixate,Pixate,ent_startup_pixate,startup,unresolved,0.0,signal:domain(pixate.com); signal:unresolved,unresolved
+Knowmia,Knowmia,ent_startup_knowmia,startup,unresolved,0.0,signal:domain(knowmia.com); signal:unresolved,unresolved
+Boosted,Boosted,ent_startup_boosted,startup,unresolved,0.0,signal:domain(boostedboards.com); signal:unresolved,unresolved
+ZeroMailer,ZeroMailer,ent_startup_zeromailer,startup,unresolved,0.0,signal:domain(zeromailer.com); signal:unresolved,unresolved
+Canopy Labs,Canopy Labs,ent_startup_canopy,startup,unresolved,0.0,signal:domain(canopylabs.com); signal:unresolved,unresolved
+LeanMarket,LeanMarket,ent_startup_leanmarket,startup,unresolved,0.0,signal:domain(lean.com); signal:unresolved,unresolved
+Kamcord,Kamcord,ent_startup_kamcord,startup,unresolved,0.0,signal:domain(kamcord.com); signal:unresolved,unresolved
+Statwing,Statwing,ent_startup_statwing,startup,unresolved,0.0,signal:domain(statwing.com); signal:unresolved,unresolved
+Rainforest,Rainforest,ent_startup_rainforest,startup,unresolved,0.0,signal:domain(rainforestqa.com); signal:unresolved,unresolved
+Imgfave,Imgfave,ent_startup_imgfave,startup,unresolved,0.0,signal:domain(imgfave.com); signal:unresolved,unresolved
+Fullstack Academy,Fullstack Academy,ent_startup_fullstack_academy,startup,unresolved,0.0,signal:domain(fullstackacademy.com); signal:unresolved,unresolved
+OmniVirt,OmniVirt,ent_startup_omnivirt,startup,unresolved,0.0,signal:domain(omnivirt.com); signal:unresolved,unresolved
+Arc,Arc,ent_startup_arc,startup,unresolved,0.0,signal:domain(arccameras.com); signal:unresolved,unresolved
+Streem,Streem,ent_startup_streem,startup,unresolved,0.0,signal:domain(streem.com); signal:unresolved,unresolved
+Mth Sense,Mth Sense,ent_startup_mth_sense,startup,unresolved,0.0,signal:domain(mthsense.com); signal:unresolved,unresolved
+Human Dx,Human Dx,ent_startup_human_dx,startup,unresolved,0.0,signal:domain(humandx.org); signal:unresolved,unresolved
+Testmunk,Testmunk,ent_startup_testmunk,startup,unresolved,0.0,signal:domain(testmunk.com); signal:unresolved,unresolved
+HealthSherpa,HealthSherpa,ent_startup_healthsherpa,startup,unresolved,0.0,signal:domain(healthsherpa.com); signal:unresolved,unresolved
+Framebase,Framebase,ent_startup_framebase,startup,unresolved,0.0,signal:domain(framebase.io); signal:unresolved,unresolved
+Mattermost,Mattermost,ent_startup_mattermost,startup,unresolved,0.0,signal:domain(mattermost.com); signal:unresolved,unresolved
+Airshared,Airshared,ent_startup_airshared,startup,unresolved,0.0,signal:domain(getcycle.com); signal:unresolved,unresolved
+Zentail,Zentail,ent_startup_zentail,startup,unresolved,0.0,signal:domain(zentail.com); signal:unresolved,unresolved
+Soylent,Soylent,ent_startup_soylent,startup,unresolved,0.0,signal:domain(soylent.com); signal:unresolved,unresolved
+DataNitro,DataNitro,ent_startup_datanitro,startup,unresolved,0.0,signal:domain(datanitro.com); signal:unresolved,unresolved
+Clever,Clever,ent_startup_clever,startup,unresolved,0.0,signal:domain(clever.com); signal:unresolved,unresolved
+Vayable,Vayable,ent_startup_vayable,startup,unresolved,0.0,signal:domain(vayable.com); signal:unresolved,unresolved
+SmartAsset,SmartAsset,ent_startup_smartasset,startup,unresolved,0.0,signal:domain(smartasset.com); signal:unresolved,unresolved
+FundersClub,FundersClub,ent_startup_fundersclub,startup,unresolved,0.0,signal:domain(fundersclub.com); signal:unresolved,unresolved
+Grid,Grid,ent_startup_grid,startup,unresolved,0.0,signal:unresolved,unresolved
+Eligible,Eligible,ent_startup_eligible,startup,unresolved,0.0,signal:domain(eligible.com); signal:unresolved,unresolved
+Crohnology (by Healthy Labs),Crohnology (by Healthy Labs),ent_startup_crohnology_by_healthy,startup,unresolved,0.0,signal:domain(crohnology.com); signal:unresolved,unresolved
+BrainTripping,BrainTripping,ent_startup_braintripping,startup,unresolved,0.0,signal:domain(braintripping.com); signal:unresolved,unresolved
+Markupwand,Markupwand,ent_startup_markupwand,startup,unresolved,0.0,signal:domain(markupwand.com); signal:unresolved,unresolved
+Hiptype,Hiptype,ent_startup_hiptype,startup,unresolved,0.0,signal:domain(hiptype.com); signal:unresolved,unresolved
+Kippt,Kippt,ent_startup_kippt,startup,unresolved,0.0,signal:domain(kippt.com); signal:unresolved,unresolved
+Easel,Easel,ent_startup_easel,startup,unresolved,0.0,signal:domain(easel.io); signal:unresolved,unresolved
+Hipset,Hipset,ent_startup_hipset,startup,unresolved,0.0,signal:domain(tracksby.com); signal:unresolved,unresolved
+FileStack,FileStack,ent_startup_filestack,startup,unresolved,0.0,signal:domain(filestack.com); signal:unresolved,unresolved
+Collections,Collections,ent_startup_collections,startup,unresolved,0.0,signal:domain(collections.me); signal:unresolved,unresolved
+Dreamforge,Dreamforge,ent_startup_dreamforge,startup,unresolved,0.0,signal:domain(dreamforge.me); signal:unresolved,unresolved
+Upwave,Upwave,ent_startup_upwave,startup,unresolved,0.0,signal:domain(upwave.com); signal:unresolved,unresolved
+Lever,Lever,ent_startup_lever,startup,unresolved,0.0,signal:domain(lever.co); signal:unresolved,unresolved
+ReelSurfer,ReelSurfer,ent_startup_reelsurfer,startup,unresolved,0.0,signal:domain(reelsurfer.com); signal:unresolved,unresolved
+Keychain Logistics,Keychain Logistics,ent_startup_keychain_logistics,startup,unresolved,0.0,signal:domain(keychainlogistics.com); signal:unresolved,unresolved
+OctaveWealth,OctaveWealth,ent_startup_octavewealth,startup,unresolved,0.0,signal:domain(octavewealth.com); signal:unresolved,unresolved
+BufferBox,BufferBox,ent_startup_bufferbox,startup,unresolved,0.0,signal:domain(bufferbox.com); signal:unresolved,unresolved
+Natero,Natero,ent_startup_natero,startup,unresolved,0.0,signal:domain(natero.com); signal:unresolved,unresolved
+Profig,Profig,ent_startup_profig,startup,unresolved,0.0,signal:domain(profig.com); signal:unresolved,unresolved
+Partnered,Partnered,ent_startup_partnered,startup,unresolved,0.0,signal:unresolved,unresolved
+NewsBlur,NewsBlur,ent_startup_newsblur,startup,unresolved,0.0,signal:domain(newsblur.com); signal:unresolved,unresolved
+Coinbase,Coinbase,ent_startup_coinbase,startup,unresolved,0.0,signal:domain(coinbase.com); signal:unresolved,unresolved
+Submittable,Submittable,ent_startup_submittable,startup,unresolved,0.0,signal:domain(submittable.com); signal:unresolved,unresolved
+Mattermark,Mattermark,ent_startup_mattermark,startup,unresolved,0.0,signal:domain(mattermark.com); signal:unresolved,unresolved
+Zapier,Zapier,ent_startup_zapier,startup,unresolved,0.0,signal:domain(zapier.com); signal:unresolved,unresolved
+VoiceGem,VoiceGem,ent_startup_voicegem,startup,unresolved,0.0,signal:domain(voicegem.com); signal:unresolved,unresolved
+BackerKit,BackerKit,ent_startup_backerkit,startup,unresolved,0.0,signal:domain(backerkit.com); signal:unresolved,unresolved
+Benchling,Benchling,ent_startup_benchling,startup,unresolved,0.0,signal:domain(benchling.com); signal:unresolved,unresolved
+Flightfox,Flightfox,ent_startup_flightfox,startup,unresolved,0.0,signal:domain(flightfox.com); signal:unresolved,unresolved
+Coco Controller,Coco Controller,ent_startup_coco_controller,startup,unresolved,0.0,signal:domain(milkshakelabs.com); signal:unresolved,unresolved
+Tastemaker,Tastemaker,ent_startup_tastemaker,startup,unresolved,0.0,signal:domain(tastemaker.com); signal:unresolved,unresolved
+GoScale,GoScale,ent_startup_goscale,startup,unresolved,0.0,signal:domain(goscale.com); signal:unresolved,unresolved
+RegistryLove,RegistryLove,ent_startup_registrylove,startup,unresolved,0.0,signal:domain(registrylove.com); signal:unresolved,unresolved
+Credictive,Credictive,ent_startup_credictive,startup,unresolved,0.0,signal:domain(credictive.com); signal:unresolved,unresolved
+MicroEval,MicroEval,ent_startup_microeval,startup,unresolved,0.0,signal:domain(microeval.com); signal:unresolved,unresolved
+Everyday.me,Everyday.me,ent_startup_everyday_me,startup,unresolved,0.0,signal:domain(everyday.me); signal:unresolved,unresolved
+Celery,Celery,ent_startup_celery,startup,unresolved,0.0,signal:domain(trycelery.com); signal:unresolved,unresolved
+Virool,Virool,ent_startup_virool,startup,unresolved,0.0,signal:domain(virool.com); signal:unresolved,unresolved
+Parallel Universe,Parallel Universe,ent_startup_parallel_universe,startup,unresolved,0.0,signal:domain(paralleluniverse.co); signal:unresolved,unresolved
+Viacycle,Viacycle,ent_startup_viacycle,startup,unresolved,0.0,signal:domain(viacycle.com); signal:unresolved,unresolved
+Assorted Bits,Assorted Bits,ent_startup_assorted_bits,startup,unresolved,0.0,signal:domain(youthere.com); signal:unresolved,unresolved
+Scoutzie,Scoutzie,ent_startup_scoutzie,startup,unresolved,0.0,signal:domain(scoutzie.com); signal:unresolved,unresolved
+Vastrm,Vastrm,ent_startup_vastrm,startup,unresolved,0.0,signal:domain(vastrm.com); signal:unresolved,unresolved
+Double Robotics,Double Robotics,ent_startup_double_robotics,startup,unresolved,0.0,signal:domain(doublerobotics.com); signal:unresolved,unresolved
+Study Edge,Study Edge,ent_startup_study_edge,startup,unresolved,0.0,signal:domain(studyedge.com); signal:unresolved,unresolved
+GetGoing,GetGoing,ent_startup_getgoing,startup,unresolved,0.0,signal:domain(getgoing.com); signal:unresolved,unresolved
+Plivo,Plivo,ent_startup_plivo,startup,unresolved,0.0,signal:domain(plivo.com); signal:unresolved,unresolved
+Thread,Thread,ent_startup_thread,startup,unresolved,0.0,signal:domain(thread.com); signal:unresolved,unresolved
+Light Table/Eve,Light Table/Eve,ent_startup_light_table_eve,startup,unresolved,0.0,signal:domain(kodowa.com); signal:unresolved,unresolved
+Svbtle,Svbtle,ent_startup_svbtle,startup,unresolved,0.0,signal:domain(svbtle.com); signal:unresolved,unresolved
+Instacart,Instacart,ent_startup_instacart,startup,unresolved,0.0,signal:domain(instacart.com); signal:unresolved,unresolved
+9gag,9gag,ent_startup_9gag,startup,unresolved,0.0,signal:domain(9gag.com); signal:unresolved,unresolved
+StyleUp,StyleUp,ent_startup_styleup,startup,unresolved,0.0,signal:domain(thestyleup.com); signal:unresolved,unresolved
+CircuitLab,CircuitLab,ent_startup_circuitlab,startup,unresolved,0.0,signal:domain(circuitlab.com); signal:unresolved,unresolved
+Screenhero,Screenhero,ent_startup_screenhero,startup,unresolved,0.0,signal:domain(screenhero.com); signal:unresolved,unresolved
+Scuba,Scuba,ent_startup_scuba,startup,unresolved,0.0,signal:domain(scuba.io); signal:unresolved,unresolved
+Appcubator,Appcubator,ent_startup_appcubator,startup,unresolved,0.0,signal:domain(appcubator.com); signal:unresolved,unresolved
+North,North,ent_startup_north,startup,unresolved,0.0,signal:domain(bynorth.com); signal:unresolved,unresolved
+Swish,Swish,ent_startup_swish,startup,unresolved,0.0,signal:domain(swish.com); signal:unresolved,unresolved
+PayTango,PayTango,ent_startup_paytango,startup,unresolved,0.0,signal:domain(paytango.com); signal:unresolved,unresolved
+VaycayHero,VaycayHero,ent_startup_vaycayhero,startup,unresolved,0.0,signal:domain(vaycayhero.com); signal:unresolved,unresolved
+BuildZoom,BuildZoom,ent_startup_buildzoom,startup,unresolved,0.0,signal:domain(buildzoom.com); signal:unresolved,unresolved
+Trainzen,Trainzen,ent_startup_trainzen,startup,unresolved,0.0,signal:domain(terascore.com); signal:unresolved,unresolved
+Padlet,Padlet,ent_startup_padlet,startup,unresolved,0.0,signal:domain(padlet.com); signal:unresolved,unresolved
+Fivetran,Fivetran,ent_startup_fivetran,startup,unresolved,0.0,signal:domain(fivetran.com); signal:unresolved,unresolved
+GrepData,GrepData,ent_startup_grepdata,startup,unresolved,0.0,signal:domain(grepdata.com); signal:unresolved,unresolved
+Lawdingo,Lawdingo,ent_startup_lawdingo,startup,unresolved,0.0,signal:domain(lawdingo.com); signal:unresolved,unresolved
+Bitnami,Bitnami,ent_startup_bitnami,startup,unresolved,0.0,signal:domain(bitnami.com); signal:unresolved,unresolved
+Cheetah,Cheetah,ent_startup_cheetah,startup,unresolved,0.0,signal:domain(gocheetah.com); signal:unresolved,unresolved
+Medisas,Medisas,ent_startup_medisas,startup,unresolved,0.0,signal:domain(medisas.com); signal:unresolved,unresolved
+Etleap,Etleap,ent_startup_etleap,startup,unresolved,0.0,signal:domain(etleap.com); signal:unresolved,unresolved
+RoverRide,RoverRide,ent_startup_roverride,startup,unresolved,0.0,signal:domain(ride.roversf.com); signal:unresolved,unresolved
+InfluxData,InfluxData,ent_startup_influxdata,startup,unresolved,0.0,signal:domain(influxdata.com); signal:unresolved,unresolved
+Strikingly,Strikingly,ent_startup_strikingly,startup,unresolved,0.0,signal:domain(strikingly.com); signal:unresolved,unresolved
+Lollipuff,Lollipuff,ent_startup_lollipuff,startup,unresolved,0.0,signal:domain(lollipuff.com); signal:unresolved,unresolved
+RADAR,RADAR,ent_startup_radar,startup,unresolved,0.0,signal:domain(goradar.com); signal:unresolved,unresolved
+Meldium,Meldium,ent_startup_meldium,startup,unresolved,0.0,signal:domain(meldium.com); signal:unresolved,unresolved
+BeatDeck,BeatDeck,ent_startup_beatdeck,startup,unresolved,0.0,signal:domain(beatdeck.com); signal:unresolved,unresolved
+Swapbox,Swapbox,ent_startup_swapbox,startup,unresolved,0.0,signal:domain(swapbox.com); signal:unresolved,unresolved
+Experiment,Experiment,ent_startup_experiment,startup,unresolved,0.0,signal:domain(experiment.com); signal:unresolved,unresolved
+Heap,Heap,ent_startup_heap,startup,unresolved,0.0,signal:domain(heap.io); signal:unresolved,unresolved
+MedXT,MedXT,ent_startup_medxt,startup,unresolved,0.0,signal:domain(medxt.com); signal:unresolved,unresolved
+SimplyInsured,SimplyInsured,ent_startup_simplyinsured,startup,unresolved,0.0,signal:domain(simplyinsured.com); signal:unresolved,unresolved
+FlightCar,FlightCar,ent_startup_flightcar,startup,unresolved,0.0,signal:domain(flightcar.com); signal:unresolved,unresolved
+CrowdMed,CrowdMed,ent_startup_crowdmed,startup,unresolved,0.0,signal:domain(crowdmed.com); signal:unresolved,unresolved
+Wefunder,Wefunder,ent_startup_wefunder,startup,unresolved,0.0,signal:domain(wefunder.com); signal:unresolved,unresolved
+Coin,Coin,ent_startup_coin,startup,unresolved,0.0,signal:domain(onlycoin.com); signal:unresolved,unresolved
+Wevorce,Wevorce,ent_startup_wevorce,startup,unresolved,0.0,signal:domain(wevorce.com); signal:unresolved,unresolved
+Kalibrr,Kalibrr,ent_startup_kalibrr,startup,unresolved,0.0,signal:domain(kalibrr.com); signal:unresolved,unresolved
+Zenefits,Zenefits,ent_startup_zenefits,startup,unresolved,0.0,signal:domain(zenefits.com); signal:unresolved,unresolved
+Goldbelly,Goldbelly,ent_startup_goldbelly,startup,unresolved,0.0,signal:domain(goldbelly.com); signal:unresolved,unresolved
+Logiblock,Logiblock,ent_startup_logiblock,startup,unresolved,0.0,signal:domain(logiblock.com); signal:unresolved,unresolved
+Semantics3,Semantics3,ent_startup_semantics3,startup,unresolved,0.0,signal:domain(semantics3.com); signal:unresolved,unresolved
+Teespring,Teespring,ent_startup_teespring,startup,unresolved,0.0,signal:domain(teespring.com); signal:unresolved,unresolved
+Airware,Airware,ent_startup_airware,startup,unresolved,0.0,signal:domain(airware.com); signal:unresolved,unresolved
+Posmetrics,Posmetrics,ent_startup_posmetrics,startup,unresolved,0.0,signal:domain(posmetrics.com); signal:unresolved,unresolved
+Prophecy Sciences,Prophecy Sciences,ent_startup_prophecy_sciences,startup,unresolved,0.0,signal:domain(prophecysciences.com); signal:unresolved,unresolved
+Watsi,Watsi,ent_startup_watsi,startup,unresolved,0.0,signal:domain(watsi.org); signal:unresolved,unresolved
+7cups,7cups,ent_startup_7cups,startup,unresolved,0.0,signal:domain(7cups.com); signal:unresolved,unresolved
+URX,URX,ent_startup_urx,startup,unresolved,0.0,signal:domain(urx.com); signal:unresolved,unresolved
+Teleborder,Teleborder,ent_startup_teleborder,startup,unresolved,0.0,signal:domain(teleborder.com); signal:unresolved,unresolved
+FanHero,FanHero,ent_startup_fanhero,startup,unresolved,0.0,signal:domain(fanhero.com); signal:unresolved,unresolved
+Apptimize,Apptimize,ent_startup_apptimize,startup,unresolved,0.0,signal:domain(apptimize.com); signal:unresolved,unresolved
+Asseta,Asseta,ent_startup_asseta,startup,unresolved,0.0,signal:domain(asseta.com); signal:unresolved,unresolved
+Standard Treasury,Standard Treasury,ent_startup_standard_treasury,startup,unresolved,0.0,signal:domain(standardtreasury.com); signal:unresolved,unresolved
+BloomThat,BloomThat,ent_startup_bloomthat,startup,unresolved,0.0,signal:domain(bloomthat.com); signal:unresolved,unresolved
+StackMachine,StackMachine,ent_startup_stackmachine,startup,unresolved,0.0,signal:domain(stackmachine.com); signal:unresolved,unresolved
+Hackermeter,Hackermeter,ent_startup_hackermeter,startup,unresolved,0.0,signal:domain(hackermeter.com); signal:unresolved,unresolved
+Buttercoin,Buttercoin,ent_startup_buttercoin,startup,unresolved,0.0,signal:domain(buttercoin.com); signal:unresolved,unresolved
+CoreOS,CoreOS,ent_startup_coreos,startup,unresolved,0.0,signal:domain(coreos.com); signal:unresolved,unresolved
+Crowdery,Crowdery,ent_startup_crowdery,startup,unresolved,0.0,signal:domain(crowdery.com); signal:unresolved,unresolved
+GoComm,GoComm,ent_startup_gocomm,startup,unresolved,0.0,signal:domain(gocomm.com); signal:unresolved,unresolved
+DoorDash,DoorDash,ent_startup_doordash,startup,unresolved,0.0,signal:domain(doordash.com); signal:unresolved,unresolved
+EasyPost,EasyPost,ent_startup_easypost,startup,unresolved,0.0,signal:domain(easypost.com); signal:unresolved,unresolved
+SimpleLegal,SimpleLegal,ent_startup_simplelegal,startup,unresolved,0.0,signal:domain(simplelegal.com); signal:unresolved,unresolved
+"Estimote, Inc.","Estimote, Inc.",ent_startup_estimote,startup,unresolved,0.0,signal:domain(estimote.com); signal:unresolved,unresolved
+Floobits,Floobits,ent_startup_floobits,startup,unresolved,0.0,signal:domain(floobits.com); signal:unresolved,unresolved
+Glio,Glio,ent_startup_glio,startup,unresolved,0.0,signal:domain(glio.com); signal:unresolved,unresolved
+Graft Concepts,Graft Concepts,ent_startup_graft_concepts,startup,unresolved,0.0,signal:domain(graftconcepts.com); signal:unresolved,unresolved
+Hum,Hum,ent_startup_hum,startup,unresolved,0.0,signal:domain(letshum.com); signal:unresolved,unresolved
+Cratejoy,Cratejoy,ent_startup_cratejoy,startup,unresolved,0.0,signal:domain(cratejoy.com); signal:unresolved,unresolved
+SpoonRocket,SpoonRocket,ent_startup_spoonrocket,startup,unresolved,0.0,signal:domain(spoonrocket.com); signal:unresolved,unresolved
+Casetext,Casetext,ent_startup_casetext,startup,unresolved,0.0,signal:domain(casetext.com); signal:unresolved,unresolved
+Layer By Layer,Layer By Layer,ent_startup_layer_by_layer,startup,unresolved,0.0,signal:domain(layerbylayer.com); signal:unresolved,unresolved
+Le Tote,Le Tote,ent_startup_le_tote,startup,unresolved,0.0,signal:domain(letote.com); signal:unresolved,unresolved
+LocalOn,LocalOn,ent_startup_localon,startup,unresolved,0.0,signal:domain(localon.com); signal:unresolved,unresolved
+Senic,Senic,ent_startup_senic,startup,unresolved,0.0,signal:domain(senic.com); signal:unresolved,unresolved
+Meta,Meta,ent_startup_meta,startup,unresolved,0.0,signal:domain(metavision.com); signal:unresolved,unresolved
+One Month,One Month,ent_startup_one_month,startup,unresolved,0.0,signal:domain(onemonth.com); signal:unresolved,unresolved
+Panorama Education,Panorama Education,ent_startup_panorama_education,startup,unresolved,0.0,signal:domain(panoramaed.com); signal:unresolved,unresolved
+Watchsend,Watchsend,ent_startup_watchsend,startup,unresolved,0.0,signal:domain(watchsend.com); signal:unresolved,unresolved
+Lob,Lob,ent_startup_lob,startup,unresolved,0.0,signal:domain(lob.com); signal:unresolved,unresolved
+Amulyte,Amulyte,ent_startup_amulyte,startup,unresolved,0.0,signal:domain(amulyte.com); signal:unresolved,unresolved
+RealCrowd,RealCrowd,ent_startup_realcrowd,startup,unresolved,0.0,signal:domain(realcrowd.com); signal:unresolved,unresolved
+Reebee,Reebee,ent_startup_reebee,startup,unresolved,0.0,signal:domain(reebee.com); signal:unresolved,unresolved
+Arcus,Arcus,ent_startup_arcus,startup,unresolved,0.0,signal:domain(arcusfi.com); signal:unresolved,unresolved
+Audobox,Audobox,ent_startup_audobox,startup,unresolved,0.0,signal:domain(audobox.com); signal:unresolved,unresolved
+Bop.fm,Bop.fm,ent_startup_bop_fm,startup,unresolved,0.0,signal:domain(bop.fm); signal:unresolved,unresolved
+Butter Systems,Butter Systems,ent_startup_butter,startup,unresolved,0.0,signal:domain(buttersystems.com); signal:unresolved,unresolved
+StatusPage,StatusPage,ent_startup_statuspage,startup,unresolved,0.0,signal:domain(statuspage.io); signal:unresolved,unresolved
+Lumoid,Lumoid,ent_startup_lumoid,startup,unresolved,0.0,signal:domain(lumoid.com); signal:unresolved,unresolved
+SoundFocus,SoundFocus,ent_startup_soundfocus,startup,unresolved,0.0,signal:domain(soundfocus.com); signal:unresolved,unresolved
+True Link,True Link,ent_startup_true_link,startup,unresolved,0.0,signal:domain(truelinkfinancial.com); signal:unresolved,unresolved
+Datarank,Datarank,ent_startup_datarank,startup,unresolved,0.0,signal:domain(datarank.com); signal:unresolved,unresolved
+Kivo,Kivo,ent_startup_kivo,startup,unresolved,0.0,signal:domain(kivo.com); signal:unresolved,unresolved
+Webflow,Webflow,ent_startup_webflow,startup,unresolved,0.0,signal:domain(webflow.com); signal:unresolved,unresolved
+Weilos,Weilos,ent_startup_weilos,startup,unresolved,0.0,signal:domain(weilos.com); signal:unresolved,unresolved
+WebCake,WebCake,ent_startup_webcake,startup,unresolved,0.0,signal:domain(designly.com); signal:unresolved,unresolved
+Ixiplay,Ixiplay,ent_startup_ixiplay,startup,unresolved,0.0,signal:unresolved,unresolved
+Echo Locker,Echo Locker,ent_startup_echo_locker,startup,unresolved,0.0,signal:domain(echolocker.com); signal:unresolved,unresolved
+42,42,ent_startup_42,startup,unresolved,0.0,signal:domain(42technologies.com); signal:unresolved,unresolved
+Abacus,Abacus,ent_startup_abacus,startup,unresolved,0.0,signal:domain(abacus.com); signal:unresolved,unresolved
+Boostable,Boostable,ent_startup_boostable,startup,unresolved,0.0,signal:domain(boostable.com); signal:unresolved,unresolved
+AirHelp,AirHelp,ent_startup_airhelp,startup,unresolved,0.0,signal:domain(airhelp.com); signal:unresolved,unresolved
+Two Tap,Two Tap,ent_startup_two_tap,startup,unresolved,0.0,signal:domain(twotap.com); signal:unresolved,unresolved
+Ambition,Ambition,ent_startup_ambition,startup,unresolved,0.0,signal:domain(ambition.com); signal:unresolved,unresolved
+CareMessage,CareMessage,ent_startup_caremessage,startup,unresolved,0.0,signal:domain(caremessage.org); signal:unresolved,unresolved
+AptDeco,AptDeco,ent_startup_aptdeco,startup,unresolved,0.0,signal:domain(aptdeco.com); signal:unresolved,unresolved
+Awesometalk,Awesometalk,ent_startup_awesometalk,startup,unresolved,0.0,signal:domain(awesometalk.com); signal:unresolved,unresolved
+Bellabeat,Bellabeat,ent_startup_bellabeat,startup,unresolved,0.0,signal:domain(bellabeat.com); signal:unresolved,unresolved
+Chargehound,Chargehound,ent_startup_chargehound,startup,unresolved,0.0,signal:domain(chargehound.com); signal:unresolved,unresolved
+Cambly,Cambly,ent_startup_cambly,startup,unresolved,0.0,signal:domain(cambly.com); signal:unresolved,unresolved
+Futureleague,Futureleague,ent_startup_futureleague,startup,unresolved,0.0,signal:domain(futureleague.co); signal:unresolved,unresolved
+Noora Health,Noora Health,ent_startup_noora_health,startup,unresolved,0.0,signal:domain(noorahealth.org); signal:unresolved,unresolved
+CodeCombat,CodeCombat,ent_startup_codecombat,startup,unresolved,0.0,signal:domain(codecombat.com); signal:unresolved,unresolved
+CodeNow,CodeNow,ent_startup_codenow,startup,unresolved,0.0,signal:domain(codenow.org); signal:unresolved,unresolved
+Threadable,Threadable,ent_startup_threadable,startup,unresolved,0.0,signal:domain(threadable.com); signal:unresolved,unresolved
+Cruise,Cruise,ent_startup_cruise,startup,unresolved,0.0,signal:domain(getcruise.com); signal:unresolved,unresolved
+Dating Ring,Dating Ring,ent_startup_dating_ring,startup,unresolved,0.0,signal:domain(datingring.com); signal:unresolved,unresolved
+Yumbin,Yumbin,ent_startup_yumbin,startup,unresolved,0.0,signal:domain(yumbin.com); signal:unresolved,unresolved
+Drive Pulse,Drive Pulse,ent_startup_drive_pulse,startup,unresolved,0.0,signal:domain(drivepulseapp.com); signal:unresolved,unresolved
+Eventjoy,Eventjoy,ent_startup_eventjoy,startup,unresolved,0.0,signal:domain(eventjoy.com); signal:unresolved,unresolved
+Flexport,Flexport,ent_startup_flexport,startup,unresolved,0.0,signal:domain(flexport.com); signal:unresolved,unresolved
+Axoni,Axoni,ent_startup_axoni,startup,unresolved,0.0,signal:domain(axoni.com); signal:unresolved,unresolved
+Kimono Labs,Kimono Labs,ent_startup_kimono,startup,unresolved,0.0,signal:domain(kimonolabs.com); signal:unresolved,unresolved
+Kuna Systems,Kuna Systems,ent_startup_kuna,startup,unresolved,0.0,signal:domain(getkuna.com); signal:unresolved,unresolved
+DevCycle,DevCycle,ent_startup_devcycle,startup,unresolved,0.0,signal:domain(devcycle.com); signal:unresolved,unresolved
+MadeSolid,MadeSolid,ent_startup_madesolid,startup,unresolved,0.0,signal:domain(madesolid.com); signal:unresolved,unresolved
+Emailio,Emailio,ent_startup_emailio,startup,unresolved,0.0,signal:domain(emailio.com); signal:unresolved,unresolved
+MBX,MBX,ent_startup_mbx,startup,unresolved,0.0,signal:domain(us.memebox.com); signal:unresolved,unresolved
+Motionlead,Motionlead,ent_startup_motionlead,startup,unresolved,0.0,signal:domain(motionlead.com); signal:unresolved,unresolved
+Move Loot,Move Loot,ent_startup_move_loot,startup,unresolved,0.0,signal:domain(moveloot.com); signal:unresolved,unresolved
+Next Caller,Next Caller,ent_startup_next_caller,startup,unresolved,0.0,signal:domain(nextcaller.com); signal:unresolved,unresolved
+HoverChat,HoverChat,ent_startup_hoverchat,startup,unresolved,0.0,signal:domain(hoverchat.com); signal:unresolved,unresolved
+One Degree,One Degree,ent_startup_one_degree,startup,unresolved,0.0,signal:domain(1degree.org); signal:unresolved,unresolved
+StackLead,StackLead,ent_startup_stacklead,startup,unresolved,0.0,signal:domain(stacklead.com); signal:unresolved,unresolved
+Theorem,Theorem,ent_startup_theorem,startup,unresolved,0.0,signal:domain(theoremlp.com); signal:unresolved,unresolved
+Liftigniter,Liftigniter,ent_startup_liftigniter,startup,unresolved,0.0,signal:domain(liftigniter.com); signal:unresolved,unresolved
+PiinPoint,PiinPoint,ent_startup_piinpoint,startup,unresolved,0.0,signal:domain(piinpoint.com); signal:unresolved,unresolved
+PipelineDB,PipelineDB,ent_startup_pipelinedb,startup,unresolved,0.0,signal:domain(pipelinedb.com); signal:unresolved,unresolved
+Povio,Povio,ent_startup_povio,startup,unresolved,0.0,signal:domain(povio.com); signal:unresolved,unresolved
+Pushbullet,Pushbullet,ent_startup_pushbullet,startup,unresolved,0.0,signal:domain(pushbullet.com); signal:unresolved,unresolved
+Rickshaw,Rickshaw,ent_startup_rickshaw,startup,unresolved,0.0,signal:domain(gorickshaw.com); signal:unresolved,unresolved
+Rocketrip,Rocketrip,ent_startup_rocketrip,startup,unresolved,0.0,signal:domain(rocketrip.com); signal:unresolved,unresolved
+Shoobs,Shoobs,ent_startup_shoobs,startup,unresolved,0.0,signal:domain(shoobs.com); signal:unresolved,unresolved
+SketchDeck,SketchDeck,ent_startup_sketchdeck,startup,unresolved,0.0,signal:domain(sketchdeck.com); signal:unresolved,unresolved
+MerryMint,MerryMint,ent_startup_merrymint,startup,unresolved,0.0,signal:domain(merrymint.co); signal:unresolved,unresolved
+Snapdocs,Snapdocs,ent_startup_snapdocs,startup,unresolved,0.0,signal:domain(snapdocs.com); signal:unresolved,unresolved
+Shopagram,Shopagram,ent_startup_shopagram,startup,unresolved,0.0,signal:domain(shopagram.co); signal:unresolved,unresolved
+Edyn,Edyn,ent_startup_edyn,startup,unresolved,0.0,signal:domain(edyn.com); signal:unresolved,unresolved
+Style Lend,Style Lend,ent_startup_style_lend,startup,unresolved,0.0,signal:domain(stylelend.com); signal:unresolved,unresolved
+Guesty,Guesty,ent_startup_guesty,startup,unresolved,0.0,signal:domain(guesty.com); signal:unresolved,unresolved
+Terravion,Terravion,ent_startup_terravion,startup,unresolved,0.0,signal:domain(terravion.com); signal:unresolved,unresolved
+TrueVault,TrueVault,ent_startup_truevault,startup,unresolved,0.0,signal:domain(truevault.com); signal:unresolved,unresolved
+Unicornly,Unicornly,ent_startup_unicornly,startup,unresolved,0.0,signal:domain(unicorn.ly); signal:unresolved,unresolved
+Weave,Weave,ent_startup_weave,startup,unresolved,0.0,signal:domain(getweave.com); signal:unresolved,unresolved
+Wit.ai,Wit.ai,ent_startup_wit,startup,unresolved,0.0,signal:domain(wit.ai); signal:unresolved,unresolved
+Zesty,Zesty,ent_startup_zesty,startup,unresolved,0.0,signal:domain(zesty.com); signal:unresolved,unresolved
+Zidisha,Zidisha,ent_startup_zidisha,startup,unresolved,0.0,signal:domain(zidisha.org); signal:unresolved,unresolved
+Zinc,Zinc,ent_startup_zinc,startup,unresolved,0.0,signal:domain(zinc.com); signal:unresolved,unresolved
+ZowPow,ZowPow,ent_startup_zowpow,startup,unresolved,0.0,signal:domain(zowpow.com); signal:unresolved,unresolved
+Algolia,Algolia,ent_startup_algolia,startup,unresolved,0.0,signal:domain(algolia.com); signal:unresolved,unresolved
+Gobble,Gobble,ent_startup_gobble,startup,unresolved,0.0,signal:domain(gobble.com); signal:unresolved,unresolved
+AirPair,AirPair,ent_startup_airpair,startup,unresolved,0.0,signal:domain(airpair.com); signal:unresolved,unresolved
+GBatteries,GBatteries,ent_startup_gbatteries,startup,unresolved,0.0,signal:domain(gbatteries.com); signal:unresolved,unresolved
+Unbabel,Unbabel,ent_startup_unbabel,startup,unresolved,0.0,signal:domain(unbabel.com); signal:unresolved,unresolved
+MixerBox,MixerBox,ent_startup_mixerbox,startup,unresolved,0.0,signal:domain(mixerbox.com); signal:unresolved,unresolved
+OpenCurriculum,OpenCurriculum,ent_startup_opencurriculum,startup,unresolved,0.0,signal:domain(opencurriculum.org); signal:unresolved,unresolved
+Dyspatch,Dyspatch,ent_startup_dyspatch,startup,unresolved,0.0,signal:domain(dyspatch.io); signal:unresolved,unresolved
+Whirlscape,Whirlscape,ent_startup_whirlscape,startup,unresolved,0.0,signal:domain(getdango.com); signal:unresolved,unresolved
+Avametric,Avametric,ent_startup_avametric,startup,unresolved,0.0,signal:domain(avametric.com); signal:unresolved,unresolved
+Framed Data,Framed Data,ent_startup_framed_data,startup,unresolved,0.0,signal:domain(framed.io); signal:unresolved,unresolved
+Immunity Project,Immunity Project,ent_startup_immunity_project,startup,unresolved,0.0,signal:domain(immunityproject.org); signal:unresolved,unresolved
+Vidpresso,Vidpresso,ent_startup_vidpresso,startup,unresolved,0.0,signal:domain(facebook.com); signal:unresolved,unresolved
+Aptible,Aptible,ent_startup_aptible,startup,unresolved,0.0,signal:domain(aptible.com); signal:unresolved,unresolved
+Zip Phone,Zip Phone,ent_startup_zip_phone,startup,unresolved,0.0,signal:domain(zipphone.com); signal:unresolved,unresolved
+Backpack,Backpack,ent_startup_backpack,startup,unresolved,0.0,signal:domain(backpackbang.com); signal:unresolved,unresolved
+Bannerman,Bannerman,ent_startup_bannerman,startup,unresolved,0.0,signal:domain(bannerman.com); signal:unresolved,unresolved
+Parenthoods,Parenthoods,ent_startup_parenthoods,startup,unresolved,0.0,signal:domain(parenthoods.co); signal:unresolved,unresolved
+SpringWit,SpringWit,ent_startup_springwit,startup,unresolved,0.0,signal:domain(springwit.com); signal:unresolved,unresolved
+Bikanta,Bikanta,ent_startup_bikanta,startup,unresolved,0.0,signal:domain(bikanta.com); signal:unresolved,unresolved
+Billforward,Billforward,ent_startup_billforward,startup,unresolved,0.0,signal:domain(billforward.io); signal:unresolved,unresolved
+Bitaccess,Bitaccess,ent_startup_bitaccess,startup,unresolved,0.0,signal:domain(bitaccess.com); signal:unresolved,unresolved
+Carlypso,Carlypso,ent_startup_carlypso,startup,unresolved,0.0,signal:domain(carlypso.com); signal:unresolved,unresolved
+Checkr,Checkr,ent_startup_checkr,startup,unresolved,0.0,signal:domain(checkr.com); signal:unresolved,unresolved
+Clara Labs,Clara Labs,ent_startup_clara,startup,unresolved,0.0,signal:domain(claralabs.com); signal:unresolved,unresolved
+Clear,Clear,ent_startup_clear,startup,unresolved,0.0,signal:domain(clear.in); signal:unresolved,unresolved
+Craft Coffee,Craft Coffee,ent_startup_craft_coffee,startup,unresolved,0.0,signal:domain(craftcoffee.com); signal:unresolved,unresolved
+PersistIQ,PersistIQ,ent_startup_persistiq,startup,unresolved,0.0,signal:domain(persistiq.com); signal:unresolved,unresolved
+Doblet,Doblet,ent_startup_doblet,startup,unresolved,0.0,signal:domain(doblet.com); signal:unresolved,unresolved
+Owners Circle,Owners Circle,ent_startup_owners_circle,startup,unresolved,0.0,signal:domain(ownerscircle.com); signal:unresolved,unresolved
+Fixed,Fixed,ent_startup_fixed,startup,unresolved,0.0,signal:domain(getfixed.me); signal:unresolved,unresolved
+Flaviar,Flaviar,ent_startup_flaviar,startup,unresolved,0.0,signal:domain(flaviar.com); signal:unresolved,unresolved
+Flytenow,Flytenow,ent_startup_flytenow,startup,unresolved,0.0,signal:domain(flytenow.com); signal:unresolved,unresolved
+Hyperpad,Hyperpad,ent_startup_hyperpad,startup,unresolved,0.0,signal:domain(hyperpad.com); signal:unresolved,unresolved
+TAXA Biotechnologies,TAXA Biotechnologies,ent_startup_taxa_biotechnologies,startup,unresolved,0.0,signal:domain(taxa.com); signal:unresolved,unresolved
+GovPredict,GovPredict,ent_startup_govpredict,startup,unresolved,0.0,signal:domain(govpredict.com); signal:unresolved,unresolved
+Blockspring,Blockspring,ent_startup_blockspring,startup,unresolved,0.0,signal:domain(blockspring.com); signal:unresolved,unresolved
+Greentoe,Greentoe,ent_startup_greentoe,startup,unresolved,0.0,signal:domain(greentoe.com); signal:unresolved,unresolved
+Hublo,Hublo,ent_startup_hublo,startup,unresolved,0.0,signal:domain(hublo.com); signal:unresolved,unresolved
+VizeraLabs,VizeraLabs,ent_startup_vizeralabs,startup,unresolved,0.0,signal:domain(vizeralabs.com); signal:unresolved,unresolved
+Impraise,Impraise,ent_startup_impraise,startup,unresolved,0.0,signal:domain(impraise.com); signal:unresolved,unresolved
+Protocol Labs,Protocol Labs,ent_startup_protocol,startup,unresolved,0.0,signal:domain(protocol.ai); signal:unresolved,unresolved
+Kash,Kash,ent_startup_kash,startup,unresolved,0.0,signal:domain(withkash.com); signal:unresolved,unresolved
+Lawn Love,Lawn Love,ent_startup_lawn_love,startup,unresolved,0.0,signal:domain(lawnlove.com); signal:unresolved,unresolved
+ListRunner,ListRunner,ent_startup_listrunner,startup,unresolved,0.0,signal:domain(listrunnerapp.com); signal:unresolved,unresolved
+Replenish,Replenish,ent_startup_replenish,startup,unresolved,0.0,signal:domain(getreplenish.com); signal:unresolved,unresolved
+MetricWire,MetricWire,ent_startup_metricwire,startup,unresolved,0.0,signal:domain(metricwire.com); signal:unresolved,unresolved
+MTailor,MTailor,ent_startup_mtailor,startup,unresolved,0.0,signal:domain(mtailor.com); signal:unresolved,unresolved
+Naytev,Naytev,ent_startup_naytev,startup,unresolved,0.0,signal:domain(naytev.com); signal:unresolved,unresolved
+Neptune.io,Neptune.io,ent_startup_neptune_io,startup,unresolved,0.0,signal:domain(neptune.io); signal:unresolved,unresolved
+Alchemy,Alchemy,ent_startup_alchemy,startup,unresolved,0.0,signal:domain(alchemynano.com); signal:unresolved,unresolved
+Nightingale,Nightingale,ent_startup_nightingale,startup,unresolved,0.0,signal:domain(nightingaleapp.com); signal:unresolved,unresolved
+Permutive,Permutive,ent_startup_permutive,startup,unresolved,0.0,signal:domain(permutive.com); signal:unresolved,unresolved
+PicnicAI,PicnicAI,ent_startup_picnicai,startup,unresolved,0.0,signal:domain(picnic.ai); signal:unresolved,unresolved
+In Your Corner,In Your Corner,ent_startup_in_your_corner,startup,unresolved,0.0,signal:domain(inyourcorneronline.com); signal:unresolved,unresolved
+Product Hunt,Product Hunt,ent_startup_product_hunt,startup,unresolved,0.0,signal:domain(producthunt.com); signal:unresolved,unresolved
+Cheddar,Cheddar,ent_startup_cheddar,startup,unresolved,0.0,signal:domain(cheddar.io); signal:unresolved,unresolved
+Rigetti Computing,Rigetti Computing,ent_startup_rigetti_computing,startup,unresolved,0.0,signal:domain(rigetti.com); signal:unresolved,unresolved
+Roost,Roost,ent_startup_roost,startup,unresolved,0.0,signal:domain(goroost.com); signal:unresolved,unresolved
+SFOX,SFOX,ent_startup_sfox,startup,unresolved,0.0,signal:domain(sfox.com); signal:unresolved,unresolved
+UserGems,UserGems,ent_startup_usergems,startup,unresolved,0.0,signal:domain(usergems.com); signal:unresolved,unresolved
+Apto Payments,Apto Payments,ent_startup_apto_payments,startup,unresolved,0.0,signal:domain(aptopayments.com); signal:unresolved,unresolved
+ShipBob,ShipBob,ent_startup_shipbob,startup,unresolved,0.0,signal:domain(shipbob.com); signal:unresolved,unresolved
+Shout,Shout,ent_startup_shout,startup,unresolved,0.0,signal:domain(useshout.com); signal:unresolved,unresolved
+SalesSift,SalesSift,ent_startup_salessift,startup,unresolved,0.0,signal:domain(salessift.com); signal:unresolved,unresolved
+SpotAngels,SpotAngels,ent_startup_spotangels,startup,unresolved,0.0,signal:domain(spotangels.com); signal:unresolved,unresolved
+HauteDay,HauteDay,ent_startup_hauteday,startup,unresolved,0.0,signal:domain(hauteday.com); signal:unresolved,unresolved
+Tenjin,Tenjin,ent_startup_tenjin,startup,unresolved,0.0,signal:domain(tenjin.com); signal:unresolved,unresolved
+Paid,Paid,ent_startup_paid,startup,unresolved,0.0,signal:domain(paidlabs.com); signal:unresolved,unresolved
+Think Gaming,Think Gaming,ent_startup_think_gaming,startup,unresolved,0.0,signal:domain(thinkgaming.com); signal:unresolved,unresolved
+Hive,Hive,ent_startup_hive,startup,unresolved,0.0,signal:domain(hive.co); signal:unresolved,unresolved
+Payable,Payable,ent_startup_payable,startup,unresolved,0.0,signal:domain(payable.com); signal:unresolved,unresolved
+Tinker,Tinker,ent_startup_tinker,startup,unresolved,0.0,signal:domain(tinkercorp.com); signal:unresolved,unresolved
+Tule,Tule,ent_startup_tule,startup,unresolved,0.0,signal:domain(tuletechnologies.com); signal:unresolved,unresolved
+Roomstorm,Roomstorm,ent_startup_roomstorm,startup,unresolved,0.0,signal:domain(roomstorm.com); signal:unresolved,unresolved
+Weave,Weave,ent_startup_weave,startup,unresolved,0.0,signal:domain(weave.in); signal:unresolved,unresolved
+Whirl,Whirl,ent_startup_whirl,startup,unresolved,0.0,signal:domain(getwhirl.com); signal:unresolved,unresolved
+Women.com,Women.com,ent_startup_women_com,startup,unresolved,0.0,signal:domain(women.com); signal:unresolved,unresolved
+Zoomer,Zoomer,ent_startup_zoomer,startup,unresolved,0.0,signal:domain(zoomerdelivery.com); signal:unresolved,unresolved
+Beep,Beep,ent_startup_beep,startup,unresolved,0.0,signal:domain(beepnetworks.com); signal:unresolved,unresolved
+Front,Front,ent_startup_front,startup,unresolved,0.0,signal:domain(front.com); signal:unresolved,unresolved
+Cognito,Cognito,ent_startup_cognito,startup,unresolved,0.0,signal:domain(cognitohq.com); signal:unresolved,unresolved
+Ginkgo Bioworks,Ginkgo Bioworks,ent_startup_ginkgo_bioworks,startup,unresolved,0.0,signal:domain(ginkgobioworks.com); signal:unresolved,unresolved
+Helion Energy,Helion Energy,ent_startup_helion_energy,startup,unresolved,0.0,signal:domain(helionenergy.com); signal:unresolved,unresolved
+Oklo,Oklo,ent_startup_oklo,startup,unresolved,0.0,signal:domain(oklo.com); signal:unresolved,unresolved
+Bayes Impact,Bayes Impact,ent_startup_bayes_impact,startup,unresolved,0.0,signal:domain(bayesimpact.org); signal:unresolved,unresolved
+Zenamins,Zenamins,ent_startup_zenamins,startup,unresolved,0.0,signal:domain(zenamins.com); signal:unresolved,unresolved
+One Codex,One Codex,ent_startup_one_codex,startup,unresolved,0.0,signal:domain(onecodex.com); signal:unresolved,unresolved
+Ravti,Ravti,ent_startup_ravti,startup,unresolved,0.0,signal:domain(ravti.com); signal:unresolved,unresolved
+Sliced Investing,Sliced Investing,ent_startup_sliced_investing,startup,unresolved,0.0,signal:unresolved,unresolved
+Unwind Me,Unwind Me,ent_startup_unwind_me,startup,unresolved,0.0,signal:domain(unwind.me); signal:unresolved,unresolved
+Notable Labs,Notable Labs,ent_startup_notable,startup,unresolved,0.0,signal:domain(notablelabs.com); signal:unresolved,unresolved
+Qventus,Qventus,ent_startup_qventus,startup,unresolved,0.0,signal:domain(qventus.com); signal:unresolved,unresolved
+3dot,3dot,ent_startup_3dot,startup,unresolved,0.0,signal:domain(3dot.com); signal:unresolved,unresolved
+Final,Final,ent_startup_final,startup,unresolved,0.0,signal:domain(getfinal.com); signal:unresolved,unresolved
+Pomello,Pomello,ent_startup_pomello,startup,unresolved,0.0,signal:domain(pomello.com); signal:unresolved,unresolved
+Tech in Asia,Tech in Asia,ent_startup_tech_in_asia,startup,unresolved,0.0,signal:domain(techinasia.com); signal:unresolved,unresolved
+20n,20n,ent_startup_20n,startup,unresolved,0.0,signal:domain(20n.com); signal:unresolved,unresolved
+Akido Labs,Akido Labs,ent_startup_akido,startup,unresolved,0.0,signal:domain(akidolabs.com); signal:unresolved,unresolved
+Mezmo,Mezmo,ent_startup_mezmo,startup,unresolved,0.0,signal:domain(mezmo.com); signal:unresolved,unresolved
+Smyte,Smyte,ent_startup_smyte,startup,unresolved,0.0,signal:domain(smyte.com); signal:unresolved,unresolved
+Magic,Magic,ent_startup_magic,startup,unresolved,0.0,signal:domain(getmagic.com); signal:unresolved,unresolved
+Bizzy,Bizzy,ent_startup_bizzy,startup,unresolved,0.0,signal:domain(bizzy.io); signal:unresolved,unresolved
+Bluesmart,Bluesmart,ent_startup_bluesmart,startup,unresolved,0.0,signal:domain(bluesmart.com); signal:unresolved,unresolved
+Booktrope,Booktrope,ent_startup_booktrope,startup,unresolved,0.0,signal:domain(booktrope.com); signal:unresolved,unresolved
+Bright,Bright,ent_startup_bright,startup,unresolved,0.0,signal:domain(thinkbright.mx); signal:unresolved,unresolved
+Numerion Labs,Numerion Labs,ent_startup_numerion,startup,unresolved,0.0,signal:domain(numerionlabs.ai); signal:unresolved,unresolved
+Cribspot,Cribspot,ent_startup_cribspot,startup,unresolved,0.0,signal:domain(cribspot.com); signal:unresolved,unresolved
+CyberFend,CyberFend,ent_startup_cyberfend,startup,unresolved,0.0,signal:domain(cyberfend.com); signal:unresolved,unresolved
+Democracy Earth,Democracy Earth,ent_startup_democracy_earth,startup,unresolved,0.0,signal:domain(democracy.earth); signal:unresolved,unresolved
+The Human Utility,The Human Utility,ent_startup_the_human_utility,startup,unresolved,0.0,signal:domain(detroitwaterproject.org); signal:unresolved,unresolved
+Zeitview,Zeitview,ent_startup_zeitview,startup,unresolved,0.0,signal:domain(zeitview.com); signal:unresolved,unresolved
+Bankjoy,Bankjoy,ent_startup_bankjoy,startup,unresolved,0.0,signal:domain(bankjoy.com); signal:unresolved,unresolved
+GiveMeTap,GiveMeTap,ent_startup_givemetap,startup,unresolved,0.0,signal:domain(givemetap.com); signal:unresolved,unresolved
+SparkGift,SparkGift,ent_startup_sparkgift,startup,unresolved,0.0,signal:domain(sparkgift.com); signal:unresolved,unresolved
+GroupAhead,GroupAhead,ent_startup_groupahead,startup,unresolved,0.0,signal:unresolved,unresolved
+GrubMarket,GrubMarket,ent_startup_grubmarket,startup,unresolved,0.0,signal:domain(grubmarket.com); signal:unresolved,unresolved
+WorkLife,WorkLife,ent_startup_worklife,startup,unresolved,0.0,signal:domain(worklife.com); signal:unresolved,unresolved
+HigherMe,HigherMe,ent_startup_higherme,startup,unresolved,0.0,signal:domain(higherme.com); signal:unresolved,unresolved
+Instavest,Instavest,ent_startup_instavest,startup,unresolved,0.0,signal:domain(goinstavest.com); signal:unresolved,unresolved
+Kickpay,Kickpay,ent_startup_kickpay,startup,unresolved,0.0,signal:domain(kickpay.com); signal:unresolved,unresolved
+Labdoor,Labdoor,ent_startup_labdoor,startup,unresolved,0.0,signal:domain(labdoor.com); signal:unresolved,unresolved
+Platzi,Platzi,ent_startup_platzi,startup,unresolved,0.0,signal:domain(platzi.com); signal:unresolved,unresolved
+Omniref,Omniref,ent_startup_omniref,startup,unresolved,0.0,signal:domain(omniref.com); signal:unresolved,unresolved
+Open Listings,Open Listings,ent_startup_open_listings,startup,unresolved,0.0,signal:domain(openlistings.com); signal:unresolved,unresolved
+Pachyderm,Pachyderm,ent_startup_pachyderm,startup,unresolved,0.0,signal:domain(pachyderm.com); signal:unresolved,unresolved
+Pakible,Pakible,ent_startup_pakible,startup,unresolved,0.0,signal:domain(pakible.com); signal:unresolved,unresolved
+Paperspace,Paperspace,ent_startup_paperspace,startup,unresolved,0.0,signal:domain(paperspace.com); signal:unresolved,unresolved
+BuildScience,BuildScience,ent_startup_buildscience,startup,unresolved,0.0,signal:domain(buildscience.com); signal:unresolved,unresolved
+ReadMe,ReadMe,ent_startup_readme,startup,unresolved,0.0,signal:domain(readme.com); signal:unresolved,unresolved
+ReSchedule Med,ReSchedule Med,ent_startup_reschedule_med,startup,unresolved,0.0,signal:domain(reschedulemed.com); signal:unresolved,unresolved
+Shift Messenger,Shift Messenger,ent_startup_shift_messenger,startup,unresolved,0.0,signal:domain(shiftmessenger.com); signal:unresolved,unresolved
+Shift Labs,Shift Labs,ent_startup_shift,startup,unresolved,0.0,signal:domain(shiftlabs.com); signal:unresolved,unresolved
+Sails Co.,Sails Co.,ent_startup_sails,startup,unresolved,0.0,signal:domain(sailsjs.com); signal:unresolved,unresolved
+SIRUM,SIRUM,ent_startup_sirum,startup,unresolved,0.0,signal:domain(sirum.org); signal:unresolved,unresolved
+Smarking,Smarking,ent_startup_smarking,startup,unresolved,0.0,signal:domain(smarking.com); signal:unresolved,unresolved
+Tempo,Tempo,ent_startup_tempo,startup,unresolved,0.0,signal:domain(tempo.fit); signal:unresolved,unresolved
+TeamNote,TeamNote,ent_startup_teamnote,startup,unresolved,0.0,signal:domain(teamnoteapp.com); signal:unresolved,unresolved
+Makrwatch,Makrwatch,ent_startup_makrwatch,startup,unresolved,0.0,signal:domain(makrwatch.com); signal:unresolved,unresolved
+Mobydish,Mobydish,ent_startup_mobydish,startup,unresolved,0.0,signal:domain(mobydish.com); signal:unresolved,unresolved
+Remix,Remix,ent_startup_remix,startup,unresolved,0.0,signal:domain(remix.com); signal:unresolved,unresolved
+Rare Door,Rare Door,ent_startup_rare_door,startup,unresolved,0.0,signal:domain(raredoor.com); signal:unresolved,unresolved
+Underground Cellar,Underground Cellar,ent_startup_underground_cellar,startup,unresolved,0.0,signal:domain(undergroundcellar.com); signal:unresolved,unresolved
+Vest,Vest,ent_startup_vest,startup,unresolved,0.0,signal:domain(vestfin.com); signal:unresolved,unresolved
+Resolve,Resolve,ent_startup_resolve,startup,unresolved,0.0,signal:domain(resolvebim.com); signal:unresolved,unresolved
+YesGraph,YesGraph,ent_startup_yesgraph,startup,unresolved,0.0,signal:domain(yesgraph.com); signal:unresolved,unresolved
+Yhat,Yhat,ent_startup_yhat,startup,unresolved,0.0,signal:domain(yhat.com); signal:unresolved,unresolved
+Bonfire,Bonfire,ent_startup_bonfire,startup,unresolved,0.0,signal:domain(gobonfire.com); signal:unresolved,unresolved
+WayUp,WayUp,ent_startup_wayup,startup,unresolved,0.0,signal:domain(wayup.com); signal:unresolved,unresolved
+Cleanly,Cleanly,ent_startup_cleanly,startup,unresolved,0.0,signal:domain(cleanly.com); signal:unresolved,unresolved
+Dealyze,Dealyze,ent_startup_dealyze,startup,unresolved,0.0,signal:domain(dealyze.com); signal:unresolved,unresolved
+Lucira Health,Lucira Health,ent_startup_lucira_health,startup,unresolved,0.0,signal:domain(lucirahealth.com); signal:unresolved,unresolved
+Quantierra,Quantierra,ent_startup_quantierra,startup,unresolved,0.0,signal:domain(quantierra.com); signal:unresolved,unresolved
+eBrandvalue,eBrandvalue,ent_startup_ebrandvalue,startup,unresolved,0.0,signal:domain(ebrandvalue.com); signal:unresolved,unresolved
+EquipmentShare,EquipmentShare,ent_startup_equipmentshare,startup,unresolved,0.0,signal:domain(equipmentshare.com); signal:unresolved,unresolved
+GitLab,GitLab,ent_startup_gitlab,startup,unresolved,0.0,signal:domain(gitlab.com); signal:unresolved,unresolved
+Giveffect,Giveffect,ent_startup_giveffect,startup,unresolved,0.0,signal:domain(giveffect.com); signal:unresolved,unresolved
+Glassjar,Glassjar,ent_startup_glassjar,startup,unresolved,0.0,signal:domain(glassjar.co); signal:unresolved,unresolved
+Industrial Microbes,Industrial Microbes,ent_startup_industrial_microbes,startup,unresolved,0.0,signal:domain(imicrobes.com); signal:unresolved,unresolved
+NexTravel,NexTravel,ent_startup_nextravel,startup,unresolved,0.0,signal:domain(nextravel.com); signal:unresolved,unresolved
+Level Frames,Level Frames,ent_startup_level_frames,startup,unresolved,0.0,signal:domain(levelframes.com); signal:unresolved,unresolved
+Meadow,Meadow,ent_startup_meadow,startup,unresolved,0.0,signal:domain(getmeadow.com); signal:unresolved,unresolved
+Moltin,Moltin,ent_startup_moltin,startup,unresolved,0.0,signal:domain(moltin.com); signal:unresolved,unresolved
+Nextop,Nextop,ent_startup_nextop,startup,unresolved,0.0,signal:domain(nextop.io); signal:unresolved,unresolved
+Outbound,Outbound,ent_startup_outbound,startup,unresolved,0.0,signal:domain(outbound.io); signal:unresolved,unresolved
+Dabble,Dabble,ent_startup_dabble,startup,unresolved,0.0,signal:domain(dabble.so); signal:unresolved,unresolved
+Pigeonly,Pigeonly,ent_startup_pigeonly,startup,unresolved,0.0,signal:domain(pigeonly.com); signal:unresolved,unresolved
+Popular Pays,Popular Pays,ent_startup_popular_pays,startup,unresolved,0.0,signal:domain(popularpays.com); signal:unresolved,unresolved
+Pretty Instant,Pretty Instant,ent_startup_pretty_instant,startup,unresolved,0.0,signal:domain(prettyinstant.com); signal:unresolved,unresolved
+Priime,Priime,ent_startup_priime,startup,unresolved,0.0,signal:domain(priime.com); signal:unresolved,unresolved
+Razorpay,Razorpay,ent_startup_razorpay,startup,unresolved,0.0,signal:domain(razorpay.com); signal:unresolved,unresolved
+Rescue Forensics,Rescue Forensics,ent_startup_rescue_forensics,startup,unresolved,0.0,signal:domain(rescueforensics.com); signal:unresolved,unresolved
+Seed,Seed,ent_startup_seed,startup,unresolved,0.0,signal:domain(seed.co); signal:unresolved,unresolved
+SigOpt,SigOpt,ent_startup_sigopt,startup,unresolved,0.0,signal:domain(sigopt.com); signal:unresolved,unresolved
+Spoil,Spoil,ent_startup_spoil,startup,unresolved,0.0,signal:domain(spoil.co); signal:unresolved,unresolved
+Standard Cyborg,Standard Cyborg,ent_startup_standard_cyborg,startup,unresolved,0.0,signal:domain(standardcyborg.com); signal:unresolved,unresolved
+Tab,Tab,ent_startup_tab,startup,unresolved,0.0,signal:domain(tab.travel); signal:unresolved,unresolved
+Zenflow,Zenflow,ent_startup_zenflow,startup,unresolved,0.0,signal:domain(zenflow.com); signal:unresolved,unresolved
+Transcriptic,Transcriptic,ent_startup_transcriptic,startup,unresolved,0.0,signal:domain(transcriptic.com); signal:unresolved,unresolved
+Valor Water Analytics,Valor Water Analytics,ent_startup_valor_water_analytics,startup,unresolved,0.0,signal:domain(valorwater.com); signal:unresolved,unresolved
+Vanhawks,Vanhawks,ent_startup_vanhawks,startup,unresolved,0.0,signal:domain(vanhawks.com); signal:unresolved,unresolved
+VetPronto,VetPronto,ent_startup_vetpronto,startup,unresolved,0.0,signal:domain(vetpronto.com); signal:unresolved,unresolved
+Wink Health,Wink Health,ent_startup_wink_health,startup,unresolved,0.0,signal:domain(winkhealth.com); signal:unresolved,unresolved
+X-Zell,X-Zell,ent_startup_x_zell,startup,unresolved,0.0,signal:domain(x-zell.com); signal:unresolved,unresolved
+Raven Tech,Raven Tech,ent_startup_raven_tech,startup,unresolved,0.0,signal:domain(raventech.com); signal:unresolved,unresolved
+Bagaveev Corporation,Bagaveev Corporation,ent_startup_bagaveev,startup,unresolved,0.0,signal:domain(bagaveev.com); signal:unresolved,unresolved
+Lully,Lully,ent_startup_lully,startup,unresolved,0.0,signal:domain(lullysleep.com); signal:unresolved,unresolved
+Chariot,Chariot,ent_startup_chariot,startup,unresolved,0.0,signal:domain(chariot.com); signal:unresolved,unresolved
+Flip,Flip,ent_startup_flip,startup,unresolved,0.0,signal:domain(justflip.com); signal:unresolved,unresolved
+Tara AI,Tara AI,ent_startup_tara,startup,unresolved,0.0,signal:domain(tara.ai); signal:unresolved,unresolved
+Replika,Replika,ent_startup_replika,startup,unresolved,0.0,signal:domain(replika.ai); signal:unresolved,unresolved
+Automate Ads,Automate Ads,ent_startup_automate_ads,startup,unresolved,0.0,signal:domain(kuhcoon.com); signal:unresolved,unresolved
+NimbleRx,NimbleRx,ent_startup_nimblerx,startup,unresolved,0.0,signal:domain(nimblerx.com); signal:unresolved,unresolved
+Nomiku,Nomiku,ent_startup_nomiku,startup,unresolved,0.0,signal:domain(nomiku.com); signal:unresolved,unresolved
+Spire Health,Spire Health,ent_startup_spire_health,startup,unresolved,0.0,signal:domain(spirehealth.com); signal:unresolved,unresolved
+ThinAir,ThinAir,ent_startup_thinair,startup,unresolved,0.0,signal:domain(thinair.com); signal:unresolved,unresolved
+Lumi,Lumi,ent_startup_lumi,startup,unresolved,0.0,signal:domain(lumi.com); signal:unresolved,unresolved
+Mashgin,Mashgin,ent_startup_mashgin,startup,unresolved,0.0,signal:domain(mashgin.com); signal:unresolved,unresolved
+Shasqi,Shasqi,ent_startup_shasqi,startup,unresolved,0.0,signal:unresolved,unresolved
+Triplebyte,Triplebyte,ent_startup_triplebyte,startup,unresolved,0.0,signal:domain(triplebyte.com); signal:unresolved,unresolved
+Lugg,Lugg,ent_startup_lugg,startup,unresolved,0.0,signal:domain(lugg.com); signal:unresolved,unresolved
+Teleport,Teleport,ent_startup_teleport,startup,unresolved,0.0,signal:domain(goteleport.com); signal:unresolved,unresolved
+Serica,Serica,ent_startup_serica,startup,unresolved,0.0,signal:domain(sericapay.com); signal:unresolved,unresolved
+teaBOT,teaBOT,ent_startup_teabot,startup,unresolved,0.0,signal:domain(teabot.com); signal:unresolved,unresolved
+Leaders In Tech,Leaders In Tech,ent_startup_leaders_in_tech,startup,unresolved,0.0,signal:domain(leadersintech.org); signal:unresolved,unresolved
+Ironclad,Ironclad,ent_startup_ironclad,startup,unresolved,0.0,signal:domain(ironcladapp.com); signal:unresolved,unresolved
+Jopwell,Jopwell,ent_startup_jopwell,startup,unresolved,0.0,signal:domain(jopwell.com); signal:unresolved,unresolved
+L.,L.,ent_startup_l,startup,unresolved,0.0,signal:domain(thisisl.com); signal:unresolved,unresolved
+New Story,New Story,ent_startup_new_story,startup,unresolved,0.0,signal:domain(newstoryhomes.org); signal:unresolved,unresolved
+OpenInvest,OpenInvest,ent_startup_openinvest,startup,unresolved,0.0,signal:domain(openinvest.com); signal:unresolved,unresolved
+Gemnote,Gemnote,ent_startup_gemnote,startup,unresolved,0.0,signal:domain(gemnote.com); signal:unresolved,unresolved
+Assembly,Assembly,ent_startup_assembly,startup,unresolved,0.0,signal:domain(asm.co); signal:unresolved,unresolved
+PartnerStack,PartnerStack,ent_startup_partnerstack,startup,unresolved,0.0,signal:domain(partnerstack.com); signal:unresolved,unresolved
+Roomblocker,Roomblocker,ent_startup_roomblocker,startup,unresolved,0.0,signal:domain(roomblocker.com); signal:unresolved,unresolved
+ROSS Intelligence,ROSS Intelligence,ent_startup_ross_intelligence,startup,unresolved,0.0,signal:domain(rossintelligence.com); signal:unresolved,unresolved
+Scope AR,Scope AR,ent_startup_scope_ar,startup,unresolved,0.0,signal:domain(scopear.com); signal:unresolved,unresolved
+Second Measure,Second Measure,ent_startup_second_measure,startup,unresolved,0.0,signal:domain(secondmeasure.com); signal:unresolved,unresolved
+SnapMagic,SnapMagic,ent_startup_snapmagic,startup,unresolved,0.0,signal:domain(snapmagic.com); signal:unresolved,unresolved
+SourceDNA,SourceDNA,ent_startup_sourcedna,startup,unresolved,0.0,signal:domain(sourcedna.com); signal:unresolved,unresolved
+Vernox,Vernox,ent_startup_vernox,startup,unresolved,0.0,signal:domain(vernox.io); signal:unresolved,unresolved
+Hickory,Hickory,ent_startup_hickory,startup,unresolved,0.0,signal:domain(hickorytraining.com); signal:unresolved,unresolved
+Heroic Labs,Heroic Labs,ent_startup_heroic,startup,unresolved,0.0,signal:domain(heroiclabs.com); signal:unresolved,unresolved
+Airmada,Airmada,ent_startup_airmada,startup,unresolved,0.0,signal:domain(airmada.com); signal:unresolved,unresolved
+Call9,Call9,ent_startup_call9,startup,unresolved,0.0,signal:domain(callnine.com); signal:unresolved,unresolved
+CareLedger,CareLedger,ent_startup_careledger,startup,unresolved,0.0,signal:domain(careledger.com); signal:unresolved,unresolved
+Branch8,Branch8,ent_startup_branch8,startup,unresolved,0.0,signal:domain(branch8.com); signal:unresolved,unresolved
+Confident LIMS,Confident LIMS,ent_startup_confident_lims,startup,unresolved,0.0,signal:domain(confidentlims.com); signal:unresolved,unresolved
+Convox,Convox,ent_startup_convox,startup,unresolved,0.0,signal:domain(convox.com); signal:unresolved,unresolved
+Cymmetria,Cymmetria,ent_startup_cymmetria,startup,unresolved,0.0,signal:domain(cymmetria.com); signal:unresolved,unresolved
+Shotput,Shotput,ent_startup_shotput,startup,unresolved,0.0,signal:domain(theshotput.com); signal:unresolved,unresolved
+Eden,Eden,ent_startup_eden,startup,unresolved,0.0,signal:domain(edenworkplace.com); signal:unresolved,unresolved
+Foxpass,Foxpass,ent_startup_foxpass,startup,unresolved,0.0,signal:domain(foxpass.com); signal:unresolved,unresolved
+SunFarmer,SunFarmer,ent_startup_sunfarmer,startup,unresolved,0.0,signal:domain(sunfarmer.org); signal:unresolved,unresolved
+Stitch Health,Stitch Health,ent_startup_stitch_health,startup,unresolved,0.0,signal:domain(stitch.health); signal:unresolved,unresolved
+Reach,Reach,ent_startup_reach,startup,unresolved,0.0,signal:domain(reachpower.com); signal:unresolved,unresolved
+Tesorio,Tesorio,ent_startup_tesorio,startup,unresolved,0.0,signal:domain(tesorio.com); signal:unresolved,unresolved
+Thrive Agritech,Thrive Agritech,ent_startup_thrive_agritech,startup,unresolved,0.0,signal:domain(thriveagritech.com); signal:unresolved,unresolved
+Verge Genomics,Verge Genomics,ent_startup_verge_genomics,startup,unresolved,0.0,signal:domain(vergegenomics.com); signal:unresolved,unresolved
+Afrostream,Afrostream,ent_startup_afrostream,startup,unresolved,0.0,signal:domain(afrostream.tv); signal:unresolved,unresolved
+Apollo Health,Apollo Health,ent_startup_apollo_health,startup,unresolved,0.0,signal:domain(apollo.com); signal:unresolved,unresolved
+Willing,Willing,ent_startup_willing,startup,unresolved,0.0,signal:domain(willing.com); signal:unresolved,unresolved
+Bistrobot,Bistrobot,ent_startup_bistrobot,startup,unresolved,0.0,signal:domain(bistrobot.com); signal:unresolved,unresolved
+Bluecrew,Bluecrew,ent_startup_bluecrew,startup,unresolved,0.0,signal:domain(bluecrewjobs.com); signal:unresolved,unresolved
+Bodyport,Bodyport,ent_startup_bodyport,startup,unresolved,0.0,signal:domain(bodyport.com); signal:unresolved,unresolved
+Appcanary,Appcanary,ent_startup_appcanary,startup,unresolved,0.0,signal:domain(appcanary.com); signal:unresolved,unresolved
+Chaldal,Chaldal,ent_startup_chaldal,startup,unresolved,0.0,signal:domain(chaldal.com); signal:unresolved,unresolved
+Cloudstitch,Cloudstitch,ent_startup_cloudstitch,startup,unresolved,0.0,signal:domain(cloudstitch.com); signal:unresolved,unresolved
+Sphere Secure Workspace,Sphere Secure Workspace,ent_startup_sphere_secure_workspace,startup,unresolved,0.0,signal:domain(sphere.works); signal:unresolved,unresolved
+Drip Capital,Drip Capital,ent_startup_drip_capital,startup,unresolved,0.0,signal:domain(dripcapital.com); signal:unresolved,unresolved
+GiveCampus,GiveCampus,ent_startup_givecampus,startup,unresolved,0.0,signal:domain(go.givecampus.com); signal:unresolved,unresolved
+Circle Medical,Circle Medical,ent_startup_circle_medical,startup,unresolved,0.0,signal:domain(circlemedical.com); signal:unresolved,unresolved
+zPREDICTA,zPREDICTA,ent_startup_zpredicta,startup,unresolved,0.0,signal:domain(zpredicta.com); signal:unresolved,unresolved
+jEugene,jEugene,ent_startup_jeugene,startup,unresolved,0.0,signal:domain(jeugene.com); signal:unresolved,unresolved
+Leada,Leada,ent_startup_leada,startup,unresolved,0.0,signal:domain(teamleada.com); signal:unresolved,unresolved
+Locent,Locent,ent_startup_locent,startup,unresolved,0.0,signal:domain(locent.com); signal:unresolved,unresolved
+Markhor,Markhor,ent_startup_markhor,startup,unresolved,0.0,signal:domain(markhor.com); signal:unresolved,unresolved
+Zeplin,Zeplin,ent_startup_zeplin,startup,unresolved,0.0,signal:domain(zeplin.io); signal:unresolved,unresolved
+Microhealth,Microhealth,ent_startup_microhealth,startup,unresolved,0.0,signal:domain(microhealth.com); signal:unresolved,unresolved
+Ohm,Ohm,ent_startup_ohm,startup,unresolved,0.0,signal:domain(getohm.com); signal:unresolved,unresolved
+Fountain,Fountain,ent_startup_fountain,startup,unresolved,0.0,signal:domain(fountain.com); signal:unresolved,unresolved
+Oolu,Oolu,ent_startup_oolu,startup,unresolved,0.0,signal:domain(oolusolar.com); signal:unresolved,unresolved
+Paribus,Paribus,ent_startup_paribus,startup,unresolved,0.0,signal:domain(ramp.com); signal:unresolved,unresolved
+PickTrace,PickTrace,ent_startup_picktrace,startup,unresolved,0.0,signal:domain(picktrace.com); signal:unresolved,unresolved
+Prayas Analytics,Prayas Analytics,ent_startup_prayas_analytics,startup,unresolved,0.0,signal:domain(prayasanalytics.com); signal:unresolved,unresolved
+Interviewed,Interviewed,ent_startup_interviewed,startup,unresolved,0.0,signal:domain(interviewed.com); signal:unresolved,unresolved
+Plate IQ,Plate IQ,ent_startup_plate_iq,startup,unresolved,0.0,signal:domain(plateiq.com); signal:unresolved,unresolved
+RedCarpetUp,RedCarpetUp,ent_startup_redcarpetup,startup,unresolved,0.0,signal:domain(redcarpetup.com); signal:unresolved,unresolved
+Reduced Energy Microsystems,Reduced Energy Microsystems,ent_startup_reduced_energy_microsystems,startup,unresolved,0.0,signal:domain(remicro.com); signal:unresolved,unresolved
+Scentbird,Scentbird,ent_startup_scentbird,startup,unresolved,0.0,signal:domain(scentbird.com); signal:unresolved,unresolved
+Seva Coffee,Seva Coffee,ent_startup_seva_coffee,startup,unresolved,0.0,signal:domain(sevacoffee.com); signal:unresolved,unresolved
+Shape (ShapeScale),Shape (ShapeScale),ent_startup_shape_shapescale,startup,unresolved,0.0,signal:domain(shapescale.com); signal:unresolved,unresolved
+Shred Video,Shred Video,ent_startup_shred_video,startup,unresolved,0.0,signal:domain(shredvideo.com); signal:unresolved,unresolved
+Xendit,Xendit,ent_startup_xendit,startup,unresolved,0.0,signal:domain(xendit.co); signal:unresolved,unresolved
+Xfers,Xfers,ent_startup_xfers,startup,unresolved,0.0,signal:domain(xfers.com); signal:unresolved,unresolved
+Traversal Networks,Traversal Networks,ent_startup_traversal_networks,startup,unresolved,0.0,signal:domain(traversalnetworks.com); signal:unresolved,unresolved
+"80,000 Hours","80,000 Hours",ent_startup_80_000_hours,startup,unresolved,0.0,signal:domain(80000hours.org); signal:unresolved,unresolved
+Font Awesome,Font Awesome,ent_startup_font_awesome,startup,unresolved,0.0,signal:domain(fontawesome.com); signal:unresolved,unresolved
+Go1,Go1,ent_startup_go1,startup,unresolved,0.0,signal:domain(go1.com); signal:unresolved,unresolved
+Saida,Saida,ent_startup_saida,startup,unresolved,0.0,signal:domain(getsaida.com); signal:unresolved,unresolved
+HER,HER,ent_startup_her,startup,unresolved,0.0,signal:domain(weareher.com); signal:unresolved,unresolved
+Maderight,Maderight,ent_startup_maderight,startup,unresolved,0.0,signal:domain(maderight.com); signal:unresolved,unresolved
+Blitz Esports,Blitz Esports,ent_startup_blitz_esports,startup,unresolved,0.0,signal:domain(blitzesports.com); signal:unresolved,unresolved
+The Ticket Fairy,The Ticket Fairy,ent_startup_the_ticket_fairy,startup,unresolved,0.0,signal:domain(ticketfairy.com); signal:unresolved,unresolved
+Fetch,Fetch,ent_startup_fetch,startup,unresolved,0.0,signal:domain(fetchtruck.com); signal:unresolved,unresolved
+Wheelys Café,Wheelys Café,ent_startup_wheelys_caf,startup,unresolved,0.0,signal:domain(wheelyscafe.com); signal:unresolved,unresolved
+TetraScience,TetraScience,ent_startup_tetrascience,startup,unresolved,0.0,signal:domain(tetrascience.com); signal:unresolved,unresolved
+Mimir,Mimir,ent_startup_mimir,startup,unresolved,0.0,signal:domain(mimirhq.com); signal:unresolved,unresolved
+Auro Robotics,Auro Robotics,ent_startup_auro_robotics,startup,unresolved,0.0,signal:domain(auro.ai); signal:unresolved,unresolved
+Klarismo,Klarismo,ent_startup_klarismo,startup,unresolved,0.0,signal:domain(klarismo.com); signal:unresolved,unresolved
+Nebia,Nebia,ent_startup_nebia,startup,unresolved,0.0,signal:domain(nebia.com); signal:unresolved,unresolved
+StyleBee,StyleBee,ent_startup_stylebee,startup,unresolved,0.0,signal:domain(stylebee.com); signal:unresolved,unresolved
+PlateJoy,PlateJoy,ent_startup_platejoy,startup,unresolved,0.0,signal:domain(platejoy.com); signal:unresolved,unresolved
+Bitmovin,Bitmovin,ent_startup_bitmovin,startup,unresolved,0.0,signal:domain(bitmovin.com); signal:unresolved,unresolved
+Cofactor Genomics,Cofactor Genomics,ent_startup_cofactor_genomics,startup,unresolved,0.0,signal:domain(cofactorgenomics.com); signal:unresolved,unresolved
+Instawork,Instawork,ent_startup_instawork,startup,unresolved,0.0,signal:domain(instawork.com); signal:unresolved,unresolved
+Eight Sleep,Eight Sleep,ent_startup_eight_sleep,startup,unresolved,0.0,signal:domain(eightsleep.com); signal:unresolved,unresolved
+Vive,Vive,ent_startup_vive,startup,unresolved,0.0,signal:unresolved,unresolved
+Flirtey (SkyDrop),Flirtey (SkyDrop),ent_startup_flirtey_skydrop,startup,unresolved,0.0,signal:unresolved,unresolved
+Human Interest,Human Interest,ent_startup_human_interest,startup,unresolved,0.0,signal:domain(humaninterest.com); signal:unresolved,unresolved
+Halolife,Halolife,ent_startup_halolife,startup,unresolved,0.0,signal:domain(halolife.com); signal:unresolved,unresolved
+Tenant Turner,Tenant Turner,ent_startup_tenant_turner,startup,unresolved,0.0,signal:domain(tenantturner.com); signal:unresolved,unresolved
+VOIQ,VOIQ,ent_startup_voiq,startup,unresolved,0.0,signal:domain(voiq.com); signal:unresolved,unresolved
+Gigster,Gigster,ent_startup_gigster,startup,unresolved,0.0,signal:domain(gigster.com); signal:unresolved,unresolved
+Mux,Mux,ent_startup_mux,startup,unresolved,0.0,signal:domain(mux.com); signal:unresolved,unresolved
+Lattice,Lattice,ent_startup_lattice,startup,unresolved,0.0,signal:domain(lattice.com); signal:unresolved,unresolved
+SOUNDBOKS,SOUNDBOKS,ent_startup_soundboks,startup,unresolved,0.0,signal:domain(soundboks.com); signal:unresolved,unresolved
+Compgun,Compgun,ent_startup_compgun,startup,unresolved,0.0,signal:domain(compgun.com); signal:unresolved,unresolved
+Deepgram,Deepgram,ent_startup_deepgram,startup,unresolved,0.0,signal:domain(deepgram.com); signal:unresolved,unresolved
+Stealth Worker,Stealth Worker,ent_startup_stealth_worker,startup,unresolved,0.0,signal:domain(stealthworker.com); signal:unresolved,unresolved
+Stilt,Stilt,ent_startup_stilt,startup,unresolved,0.0,signal:domain(stilt.com); signal:unresolved,unresolved
+Magic Instruments,Magic Instruments,ent_startup_magic_instruments,startup,unresolved,0.0,signal:unresolved,unresolved
+Embark Trucks,Embark Trucks,ent_startup_embark_trucks,startup,unresolved,0.0,signal:domain(embarktrucks.com); signal:unresolved,unresolved
+VINEBOX (Usual Beverage Co.),VINEBOX (Usual Beverage Co.),ent_startup_vinebox_usual_beverage,startup,unresolved,0.0,signal:domain(getvinebox.com); signal:unresolved,unresolved
+Yardbook,Yardbook,ent_startup_yardbook,startup,unresolved,0.0,signal:domain(yardbook.com); signal:unresolved,unresolved
+Chatfuel,Chatfuel,ent_startup_chatfuel,startup,unresolved,0.0,signal:domain(chatfuel.com); signal:unresolved,unresolved
+AlphaFlow,AlphaFlow,ent_startup_alphaflow,startup,unresolved,0.0,signal:domain(alphaflow.com); signal:unresolved,unresolved
+GetAccept,GetAccept,ent_startup_getaccept,startup,unresolved,0.0,signal:domain(getaccept.com); signal:unresolved,unresolved
+iSono Health,iSono Health,ent_startup_isono_health,startup,unresolved,0.0,signal:domain(isonohealth.com); signal:unresolved,unresolved
+Tovala,Tovala,ent_startup_tovala,startup,unresolved,0.0,signal:domain(tovala.com); signal:unresolved,unresolved
+MagicBus,MagicBus,ent_startup_magicbus,startup,unresolved,0.0,signal:domain(magicbus.io); signal:unresolved,unresolved
+Mason,Mason,ent_startup_mason,startup,unresolved,0.0,signal:domain(bymason.com); signal:unresolved,unresolved
+Outschool,Outschool,ent_startup_outschool,startup,unresolved,0.0,signal:domain(outschool.com); signal:unresolved,unresolved
+Petcube,Petcube,ent_startup_petcube,startup,unresolved,0.0,signal:domain(petcube.com); signal:unresolved,unresolved
+Daily,Daily,ent_startup_daily,startup,unresolved,0.0,signal:domain(daily.co); signal:unresolved,unresolved
+Mio,Mio,ent_startup_mio,startup,unresolved,0.0,signal:domain(m.io); signal:unresolved,unresolved
+Algoriz,Algoriz,ent_startup_algoriz,startup,unresolved,0.0,signal:domain(algoriz.com); signal:unresolved,unresolved
+Focal Systems,Focal Systems,ent_startup_focal,startup,unresolved,0.0,signal:domain(focal.systems); signal:unresolved,unresolved
+Loop Genomics,Loop Genomics,ent_startup_loop_genomics,startup,unresolved,0.0,signal:domain(loopgenomics.com); signal:unresolved,unresolved
+Toymail,Toymail,ent_startup_toymail,startup,unresolved,0.0,signal:domain(toymail.co); signal:unresolved,unresolved
+UpLabs,UpLabs,ent_startup_uplabs,startup,unresolved,0.0,signal:domain(uplabs.com); signal:unresolved,unresolved
+WorldCover,WorldCover,ent_startup_worldcover,startup,unresolved,0.0,signal:domain(worldcovr.com); signal:unresolved,unresolved
+Able Health,Able Health,ent_startup_able_health,startup,unresolved,0.0,signal:domain(ablehealth.com); signal:unresolved,unresolved
+Truebill,Truebill,ent_startup_truebill,startup,unresolved,0.0,signal:domain(truebill.com); signal:unresolved,unresolved
+Chillabit,Chillabit,ent_startup_chillabit,startup,unresolved,0.0,signal:domain(chillabit.io); signal:unresolved,unresolved
+Deako,Deako,ent_startup_deako,startup,unresolved,0.0,signal:domain(deako.com); signal:unresolved,unresolved
+DoseDr,DoseDr,ent_startup_dosedr,startup,unresolved,0.0,signal:domain(dosedr.com); signal:unresolved,unresolved
+Copia,Copia,ent_startup_copia,startup,unresolved,0.0,signal:domain(gocopia.com); signal:unresolved,unresolved
+Gigwell,Gigwell,ent_startup_gigwell,startup,unresolved,0.0,signal:domain(gigwell.com); signal:unresolved,unresolved
+InnoVein,InnoVein,ent_startup_innovein,startup,unresolved,0.0,signal:domain(innoveinmedical.com); signal:unresolved,unresolved
+Inevitable Tech,Inevitable Tech,ent_startup_inevitable_tech,startup,unresolved,0.0,signal:domain(inevitabletech.com); signal:unresolved,unresolved
+LendEDU,LendEDU,ent_startup_lendedu,startup,unresolved,0.0,signal:domain(lendedu.com); signal:unresolved,unresolved
+Luminist Labs,Luminist Labs,ent_startup_luminist,startup,unresolved,0.0,signal:domain(luministlabs.com); signal:unresolved,unresolved
+Meter Feeder,Meter Feeder,ent_startup_meter_feeder,startup,unresolved,0.0,signal:domain(meterfeeder.com); signal:unresolved,unresolved
+MineralSoft,MineralSoft,ent_startup_mineralsoft,startup,unresolved,0.0,signal:domain(mineralsoft.com); signal:unresolved,unresolved
+PocketSuite,PocketSuite,ent_startup_pocketsuite,startup,unresolved,0.0,signal:domain(pocketsuite.io); signal:unresolved,unresolved
+Pulpix,Pulpix,ent_startup_pulpix,startup,unresolved,0.0,signal:domain(pulpix.com); signal:unresolved,unresolved
+Revl,Revl,ent_startup_revl,startup,unresolved,0.0,signal:domain(revl.com); signal:unresolved,unresolved
+Paystack,Paystack,ent_startup_paystack,startup,unresolved,0.0,signal:domain(paystack.com); signal:unresolved,unresolved
+Bus.com,Bus.com,ent_startup_bus_com,startup,unresolved,0.0,signal:domain(bus.com); signal:unresolved,unresolved
+Unima,Unima,ent_startup_unima,startup,unresolved,0.0,signal:domain(unimadx.com); signal:unresolved,unresolved
+Enflux,Enflux,ent_startup_enflux,startup,unresolved,0.0,signal:domain(getenflux.com); signal:unresolved,unresolved
+Goodybag,Goodybag,ent_startup_goodybag,startup,unresolved,0.0,signal:domain(goodybag.com); signal:unresolved,unresolved
+Open Motors,Open Motors,ent_startup_open_motors,startup,unresolved,0.0,signal:domain(openmotors.co); signal:unresolved,unresolved
+Start Closing,Start Closing,ent_startup_start_closing,startup,unresolved,0.0,signal:domain(startclosing.com); signal:unresolved,unresolved
+MailTime,MailTime,ent_startup_mailtime,startup,unresolved,0.0,signal:domain(mailtime.com); signal:unresolved,unresolved
+Monthli,Monthli,ent_startup_monthli,startup,unresolved,0.0,signal:domain(monthli.com); signal:unresolved,unresolved
+Opentrons,Opentrons,ent_startup_opentrons,startup,unresolved,0.0,signal:domain(opentrons.com); signal:unresolved,unresolved
+Castle,Castle,ent_startup_castle,startup,unresolved,0.0,signal:domain(entercastle.com); signal:unresolved,unresolved
+Castle,Castle,ent_startup_castle,startup,unresolved,0.0,signal:domain(castle.io); signal:unresolved,unresolved
+Netomi,Netomi,ent_startup_netomi,startup,unresolved,0.0,signal:domain(netomi.com); signal:unresolved,unresolved
+Superside,Superside,ent_startup_superside,startup,unresolved,0.0,signal:domain(superside.com); signal:unresolved,unresolved
+ConstructVR,ConstructVR,ent_startup_constructvr,startup,unresolved,0.0,signal:domain(constructvr.io); signal:unresolved,unresolved
+Function of Beauty,Function of Beauty,ent_startup_function_of_beauty,startup,unresolved,0.0,signal:domain(functionofbeauty.com); signal:unresolved,unresolved
+Luciq (formerly Instabug),Luciq (formerly Instabug),ent_startup_luciq_formerly_instabug,startup,unresolved,0.0,signal:domain(luciq.ai); signal:unresolved,unresolved
+Interstate Analytics,Interstate Analytics,ent_startup_interstate_analytics,startup,unresolved,0.0,signal:domain(interstateanalytics.com); signal:unresolved,unresolved
+Patchwork Security,Patchwork Security,ent_startup_patchwork_security,startup,unresolved,0.0,signal:domain(patchworksecurity.com); signal:unresolved,unresolved
+Pave,Pave,ent_startup_pave,startup,unresolved,0.0,signal:domain(paveai.com); signal:unresolved,unresolved
+Podium,Podium,ent_startup_podium,startup,unresolved,0.0,signal:domain(podium.com); signal:unresolved,unresolved
+Salt Security,Salt Security,ent_startup_salt_security,startup,unresolved,0.0,signal:domain(salt.security); signal:unresolved,unresolved
+Apollo.io,Apollo.io,ent_startup_apollo_io,startup,unresolved,0.0,signal:domain(apollo.io); signal:unresolved,unresolved
+Poppy,Poppy,ent_startup_poppy,startup,unresolved,0.0,signal:domain(meetpoppy.com); signal:unresolved,unresolved
+Anchor Health,Anchor Health,ent_startup_anchor_health,startup,unresolved,0.0,signal:domain(anchorhealth.com); signal:unresolved,unresolved
+Thunkable,Thunkable,ent_startup_thunkable,startup,unresolved,0.0,signal:domain(thunkable.com); signal:unresolved,unresolved
+Plato,Plato,ent_startup_plato,startup,unresolved,0.0,signal:domain(platohq.com); signal:unresolved,unresolved
+Lynks,Lynks,ent_startup_lynks,startup,unresolved,0.0,signal:domain(lynks.com); signal:unresolved,unresolved
+Emburse,Emburse,ent_startup_emburse,startup,unresolved,0.0,signal:domain(emburse.com); signal:unresolved,unresolved
+Gecko Robotics,Gecko Robotics,ent_startup_gecko_robotics,startup,unresolved,0.0,signal:domain(geckorobotics.com); signal:unresolved,unresolved
+GoLorry,GoLorry,ent_startup_golorry,startup,unresolved,0.0,signal:domain(golorry.com); signal:unresolved,unresolved
+HistoWiz,HistoWiz,ent_startup_histowiz,startup,unresolved,0.0,signal:domain(histowiz.com); signal:unresolved,unresolved
+Landed,Landed,ent_startup_landed,startup,unresolved,0.0,signal:domain(landed.com); signal:unresolved,unresolved
+mRelief,mRelief,ent_startup_mrelief,startup,unresolved,0.0,signal:domain(mrelief.com); signal:unresolved,unresolved
+NetBeez,NetBeez,ent_startup_netbeez,startup,unresolved,0.0,signal:domain(netbeez.net); signal:unresolved,unresolved
+Redspread,Redspread,ent_startup_redspread,startup,unresolved,0.0,signal:domain(redspread.com); signal:unresolved,unresolved
+Caper,Caper,ent_startup_caper,startup,unresolved,0.0,signal:domain(caper.ai); signal:unresolved,unresolved
+TRAC,TRAC,ent_startup_trac,startup,unresolved,0.0,signal:domain(tracchicago.com); signal:unresolved,unresolved

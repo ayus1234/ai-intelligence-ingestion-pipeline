@@ -1,0 +1,17 @@
+.env
+google-credentials.json
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+dist/
+build/
+*.egg-info/
+exports/sample_run/
+exports/test_run/
+exports/test_live_sheets/
+exports/fixed_test_run/
+exports/full_submission_real/
+exports/real_run/
