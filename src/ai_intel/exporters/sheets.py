@@ -241,13 +241,15 @@ class GoogleSheetsExporter(Exporter):
 
         row_counts["Pipeline Run Manifest"] = 1
 
-        # 8. Upload to Live Google Sheet if credentials and spreadsheet ID are present
+        # 8. Upload to Live Google Sheet if credentials and spreadsheet ID are present (and not running in pytest)
         from ai_intel.config import get_settings
         settings = get_settings()
         creds_file = self.service_account_file or settings.google_application_credentials
         sheet_id = settings.google_sheets_spreadsheet_id
 
-        if creds_file and sheet_id and os.path.exists(creds_file):
+        is_test_env = "PYTEST_CURRENT_TEST" in os.environ or "tmp" in output_dir.lower() or "test" in output_dir.lower()
+
+        if creds_file and sheet_id and os.path.exists(creds_file) and not is_test_env:
             try:
                 self._upload_to_live_google_sheet(creds_file, sheet_id, output_dir)
             except Exception as exc:
