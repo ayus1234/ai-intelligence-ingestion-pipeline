@@ -14,6 +14,7 @@ from ai_intel.crawlers.products import (
     HuggingFaceSpacesCrawler,
     TopAIToolsCrawler,
 )
+from ai_intel.config import Settings
 from ai_intel.logging import get_logger
 from ai_intel.resolution import EntityResolver
 from ai_intel.schemas import EntityMappingLog, ProductCandidate, ProductIngestionResult, ProductRecord
@@ -154,7 +155,7 @@ class ProductPipeline:
             confidence = resolution.confidence
             tier = resolution.resolution_tier
         else:
-            canonical_vendor = ""  # Leave blank for unresolved entities to prevent false mapping
+            canonical_vendor = candidate.raw_startup_name
             canonical_id = ""
             method = "unresolved"
             confidence = 0.0
