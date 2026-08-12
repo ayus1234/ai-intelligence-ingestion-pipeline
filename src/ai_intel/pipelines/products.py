@@ -155,7 +155,7 @@ class ProductPipeline:
             confidence = resolution.confidence
             tier = resolution.resolution_tier
         else:
-            canonical_vendor = candidate.raw_startup_name
+            canonical_vendor = ""  # Blank when unresolved to distinguish raw input from canonical output
             canonical_id = ""
             method = "unresolved"
             confidence = 0.0

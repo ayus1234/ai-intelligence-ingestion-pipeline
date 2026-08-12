@@ -68,7 +68,7 @@ async def test_product_pipeline_ingest_flow() -> None:
 
     acme_rec = storage.records["product:url:https://www.futurepedia.io/acme-tool"]
     assert acme_rec.content.product_name == "Custom Vendor Tool"
-    assert acme_rec.content.startup_name == "Unregistered Acme Tech"
+    assert acme_rec.content.startup_name == ""  # Blank when unresolved
     assert acme_rec.content.raw_startup_name == "Unregistered Acme Tech"
 
     # Mappings recorded

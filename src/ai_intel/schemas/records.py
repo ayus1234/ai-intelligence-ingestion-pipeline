@@ -57,7 +57,7 @@ class ProductContent(BaseModel):
     model_config = ConfigDict(extra="forbid", populate_by_name=True)
 
     product_name: str = Field(alias="productName", min_length=1)
-    startup_name: str = Field(alias="startupName", min_length=1)
+    startup_name: str = Field(default="", alias="startupName", min_length=0)
     raw_startup_name: str | None = Field(default=None, alias="rawStartupName")
     pricing_model: PricingModel = Field(alias="pricingModel")
     category: str | None = Field(default=None)
