@@ -72,6 +72,7 @@ A production-grade, asynchronous data intelligence platform built to acquire, va
 - **Hardened 6-Signal Entity Resolver**: Multi-tier matching (Domain -> Alias Graph -> GitHub Org -> YC Slug -> Fuzzy Jaro-Winkler -> Unresolved) with stable `canonical_id` generation (`ent_startup_circuithub`).
 - **Distributed Redis Lease Coordination & Storage Fallback**: Prevents redundant crawling across parallel workers using atomic `SET NX EX` leases, with automatic in-memory repository fallback if local PostgreSQL authentication is offline.
 - **Live 6-Tab Google Sheets Exporter & Audit**: Integrated `gspread` exporter automatically clears, resizes, and populates all 6 required tabs live (`Startups`, `Products`, `Research Papers`, `AI News`, `AI Jobs`, `Entity Mapping Log`) alongside JSON quality manifests.
+- **Automated Test Suite Isolation**: Prevents test suites from overwriting production Google Sheets during `pytest` runs by detecting test execution contexts (`PYTEST_CURRENT_TEST`) and bypassing live API updates.
 
 ---
 
